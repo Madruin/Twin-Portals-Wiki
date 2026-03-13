@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Three (S02E23)
+---
+title: "Episode Fifty Three (S02E23)"
+season: 2
+episode: 23
+overall: 53
+date: 2024-01-31
+duration: "02:09:38"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 23** (Overall #53)
-**Air Date:** 2024-01-31
-**Duration:** 02:09:38
+# Episode Fifty Three (S02E23)
+
+[[Season 2]] | Episode 23 | Overall #53  
+Air Date: 2024-01-31 | Duration: 02:09:38
 
 ---
 

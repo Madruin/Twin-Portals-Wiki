@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty Four
+---
+title: "Episode Twenty Four"
+season: 1
+episode: 24
+overall: 24
+date: 2021-06-25
+duration: "02:54:28"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 24** (Overall #24)
-**Air Date:** 2021-06-25
-**Duration:** 02:54:28
+# Episode Twenty Four
+
+[[Season 1]] | Episode 24 | Overall #24  
+Air Date: 2021-06-25 | Duration: 02:54:28
 
 ---
 

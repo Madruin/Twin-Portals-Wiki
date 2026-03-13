@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty Eight (S02E08)
+---
+title: "Episode Thirty Eight (S02E08)"
+season: 2
+episode: 8
+overall: 38
+date: 2022-10-25
+duration: "01:59:56"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 8** (Overall #38)
-**Air Date:** 2022-10-25
-**Duration:** 01:59:56
+# Episode Thirty Eight (S02E08)
+
+[[Season 2]] | Episode 8 | Overall #38  
+Air Date: 2022-10-25 | Duration: 01:59:56
 
 ---
 

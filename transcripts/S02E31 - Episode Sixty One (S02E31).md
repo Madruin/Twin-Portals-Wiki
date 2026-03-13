@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty One (S02E31)
+---
+title: "Episode Sixty One (S02E31)"
+season: 2
+episode: 31
+overall: 61
+date: 2024-09-27
+duration: "01:25:07"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 31** (Overall #61)
-**Air Date:** 2024-09-27
-**Duration:** 01:25:07
+# Episode Sixty One (S02E31)
+
+[[Season 2]] | Episode 31 | Overall #61  
+Air Date: 2024-09-27 | Duration: 01:25:07
 
 ---
 

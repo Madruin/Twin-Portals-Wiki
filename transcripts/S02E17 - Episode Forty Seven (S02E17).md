@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Seven (S02E17)
+---
+title: "Episode Forty Seven (S02E17)"
+season: 2
+episode: 17
+overall: 47
+date: 2023-07-24
+duration: "02:04:48"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 17** (Overall #47)
-**Air Date:** 2023-07-24
-**Duration:** 02:04:48
+# Episode Forty Seven (S02E17)
+
+[[Season 2]] | Episode 17 | Overall #47  
+Air Date: 2023-07-24 | Duration: 02:04:48
 
 ---
 

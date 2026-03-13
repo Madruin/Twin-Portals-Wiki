@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty (S02E30)
+---
+title: "Episode Sixty (S02E30)"
+season: 2
+episode: 30
+overall: 60
+date: 2024-08-29
+duration: "01:36:18"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 30** (Overall #60)
-**Air Date:** 2024-08-29
-**Duration:** 01:36:18
+# Episode Sixty (S02E30)
+
+[[Season 2]] | Episode 30 | Overall #60  
+Air Date: 2024-08-29 | Duration: 01:36:18
 
 ---
 

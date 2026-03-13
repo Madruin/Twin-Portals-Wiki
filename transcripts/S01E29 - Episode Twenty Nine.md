@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty Nine
+---
+title: "Episode Twenty Nine"
+season: 1
+episode: 29
+overall: 29
+date: 2021-11-28
+duration: "02:18:30"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 29** (Overall #29)
-**Air Date:** 2021-11-28
-**Duration:** 02:18:30
+# Episode Twenty Nine
+
+[[Season 1]] | Episode 29 | Overall #29  
+Air Date: 2021-11-28 | Duration: 02:18:30
 
 ---
 

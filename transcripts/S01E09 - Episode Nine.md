@@ -1,8 +1,22 @@
-# Twin Portals - Episode Nine
+---
+title: "Episode Nine"
+season: 1
+episode: 9
+overall: 9
+date: 2019-07-31
+duration: "01:42:43"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 9** (Overall #9)
-**Air Date:** 2019-07-31
-**Duration:** 01:42:43
+# Episode Nine
+
+[[Season 1]] | Episode 9 | Overall #9  
+Air Date: 2019-07-31 | Duration: 01:42:43
 
 ---
 

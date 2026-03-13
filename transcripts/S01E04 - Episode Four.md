@@ -1,8 +1,22 @@
-# Twin Portals - Episode Four
+---
+title: "Episode Four"
+season: 1
+episode: 4
+overall: 4
+date: 2019-02-18
+duration: "01:55:33"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 4** (Overall #4)
-**Air Date:** 2019-02-18
-**Duration:** 01:55:33
+# Episode Four
+
+[[Season 1]] | Episode 4 | Overall #4  
+Air Date: 2019-02-18 | Duration: 01:55:33
 
 ---
 

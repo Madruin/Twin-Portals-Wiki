@@ -1,8 +1,22 @@
-# Twin Portals - S3E05 - LIVE at Studio 4!
+---
+title: "S3E05 - LIVE at Studio 4!"
+season: 3
+episode: 5
+overall: 73
+date: 2025-09-30
+duration: "01:34:54"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 5** (Overall #73)
-**Air Date:** 2025-09-30
-**Duration:** 01:34:54
+# S3E05 - LIVE at Studio 4!
+
+[[Season 3]] | Episode 5 | Overall #73  
+Air Date: 2025-09-30 | Duration: 01:34:54
 
 ---
 

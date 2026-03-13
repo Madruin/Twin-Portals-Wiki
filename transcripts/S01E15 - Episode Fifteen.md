@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifteen
+---
+title: "Episode Fifteen"
+season: 1
+episode: 15
+overall: 15
+date: 2020-01-19
+duration: "02:10:19"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 15** (Overall #15)
-**Air Date:** 2020-01-19
-**Duration:** 02:10:19
+# Episode Fifteen
+
+[[Season 1]] | Episode 15 | Overall #15  
+Air Date: 2020-01-19 | Duration: 02:10:19
 
 ---
 

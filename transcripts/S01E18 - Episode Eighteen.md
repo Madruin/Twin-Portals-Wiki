@@ -1,8 +1,22 @@
-# Twin Portals - Episode Eighteen
+---
+title: "Episode Eighteen"
+season: 1
+episode: 18
+overall: 18
+date: 2020-04-28
+duration: "01:19:19"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 18** (Overall #18)
-**Air Date:** 2020-04-28
-**Duration:** 01:19:19
+# Episode Eighteen
+
+[[Season 1]] | Episode 18 | Overall #18  
+Air Date: 2020-04-28 | Duration: 01:19:19
 
 ---
 

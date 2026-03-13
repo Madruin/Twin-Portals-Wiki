@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Six LIVE! (S02E16)
+---
+title: "Episode Forty Six LIVE! (S02E16)"
+season: 2
+episode: 16
+overall: 46
+date: 2023-06-28
+duration: "01:55:00"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 16** (Overall #46)
-**Air Date:** 2023-06-28
-**Duration:** 01:55:00
+# Episode Forty Six LIVE! (S02E16)
+
+[[Season 2]] | Episode 16 | Overall #46  
+Air Date: 2023-06-28 | Duration: 01:55:00
 
 ---
 

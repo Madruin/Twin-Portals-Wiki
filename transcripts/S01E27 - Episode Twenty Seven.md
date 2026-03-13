@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty Seven
+---
+title: "Episode Twenty Seven"
+season: 1
+episode: 27
+overall: 27
+date: 2021-09-27
+duration: "03:22:20"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 27** (Overall #27)
-**Air Date:** 2021-09-27
-**Duration:** 03:22:20
+# Episode Twenty Seven
+
+[[Season 1]] | Episode 27 | Overall #27  
+Air Date: 2021-09-27 | Duration: 03:22:20
 
 ---
 

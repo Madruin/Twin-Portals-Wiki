@@ -1,8 +1,22 @@
-# Twin Portals - S3E09 - The January Live Show at Studio 4!
+---
+title: "S3E09 - The January Live Show at Studio 4!"
+season: 3
+episode: 9
+overall: 77
+date: 2026-01-16
+duration: "01:29:23"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 9** (Overall #77)
-**Air Date:** 2026-01-16
-**Duration:** 01:29:23
+# S3E09 - The January Live Show at Studio 4!
+
+[[Season 3]] | Episode 9 | Overall #77  
+Air Date: 2026-01-16 | Duration: 01:29:23
 
 ---
 

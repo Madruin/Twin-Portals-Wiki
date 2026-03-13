@@ -1,8 +1,22 @@
-# Twin Portals - S3E07 - Femmes, Thems, and Searching for Gems
+---
+title: "S3E07 - Femmes, Thems, and Searching for Gems"
+season: 3
+episode: 7
+overall: 75
+date: 2025-11-26
+duration: "01:34:41"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 7** (Overall #75)
-**Air Date:** 2025-11-26
-**Duration:** 01:34:41
+# S3E07 - Femmes, Thems, and Searching for Gems
+
+[[Season 3]] | Episode 7 | Overall #75  
+Air Date: 2025-11-26 | Duration: 01:34:41
 
 ---
 

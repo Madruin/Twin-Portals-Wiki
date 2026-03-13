@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Seven (S02E27)
+---
+title: "Episode Fifty Seven (S02E27)"
+season: 2
+episode: 27
+overall: 57
+date: 2024-05-26
+duration: "01:32:32"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 27** (Overall #57)
-**Air Date:** 2024-05-26
-**Duration:** 01:32:32
+# Episode Fifty Seven (S02E27)
+
+[[Season 2]] | Episode 27 | Overall #57  
+Air Date: 2024-05-26 | Duration: 01:32:32
 
 ---
 

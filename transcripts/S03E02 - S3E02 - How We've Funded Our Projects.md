@@ -1,8 +1,22 @@
-# Twin Portals - S3E02 - How We've Funded Our Projects
+---
+title: "S3E02 - How We've Funded Our Projects"
+season: 3
+episode: 2
+overall: 70
+date: 2025-06-30
+duration: "01:07:20"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 2** (Overall #70)
-**Air Date:** 2025-06-30
-**Duration:** 01:07:20
+# S3E02 - How We've Funded Our Projects
+
+[[Season 3]] | Episode 2 | Overall #70  
+Air Date: 2025-06-30 | Duration: 01:07:20
 
 ---
 

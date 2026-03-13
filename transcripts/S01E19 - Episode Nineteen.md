@@ -1,8 +1,22 @@
-# Twin Portals - Episode Nineteen
+---
+title: "Episode Nineteen"
+season: 1
+episode: 19
+overall: 19
+date: 2020-05-16
+duration: "01:44:54"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 19** (Overall #19)
-**Air Date:** 2020-05-16
-**Duration:** 01:44:54
+# Episode Nineteen
+
+[[Season 1]] | Episode 19 | Overall #19  
+Air Date: 2020-05-16 | Duration: 01:44:54
 
 ---
 

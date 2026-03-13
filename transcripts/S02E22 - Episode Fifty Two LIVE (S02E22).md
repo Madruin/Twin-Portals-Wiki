@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Two LIVE (S02E22)
+---
+title: "Episode Fifty Two LIVE (S02E22)"
+season: 2
+episode: 22
+overall: 52
+date: 2023-12-31
+duration: "01:49:30"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 22** (Overall #52)
-**Air Date:** 2023-12-31
-**Duration:** 01:49:30
+# Episode Fifty Two LIVE (S02E22)
+
+[[Season 2]] | Episode 22 | Overall #52  
+Air Date: 2023-12-31 | Duration: 01:49:30
 
 ---
 

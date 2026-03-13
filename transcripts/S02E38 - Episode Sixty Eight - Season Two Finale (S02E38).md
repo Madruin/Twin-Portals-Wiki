@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty Eight - Season Two Finale! (S02E38)
+---
+title: "Episode Sixty Eight - Season Two Finale! (S02E38)"
+season: 2
+episode: 38
+overall: 68
+date: 2025-05-11
+duration: "01:08:45"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 38** (Overall #68)
-**Air Date:** 2025-05-11
-**Duration:** 01:08:45
+# Episode Sixty Eight - Season Two Finale! (S02E38)
+
+[[Season 2]] | Episode 38 | Overall #68  
+Air Date: 2025-05-11 | Duration: 01:08:45
 
 ---
 

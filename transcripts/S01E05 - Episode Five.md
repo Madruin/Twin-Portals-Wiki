@@ -1,8 +1,22 @@
-# Twin Portals - Episode Five
+---
+title: "Episode Five"
+season: 1
+episode: 5
+overall: 5
+date: 2019-03-30
+duration: "02:38:04"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 5** (Overall #5)
-**Air Date:** 2019-03-30
-**Duration:** 02:38:04
+# Episode Five
+
+[[Season 1]] | Episode 5 | Overall #5  
+Air Date: 2019-03-30 | Duration: 02:38:04
 
 ---
 

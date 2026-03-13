@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty Six (S02E36)
+---
+title: "Episode Sixty Six (S02E36)"
+season: 2
+episode: 36
+overall: 66
+date: 2025-02-27
+duration: "01:21:09"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 36** (Overall #66)
-**Air Date:** 2025-02-27
-**Duration:** 01:21:09
+# Episode Sixty Six (S02E36)
+
+[[Season 2]] | Episode 36 | Overall #66  
+Air Date: 2025-02-27 | Duration: 01:21:09
 
 ---
 

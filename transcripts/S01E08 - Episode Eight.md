@@ -1,8 +1,22 @@
-# Twin Portals - Episode Eight
+---
+title: "Episode Eight"
+season: 1
+episode: 8
+overall: 8
+date: 2019-06-29
+duration: "02:21:11"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 8** (Overall #8)
-**Air Date:** 2019-06-29
-**Duration:** 02:21:11
+# Episode Eight
+
+[[Season 1]] | Episode 8 | Overall #8  
+Air Date: 2019-06-29 | Duration: 02:21:11
 
 ---
 

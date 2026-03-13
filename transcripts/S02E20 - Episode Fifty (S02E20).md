@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty! (S02E20)
+---
+title: "Episode Fifty! (S02E20)"
+season: 2
+episode: 20
+overall: 50
+date: 2023-10-29
+duration: "02:05:51"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 20** (Overall #50)
-**Air Date:** 2023-10-29
-**Duration:** 02:05:51
+# Episode Fifty! (S02E20)
+
+[[Season 2]] | Episode 20 | Overall #50  
+Air Date: 2023-10-29 | Duration: 02:05:51
 
 ---
 

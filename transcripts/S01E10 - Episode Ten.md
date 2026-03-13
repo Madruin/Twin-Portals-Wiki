@@ -1,8 +1,22 @@
-# Twin Portals - Episode Ten
+---
+title: "Episode Ten"
+season: 1
+episode: 10
+overall: 10
+date: 2019-08-31
+duration: "02:19:08"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 10** (Overall #10)
-**Air Date:** 2019-08-31
-**Duration:** 02:19:08
+# Episode Ten
+
+[[Season 1]] | Episode 10 | Overall #10  
+Air Date: 2019-08-31 | Duration: 02:19:08
 
 ---
 

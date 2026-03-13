@@ -1,8 +1,22 @@
-# Twin Portals - Episode One
+---
+title: "Episode One"
+season: 1
+episode: 1
+overall: 1
+date: 2018-12-29
+duration: "02:09:08"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 1** (Overall #1)
-**Air Date:** 2018-12-29
-**Duration:** 02:09:08
+# Episode One
+
+[[Season 1]] | Episode 1 | Overall #1  
+Air Date: 2018-12-29 | Duration: 02:09:08
 
 ---
 

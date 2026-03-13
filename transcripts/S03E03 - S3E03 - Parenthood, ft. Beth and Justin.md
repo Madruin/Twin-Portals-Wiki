@@ -1,8 +1,22 @@
-# Twin Portals - S3E03 - Parenthood, ft. Beth and Justin
+---
+title: "S3E03 - Parenthood, ft. Beth and Justin"
+season: 3
+episode: 3
+overall: 71
+date: 2025-07-29
+duration: "01:21:08"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 3** (Overall #71)
-**Air Date:** 2025-07-29
-**Duration:** 01:21:08
+# S3E03 - Parenthood, ft. Beth and Justin
+
+[[Season 3]] | Episode 3 | Overall #71  
+Air Date: 2025-07-29 | Duration: 01:21:08
 
 ---
 

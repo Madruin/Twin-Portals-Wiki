@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Nine LIVE! (S02E29)
+---
+title: "Episode Fifty Nine LIVE! (S02E29)"
+season: 2
+episode: 29
+overall: 59
+date: 2024-07-27
+duration: "01:52:49"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 29** (Overall #59)
-**Air Date:** 2024-07-27
-**Duration:** 01:52:49
+# Episode Fifty Nine LIVE! (S02E29)
+
+[[Season 2]] | Episode 29 | Overall #59  
+Air Date: 2024-07-27 | Duration: 01:52:49
 
 ---
 

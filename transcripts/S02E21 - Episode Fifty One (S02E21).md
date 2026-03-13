@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty One (S02E21)
+---
+title: "Episode Fifty One (S02E21)"
+season: 2
+episode: 21
+overall: 51
+date: 2023-11-30
+duration: "01:58:24"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 21** (Overall #51)
-**Air Date:** 2023-11-30
-**Duration:** 01:58:24
+# Episode Fifty One (S02E21)
+
+[[Season 2]] | Episode 21 | Overall #51  
+Air Date: 2023-11-30 | Duration: 01:58:24
 
 ---
 

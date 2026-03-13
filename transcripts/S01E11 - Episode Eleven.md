@@ -1,8 +1,22 @@
-# Twin Portals - Episode Eleven
+---
+title: "Episode Eleven"
+season: 1
+episode: 11
+overall: 11
+date: 2019-09-26
+duration: "02:22:41"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 11** (Overall #11)
-**Air Date:** 2019-09-26
-**Duration:** 02:22:41
+# Episode Eleven
+
+[[Season 1]] | Episode 11 | Overall #11  
+Air Date: 2019-09-26 | Duration: 02:22:41
 
 ---
 

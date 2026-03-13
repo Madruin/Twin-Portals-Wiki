@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Five LIVE (S02E25)
+---
+title: "Episode Fifty Five LIVE (S02E25)"
+season: 2
+episode: 25
+overall: 55
+date: 2024-03-24
+duration: "01:44:22"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 25** (Overall #55)
-**Air Date:** 2024-03-24
-**Duration:** 01:44:22
+# Episode Fifty Five LIVE (S02E25)
+
+[[Season 2]] | Episode 25 | Overall #55  
+Air Date: 2024-03-24 | Duration: 01:44:22
 
 ---
 

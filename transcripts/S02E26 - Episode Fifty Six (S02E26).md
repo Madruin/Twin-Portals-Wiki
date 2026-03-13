@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Six (S02E26)
+---
+title: "Episode Fifty Six (S02E26)"
+season: 2
+episode: 26
+overall: 56
+date: 2024-04-30
+duration: "01:31:37"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 26** (Overall #56)
-**Air Date:** 2024-04-30
-**Duration:** 01:31:37
+# Episode Fifty Six (S02E26)
+
+[[Season 2]] | Episode 26 | Overall #56  
+Air Date: 2024-04-30 | Duration: 01:31:37
 
 ---
 

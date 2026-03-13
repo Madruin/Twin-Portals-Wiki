@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty Seven (S02E07)
+---
+title: "Episode Thirty Seven (S02E07)"
+season: 2
+episode: 7
+overall: 37
+date: 2022-09-25
+duration: "01:58:03"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 7** (Overall #37)
-**Air Date:** 2022-09-25
-**Duration:** 01:58:03
+# Episode Thirty Seven (S02E07)
+
+[[Season 2]] | Episode 7 | Overall #37  
+Air Date: 2022-09-25 | Duration: 01:58:03
 
 ---
 

@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty Five (S02E35)
+---
+title: "Episode Sixty Five (S02E35)"
+season: 2
+episode: 35
+overall: 65
+date: 2025-01-30
+duration: "01:27:26"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 35** (Overall #65)
-**Air Date:** 2025-01-30
-**Duration:** 01:27:26
+# Episode Sixty Five (S02E35)
+
+[[Season 2]] | Episode 35 | Overall #65  
+Air Date: 2025-01-30 | Duration: 01:27:26
 
 ---
 

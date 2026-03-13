@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirteen
+---
+title: "Episode Thirteen"
+season: 1
+episode: 13
+overall: 13
+date: 2019-11-30
+duration: "01:39:04"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 13** (Overall #13)
-**Air Date:** 2019-11-30
-**Duration:** 01:39:04
+# Episode Thirteen
+
+[[Season 1]] | Episode 13 | Overall #13  
+Air Date: 2019-11-30 | Duration: 01:39:04
 
 ---
 

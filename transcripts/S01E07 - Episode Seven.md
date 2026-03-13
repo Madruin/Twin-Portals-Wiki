@@ -1,8 +1,22 @@
-# Twin Portals - Episode Seven
+---
+title: "Episode Seven"
+season: 1
+episode: 7
+overall: 7
+date: 2019-06-01
+duration: "02:21:53"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 7** (Overall #7)
-**Air Date:** 2019-06-01
-**Duration:** 02:21:53
+# Episode Seven
+
+[[Season 1]] | Episode 7 | Overall #7  
+Air Date: 2019-06-01 | Duration: 02:21:53
 
 ---
 

@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty Two (S02E02)
+---
+title: "Episode Thirty Two (S02E02)"
+season: 2
+episode: 2
+overall: 32
+date: 2022-03-27
+duration: "02:30:33"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 2** (Overall #32)
-**Air Date:** 2022-03-27
-**Duration:** 02:30:33
+# Episode Thirty Two (S02E02)
+
+[[Season 2]] | Episode 2 | Overall #32  
+Air Date: 2022-03-27 | Duration: 02:30:33
 
 ---
 

@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty Five
+---
+title: "Episode Twenty Five"
+season: 1
+episode: 25
+overall: 25
+date: 2021-07-22
+duration: "02:05:58"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 25** (Overall #25)
-**Air Date:** 2021-07-22
-**Duration:** 02:05:58
+# Episode Twenty Five
+
+[[Season 1]] | Episode 25 | Overall #25  
+Air Date: 2021-07-22 | Duration: 02:05:58
 
 ---
 

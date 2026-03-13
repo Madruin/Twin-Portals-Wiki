@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty (S02E10)
+---
+title: "Episode Forty (S02E10)"
+season: 2
+episode: 10
+overall: 40
+date: 2022-12-22
+duration: "02:08:34"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 10** (Overall #40)
-**Air Date:** 2022-12-22
-**Duration:** 02:08:34
+# Episode Forty (S02E10)
+
+[[Season 2]] | Episode 10 | Overall #40  
+Air Date: 2022-12-22 | Duration: 02:08:34
 
 ---
 

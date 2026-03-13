@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty Six (S02E06)
+---
+title: "Episode Thirty Six (S02E06)"
+season: 2
+episode: 6
+overall: 36
+date: 2022-08-24
+duration: "02:13:33"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 6** (Overall #36)
-**Air Date:** 2022-08-24
-**Duration:** 02:13:33
+# Episode Thirty Six (S02E06)
+
+[[Season 2]] | Episode 6 | Overall #36  
+Air Date: 2022-08-24 | Duration: 02:13:33
 
 ---
 

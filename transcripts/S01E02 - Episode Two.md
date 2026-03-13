@@ -1,8 +1,22 @@
-# Twin Portals - Episode Two
+---
+title: "Episode Two"
+season: 1
+episode: 2
+overall: 2
+date: 2018-12-31
+duration: "03:03:34"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 2** (Overall #2)
-**Air Date:** 2018-12-31
-**Duration:** 03:03:34
+# Episode Two
+
+[[Season 1]] | Episode 2 | Overall #2  
+Air Date: 2018-12-31 | Duration: 03:03:34
 
 ---
 

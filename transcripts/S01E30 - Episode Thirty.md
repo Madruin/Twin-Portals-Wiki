@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty
+---
+title: "Episode Thirty"
+season: 1
+episode: 30
+overall: 30
+date: 2021-12-26
+duration: "01:38:09"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 30** (Overall #30)
-**Air Date:** 2021-12-26
-**Duration:** 01:38:09
+# Episode Thirty
+
+[[Season 1]] | Episode 30 | Overall #30  
+Air Date: 2021-12-26 | Duration: 01:38:09
 
 ---
 

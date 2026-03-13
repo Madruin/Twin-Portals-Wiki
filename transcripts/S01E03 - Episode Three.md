@@ -1,8 +1,22 @@
-# Twin Portals - Episode Three
+---
+title: "Episode Three"
+season: 1
+episode: 3
+overall: 3
+date: 2019-01-01
+duration: "01:55:13"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 3** (Overall #3)
-**Air Date:** 2019-01-01
-**Duration:** 01:55:13
+# Episode Three
+
+[[Season 1]] | Episode 3 | Overall #3  
+Air Date: 2019-01-01 | Duration: 01:55:13
 
 ---
 

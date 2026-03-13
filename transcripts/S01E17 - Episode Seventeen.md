@@ -1,8 +1,22 @@
-# Twin Portals - Episode Seventeen
+---
+title: "Episode Seventeen"
+season: 1
+episode: 17
+overall: 17
+date: 2020-03-22
+duration: "01:52:10"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 17** (Overall #17)
-**Air Date:** 2020-03-22
-**Duration:** 01:52:10
+# Episode Seventeen
+
+[[Season 1]] | Episode 17 | Overall #17  
+Air Date: 2020-03-22 | Duration: 01:52:10
 
 ---
 

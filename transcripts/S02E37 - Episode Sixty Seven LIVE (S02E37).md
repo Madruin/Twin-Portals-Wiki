@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty Seven LIVE (S02E37)
+---
+title: "Episode Sixty Seven LIVE (S02E37)"
+season: 2
+episode: 37
+overall: 67
+date: 2025-03-30
+duration: "01:34:02"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 37** (Overall #67)
-**Air Date:** 2025-03-30
-**Duration:** 01:34:02
+# Episode Sixty Seven LIVE (S02E37)
+
+[[Season 2]] | Episode 37 | Overall #67  
+Air Date: 2025-03-30 | Duration: 01:34:02
 
 ---
 

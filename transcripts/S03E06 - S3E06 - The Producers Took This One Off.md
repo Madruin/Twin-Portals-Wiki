@@ -1,8 +1,22 @@
-# Twin Portals - S3E06 - The Producers Took This One Off
+---
+title: "S3E06 - The Producers Took This One Off"
+season: 3
+episode: 6
+overall: 74
+date: 2025-10-31
+duration: "01:25:01"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 6** (Overall #74)
-**Air Date:** 2025-10-31
-**Duration:** 01:25:01
+# S3E06 - The Producers Took This One Off
+
+[[Season 3]] | Episode 6 | Overall #74  
+Air Date: 2025-10-31 | Duration: 01:25:01
 
 ---
 

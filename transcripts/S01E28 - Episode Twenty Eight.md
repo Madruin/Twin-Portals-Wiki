@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty Eight
+---
+title: "Episode Twenty Eight"
+season: 1
+episode: 28
+overall: 28
+date: 2021-10-30
+duration: "01:41:08"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 28** (Overall #28)
-**Air Date:** 2021-10-30
-**Duration:** 01:41:08
+# Episode Twenty Eight
+
+[[Season 1]] | Episode 28 | Overall #28  
+Air Date: 2021-10-30 | Duration: 01:41:08
 
 ---
 

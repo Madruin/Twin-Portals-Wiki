@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty One (S02E11)
+---
+title: "Episode Forty One (S02E11)"
+season: 2
+episode: 11
+overall: 41
+date: 2023-01-27
+duration: "02:03:31"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 11** (Overall #41)
-**Air Date:** 2023-01-27
-**Duration:** 02:03:31
+# Episode Forty One (S02E11)
+
+[[Season 2]] | Episode 11 | Overall #41  
+Air Date: 2023-01-27 | Duration: 02:03:31
 
 ---
 

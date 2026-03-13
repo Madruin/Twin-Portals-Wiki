@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Eight (S02E28)
+---
+title: "Episode Fifty Eight (S02E28)"
+season: 2
+episode: 28
+overall: 58
+date: 2024-06-30
+duration: "01:49:57"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 28** (Overall #58)
-**Air Date:** 2024-06-30
-**Duration:** 01:49:57
+# Episode Fifty Eight (S02E28)
+
+[[Season 2]] | Episode 28 | Overall #58  
+Air Date: 2024-06-30 | Duration: 01:49:57
 
 ---
 

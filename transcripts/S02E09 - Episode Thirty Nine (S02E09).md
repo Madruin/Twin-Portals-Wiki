@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty Nine (S02E09)
+---
+title: "Episode Thirty Nine (S02E09)"
+season: 2
+episode: 9
+overall: 39
+date: 2022-11-29
+duration: "02:13:28"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 9** (Overall #39)
-**Air Date:** 2022-11-29
-**Duration:** 02:13:28
+# Episode Thirty Nine (S02E09)
+
+[[Season 2]] | Episode 9 | Overall #39  
+Air Date: 2022-11-29 | Duration: 02:13:28
 
 ---
 

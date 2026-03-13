@@ -1,8 +1,22 @@
-# Twin Portals - S3E10 - Painting Minis and Making Plans
+---
+title: "S3E10 - Painting Minis and Making Plans"
+season: 3
+episode: 10
+overall: 78
+date: 2026-02-28
+duration: "01:28:23"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 10** (Overall #78)
-**Air Date:** 2026-02-28
-**Duration:** 01:28:23
+# S3E10 - Painting Minis and Making Plans
+
+[[Season 3]] | Episode 10 | Overall #78  
+Air Date: 2026-02-28 | Duration: 01:28:23
 
 ---
 

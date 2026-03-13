@@ -1,8 +1,22 @@
-# Twin Portals - S3E08 - DM Sessions
+---
+title: "S3E08 - DM Sessions"
+season: 3
+episode: 8
+overall: 76
+date: 2025-12-25
+duration: "01:57:07"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 8** (Overall #76)
-**Air Date:** 2025-12-25
-**Duration:** 01:57:07
+# S3E08 - DM Sessions
+
+[[Season 3]] | Episode 8 | Overall #76  
+Air Date: 2025-12-25 | Duration: 01:57:07
 
 ---
 

@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty One
+---
+title: "Episode Twenty One"
+season: 1
+episode: 21
+overall: 21
+date: 2021-03-28
+duration: "01:54:25"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 21** (Overall #21)
-**Air Date:** 2021-03-28
-**Duration:** 01:54:25
+# Episode Twenty One
+
+[[Season 1]] | Episode 21 | Overall #21  
+Air Date: 2021-03-28 | Duration: 01:54:25
 
 ---
 

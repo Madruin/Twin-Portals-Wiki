@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fifty Four (S02E24)
+---
+title: "Episode Fifty Four (S02E24)"
+season: 2
+episode: 24
+overall: 54
+date: 2024-02-27
+duration: "02:08:55"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 24** (Overall #54)
-**Air Date:** 2024-02-27
-**Duration:** 02:08:55
+# Episode Fifty Four (S02E24)
+
+[[Season 2]] | Episode 24 | Overall #54  
+Air Date: 2024-02-27 | Duration: 02:08:55
 
 ---
 

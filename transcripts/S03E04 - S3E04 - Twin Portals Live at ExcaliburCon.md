@@ -1,8 +1,22 @@
-# Twin Portals - S3E04 - Twin Portals Live at ExcaliburCon
+---
+title: "S3E04 - Twin Portals Live at ExcaliburCon"
+season: 3
+episode: 4
+overall: 72
+date: 2025-08-31
+duration: "38:58"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 4** (Overall #72)
-**Air Date:** 2025-08-31
-**Duration:** 38:58
+# S3E04 - Twin Portals Live at ExcaliburCon
+
+[[Season 3]] | Episode 4 | Overall #72  
+Air Date: 2025-08-31 | Duration: 38:58
 
 ---
 

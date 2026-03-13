@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty Six
+---
+title: "Episode Twenty Six"
+season: 1
+episode: 26
+overall: 26
+date: 2021-08-24
+duration: "02:54:45"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 26** (Overall #26)
-**Air Date:** 2021-08-24
-**Duration:** 02:54:45
+# Episode Twenty Six
+
+[[Season 1]] | Episode 26 | Overall #26  
+Air Date: 2021-08-24 | Duration: 02:54:45
 
 ---
 

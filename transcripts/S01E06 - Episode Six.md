@@ -1,8 +1,22 @@
-# Twin Portals - Episode Six
+---
+title: "Episode Six"
+season: 1
+episode: 6
+overall: 6
+date: 2019-04-27
+duration: "01:53:35"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 6** (Overall #6)
-**Air Date:** 2019-04-27
-**Duration:** 01:53:35
+# Episode Six
+
+[[Season 1]] | Episode 6 | Overall #6  
+Air Date: 2019-04-27 | Duration: 01:53:35
 
 ---
 

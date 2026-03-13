@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty Three (S02E33)
+---
+title: "Episode Sixty Three (S02E33)"
+season: 2
+episode: 33
+overall: 63
+date: 2024-11-28
+duration: "01:31:00"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 33** (Overall #63)
-**Air Date:** 2024-11-28
-**Duration:** 01:31:00
+# Episode Sixty Three (S02E33)
+
+[[Season 2]] | Episode 33 | Overall #63  
+Air Date: 2024-11-28 | Duration: 01:31:00
 
 ---
 

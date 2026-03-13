@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Three LIVE! (S02E13)
+---
+title: "Episode Forty Three LIVE! (S02E13)"
+season: 2
+episode: 13
+overall: 43
+date: 2023-03-26
+duration: "01:40:39"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 13** (Overall #43)
-**Air Date:** 2023-03-26
-**Duration:** 01:40:39
+# Episode Forty Three LIVE! (S02E13)
+
+[[Season 2]] | Episode 13 | Overall #43  
+Air Date: 2023-03-26 | Duration: 01:40:39
 
 ---
 

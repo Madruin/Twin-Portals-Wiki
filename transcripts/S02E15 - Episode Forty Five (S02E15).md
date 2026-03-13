@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Five (S02E15)
+---
+title: "Episode Forty Five (S02E15)"
+season: 2
+episode: 15
+overall: 45
+date: 2023-05-22
+duration: "01:58:18"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 15** (Overall #45)
-**Air Date:** 2023-05-22
-**Duration:** 01:58:18
+# Episode Forty Five (S02E15)
+
+[[Season 2]] | Episode 15 | Overall #45  
+Air Date: 2023-05-22 | Duration: 01:58:18
 
 ---
 

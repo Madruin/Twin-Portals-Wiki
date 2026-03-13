@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty Two LIVE! (S02E32)
+---
+title: "Episode Sixty Two LIVE! (S02E32)"
+season: 2
+episode: 32
+overall: 62
+date: 2024-10-30
+duration: "01:38:48"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 32** (Overall #62)
-**Air Date:** 2024-10-30
-**Duration:** 01:38:48
+# Episode Sixty Two LIVE! (S02E32)
+
+[[Season 2]] | Episode 32 | Overall #62  
+Air Date: 2024-10-30 | Duration: 01:38:48
 
 ---
 

@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Two (S02E12)
+---
+title: "Episode Forty Two (S02E12)"
+season: 2
+episode: 12
+overall: 42
+date: 2023-02-26
+duration: "01:55:31"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 12** (Overall #42)
-**Air Date:** 2023-02-26
-**Duration:** 01:55:31
+# Episode Forty Two (S02E12)
+
+[[Season 2]] | Episode 12 | Overall #42  
+Air Date: 2023-02-26 | Duration: 01:55:31
 
 ---
 

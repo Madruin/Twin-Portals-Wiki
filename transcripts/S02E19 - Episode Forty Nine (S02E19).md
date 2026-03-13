@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Nine (S02E19)
+---
+title: "Episode Forty Nine (S02E19)"
+season: 2
+episode: 19
+overall: 49
+date: 2023-09-28
+duration: "02:01:33"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 19** (Overall #49)
-**Air Date:** 2023-09-28
-**Duration:** 02:01:33
+# Episode Forty Nine (S02E19)
+
+[[Season 2]] | Episode 19 | Overall #49  
+Air Date: 2023-09-28 | Duration: 02:01:33
 
 ---
 

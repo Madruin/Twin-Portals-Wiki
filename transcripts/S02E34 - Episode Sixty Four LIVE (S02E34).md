@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixty Four LIVE! (S02E34)
+---
+title: "Episode Sixty Four LIVE! (S02E34)"
+season: 2
+episode: 34
+overall: 64
+date: 2024-12-30
+duration: "01:37:50"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 34** (Overall #64)
-**Air Date:** 2024-12-30
-**Duration:** 01:37:50
+# Episode Sixty Four LIVE! (S02E34)
+
+[[Season 2]] | Episode 34 | Overall #64  
+Air Date: 2024-12-30 | Duration: 01:37:50
 
 ---
 

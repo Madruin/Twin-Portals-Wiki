@@ -1,8 +1,22 @@
-# Twin Portals - S3E01 - Re-Introductions
+---
+title: "S3E01 - Re-Introductions"
+season: 3
+episode: 1
+overall: 69
+date: 2025-05-31
+duration: "53:09"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-3
+  - transcript
+---
 
-**Season 3, Episode 1** (Overall #69)
-**Air Date:** 2025-05-31
-**Duration:** 53:09
+# S3E01 - Re-Introductions
+
+[[Season 3]] | Episode 1 | Overall #69  
+Air Date: 2025-05-31 | Duration: 53:09
 
 ---
 

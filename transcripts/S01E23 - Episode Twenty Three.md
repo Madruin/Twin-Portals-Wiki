@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty Three
+---
+title: "Episode Twenty Three"
+season: 1
+episode: 23
+overall: 23
+date: 2021-05-26
+duration: "02:23:08"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 23** (Overall #23)
-**Air Date:** 2021-05-26
-**Duration:** 02:23:08
+# Episode Twenty Three
+
+[[Season 1]] | Episode 23 | Overall #23  
+Air Date: 2021-05-26 | Duration: 02:23:08
 
 ---
 

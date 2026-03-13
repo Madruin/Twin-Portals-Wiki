@@ -1,8 +1,22 @@
-# Twin Portals - Episode Sixteen
+---
+title: "Episode Sixteen"
+season: 1
+episode: 16
+overall: 16
+date: 2020-02-18
+duration: "02:41:37"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 16** (Overall #16)
-**Air Date:** 2020-02-18
-**Duration:** 02:41:37
+# Episode Sixteen
+
+[[Season 1]] | Episode 16 | Overall #16  
+Air Date: 2020-02-18 | Duration: 02:41:37
 
 ---
 

@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twelve
+---
+title: "Episode Twelve"
+season: 1
+episode: 12
+overall: 12
+date: 2019-10-20
+duration: "02:19:32"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 12** (Overall #12)
-**Air Date:** 2019-10-20
-**Duration:** 02:19:32
+# Episode Twelve
+
+[[Season 1]] | Episode 12 | Overall #12  
+Air Date: 2019-10-20 | Duration: 02:19:32
 
 ---
 

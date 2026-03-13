@@ -1,8 +1,22 @@
-# Twin Portals - Episode Twenty
+---
+title: "Episode Twenty"
+season: 1
+episode: 20
+overall: 20
+date: 2021-02-01
+duration: "56:58"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 20** (Overall #20)
-**Air Date:** 2021-02-01
-**Duration:** 56:58
+# Episode Twenty
+
+[[Season 1]] | Episode 20 | Overall #20  
+Air Date: 2021-02-01 | Duration: 56:58
 
 ---
 

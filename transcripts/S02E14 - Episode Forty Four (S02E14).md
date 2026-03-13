@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Four (S02E14)
+---
+title: "Episode Forty Four (S02E14)"
+season: 2
+episode: 14
+overall: 44
+date: 2023-04-30
+duration: "02:02:08"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 14** (Overall #44)
-**Air Date:** 2023-04-30
-**Duration:** 02:02:08
+# Episode Forty Four (S02E14)
+
+[[Season 2]] | Episode 14 | Overall #44  
+Air Date: 2023-04-30 | Duration: 02:02:08
 
 ---
 

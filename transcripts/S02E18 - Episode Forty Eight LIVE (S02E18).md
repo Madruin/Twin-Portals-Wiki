@@ -1,8 +1,22 @@
-# Twin Portals - Episode Forty Eight LIVE (S02E18)
+---
+title: "Episode Forty Eight LIVE (S02E18)"
+season: 2
+episode: 18
+overall: 48
+date: 2023-08-31
+duration: "01:52:27"
+type: episode
+live: true
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 18** (Overall #48)
-**Air Date:** 2023-08-31
-**Duration:** 01:52:27
+# Episode Forty Eight LIVE (S02E18)
+
+[[Season 2]] | Episode 18 | Overall #48  
+Air Date: 2023-08-31 | Duration: 01:52:27
 
 ---
 

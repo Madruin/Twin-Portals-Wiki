@@ -1,8 +1,22 @@
-# Twin Portals - Episode Fourteen
+---
+title: "Episode Fourteen"
+season: 1
+episode: 14
+overall: 14
+date: 2019-12-29
+duration: "02:11:46"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-1
+  - transcript
+---
 
-**Season 1, Episode 14** (Overall #14)
-**Air Date:** 2019-12-29
-**Duration:** 02:11:46
+# Episode Fourteen
+
+[[Season 1]] | Episode 14 | Overall #14  
+Air Date: 2019-12-29 | Duration: 02:11:46
 
 ---
 

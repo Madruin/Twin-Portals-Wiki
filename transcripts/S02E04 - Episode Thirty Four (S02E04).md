@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty Four (S02E04)
+---
+title: "Episode Thirty Four (S02E04)"
+season: 2
+episode: 4
+overall: 34
+date: 2022-06-15
+duration: "02:09:08"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 4** (Overall #34)
-**Air Date:** 2022-06-15
-**Duration:** 02:09:08
+# Episode Thirty Four (S02E04)
+
+[[Season 2]] | Episode 4 | Overall #34  
+Air Date: 2022-06-15 | Duration: 02:09:08
 
 ---
 

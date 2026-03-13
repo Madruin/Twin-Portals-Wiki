@@ -1,8 +1,22 @@
-# Twin Portals - Episode Thirty Five (S02E05)
+---
+title: "Episode Thirty Five (S02E05)"
+season: 2
+episode: 5
+overall: 35
+date: 2022-07-24
+duration: "02:04:32"
+type: episode
+live: false
+tags:
+  - twin-portals
+  - season-2
+  - transcript
+---
 
-**Season 2, Episode 5** (Overall #35)
-**Air Date:** 2022-07-24
-**Duration:** 02:04:32
+# Episode Thirty Five (S02E05)
+
+[[Season 2]] | Episode 5 | Overall #35  
+Air Date: 2022-07-24 | Duration: 02:04:32
 
 ---
 
