@@ -14,8 +14,8 @@ tags:
 
 An enormous aboleth-like viper fish creature living in the subterranean lake beneath the chasm. Maintains the seal that keeps the chasm stable, powered by green stones of power. Has a bioluminescent dangling appendage that serves as a power conduit. Joan severs this appendage during the Jolly Gents' attack.
 
-**First appearance:** Episode S02E16
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E16]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,8 @@ An enormous aboleth-like viper fish creature living in the subterranean lake ben
 
 ## Role in the Story
 
-
+- **S02E16:** The Hungry Elder, an aboleth-like viper fish, is revealed to maintain the chasm's seal using green stones of power
+- **S02E16:** Joan severs the Hungry Elder's dangling power source
 
 ## Episode Appearances
 

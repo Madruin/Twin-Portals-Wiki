@@ -12,18 +12,21 @@ tags:
 
 # Yalah Gralhund
 
-Lady of the Gralhund household. Tall, imposing human woman with long black hair and strong cheekbones. Wears a breastplate and carries a short sword. Wears a silver key on a necklace. Double-crossed the Zhentarim and now possesses the Stone of Golorr. Recognizes Ylka and accuses her of being a traitor to the family. Escapes onto the balcony where she huddles protectively with her children.
+Noble of Gralhund Villa. Secretly sends a nimblewright away with the Stone of Galore and a note/map pointing to the Gralhund Crypt in the City of the Dead. Working with the Cult of Asmodeus.
 
-**First appearance:** Episode S01E13
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E13]]
+**Total appearances:** 1 episode
 
 ## Description
 
-Lady of the Gralhund household. Tall, imposing human woman with long black hair and strong cheekbones. Wears a breastplate and carries a short sword. Wears a silver key on a necklace. Double-crossed the Zhentarim and now possesses the Stone of Golorr. Recognizes Ylka and accuses her of being a traitor to the family. Escapes onto the balcony where she huddles protectively with her children.
+Noble of Gralhund Villa. Secretly sends a nimblewright away with the Stone of Galore and a note/map pointing to the Gralhund Crypt in the City of the Dead. Working with the Cult of Asmodeus.
 
 ## Role in the Story
 
-
+- **S01E13:** City watch investigates the Gralhund Villa bloodbath while SWOJ is questioned
+- **S01E13:** Yalah Gralhund secretly dispatches a nimblewright with the Stone of Galore and a map note
+- **S01E13:** The note reveals a map of the City of the Dead pointing to the Gralhund Crypt
+- **S01E13:** Zilka (Ylka's doppelganger) found dying in the Gralhund Crypt, draws symbol of Asmodeus
 
 ## Episode Appearances
 

@@ -14,16 +14,19 @@ tags:
 
 One of the Cassalanter Villa guards.
 
-**First appearance:** Episode S01E09
+**First appearance:** [[S01E09]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 One of the Cassalanter Villa guards.
 
+Guard at the Cassalanter villa who provides information and assists SWOJ.
+
+
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

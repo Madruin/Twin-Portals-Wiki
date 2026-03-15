@@ -14,8 +14,8 @@ tags:
 
 An older tiefling woman who serves as nanny to the Cassalanter children. Scolds them for playing instead of studying.
 
-**First appearance:** Episode S01E24
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E24]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ An older tiefling woman who serves as nanny to the Cassalanter children. Scolds 
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

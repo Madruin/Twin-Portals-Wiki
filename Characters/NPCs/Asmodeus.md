@@ -14,8 +14,8 @@ tags:
 
 Lord of Nessus, archdevil. Appears as a semi-corporeal, well-dressed humanoid figure with red-tinted skin hovering above a fiery altar bowl. Offers Xae a contract to free six 'brothers and sisters' within 13 Founders Days in exchange for voiding the Cassalanter soul contract.
 
-**First appearance:** Episode S01E27
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E27]]
+**Total appearances:** 5 episodes
 
 ## Description
 
@@ -23,7 +23,9 @@ Lord of Nessus, archdevil. Appears as a semi-corporeal, well-dressed humanoid fi
 
 ## Role in the Story
 
-
+- **S01E27:** Mr. E kicks unconscious Vittorio through his own portal into the temple of Asmodeus
+- **S01E27:** They find Amalia Cassalanter pleading with Asmodeus's avatar to spare children Terenzio and Elzerina
+- **S01E27:** Asmodeus offers Xae a contract: free six 'brothers and sisters' (Jhesiyra, Rantantar, Mayrin, Trobriand, Muiral, Arcturia) within 13 Founders Days
 
 ## Episode Appearances
 

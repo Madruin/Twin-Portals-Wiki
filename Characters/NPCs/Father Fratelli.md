@@ -14,8 +14,8 @@ tags:
 
 A deceased priest whose skeleton is found at a campsite inside the abbey on Devil's Rock. Wears an ouroboros medallion, suggesting a connection to serpent or dragon cults.
 
-**First appearance:** Episode S02E10
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E10]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ A deceased priest whose skeleton is found at a campsite inside the abbey on Devi
 
 ## Role in the Story
 
-
+- **S02E10:** They discover Father Fratelli's skeleton with an ouroboros medallion and jars of dragon piss
 
 ## Episode Appearances
 

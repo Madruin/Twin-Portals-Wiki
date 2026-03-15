@@ -1,5 +1,5 @@
 ---
-title: "Manshoon / The Necromancer"
+title: "Manshoon  The Necromancer"
 type: character
 subtype: npc
 status: unknown
@@ -10,12 +10,12 @@ tags:
   - npc
 ---
 
-# Manshoon / The Necromancer
+# Manshoon  The Necromancer
 
 Discussed as the primary antagonist thread that remained unresolved at the end of Season 1, driving the story into the Feywild for Season 2.
 
-**First appearance:** Episode S01E30
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E30]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Discussed as the primary antagonist thread that remained unresolved at the end o
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

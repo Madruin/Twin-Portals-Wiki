@@ -14,8 +14,8 @@ tags:
 
 One of the Brighanox elders who teaches SWOJ about wish stones and Brighanox society.
 
-**First appearance:** Episode S02E02
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E02]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ One of the Brighanox elders who teaches SWOJ about wish stones and Brighanox soc
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

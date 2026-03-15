@@ -14,8 +14,8 @@ tags:
 
 City watch sergeant who assists Magistrate Alcoria Stonemarrow in investigating the fireball crime scene.
 
-**First appearance:** Episode S01E11
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E11]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ City watch sergeant who assists Magistrate Alcoria Stonemarrow in investigating 
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

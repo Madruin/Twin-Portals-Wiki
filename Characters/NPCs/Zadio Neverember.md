@@ -14,8 +14,8 @@ tags:
 
 Human theater owner in ancient Waterdeep (992 DR). Ancestor of the Neverember family. Owns the amphitheater above the Vault of Dragons.
 
-**First appearance:** Episode S01E25
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E25]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,8 @@ Human theater owner in ancient Waterdeep (992 DR). Ancestor of the Neverember fa
 
 ## Role in the Story
 
-
+- **S01E25:** They meet Zadio Neverember, theater owner and ancestor of the Neverember line
+- **S01E25:** They discover the Vault of Dragons beneath Zadio's amphitheater
 
 ## Episode Appearances
 

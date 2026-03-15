@@ -12,18 +12,18 @@ tags:
 
 # Nihiloor
 
-Mind Flayer, creature with purple skin, tentacles, and a black robe. First appeared in the sewers torturing Floon (referenced from between episodes). In Blue Alley, disguised itself as Durnan with purple tendrils emerging from mutton chops. Cast spells including putting Xaerine to sleep.
+Mind flayer working for the Xanathar Guild. Responsible for creating intellect devourers. Mentioned by Jarlaxle as a key threat.
 
-**First appearance:** Episode S01E11
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E11]]
+**Total appearances:** 1 episode
 
 ## Description
 
-Mind Flayer, creature with purple skin, tentacles, and a black robe. First appeared in the sewers torturing Floon (referenced from between episodes). In Blue Alley, disguised itself as Durnan with purple tendrils emerging from mutton chops. Cast spells including putting Xaerine to sleep.
+Mind flayer working for the Xanathar Guild. Responsible for creating intellect devourers. Mentioned by Jarlaxle as a key threat.
 
 ## Role in the Story
 
-
+- **S01E11:** Nihiloor the mind flayer identified as creator of intellect devourers for the Xanathar Guild
 
 ## Episode Appearances
 

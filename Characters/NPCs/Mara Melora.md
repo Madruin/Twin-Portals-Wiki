@@ -14,8 +14,8 @@ tags:
 
 A reporter who arrives at the Short Rest to ask about the Kolat Towers explosion.
 
-**First appearance:** Episode S01E24
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E24]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ A reporter who arrives at the Short Rest to ask about the Kolat Towers explosion
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

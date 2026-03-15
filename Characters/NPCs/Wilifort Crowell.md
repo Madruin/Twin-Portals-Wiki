@@ -12,18 +12,18 @@ tags:
 
 # Wilifort Crowell
 
-Majordomo (chief servant) of the Cassalanter family. Receives the Stone of Galore from a spined devil atop a building. Flees in a wagon down the High Road during the Feast of the Moon parade. Accompanied by a bearded devil guard.
+A Zentarim lieutenant operating out of Amphail who sent Crom and his team to steal the soul stone from Castle Never. Not encountered directly -- only mentioned by Crom during interrogation.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S02E31]]
+**Total appearances:** 4 episodes
 
 ## Description
 
-Majordomo (chief servant) of the Cassalanter family. Receives the Stone of Galore from a spined devil atop a building. Flees in a wagon down the High Road during the Feast of the Moon parade. Accompanied by a bearded devil guard.
+A Zentarim lieutenant operating out of Amphail who sent Crom and his team to steal the soul stone from Castle Never. Not encountered directly -- only mentioned by Crom during interrogation.
 
 ## Role in the Story
 
-
+- **S02E31:** Interrogation of cicada-Crom reveals Zentarim involvement, Lieutenant Crowell, spiral cavern defenses, and plans to use the Radiant Citadel
 
 ## Episode Appearances
 

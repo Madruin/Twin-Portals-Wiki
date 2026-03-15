@@ -14,8 +14,8 @@ tags:
 
 A druid of the Circle of Dusk operating in the cryptwood forests near Amphail. Reports to SWOJ that Neverwinter has marshalled military forces in response to the dragon threat. Provides local intelligence about the situation around the Moonhole.
 
-**First appearance:** Episode S02E30
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E30]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ A druid of the Circle of Dusk operating in the cryptwood forests near Amphail. R
 
 ## Role in the Story
 
-
+- **S02E30:** They meet Kingfisher, a Circle of Dusk druid, who reports Neverwinter has marshalled forces
 
 ## Episode Appearances
 

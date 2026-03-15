@@ -14,8 +14,8 @@ tags:
 
 Referenced by Arturia as 'the master' -- 'the most powerful wizard in the multiverse.' Arturia says she will help the master remember. Previously referenced in earlier episodes.
 
-**First appearance:** Episode S02E07
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E07]]
+**Total appearances:** 3 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ Referenced by Arturia as 'the master' -- 'the most powerful wizard in the multiv
 
 ## Role in the Story
 
-
+- **S02E07:** Arturia reveals she serves Halaster, the most powerful wizard in the multiverse
 
 ## Episode Appearances
 

@@ -12,18 +12,18 @@ tags:
 
 # J.B. Nevercott
 
-Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust. False Identity of Jarlaxle/Zardoz.
+Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E09]]
+**Total appearances:** 2 episodes
 
 ## Description
 
-Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust. False Identity of Jarlaxle/Zardoz.
+Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust.
 
 ## Role in the Story
 
-
+- **S01E09:** JB Nevercott delivers lead-foil hat and three true sight pistols to SWOJ
 
 ## Episode Appearances
 

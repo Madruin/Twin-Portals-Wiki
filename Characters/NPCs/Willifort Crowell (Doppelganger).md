@@ -12,18 +12,18 @@ tags:
 
 # Willifort Crowell (Doppelganger)
 
-Cassalanter majordomo revealed to be a doppelganger. Impersonates Captain Staggit in the prison. Exposed during the trial when he cannot read the Gralhund note. Tries to flee through a window, caught by a grell and Scoot. Restrained with manacles and taken into custody.
+A Zentarim lieutenant operating out of Amphail who sent Crom and his team to steal the soul stone from Castle Never. Not encountered directly -- only mentioned by Crom during interrogation.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S02E31]]
+**Total appearances:** 4 episodes
 
 ## Description
 
-Cassalanter majordomo revealed to be a doppelganger. Impersonates Captain Staggit in the prison. Exposed during the trial when he cannot read the Gralhund note. Tries to flee through a window, caught by a grell and Scoot. Restrained with manacles and taken into custody.
+A Zentarim lieutenant operating out of Amphail who sent Crom and his team to steal the soul stone from Castle Never. Not encountered directly -- only mentioned by Crom during interrogation.
 
 ## Role in the Story
 
-
+- **S02E31:** Interrogation of cicada-Crom reveals Zentarim involvement, Lieutenant Crowell, spiral cavern defenses, and plans to use the Radiant Citadel
 
 ## Episode Appearances
 

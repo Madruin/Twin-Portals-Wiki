@@ -14,8 +14,8 @@ tags:
 
 City watch guard who reads the formal charges against SWOJ at the trial.
 
-**First appearance:** Episode S01E15
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E15]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ City watch guard who reads the formal charges against SWOJ at the trial.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

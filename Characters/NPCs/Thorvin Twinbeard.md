@@ -14,16 +14,20 @@ tags:
 
 Dwarf chief engineer of the Xanathar Guild. Secret Harper informant who provided intelligence about the eye in Sylgar's tank.
 
-**First appearance:** Episode S01E15
+**First appearance:** [[S01E15]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 Dwarf chief engineer of the Xanathar Guild. Secret Harper informant who provided intelligence about the eye in Sylgar's tank.
 
+Dwarf engineer working in a workshop in the Xanathar's lair. Building a crushing device for Skullport. Asks the party to send Nar'l Xibrindas his way if they find him.
+
+
 ## Role in the Story
 
-
+- **S01E15:** Laeral provides intel: Xanathar is paranoid beholder, mind flayer breeds intellect devourers, Thorvin Twinbeard is Harper informant, Xibrinidas is drow advisor
+- **S01E16:** Party passes through Thorvin's workshop; Thorvin asks them to send Nar'l his way
 
 ## Episode Appearances
 

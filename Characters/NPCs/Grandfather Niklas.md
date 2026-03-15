@@ -14,8 +14,8 @@ tags:
 
 Mentioned in connection with the Solstice holiday traditions and toy delivery.
 
-**First appearance:** Episode S01E14
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E14]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Mentioned in connection with the Solstice holiday traditions and toy delivery.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

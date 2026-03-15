@@ -1,5 +1,5 @@
 ---
-title: "JB Nevercott / Jarlaxle Baenre"
+title: "JB Nevercott  Jarlaxle Baenre"
 type: character
 subtype: npc
 status: unknown
@@ -10,12 +10,12 @@ tags:
   - npc
 ---
 
-# JB Nevercott / Jarlaxle Baenre
+# JB Nevercott  Jarlaxle Baenre
 
 Drow mastermind disguised as JB Nevercott in the arena audience. Telepathically warns SWOJ via Message that the lair is rigged with smoke powder and reveals the secret door location (south wall, flaming eye symbol).
 
-**First appearance:** Episode S01E17
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E17]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Drow mastermind disguised as JB Nevercott in the arena audience. Telepathically 
 
 ## Role in the Story
 
-
+- **S01E17:** JB Nevercott (Jarlaxle) warns SWOJ via Message about smoke powder and the secret door (south wall, flaming eye symbol)
 
 ## Episode Appearances
 

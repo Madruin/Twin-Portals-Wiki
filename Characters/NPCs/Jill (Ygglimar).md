@@ -12,18 +12,19 @@ tags:
 
 # Jill (Ygglimar)
 
-A young white dragon of the Way of the Balanced Scale, held in a trance by the Cult of the Dragon in the underground fortress. SWOJ breaks her free by reminding her of balance, and she freezes the pursuing cultists to aid their escape. One of the missing friendly dragons they were sent to rescue.
+A white dragon from the Way of the Balanced Scales flight. One of the dragons SWOJ rides to Amphail. Described as not super smart but loyal.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S02E19]]
+**Total appearances:** 4 episodes
 
 ## Description
 
-A young white dragon of the Way of the Balanced Scale, held in a trance by the Cult of the Dragon in the underground fortress. SWOJ breaks her free by reminding her of balance, and she freezes the pursuing cultists to aid their escape. One of the missing friendly dragons they were sent to rescue.
+A white dragon from the Way of the Balanced Scales flight. One of the dragons SWOJ rides to Amphail. Described as not super smart but loyal.
 
 ## Role in the Story
 
-
+- **S02E19:** Mr. E arrives with Mellafarne and a flight of dragons (Jack, Jill, Chip, Dale)
+- **S02E19:** SWOJ escapes on Jack and Jill, flying back toward Neverwinter with the crystals
 
 ## Episode Appearances
 

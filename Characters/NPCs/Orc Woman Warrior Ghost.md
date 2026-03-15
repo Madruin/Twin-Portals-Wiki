@@ -14,8 +14,8 @@ tags:
 
 The leader of the army of ancient souls raised from the Wall of the Faithless. She wears a crescent moon earring and has a dolphin tattoo on her arm. She leads blue and white spectres wearing armor from forgotten civilizations up the crystal spire to confront Manshoon's forces.
 
-**First appearance:** Episode S02E36
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E36]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ The leader of the army of ancient souls raised from the Wall of the Faithless. S
 
 ## Role in the Story
 
-
+- **S02E36:** Army is led by an orc woman warrior ghost with crescent moon earring and dolphin tattoo
 
 ## Episode Appearances
 

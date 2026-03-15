@@ -14,16 +14,22 @@ tags:
 
 A small dragon-shaped crystal creature the size of a dog, made of many pieces of rose quartz fitted together magically. An incarnate -- a form created when many ancestral spirits from a similar origin come together. Communes telepathically with Zellopharn about draconic lineage.
 
-**First appearance:** Episode S02E08
+**First appearance:** [[S02E08]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 A small dragon-shaped crystal creature the size of a dog, made of many pieces of rose quartz fitted together magically. An incarnate -- a form created when many ancestral spirits from a similar origin come together. Communes telepathically with Zellopharn about draconic lineage.
 
+The dragon-shaped crystal creature in the Preserve of the Ancestors. Settles down and merges with the unconscious Zellopharn to protect and restore him. Leaves a white crystal with him. Confirms knowledge of the Deep Dragon Temple.
+
+
 ## Role in the Story
 
-
+- **S02E08:** Zellopharn is drawn to the Preserve of the Ancestors and communes with the rose quartz incarnate
+- **S02E08:** Trill from the mill introduces incarnates -- crystal creatures formed from ancestral spirits
+- **S02E09:** Rose quartz incarnate settles over Zellopharn to protect him; confirms knowledge of Deep Dragon Temple
+- **S02E09:** Incarnate reveals the closest Concord Jewel goes to Lantan; the Deep Dragon Temple is northeast of there
 
 ## Episode Appearances
 

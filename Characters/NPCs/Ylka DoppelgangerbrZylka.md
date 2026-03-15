@@ -1,5 +1,5 @@
 ---
-title: "Ylka Doppelganger<br>"Zylka""
+title: "Ylka DoppelgangerbrZylka"
 type: character
 subtype: npc
 status: unknown
@@ -10,12 +10,12 @@ tags:
   - npc
 ---
 
-# Ylka Doppelganger<br>"Zylka"
+# Ylka DoppelgangerbrZylka
 
 A mysterious woman who looks exactly like Ylka, found performing a blood ritual on the palm of the God Catcher. Fights the party and escapes by leaping off the hand.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E06]]
+**Total appearances:** 2 episodes
 
 ## Description
 
@@ -23,7 +23,10 @@ A mysterious woman who looks exactly like Ylka, found performing a blood ritual 
 
 ## Role in the Story
 
-
+- **S01E06:** At the lighthouse, Grinda reveals Ylka apparently visited the previous night and borrowed the Apparatus of Kwalish -- but Ylka has no memory of this
+- **S01E06:** Confront a doppelganger who looks exactly like Ylka performing a blood ritual
+- **S01E06:** Fight with the Ylka doppelganger; Lark is knocked off the hand (saved by feather fall)
+- **S01E06:** Doppelganger leaps off the hand and vanishes into the darkness
 
 ## Episode Appearances
 

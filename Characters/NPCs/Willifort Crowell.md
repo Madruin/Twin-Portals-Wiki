@@ -14,16 +14,19 @@ tags:
 
 Tiefling majordomo of Cassalanter Villa. Manages guests at the door, checks weapons. Wears thin-rimmed glasses pulled from his pocket -- matches the description of the tiefling who gave Blossom the devil ring.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E09]]
+**Total appearances:** 2 episodes
 
 ## Description
 
 Tiefling majordomo of Cassalanter Villa. Manages guests at the door, checks weapons. Wears thin-rimmed glasses pulled from his pocket -- matches the description of the tiefling who gave Blossom the devil ring.
 
+Majordomo of the Cassalanter household. Suspected of shady dealings. SWOJ considers him suspicious.
+
+
 ## Role in the Story
 
-
+- **S01E09:** SWOJ arrives at Cassalanter Villa; Willifort Crowelle (matching tiefling description from Blossom's story) receives them
 
 ## Episode Appearances
 

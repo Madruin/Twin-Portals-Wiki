@@ -1,5 +1,5 @@
 ---
-title: "Esvelle Wavesilver / The Black Viper"
+title: "Esvelle Wavesilver  The Black Viper"
 type: character
 subtype: npc
 status: unknown
@@ -10,20 +10,24 @@ tags:
   - npc
 ---
 
-# Esvelle Wavesilver / The Black Viper
+# Esvelle Wavesilver  The Black Viper
 
-Discussed as Lark's mother. The panel revealed this connection happened partly by accident through Justin's character backstory choices intersecting with the written adventure.
+A masked vigilante woman who appears to help the party fight the grell in the sewers. Leaves a black onyx gemstone rose for Ylka.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E04]]
+**Total appearances:** 5 episodes
 
 ## Description
 
-Discussed as Lark's mother. The panel revealed this connection happened partly by accident through Justin's character backstory choices intersecting with the written adventure.
+A masked vigilante woman who appears to help the party fight the grell in the sewers. Leaves a black onyx gemstone rose for Ylka.
+
+Vigilante mentioned during the meeting with Laeral. Previously helped SWOJ fight a mind flayer in the sewers. Laeral offers to try to recruit her for the Xanathar's Lair mission.
+
 
 ## Role in the Story
 
-
+- **S01E04:** Fight three grell in the sewers with assistance from the Black Viper
+- **S01E04:** Black Viper leaves Ylka a black onyx gemstone rose
 
 ## Episode Appearances
 

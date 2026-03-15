@@ -14,8 +14,8 @@ tags:
 
 A gold dragon of the Way of the Balanced Scale who carries Lark during the flight from Castle Nehri Tar. Introduces himself by name when asked. One of the rescued friendly dragons.
 
-**First appearance:** Episode S02E30
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E30]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ A gold dragon of the Way of the Balanced Scale who carries Lark during the fligh
 
 ## Role in the Story
 
-
+- **S02E30:** SWOJ flies east from Castle Nehri Tar on three allied dragons: Jill, Argentis, and Grage
 
 ## Episode Appearances
 

@@ -14,8 +14,8 @@ tags:
 
 A scarred and tattooed flumph imprisoned in the Stadium of Souls. A veteran gladiator who has fought at least 42 matches. Communicates telepathically. Provides SWOJ with information about the Blight Knight and the stadium's mechanics. Her body is retrieved from the resurrection chamber during SWOJ's escape.
 
-**First appearance:** Episode S02E12
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E12]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,8 @@ A scarred and tattooed flumph imprisoned in the Stadium of Souls. A veteran glad
 
 ## Role in the Story
 
-
+- **S02E12:** SWOJ meets Pippa Flouf, a veteran flumph gladiator in an adjacent cell
+- **S02E12:** Pippa Flouf's body is also retrieved from the chamber
 
 ## Episode Appearances
 

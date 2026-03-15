@@ -14,16 +14,19 @@ tags:
 
 Grinda's mouse familiar.
 
-**First appearance:** Episode S01E06
+**First appearance:** [[S01E06]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 Grinda's mouse familiar.
 
+Grinda's pet rat companion who lives on her shoulder.
+
+
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

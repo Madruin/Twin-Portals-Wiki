@@ -14,8 +14,8 @@ tags:
 
 The ghost of the dead beholder found in the antechamber. A spectral beholder floating above his own decomposed corpse. Has no eyes -- all hollowed-out pits -- and claims to be psychic. Demands an offering for safe passage but is easily appeased. Confined to his room by an invisible barrier. Has a Baltimore accent.
 
-**First appearance:** Episode S02E18
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E18]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ The ghost of the dead beholder found in the antechamber. A spectral beholder flo
 
 ## Role in the Story
 
-
+- **S02E18:** Party encounters Talgath the Undying, the dead beholder's ghost, who demands an offering for safe passage
 
 ## Episode Appearances
 

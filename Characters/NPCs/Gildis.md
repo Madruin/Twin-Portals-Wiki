@@ -12,18 +12,18 @@ tags:
 
 # Gildis
 
-Officer of the Sea Plum, a human.
+First mate of the Sea Plum, a human.
 
-**First appearance:** Episode S01E06
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E06]]
+**Total appearances:** 1 episode
 
 ## Description
 
-Officer of the Sea Plum, a human.
+First mate of the Sea Plum, a human.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

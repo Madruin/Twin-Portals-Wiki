@@ -12,18 +12,18 @@ tags:
 
 # Grinda Garloth
 
-An elderly woman living in a lighthouse at Mist Shore. Owner of the Apparatus of Kwalish. Claims Ylka visited her the previous night and borrowed the Apparatus, though Ylka has no memory of this.
+Owner of a submersible vessel docked beneath the Eyecatcher. Mentioned by Zelopharne but does not appear directly.
 
-**First appearance:** Episode S01E10
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E10]]
+**Total appearances:** 1 episode
 
 ## Description
 
-An elderly woman living in a lighthouse at Mist Shore. Owner of the Apparatus of Kwalish. Claims Ylka visited her the previous night and borrowed the Apparatus, though Ylka has no memory of this.
+Owner of a submersible vessel docked beneath the Eyecatcher. Mentioned by Zelopharne but does not appear directly.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

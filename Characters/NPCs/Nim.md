@@ -14,16 +14,21 @@ tags:
 
 Wooden automaton/construct found on Zardos Zord's ship. About halfling-sized. Broken and faded, non-functional.
 
-**First appearance:** Episode S01E03
-**Total appearances:** 2 episodes
+**First appearance:** [[S01E03]]
+**Total appearances:** 21 episodes
 
 ## Description
 
 Wooden automaton/construct found on Zardos Zord's ship. About halfling-sized. Broken and faded, non-functional.
 
+The Gralhund family golem being repaired/constructed by Zilka in the workshop.
+
+
 ## Role in the Story
 
-
+- **S01E03:** Party rows out to Zardos's ships; finds fake workers, broken automaton Nim, and unicorn figurehead
+- **S01E23:** Major revelation: Zilka (original Ylka) found shackled in construct workshop, forced to work on Nim the golem
+- **S01E23:** SWOJ frees Zilka and fights animated armor constructs
 
 ## Episode Appearances
 

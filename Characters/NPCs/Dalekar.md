@@ -12,18 +12,19 @@ tags:
 
 # Dalekar
 
-A spy following Renaer Neverember, seeking the Stone of Golorr for Dagult Neverember (Renaer's father, former Open Lord of Waterdeep).
+A dragon from the Way of the Balanced Scales flight used as a diversion during the Amphail infiltration. Captured alongside Chip by barbarians and periton riders near the Spiral Cavern entrance.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S02E19]]
+**Total appearances:** 3 episodes
 
 ## Description
 
-A spy following Renaer Neverember, seeking the Stone of Golorr for Dagult Neverember (Renaer's father, former Open Lord of Waterdeep).
+A dragon from the Way of the Balanced Scales flight used as a diversion during the Amphail infiltration. Captured alongside Chip by barbarians and periton riders near the Spiral Cavern entrance.
 
 ## Role in the Story
 
-
+- **S02E19:** Mr. E arrives with Mellafarne and a flight of dragons (Jack, Jill, Chip, Dale)
+- **S02E19:** Chip and Dale are captured by barbarians and periton riders outside the cave
 
 ## Episode Appearances
 

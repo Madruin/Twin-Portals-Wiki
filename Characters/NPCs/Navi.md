@@ -14,8 +14,8 @@ tags:
 
 Gorge Bailey Brew's daughter who remains at the homestead. Connected to the Fleece of Navi-dad item.
 
-**First appearance:** Episode S01E14
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E14]]
+**Total appearances:** 13 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ Gorge Bailey Brew's daughter who remains at the homestead. Connected to the Flee
 
 ## Role in the Story
 
-
+- **S01E14:** Von Gruber defeated through kindness using the Fleece of Navi-dad
 
 ## Episode Appearances
 

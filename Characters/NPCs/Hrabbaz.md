@@ -14,16 +14,21 @@ tags:
 
 Half-orc bodyguard employed by the Gralhund family. Known for being violent and cruel, especially toward children. Janks suggests him as a potential body for Terry.
 
-**First appearance:** Episode S01E11
+**First appearance:** [[S01E11]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 Half-orc bodyguard employed by the Gralhund family. Known for being violent and cruel, especially toward children. Janks suggests him as a potential body for Terry.
 
+Half-orc bodyguard of the Gralhund family. Extremely tall, wields a great axe, wears studded leather armor. Took the burned Zhentarim agent into the Gralhund Villa. Wounded Squidly. Fights Scoot in the master bedroom. Tears up SWOJ's Cassalanter retainer document. Taunts Scoot about his fighting ability.
+
+
 ## Role in the Story
 
-
+- **S01E11:** Janks suggests Hrabbaz (Gralhund bodyguard) as a body for Terry
+- **S01E12:** Trollskull Alley Irregulars report seeing the burned Zhentarim agent enter the Gralhund Villa with Hrabbaz; Squidly is wounded
+- **S01E12:** Scoot battles Hrabbaz in the master bedroom
 
 ## Episode Appearances
 

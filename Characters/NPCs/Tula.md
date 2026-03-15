@@ -14,16 +14,19 @@ tags:
 
 Bartender at Zuber Farm. Mentioned briefly.
 
-**First appearance:** Episode S01E07
+**First appearance:** [[S01E07]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 Bartender at Zuber Farm. Mentioned briefly.
 
+Bartender at Zuber Farm. Reveals Dasher frequented the Hole in the Wall tavern.
+
+
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

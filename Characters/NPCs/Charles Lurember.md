@@ -14,8 +14,8 @@ tags:
 
 Theater employee or patron encountered during the infiltration of Zadio City Music Hall.
 
-**First appearance:** Episode S01E26
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E26]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Theater employee or patron encountered during the infiltration of Zadio City Mus
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

@@ -14,8 +14,8 @@ tags:
 
 A white dragon from the Way of the Balanced Scales flight. One of the dragons SWOJ rides to Amphail. Described as not super smart but loyal.
 
-**First appearance:** Episode S02E19
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E19]]
+**Total appearances:** 4 episodes
 
 ## Description
 
@@ -23,7 +23,8 @@ A white dragon from the Way of the Balanced Scales flight. One of the dragons SW
 
 ## Role in the Story
 
-
+- **S02E19:** Mr. E arrives with Mellafarne and a flight of dragons (Jack, Jill, Chip, Dale)
+- **S02E19:** SWOJ escapes on Jack and Jill, flying back toward Neverwinter with the crystals
 
 ## Episode Appearances
 

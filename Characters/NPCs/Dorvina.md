@@ -14,16 +14,19 @@ tags:
 
 Bartender at The Way Inn. Told tales of the Beast of Erua and the Rose Knight.
 
-**First appearance:** Episode S02E01
-**Total appearances:** 2 episodes
+**First appearance:** [[S02E01]]
+**Total appearances:** 3 episodes
 
 ## Description
 
 Bartender at The Way Inn. Told tales of the Beast of Erua and the Rose Knight.
 
+Member or associate of the Jolly Gents, present during the return to Waterdeep.
+
+
 ## Role in the Story
 
-
+- **S02E01:** They meet Volo, Radissera, Lai Angustune, Tigit Sketch, and bartender Dorvina
 
 ## Episode Appearances
 

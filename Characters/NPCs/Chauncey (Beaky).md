@@ -14,8 +14,8 @@ tags:
 
 An owlbear who works as the maitre d' at the Nest inn in the Dark Market. Initially called 'Beaky' by the patrons but his real name is Chauncey. Very professional and hospitable. Offers rooms and sells a large tie-dye rug to SWOJ (300 gold plus staying the night). Has an unpronounceable owlbear name.
 
-**First appearance:** Episode S02E21
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E21]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ An owlbear who works as the maitre d' at the Nest inn in the Dark Market. Initia
 
 ## Role in the Story
 
-
+- **S02E21:** Party stays overnight at the Nest, an owlbear-run inn (Chauncey the maitre d')
 
 ## Episode Appearances
 

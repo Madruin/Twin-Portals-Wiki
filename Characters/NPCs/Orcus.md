@@ -14,8 +14,8 @@ tags:
 
 The demonic Lord of Undeath, a goat-headed demon lord. His trial is the second challenge in the Shrouded Citadel -- a physical and mental gauntlet featuring riddles, a bone bridge obstacle course, and a hallway of overwhelming death stench.
 
-**First appearance:** Episode S02E29
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E29]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ The demonic Lord of Undeath, a goat-headed demon lord. His trial is the second c
 
 ## Role in the Story
 
-
+- **S02E29:** SWOJ completes the Trial of Orcus -- rapid-fire riddles, bone bridge obstacle course, and death stench hallway
 
 ## Episode Appearances
 

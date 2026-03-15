@@ -14,8 +14,8 @@ tags:
 
 Wizard and illusionist of the Hare Company. A former Waterdeep soldier who deserted with Jonas's unit after the defeat at Red Larch.
 
-**First appearance:** Episode S02E06
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E06]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Wizard and illusionist of the Hare Company. A former Waterdeep soldier who deser
 
 ## Role in the Story
 
-
+- **S02E06:** Ambushed by the Hare Company -- deserters led by Jonas with wizard Nina Blackthorn
 
 ## Episode Appearances
 

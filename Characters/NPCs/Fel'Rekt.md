@@ -14,8 +14,8 @@ tags:
 
 A drow male with guns, found imprisoned by cultists inside the God Catcher. Rescued by the party.
 
-**First appearance:** Episode S01E06
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E06]]
+**Total appearances:** 4 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ A drow male with guns, found imprisoned by cultists inside the God Catcher. Resc
 
 ## Role in the Story
 
-
+- **S01E06:** Discover imprisoned sailors and rescue the drow Fel'rekt from cultists
 
 ## Episode Appearances
 

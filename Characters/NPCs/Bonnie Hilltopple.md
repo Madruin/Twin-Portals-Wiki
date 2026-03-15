@@ -12,18 +12,25 @@ tags:
 
 # Bonnie Hilltopple
 
-Bartender at the Hole in the Wall halfling tavern at the base of the God Catcher.
+Waitress at the Yawning Portal tavern. Serves berry drinks and is friendly with the party.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E01]]
+**Total appearances:** 4 episodes
 
 ## Description
 
-Bartender at the Hole in the Wall halfling tavern at the base of the God Catcher.
+Waitress at the Yawning Portal tavern. Serves berry drinks and is friendly with the party.
+
+Bartender at the Yawning Portal, revealed to be a doppelganger. Works with SWOJ. Has telepathic abilities and reads minds of patrons.
+
+Doppelganger bartender at the Yawning Portal. Telepathically reads Davil Starsong's mind, confirming he is searching for the Stone of Golorr.
+
+A bartender at the Yawning Portal who greets SWOJ at the door and lets them know the ban is lifted. Gives them a free expired berry drink.
+
 
 ## Role in the Story
 
-
+- **S01E11:** Bonnie telepathically reads Davil's mind - he's searching for the Stone of Golorr
 
 ## Episode Appearances
 

@@ -14,8 +14,8 @@ tags:
 
 Tavern owner of the Spouting Fish. Her husband Harold has gone missing along with other patrons.
 
-**First appearance:** Episode S01E04
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E04]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Tavern owner of the Spouting Fish. Her husband Harold has gone missing along wit
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

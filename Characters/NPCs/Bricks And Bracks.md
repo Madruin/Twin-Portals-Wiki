@@ -14,8 +14,8 @@ tags:
 
 Former Harper allies and city watch members revealed to be traitors working for the Cassalanters. On the run after the Cassalanter downfall.
 
-**First appearance:** Episode S01E29
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E29]]
+**Total appearances:** 2 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ Former Harper allies and city watch members revealed to be traitors working for 
 
 ## Role in the Story
 
-
+- **S01E29:** Scoot alerts the Harpers about Bricks and Bracks being traitors
 
 ## Episode Appearances
 

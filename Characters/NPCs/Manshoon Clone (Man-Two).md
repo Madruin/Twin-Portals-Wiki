@@ -14,8 +14,8 @@ tags:
 
 A clone of Manshoon made of ice and water, accompanying SWOJ into the chasm. Uses hypnotic pattern to neutralize guards. Destroyed when he steps on an anti-magic rune trap, causing his magical body to disintegrate.
 
-**First appearance:** Episode S02E16
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E16]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,9 @@ A clone of Manshoon made of ice and water, accompanying SWOJ into the chasm. Use
 
 ## Role in the Story
 
-
+- **S02E16:** SWOJ descends into the Neverwinter chasm with the Manshoon clone (Man-two)
+- **S02E16:** Manshoon clone uses hypnotic pattern on five guards at a checkpoint; Scoot knocks them out
+- **S02E16:** The Manshoon clone is destroyed by an anti-magic rune trap, his ice-and-water body disintegrating
 
 ## Episode Appearances
 

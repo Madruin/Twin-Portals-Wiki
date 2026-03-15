@@ -14,16 +14,19 @@ tags:
 
 Owner of a music shop in Amphail. Her husband Juan, a half-elf fiddler, has gone missing along with other townspeople. Repairs Ylka's concertina and sells her an orca-shaped ocarina.
 
-**First appearance:** Episode S02E06
+**First appearance:** [[S02E06]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 Owner of a music shop in Amphail. Her husband Juan, a half-elf fiddler, has gone missing along with other townspeople. Repairs Ylka's concertina and sells her an orca-shaped ocarina.
 
+Runs the music shop associated with the Doom Network quest. Returns Ylka's concertina in perfect shape with all pegs restored.
+
+
 ## Role in the Story
 
-
+- **S02E06:** Visit Hanna's music shop; learn her husband Juan the half-elf fiddler is missing
 
 ## Episode Appearances
 

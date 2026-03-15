@@ -14,16 +14,19 @@ tags:
 
 Reporter for the Waterdeep Wazoo newspaper, interested in the party's exploits.
 
-**First appearance:** Episode S01E04
-**Total appearances:** 2 episodes
+**First appearance:** [[S01E04]]
+**Total appearances:** 3 episodes
 
 ## Description
 
 Reporter for the Waterdeep Wazoo newspaper, interested in the party's exploits.
 
+Reporter for the Waterdeep Wazoo newspaper. Mentioned in context of covering events.
+
+
 ## Role in the Story
 
-
+- **S01E04:** Meet Mara, reporter for Waterdeep Wazoo newspaper
 
 ## Episode Appearances
 

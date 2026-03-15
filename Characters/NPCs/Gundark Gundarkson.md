@@ -12,18 +12,18 @@ tags:
 
 # Gundark Gundarkson
 
-Bartender and working mayor of Amphail who runs the Staghorn Flagon (Stag and Flag). Provides information about Anya Irmbrusk's disappearance and the mysterious mists from the Cryptwood. Was affected by the mists himself, blacking out behind the bar and waking outside with an axe.
+Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards from the town coffers.
 
-**First appearance:** Episode S02E07
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E07]]
+**Total appearances:** 1 episode
 
 ## Description
 
-Bartender and working mayor of Amphail who runs the Staghorn Flagon (Stag and Flag). Provides information about Anya Irmbrusk's disappearance and the mysterious mists from the Cryptwood. Was affected by the mists himself, blacking out behind the bar and waking outside with an axe.
+Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards from the town coffers.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

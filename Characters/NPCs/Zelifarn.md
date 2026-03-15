@@ -12,18 +12,19 @@ tags:
 
 # Zelifarn
 
-An honorary member of SWOJ. A copper dragon who met SWOJ within the bay of Waterdeep and later allied with them on many adventures.
+A bronze dragon who serves as the self-appointed guardian of Deepwater Harbor. Leads the party to the Sea Plum wreck and then to a smuggler's cave.
 
-**First appearance:** Episode S01E06
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E06]]
+**Total appearances:** 1 episode
 
 ## Description
 
-An honorary member of SWOJ. A copper dragon who met SWOJ within the bay of Waterdeep and later allied with them on many adventures.
+A bronze dragon who serves as the self-appointed guardian of Deepwater Harbor. Leads the party to the Sea Plum wreck and then to a smuggler's cave.
 
 ## Role in the Story
 
-
+- **S01E06:** Meet Zelifarn, a bronze dragon guardian of the harbor
+- **S01E06:** Zelifarn leads them to a smuggler's cave beneath the city
 
 ## Episode Appearances
 

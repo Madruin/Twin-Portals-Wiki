@@ -14,8 +14,8 @@ tags:
 
 Representative of the Vintners', Distillers', and Brewers' Guild. Involved in tavern licensing.
 
-**First appearance:** Episode S01E08
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E08]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Representative of the Vintners', Distillers', and Brewers' Guild. Involved in ta
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

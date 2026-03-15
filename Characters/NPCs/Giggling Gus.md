@@ -14,16 +14,19 @@ tags:
 
 One of the top-ranking Jolly Gents. Mentioned but not directly encountered in this episode. Known for a distinctive giggling laugh.
 
-**First appearance:** Episode S02E22
+**First appearance:** [[S02E22]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 One of the top-ranking Jolly Gents. Mentioned but not directly encountered in this episode. Known for a distinctive giggling laugh.
 
+A top-ranking Jolly Gents member who appears in the dream sequence during the Xanathar assault. Known for his distinctive giggling laugh.
+
+
 ## Role in the Story
 
-
+- **S02E25:** Dream scenario: Jolly Gents assault on the Xanathar's lair with Antediluvian Jake and Giggling Gus
 
 ## Episode Appearances
 

@@ -12,18 +12,23 @@ tags:
 
 # Urstul Floxxin
 
-A surly, heavily scarred former Zentarim enemy of SWOJ who tried to kill them earlier (around episode 4). Brought to the docks in manacles, volunteering for redemption. SWOJ accepts him, removes his bindings, and he regards them with solemn respect. He gives Scoot an awkward fist bump.
+Young servant at the Gralhund Villa. Steps forward to explain the situation to SWOJ - the Zhentarim have turned on the Gralhunds. Helps organize the other servants' escape to the Short Rest.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E12]]
+**Total appearances:** 33 episodes
 
 ## Description
 
-A surly, heavily scarred former Zentarim enemy of SWOJ who tried to kill them earlier (around episode 4). Brought to the docks in manacles, volunteering for redemption. SWOJ accepts him, removes his bindings, and he regards them with solemn respect. He gives Scoot an awkward fist bump.
+Young servant at the Gralhund Villa. Steps forward to explain the situation to SWOJ - the Zhentarim have turned on the Gralhunds. Helps organize the other servants' escape to the Short Rest.
+
+Gralhund family servant who testifies at the trial, corroborating SWOJ's account of events at Gralhund Villa.
+
 
 ## Role in the Story
 
-
+- **S01E12:** A teleportation circle is found in the guest room floor
+- **S01E12:** City watch arrives and floods the Gralhund Villa
+- **S01E15:** Flo and Gralhund staff corroborate SWOJ's story; Taga testifies as character witness
 
 ## Episode Appearances
 

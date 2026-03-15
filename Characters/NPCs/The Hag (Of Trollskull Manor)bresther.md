@@ -1,5 +1,5 @@
 ---
-title: "The Hag (Of Trollskull Manor)<br>"esther""
+title: "The Hag (Of Trollskull Manor)bresther"
 type: character
 subtype: npc
 status: unknown
@@ -10,20 +10,21 @@ tags:
   - npc
 ---
 
-# The Hag (Of Trollskull Manor)<br>"esther"
+# The Hag (Of Trollskull Manor)bresther
 
-A hag previously fought by SWOJ in the attic of Trollskull Manor. Now missing an arm (cut off by Scoot in the previous battle). Serves Malar in the afterlife realm, capturing dryads and animals for sacrifice. She plucked Lark's soul from Kelemvor and gave it to Malar as bait for Lyrian. Defeated again -- her heartstone extracted by Ylka, caged by Scoot.
+A spectral hag who haunts Trollskull Manor. According to legend, she ran an orphanage and ate children. Her power is anchored by a talisman hidden under the tower. When the talisman is destroyed in the cauldron, she becomes physical and is killed by the party.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E05]]
+**Total appearances:** 1 episode
 
 ## Description
 
-A hag previously fought by SWOJ in the attic of Trollskull Manor. Now missing an arm (cut off by Scoot in the previous battle). Serves Malar in the afterlife realm, capturing dryads and animals for sacrifice. She plucked Lark's soul from Kelemvor and gave it to Malar as bait for Lyrian. Defeated again -- her heartstone extracted by Ylka, caged by Scoot.
+A spectral hag who haunts Trollskull Manor. According to legend, she ran an orphanage and ate children. Her power is anchored by a talisman hidden under the tower. When the talisman is destroyed in the cauldron, she becomes physical and is killed by the party.
 
 ## Role in the Story
 
-
+- **S01E05:** Lif's diary reveals the legend of Esther the hag who ate children from an orphanage is real and haunts the manor
+- **S01E05:** Esther the hag manifests in the attic with a cauldron, attempting to cook Squidly
 
 ## Episode Appearances
 

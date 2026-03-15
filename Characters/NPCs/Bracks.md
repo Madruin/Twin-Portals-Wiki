@@ -14,16 +14,20 @@ tags:
 
 One of Remalia's guards. Ensorcelled by the Stone of Golorr, freed by being hit.
 
-**First appearance:** Episode S01E26
-**Total appearances:** 2 episodes
+**First appearance:** [[S01E26]]
+**Total appearances:** 3 episodes
 
 ## Description
 
 One of Remalia's guards. Ensorcelled by the Stone of Golorr, freed by being hit.
 
+Remalia's guard. Betrays Remalia alongside Bricks.
+
+
 ## Role in the Story
 
-
+- **S01E26:** They break the ensorcellement on Remalia, Bricks, and Bracks by hitting them
+- **S01E27:** Bricks and Bracks betray Remalia to the city watch (ensorcelled again)
 
 ## Episode Appearances
 

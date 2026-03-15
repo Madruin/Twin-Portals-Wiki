@@ -14,8 +14,8 @@ tags:
 
 Captain of the Crimson Cracken. Her ship appears offshore and fires cannons at Devil's Rock during the skeleton battle, adding chaos to the situation.
 
-**First appearance:** Episode S02E10
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E10]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Captain of the Crimson Cracken. Her ship appears offshore and fires cannons at D
 
 ## Role in the Story
 
-
+- **S02E10:** The Crimson Cracken (One-Eyed Wilhelmina's ship) fires cannons at the island
 
 ## Episode Appearances
 

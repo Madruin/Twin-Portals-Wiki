@@ -14,8 +14,8 @@ tags:
 
 Member of the Shard Shunners wererats.
 
-**First appearance:** Episode S01E08
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E08]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Member of the Shard Shunners wererats.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

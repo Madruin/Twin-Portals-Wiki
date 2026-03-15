@@ -14,8 +14,8 @@ tags:
 
 The leader of the Cult of the Dragon cell operating out of Castle Nehri Tar. Described by Bronch as a Waterdeep noble seeking revenge. She oversees the dracolich creation rituals and is responsible for draining Jack the silver dragon's soul. Later revealed to be Amalia Cassalanter in disguise.
 
-**First appearance:** Episode S02E28
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E28]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,9 @@ The leader of the Cult of the Dragon cell operating out of Castle Nehri Tar. Des
 
 ## Role in the Story
 
-
+- **S02E28:** They meet Bronch, a disillusioned white-masked cultist who provides intel on Velia Shadowmantle and the dracolich rituals
+- **S02E28:** SWOJ reaches the Sunken City and witnesses Velia draining Jack the silver dragon's soul into a phylactery
+- **S02E28:** Two black dragons approach from behind, trapping SWOJ between them and Velia
 
 ## Episode Appearances
 

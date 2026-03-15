@@ -14,8 +14,8 @@ tags:
 
 Tabaxi musicians who are neighbors to the party.
 
-**First appearance:** Episode S01E05
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E05]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Tabaxi musicians who are neighbors to the party.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

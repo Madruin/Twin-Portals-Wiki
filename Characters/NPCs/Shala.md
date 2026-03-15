@@ -14,16 +14,22 @@ tags:
 
 Leader of the Circle of Dusk druids. Lived in the Cryptwood for a long time and knew all about the forest. Has gone missing along with the rest of the circle.
 
-**First appearance:** Episode S02E06
+**First appearance:** [[S02E06]]
 **Total appearances:** 3 episodes
 
 ## Description
 
 Leader of the Circle of Dusk druids. Lived in the Cryptwood for a long time and knew all about the forest. Has gone missing along with the rest of the circle.
 
+Lead druid of the Circle of Dusk. Mentored Leah and helped heal her injuries. Found transformed into a badger by Arturia's magic.
+
+A druid of the Circle of Dusk who scouts with Leah. Also rides the giant stag beetle Craw. Assists with the Amphail infiltration.
+
+
 ## Role in the Story
 
-
+- **S02E06:** The druids Shala, Nuria, Ander, and Lea have all vanished, progressively losing memories with each mist
+- **S02E19:** Meeting with Circle of Dusk druids Leah and Shala who provide intel on the Spiral Cavern
 
 ## Episode Appearances
 

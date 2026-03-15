@@ -14,8 +14,8 @@ tags:
 
 NPC from The Way Inn who was replicated as a podling in the Shadow Way Inn. The real Green Imsa was found deceased in a pod inside the Beast of Erua.
 
-**First appearance:** Episode S02E02
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E02]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ NPC from The Way Inn who was replicated as a podling in the Shadow Way Inn. The 
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

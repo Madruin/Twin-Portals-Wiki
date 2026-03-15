@@ -14,8 +14,8 @@ tags:
 
 Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visits to offer 150gp to buy the manor. Hostile and antagonistic toward SWOJ.
 
-**First appearance:** Episode S01E07
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E07]]
+**Total appearances:** 2 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visi
 
 ## Role in the Story
 
-
+- **S01E07:** Emmek Frewn tries to buy Trollskull Manor for 150gp and is refused
 
 ## Episode Appearances
 

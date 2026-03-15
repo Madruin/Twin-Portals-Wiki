@@ -14,16 +14,19 @@ tags:
 
 Urstul Floxin's associate at the Kolat Towers.
 
-**First appearance:** Episode S01E22
-**Total appearances:** 2 episodes
+**First appearance:** [[S01E22]]
+**Total appearances:** 3 episodes
 
 ## Description
 
 Urstul Floxin's associate at the Kolat Towers.
 
+Zentarim associate, present in the tower.
+
+
 ## Role in the Story
 
-
+- **S01E22:** Encounter Urstul Floxin and Mookie inside the Zentarim tower
 
 ## Episode Appearances
 

@@ -14,8 +14,8 @@ tags:
 
 Captain of the Hell Razor, one of Jarlaxle's three ships. A swashbuckling fellow with a clearly trimmed mustache who runs a tight ship.
 
-**First appearance:** Episode S02E09
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E09]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Captain of the Hell Razor, one of Jarlaxle's three ships. A swashbuckling fellow
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

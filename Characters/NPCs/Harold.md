@@ -14,16 +14,20 @@ tags:
 
 Eunissa's husband and a former actor. Rescued from the sewers by the party. Gives them the Playwright's Dagger in gratitude.
 
-**First appearance:** Episode S01E04
+**First appearance:** [[S01E04]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 Eunissa's husband and a former actor. Rescued from the sewers by the party. Gives them the Playwright's Dagger in gratitude.
 
+A man from the Spouting Fish (Kipper herring merchant) who was among the spectators. Harbored an intellect devourer that leaps out after Lark persuades him to stop attacking.
+
+
 ## Role in the Story
 
-
+- **S01E04:** Rescue approximately fifteen missing people including Harold
+- **S01E04:** Harold gives the party the Playwright's Dagger
 
 ## Episode Appearances
 

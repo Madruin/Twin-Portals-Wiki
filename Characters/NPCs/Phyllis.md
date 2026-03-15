@@ -14,16 +14,19 @@ tags:
 
 Owner of the flower shop in Trollskull Alley. Witnesses a dark figure taking something from the dead gnome's body and fleeing south after the explosion.
 
-**First appearance:** Episode S01E11
+**First appearance:** [[S01E11]]
 **Total appearances:** 2 episodes
 
 ## Description
 
 Owner of the flower shop in Trollskull Alley. Witnesses a dark figure taking something from the dead gnome's body and fleeing south after the explosion.
 
+Patron at Froon's Brews who donates health potions to SWOJ along with Ted.
+
+
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

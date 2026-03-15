@@ -14,8 +14,8 @@ tags:
 
 A Zentarim lieutenant operating out of Amphail who sent Crom and his team to steal the soul stone from Castle Never. Not encountered directly -- only mentioned by Crom during interrogation.
 
-**First appearance:** Episode S02E31
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E31]]
+**Total appearances:** 4 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ A Zentarim lieutenant operating out of Amphail who sent Crom and his team to ste
 
 ## Role in the Story
 
-
+- **S02E31:** Interrogation of cicada-Crom reveals Zentarim involvement, Lieutenant Crowell, spiral cavern defenses, and plans to use the Radiant Citadel
 
 ## Episode Appearances
 

@@ -14,8 +14,8 @@ tags:
 
 City Watch member mentioned in context of Waterdeep's current state.
 
-**First appearance:** Episode S02E05
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E05]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ City Watch member mentioned in context of Waterdeep's current state.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

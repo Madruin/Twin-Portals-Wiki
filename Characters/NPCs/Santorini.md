@@ -14,8 +14,8 @@ tags:
 
 A friendly tiefling/demon in the Dark Market, part of the trio with Mikael and Lucinda. Socializes with SWOJ at the Nest.
 
-**First appearance:** Episode S02E21
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E21]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ A friendly tiefling/demon in the Dark Market, part of the trio with Mikael and L
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

@@ -14,16 +14,25 @@ tags:
 
 Member of the Sea Plum crew. Stays at Trollskull Manor.
 
-**First appearance:** Episode S01E07
+**First appearance:** [[S01E07]]
 **Total appearances:** 5 episodes
 
 ## Description
 
 Member of the Sea Plum crew. Stays at Trollskull Manor.
 
+Sea Plum crew member still hanging around Trollskull Manor.
+
+Gnome resident of Trollskull Manor who tends pigeons on the roof. Devastated by the death of his pigeons in the explosion. Sally the pigeon survives.
+
+Gnome pigeon keeper at Trollskull Manor. Recovers Sally the burned pigeon. Devastated by the death of his other pigeons in the explosion.
+
+Mentioned in passing, context unclear.
+
+
 ## Role in the Story
 
-
+- **S01E08:** Sea Plum crew arrives at Trollskull including Pog Waggletop and Simon (Scoot's dad)
 
 ## Episode Appearances
 

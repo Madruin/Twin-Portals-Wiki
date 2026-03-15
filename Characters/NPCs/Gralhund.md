@@ -14,8 +14,8 @@ tags:
 
 Noble house mentioned when Willifort announces 'House Gralhund' arriving at the party. Connected to Ylka's backstory.
 
-**First appearance:** Episode S01E09
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E09]]
+**Total appearances:** 14 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ Noble house mentioned when Willifort announces 'House Gralhund' arriving at the 
 
 ## Role in the Story
 
-
+- **S01E09:** House Gralhund is announced arriving at the party
 
 ## Episode Appearances
 

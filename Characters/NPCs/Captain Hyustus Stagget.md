@@ -12,18 +12,18 @@ tags:
 
 # Captain Hyustus Stagget
 
-Captain of the city watch. Arrests SWOJ after the High Road chase. Privately warns them at the Docks Ward guardhouse that the magistrate assigned to their trial has been bought off by the Cassalanters.
+City Watch officer at the Yawning Portal who enforces the party's ban.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S01E04]]
+**Total appearances:** 9 episodes
 
 ## Description
 
-Captain of the city watch. Arrests SWOJ after the High Road chase. Privately warns them at the Docks Ward guardhouse that the magistrate assigned to their trial has been bought off by the Cassalanters.
+City Watch officer at the Yawning Portal who enforces the party's ban.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

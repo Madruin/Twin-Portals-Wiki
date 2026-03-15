@@ -12,18 +12,21 @@ tags:
 
 # Lark Wavesilver
 
-Human rogue (swashbuckler) played by Justin Peck, discussed extensively. Was disintegrated by the Xanathar's beholder in a live episode. Scott and Justin reflect on the moment and speculate about his possible return.
+Human rogue (swashbuckler) played by Justin Peck, discussed extensively. Was disintegrated by the Xanathar's beholder in the previous live episode. Scott and Justin reflect on the moment and speculate about his possible return.
 
-**First appearance:** Episode S01E19
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E19]]
+**Total appearances:** 1 episode
 
 ## Description
 
-Human rogue (swashbuckler) played by Justin Peck, discussed extensively. Was disintegrated by the Xanathar's beholder in a live episode. Scott and Justin reflect on the moment and speculate about his possible return.
+Human rogue (swashbuckler) played by Justin Peck, discussed extensively. Was disintegrated by the Xanathar's beholder in the previous live episode. Scott and Justin reflect on the moment and speculate about his possible return.
 
 ## Role in the Story
 
-
+- **S01E19:** Out-of-character interview episode between Scott (producer/Scoot) and Justin (Lark) during COVID quarantine
+- **S01E19:** Extended reflection on Lark's disintegration by the beholder in the live show finale
+- **S01E19:** Justin reveals complex feelings about Lark's death -- both devastating and narratively exciting
+- **S01E19:** Justin suggests if Lark doesn't return, he'd consider playing a drunken master monk or ranger
 
 ## Episode Appearances
 

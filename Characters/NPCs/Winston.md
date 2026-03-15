@@ -14,8 +14,8 @@ tags:
 
 Shield guardian companion of Alcoria Stonemarrow. A large magical construct.
 
-**First appearance:** Episode S01E07
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E07]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Shield guardian companion of Alcoria Stonemarrow. A large magical construct.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

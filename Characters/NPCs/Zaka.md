@@ -14,8 +14,8 @@ tags:
 
 Ancient figure whose Tome Tower serves as the setting for the Von Gruber encounter. The tower is a repository of knowledge in prehistoric Waterdeep.
 
-**First appearance:** Episode S01E14
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E14]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Ancient figure whose Tome Tower serves as the setting for the Von Gruber encount
 
 ## Role in the Story
 
-
+- **S01E14:** Party reaches Zaka's Tome Tower, finds Bailey Brew family under Hans Von Gruber's spell
 
 ## Episode Appearances
 

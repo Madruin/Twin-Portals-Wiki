@@ -14,8 +14,8 @@ tags:
 
 Cleric at the Temple of Selune in the Sea Ward. Casts Lesser Restoration on Lark to cure his ailment.
 
-**First appearance:** Episode S01E10
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E10]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ Cleric at the Temple of Selune in the Sea Ward. Casts Lesser Restoration on Lark
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

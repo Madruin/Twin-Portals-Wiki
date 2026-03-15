@@ -14,8 +14,8 @@ tags:
 
 A raven familiar belonging to one of the reporters.
 
-**First appearance:** Episode S01E24
-**Total appearances:** 1 episodes
+**First appearance:** [[S01E24]]
+**Total appearances:** 1 episode
 
 ## Description
 
@@ -23,7 +23,7 @@ A raven familiar belonging to one of the reporters.
 
 ## Role in the Story
 
-
+*Details to be added.*
 
 ## Episode Appearances
 

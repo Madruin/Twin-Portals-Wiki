@@ -14,8 +14,8 @@ tags:
 
 Patron at Froon's Brews who donates health potions to SWOJ for their journey north.
 
-**First appearance:** Episode S02E06
-**Total appearances:** 1 episodes
+**First appearance:** [[S02E06]]
+**Total appearances:** 62 episodes
 
 ## Description
 
@@ -23,7 +23,7 @@ Patron at Froon's Brews who donates health potions to SWOJ for their journey nor
 
 ## Role in the Story
 
-
+- **S02E06:** Hare Company yields and reveals they deserted after Waterdeep's defeat at Red Larch
 
 ## Episode Appearances
 
