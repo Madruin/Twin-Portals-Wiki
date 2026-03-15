@@ -14,7 +14,7 @@ tags:
 
 Member of the Jolly Gents. Teleports the group back to Waterdeep using a teleportation circle.
 
-**First appearance:** [[S02E05]]
+**First appearance:** [[S02E05 - Episode Thirty Five (S02E05)]]
 **Total appearances:** 8 episodes
 
 ## Description

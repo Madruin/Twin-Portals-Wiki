@@ -14,7 +14,7 @@ tags:
 
 One of the Cassalanter Villa guards.
 
-**First appearance:** [[S01E09]]
+**First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 2 episodes
 
 ## Description

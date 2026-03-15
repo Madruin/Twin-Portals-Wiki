@@ -64,20 +64,20 @@ While the illusion distracts the audience, Xae transforms into an ox to ram the 
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Shuni]] — The ghost of the friendly Manshoon clone from the previous episode. Briefly advises SWOJ about soul mechanics in the Far Realm before being recaptured by Rowan Crooks via the cracked soul stone. Warns about madness from prolonged soul-body separation and soul-eating entities.
+- [[Shoonie]] — The ghost of the friendly Manshoon clone from the previous episode. Briefly advises SWOJ about soul mechanics in the Far Realm before being recaptured by Rowan Crooks via the cracked soul stone. Warns about madness from prolonged soul-body separation and soul-eating entities.
 - [[Rowan Crooks]] — The 14th Manshoon clone. Finishes carving a teleportation circle, loots all of SWOJ's gear, recaptures Shuni's ghost in the soul stone, takes the barely-alive Little Joan, and teleports away -- leaving SWOJ as helpless spirits.
 - [[Vincent Trench]] — An ally of SWOJ who appears in spectral astral projection form at the Museum of the Multiverse. Briefly seen with a tiger face before shifting to human form. Negotiating a contract with a laser-eyed moose. Later visits Scoot during the long rest, revealing the control panel override and suggesting the bag of holding portal as an escape route.
 - [[Pippa Flouf]] — A scarred and tattooed flumph imprisoned in the Stadium of Souls. A veteran gladiator who has fought at least 42 matches. Communicates telepathically. Provides SWOJ with information about the Blight Knight and the stadium's mechanics. Her body is retrieved from the resurrection chamber during SWOJ's escape.
-- [[Teriador the Rose Knight / The Blight Knight]] — The Rose Knight previously abandoned by SWOJ to Manshoon's clutches. Now the Blight Knight of the Stadium of Souls, possessed by the Body Taker entity that shares his soul. Alternates between rage at SWOJ's betrayal and the Body Taker's destructive impulses. Wields the Sword of Explosions and fires thorns and fireballs. SWOJ calms him through emotional persuasion and assigns him a random drow body for resurrection.
+- [[Teriador The Rose Knight  The Blight Knight]] — The Rose Knight previously abandoned by SWOJ to Manshoon's clutches. Now the Blight Knight of the Stadium of Souls, possessed by the Body Taker entity that shares his soul. Alternates between rage at SWOJ's betrayal and the Body Taker's destructive impulses. Wields the Sword of Explosions and fires thorns and fireballs. SWOJ calms him through emotional persuasion and assigns him a random drow body for resurrection.
 - [[The Body Taker]] — An entity that has merged with Teriador's soul, creating a dual personality. Takes control periodically, making Teriador's arms brambly with thorns and changing his voice. Part of the reason Teriador fights as the Blight Knight.
 
 ### Locations
 
-- [[The Breathless Elder (Mouth/Interior)]]
+- [[The Breathless Elder (MouthInterior)]]
 - [[The Far Realm]]
 - [[The Wall]]
-- [[Museum of the Multiverse]]
-- [[Stadium of Souls]]
+- [[Museum Of The Multiverse]]
+- [[Stadium Of Souls]]
 - [[Resurrection Chamber]]
 
 ---

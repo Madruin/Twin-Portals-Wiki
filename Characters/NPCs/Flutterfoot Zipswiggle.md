@@ -14,7 +14,7 @@ tags:
 
 Gnome jester enslaved by the Xanathar. Wears a jester hat with golden eyes on it. Gives SWOJ dust of disappearance and warns them about the lair's dangers. Seems resigned to his captivity.
 
-**First appearance:** [[S01E16]]
+**First appearance:** [[S01E16 - Episode Sixteen]]
 **Total appearances:** 2 episodes
 
 ## Description

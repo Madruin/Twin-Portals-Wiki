@@ -14,7 +14,7 @@ tags:
 
 Farmer at the neighboring Zuber Farm in Undercliff. Her son Dasher has gone missing. Has a bartender named Tula working for her.
 
-**First appearance:** [[S01E07]]
+**First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 2 episodes
 
 ## Description

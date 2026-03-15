@@ -10,14 +10,14 @@ tags:
 
 # Doppelganger Cultists
 
-Cultists led by Zilka who crash the Cassalanter party. Wear golden grinning masks and red leather armor/robes. Attack nobles, paint blood patterns on walls, perform occult rituals. At least 8-10 cultists plus Zilka and 3 other figures who swing through windows.
+Cultists led by Zylka who crash the Cassalanter party. Wear golden grinning masks and red leather armor/robes. Attack nobles, paint blood patterns on walls, perform occult rituals. At least 8-10 cultists plus Zylka and 3 other figures who swing through windows.
 
 **First appearance:** Episode S01E09
 **Total appearances:** 1 episodes
 
 ## Overview
 
-Cultists led by Zilka who crash the Cassalanter party. Wear golden grinning masks and red leather armor/robes. Attack nobles, paint blood patterns on walls, perform occult rituals. At least 8-10 cultists plus Zilka and 3 other figures who swing through windows.
+Cultists led by Zylka who crash the Cassalanter party. Wear golden grinning masks and red leather armor/robes. Attack nobles, paint blood patterns on walls, perform occult rituals. At least 8-10 cultists plus Zylka and 3 other figures who swing through windows.
 
 ## Known Members
 

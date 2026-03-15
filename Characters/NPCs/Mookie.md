@@ -14,7 +14,7 @@ tags:
 
 Urstul Floxin's associate at the Kolat Towers.
 
-**First appearance:** [[S01E22]]
+**First appearance:** [[S01E22 - Episode Twenty Two]]
 **Total appearances:** 3 episodes
 
 ## Description

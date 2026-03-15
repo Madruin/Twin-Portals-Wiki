@@ -14,7 +14,7 @@ tags:
 
 A Jolly Gents member overheard during a wyvern patrol in the underground caverns beneath Zentil Keep. Discusses patrol routes and security with Slim Curly.
 
-**First appearance:** [[S02E23]]
+**First appearance:** [[S02E23 - Episode Fifty Three (S02E23)]]
 **Total appearances:** 1 episode
 
 ## Description

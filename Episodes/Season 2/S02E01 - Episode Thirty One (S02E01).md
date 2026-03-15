@@ -57,13 +57,13 @@ The party ate the magical mushroom, which granted them a blessed effect, and cha
 
 **NPCs:**
 - [[Rowan Crooks]] — Leader of the Jolly Gents adventuring group. Split off from SWOJ with part of his crew to pursue a different lead on Manshoon.
-- [[Antidiluvian Jake]] — Member of the Jolly Gents who stayed with SWOJ. Carries an obsidian tablet that he uses for notes and communication. Scholarly and curious.
+- [[Antediluvian Jake]] — Member of the Jolly Gents who stayed with SWOJ. Carries an obsidian tablet that he uses for notes and communication. Scholarly and curious.
 - [[Ann Jane Flip-Flap]] — Member of the Jolly Gents who stayed with SWOJ. Helped lock the door during the Shadow Way Inn attack.
-- [[Lerian]] — A unicorn companion traveling with SWOJ and the Jolly Gents through the Feywild.
+- [[Lyrian]] — A unicorn companion traveling with SWOJ and the Jolly Gents through the Feywild.
 - [[Volothamp Geddarm]] — Famous chronicler and author encountered at The Way Inn. Was later captured and replaced by a podling in the Shadowfell.
-- [[Radissera]] — Rock gnome inventor at The Way Inn. Creator of the Dynamo of Possibility, a device that imbues the suggestion of a soul onto inanimate objects.
-- [[Lai Angustune]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Tigit Sketch.
-- [[Tigit Sketch]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Lai Angustune.
+- [[Radecere]] — Rock gnome inventor at The Way Inn. Creator of the Dynamo of Possibility, a device that imbues the suggestion of a soul onto inanimate objects.
+- [[Ly Angestunne]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Tigit Sketch.
+- [[Tyjit Skesh]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Lai Angustune.
 - [[Dorvina]] — Bartender at The Way Inn. Told tales of the Beast of Erua and the Rose Knight.
 - [[Thail]] — Ghost of a tiefling, former companion of SWOJ who died previously. Brother of Squidly (Nat'n Jenkson). Appeared to the party in the Shadowfell. Can possess living bodies.
 
@@ -73,7 +73,7 @@ The party ate the magical mushroom, which granted them a blessed effect, and cha
 - [[The Way Inn]]
 - [[The Shadowfell]]
 - [[Fairy Ring]]
-- [[Brighanox Tunnels]]
+- [[Brigganock's Tunnels]]
 
 ---
 

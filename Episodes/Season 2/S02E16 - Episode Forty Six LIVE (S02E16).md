@@ -50,14 +50,14 @@ Riding the underground river of water, they reach a vast subterranean lake where
 
 ### Featured Characters
 
-- [[Scoot]]
-- [[Ylka]]
-- [[Lark]]
-- [[Xae]]
+- [[Scoot Sparkles]]
+- [[Ylka Gralhund]]
+- [[Lark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Manshoon Clone (Man-two)]] — A clone of Manshoon made of ice and water, accompanying SWOJ into the chasm. Uses hypnotic pattern to neutralize guards. Destroyed when he steps on an anti-magic rune trap, causing his magical body to disintegrate.
-- [[Shailheart]] — A friendly female bulette (landshark) living deep in the Neverwinter chasm with her three children. She gives SWOJ one of her fire-resistant scales for protection against the river of fire and provides directions through the underground tunnels.
+- [[Manshoon Clone (Man-Two)]] — A clone of Manshoon made of ice and water, accompanying SWOJ into the chasm. Uses hypnotic pattern to neutralize guards. Destroyed when he steps on an anti-magic rune trap, causing his magical body to disintegrate.
+- [[Shaleheart]] — A friendly female bulette (landshark) living deep in the Neverwinter chasm with her three children. She gives SWOJ one of her fire-resistant scales for protection against the river of fire and provides directions through the underground tunnels.
 - [[Arcanthos]] — An ancient red dragon dwelling beneath the Neverwinter chasm. The stepping stones across the river of fire are his shed scales. He is impressed by SWOJ's courage and gives them one of his teeth, which functions as a dagger capable of casting burning hands.
 - [[The Hungry Elder]] — An enormous aboleth-like viper fish creature living in the subterranean lake beneath the chasm. Maintains the seal that keeps the chasm stable, powered by green stones of power. Has a bioluminescent dangling appendage that serves as a power conduit. Joan severs this appendage during the Jolly Gents' attack.
 - [[Little Joan]] — One of the three Jolly Gents. A fighter who wields a blade. During the ambush at the subterranean lake, she severs the Hungry Elder's dangling power source and falls into the water during the battle.
@@ -70,9 +70,9 @@ Riding the underground river of water, they reach a vast subterranean lake where
 - [[Neverwinter Chasm]]
 - [[Guard Post]]
 - [[Anti-Magic Rune Trap]]
-- [[Shailheart's Den]]
-- [[River of Fire]]
-- [[River of Water]]
+- [[Shaleheart's Den]]
+- [[River Of Fire]]
+- [[River Of Water]]
 - [[Subterranean Lake]]
 
 ---

@@ -54,7 +54,7 @@ The hammerhead ship's detachable hammer section is launched as a battering ram i
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
@@ -62,16 +62,16 @@ The hammerhead ship's detachable hammer section is launched as a battering ram i
 - [[Kelemvor]] — The god of the dead who manifests as a fifty-foot robed figure with silver scales. He appears at the climactic moment and presents the party with the choice to break or preserve the Wall of the Faithless. When SWOJ votes to break the Wall, he facilitates the release of all trapped souls.
 - [[Arcturia]] — Xae's sister and transmutation wizard. She performs the ritual at Kelemvor's skeleton that raises an army of ancient souls from the Wall of the Faithless. She possesses a portable hole that Manshoon searches through for the soul stone of Rowan Crooks.
 - [[Sholeh]] — The elder speaker and ancient brass dragon. She protects civilian survivors at the bottom of the Citadel during the final battle, shielding them from Manshoon's forces while SWOJ confronts the villain directly.
-- [[Zellopharn]] — The ancient bronze dragon who circles overhead during the battle at the bottom of the Citadel. He assists by carrying carrier pigeons for communication between forces.
+- [[Zelifarn]] — The ancient bronze dragon who circles overhead during the battle at the bottom of the Citadel. He assists by carrying carrier pigeons for communication between forces.
 - [[Squidly]] — A tiefling ally of SWOJ who has been captured and restrained by Manshoon's forces at the bottom of the Citadel. Lark frees him from magical restraints during the battle.
-- [[Urstal Flocks]] — An ally of SWOJ who has been captured and restrained by Manshoon's forces. Freed by Lark alongside Squidly and the Doom Raiders during the battle at the bottom of the Citadel.
+- [[Urstul Floxxin]] — An ally of SWOJ who has been captured and restrained by Manshoon's forces. Freed by Lark alongside Squidly and the Doom Raiders during the battle at the bottom of the Citadel.
 - [[Orc Woman Warrior Ghost]] — The leader of the army of ancient souls raised from the Wall of the Faithless. She wears a crescent moon earring and has a dolphin tattoo on her arm. She leads blue and white spectres wearing armor from forgotten civilizations up the crystal spire to confront Manshoon's forces.
 - [[Raven Queen]] — A deity of death and fate. Manshoon's soul is ultimately sent to her as punishment after his defeat, ensuring he cannot return.
 - [[Rowan Crooks]] — A folk hero whose soul stone Manshoon desperately seeks during the battle. He originally built the soul pylons at the Radiant Citadel before disappearing. His soul stone is the key to Manshoon's plans for godhood.
 
 ### Locations
 
-- [[Wall of the Faithless]]
+- [[Wall Of The Faithless]]
 - [[Kelemvor's Skeleton]]
 - [[Crystal Spire]]
 - [[Radiant Citadel (Bottom)]]

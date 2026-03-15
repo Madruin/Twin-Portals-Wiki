@@ -14,7 +14,7 @@ tags:
 
 A powerful deity associated with death, fate, and the transition between life and death. Orchestrates the dream sequence as a test for SWOJ. Appears at the end of the episode after the party defeats their shadow selves, acknowledging their worthiness.
 
-**First appearance:** [[S02E25]]
+**First appearance:** [[S02E25 - Episode Fifty Five LIVE (S02E25)]]
 **Total appearances:** 9 episodes
 
 ## Description

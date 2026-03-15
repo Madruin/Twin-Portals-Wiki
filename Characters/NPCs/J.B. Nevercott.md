@@ -14,7 +14,7 @@ tags:
 
 Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust.
 
-**First appearance:** [[S01E09]]
+**First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 2 episodes
 
 ## Description

@@ -48,12 +48,12 @@ SWOJ prepares for the Cassalanter party. JB Nevercott the haberdasher delivers a
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[JB Nevercott]] — Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust.
-- [[Willifort Crowelle]] — Tiefling majordomo of Cassalanter Villa. Manages guests at the door, checks weapons. Wears thin-rimmed glasses pulled from his pocket -- matches the description of the tiefling who gave Blossom the devil ring.
+- [[J.B. Nevercott]] — Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust.
+- [[Willifort Crowell]] — Tiefling majordomo of Cassalanter Villa. Manages guests at the door, checks weapons. Wears thin-rimmed glasses pulled from his pocket -- matches the description of the tiefling who gave Blossom the devil ring.
 - [[Victoro Cassalanter]] — Noble patriarch of House Cassalanter. Gambles with Scoot at Tymora's Fancy, losing 160gp. Fights cultists with his ruby-tipped staff during the attack, causing the room to shake and trapping cultists. Rushes to the attic to restrain his son Osvaldo.
 - [[Amalia Cassalanter]] — Noble matriarch of House Cassalanter. Tall, Morticia Addams-like appearance. Pulls SWOJ aside to hire them to find Dagult Neverember's hoard of golden dragons for 150gp/day stipend. Mentions their late son Osvaldo. Rushes to the attic to save Osvaldo.
 - [[Osvaldo Cassalanter]] — The Cassalanters' supposedly dead son. Actually a nine-foot-tall demonic chain-bound humanoid trapped in a pentagram circle in the attic. Has chains that animate with barbed spikes, bleeds black ichor, emanates an aura dampening healing magic. Previously the source of the howling sounds.
@@ -67,7 +67,7 @@ SWOJ prepares for the Cassalanter party. JB Nevercott the haberdasher delivers a
 
 - [[Cassalanter Villa]]
 - [[Cassalanter Villa Ballroom]]
-- [[Cassalanter Villa Attic]]
+- [[Cassalanter Villa (Attic)]]
 - [[Trollskull Manor]]
 
 ---

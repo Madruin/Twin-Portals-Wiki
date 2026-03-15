@@ -14,7 +14,7 @@ tags:
 
 Famous author and adventurer. Gives the party the deed to Trollskull Manor as payment for rescuing Floon and Renaer.
 
-**First appearance:** [[S01E04]]
+**First appearance:** [[S01E04 - Episode Four]]
 **Total appearances:** 4 episodes
 
 ## Description

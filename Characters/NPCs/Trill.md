@@ -14,7 +14,7 @@ tags:
 
 A farmer and sugar mill worker inside the Preserve of the Ancestors. Originally from Godsbreath, one of the founding cultures of the Radiant Citadel. Killed by one of the alien shadow creatures that appear at his mill. Known as 'Trill from the Mill.'
 
-**First appearance:** [[S02E08]]
+**First appearance:** [[S02E08 - Episode Thirty Eight (S02E08)]]
 **Total appearances:** 2 episodes
 
 ## Description

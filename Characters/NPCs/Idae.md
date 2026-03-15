@@ -14,7 +14,7 @@ tags:
 
 One of three Shadar-kai who greets SWOJ upon their arrival in the Shadowfell via the Raven Queen portal. The same three Shadar-kai the party met on their previous visit to the Shadowfell.
 
-**First appearance:** [[S02E20]]
+**First appearance:** [[S02E20 - Episode Fifty (S02E20)]]
 **Total appearances:** 2 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 A halfling spy master and undead Jolly Gents operative. Spots SWOJ during a patrol in the underground caverns. Chased and killed by the party. His body is fed to the mushrooms to dispose of evidence.
 
-**First appearance:** [[S02E23]]
+**First appearance:** [[S02E23 - Episode Fifty Three (S02E23)]]
 **Total appearances:** 1 episode
 
 ## Description

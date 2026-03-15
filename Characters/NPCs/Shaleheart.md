@@ -12,14 +12,14 @@ tags:
 
 # Shaleheart
 
-SWOJ's bulette companion. Has been helping Mellafarne and Xae dig tunnels for the chasm-sealing ritual beneath Neverwinter.
+SWOJ's bulette companion. Has been helping Melifarn and Xae dig tunnels for the chasm-sealing ritual beneath Neverwinter.
 
-**First appearance:** [[S02E20]]
+**First appearance:** [[S02E20 - Episode Fifty (S02E20)]]
 **Total appearances:** 4 episodes
 
 ## Description
 
-SWOJ's bulette companion. Has been helping Mellafarne and Xae dig tunnels for the chasm-sealing ritual beneath Neverwinter.
+SWOJ's bulette companion. Has been helping Melifarn and Xae dig tunnels for the chasm-sealing ritual beneath Neverwinter.
 
 A massive bulette allied with SWOJ. Her babies are grown up now. Crawls onto the bottom of the Ethereal Galleon to join the mission. Xae gives her lunaria flowers as a gift.
 

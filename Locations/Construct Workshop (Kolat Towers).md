@@ -10,7 +10,7 @@ tags:
 
 # Construct Workshop (Kolat Towers)
 
-A workshop in the Kolat Towers where Zilka was shackled and forced to work on Nim, the Gralhund golem. Hidden behind an illusory wall.
+A workshop in the Kolat Towers where Zylka was shackled and forced to work on Nim, the Gralhund golem. Hidden behind an illusory wall.
 
 **Type:** room
 **First appearance:** Episode S01E23
@@ -18,7 +18,7 @@ A workshop in the Kolat Towers where Zilka was shackled and forced to work on Ni
 
 ## Description
 
-A workshop in the Kolat Towers where Zilka was shackled and forced to work on Nim, the Gralhund golem. Hidden behind an illusory wall.
+A workshop in the Kolat Towers where Zylka was shackled and forced to work on Nim, the Gralhund golem. Hidden behind an illusory wall.
 
 ## Notable Events
 

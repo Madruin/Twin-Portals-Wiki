@@ -14,7 +14,7 @@ tags:
 
 The Beast Lord, a deity of hunting, lycanthropy and blood. The afterlife realm the party enters belongs to him. The hag serves him, capturing dryads and animals as sacrifices. His followers (wererats and a werewolf) corrupt the ash tree's water with blood to ensnare Lyrian.
 
-**First appearance:** [[S01E21]]
+**First appearance:** [[S01E21 - Episode Twenty One]]
 **Total appearances:** 3 episodes
 
 ## Description

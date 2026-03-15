@@ -14,7 +14,7 @@ tags:
 
 First mate of the Sea Plum, a human.
 
-**First appearance:** [[S01E06]]
+**First appearance:** [[S01E06 - Episode Six]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 The ghostly spirit of the wife of Lord Halueth Never, the founder of Neverwinter. Rises as a banshee from her coffin when the Crown of Neverwinter is removed. Her wail deals 83 points of damage. After Lark tells their full story and plays the ghostly pan flute, she calms down, nods approvingly, aligns her ghostly crown with the physical one (making it warmer), places a hand on Lark's shoulder, and fades away.
 
-**First appearance:** [[S02E18]]
+**First appearance:** [[S02E18 - Episode Forty Eight LIVE (S02E18)]]
 **Total appearances:** 1 episode
 
 ## Description

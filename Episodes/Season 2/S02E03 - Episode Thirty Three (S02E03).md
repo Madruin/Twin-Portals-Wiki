@@ -59,17 +59,17 @@ After the battle, Xae discovered that the rings -- four matching sky-blue and on
 
 **NPCs:**
 - [[Teriador]] — The Rose Knight, a legendary hero who originally slew the Beast of Erua. His ghost emerged from the sarcophagus in the fortress. His reanimated corpse was a podling. Possessed Ylka's body to speak. Asked to have his armor returned to his sarcophagus.
-- [[Antidiluvian Jake]] — Jolly Gents member found captive in a glowing pod inside the Beast of Erua. His obsidian tablet had been taken by a crawling hand. Upon rescue, began an incantation to contact Rowan Crooks via the teleportation circle.
+- [[Antediluvian Jake]] — Jolly Gents member found captive in a glowing pod inside the Beast of Erua. His obsidian tablet had been taken by a crawling hand. Upon rescue, began an incantation to contact Rowan Crooks via the teleportation circle.
 - [[Ann Jane Flip-Flap]] — Jolly Gents member found captive in a glowing pod inside the Beast of Erua. After rescue, checked on the other freed prisoners.
 - [[Volothamp Geddarm]] — Famous chronicler found captive in a pod inside the Beast of Erua. Amazed to learn he was inside the Beast of Erua and insisted on recording everything.
-- [[Radissera]] — Rock gnome inventor rescued from a pod. Revealed his stolen invention, the Dynamo of Possibility, was being used to animate the Beast of Erua and create podlings. Panicked about its misuse.
+- [[Radecere]] — Rock gnome inventor rescued from a pod. Revealed his stolen invention, the Dynamo of Possibility, was being used to animate the Beast of Erua and create podlings. Panicked about its misuse.
 - [[Rowan Crooks]] — Leader of the Jolly Gents. Antidiluvian Jake attempted to contact him via incantation, believing they were close to finding Manshoon.
 - [[Thail]] — Ghost of a tiefling. Cast fireball from his wish stone crystal during the ribcage battle. Scouted the staircase leading up through the beast's trachea at episode's end.
 
 ### Locations
 
-- [[Rose Knight's Fortress/Mausoleum]]
-- [[Beast of Erua's Ribcage]]
+- [[Rose Knight's FortressMausoleum]]
+- [[Beast Of Erua's Ribcage]]
 - [[The Laboratory]]
 - [[The Workshop]]
 

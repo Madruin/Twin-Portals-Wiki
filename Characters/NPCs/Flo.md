@@ -14,7 +14,7 @@ tags:
 
 Young servant at the Gralhund Villa. Steps forward to explain the situation to SWOJ - the Zhentarim have turned on the Gralhunds. Helps organize the other servants' escape to the Short Rest.
 
-**First appearance:** [[S01E12]]
+**First appearance:** [[S01E12 - Episode Twelve]]
 **Total appearances:** 33 episodes
 
 ## Description

@@ -54,19 +54,19 @@ SWOJ steals the black dragon mask and dumps the dragon tea through the dragon mo
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xaerine 'Xae' Rumblestride]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Bronch]] — A disillusioned white-masked cultist stationed at Castle Nehri Tar. He provides SWOJ with critical intelligence about the cult's leadership, their dracolich creation rituals, and the Mask of Dragon Kind. He agrees to help SWOJ from the inside. Appears shaken but willing to take risks against Velia's operation.
+- [[Bronk]] — A disillusioned white-masked cultist stationed at Castle Nehri Tar. He provides SWOJ with critical intelligence about the cult's leadership, their dracolich creation rituals, and the Mask of Dragon Kind. He agrees to help SWOJ from the inside. Appears shaken but willing to take risks against Velia's operation.
 - [[Velia Shadowmantle]] — The leader of the Cult of the Dragon cell operating out of Castle Nehri Tar. Described by Bronch as a Waterdeep noble seeking revenge. She oversees the dracolich creation rituals and is responsible for draining Jack the silver dragon's soul. Later revealed to be Amalia Cassalanter in disguise.
-- [[Jill (Iglemar)]] — A young white dragon of the Way of the Balanced Scale, held in a trance by the Cult of the Dragon in the underground fortress. SWOJ breaks her free by reminding her of balance, and she freezes the pursuing cultists to aid their escape. One of the missing friendly dragons they were sent to rescue.
+- [[Jill (Ygglimar)]] — A young white dragon of the Way of the Balanced Scale, held in a trance by the Cult of the Dragon in the underground fortress. SWOJ breaks her free by reminding her of balance, and she freezes the pursuing cultists to aid their escape. One of the missing friendly dragons they were sent to rescue.
 - [[Jack]] — A silver dragon of the Way of the Balanced Scale. His soul is drained into a bronze phylactery by Velia Shadowmantle in the Sunken City as part of the dracolich creation ritual. One of the missing friendly dragons SWOJ was sent to rescue.
 
 ### Locations
 
-- [[Castle Nehri Tar]]
-- [[Mere of Dead Men]]
+- [[Castle Naerytar]]
+- [[Mere Of Dead Men]]
 - [[Underground Obsidian Fortress]]
 - [[The Sunken City]]
 - [[The Dragon Keep]]

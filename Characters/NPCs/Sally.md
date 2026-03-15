@@ -14,7 +14,7 @@ tags:
 
 A pigeon from the Sea Plum, now roosting on the roof of Trollskull Manor. Ylka speaks to her via Speak with Animals.
 
-**First appearance:** [[S01E07]]
+**First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 9 episodes
 
 ## Description

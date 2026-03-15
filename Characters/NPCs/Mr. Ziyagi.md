@@ -14,7 +14,7 @@ tags:
 
 Mr. E's deceased sensei. Mentioned as having died, prompting Mr. E's return with a Book of Shadows.
 
-**First appearance:** [[S01E26]]
+**First appearance:** [[S01E26 - Episode Twenty Six]]
 **Total appearances:** 2 episodes
 
 ## Description

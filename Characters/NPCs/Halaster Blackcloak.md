@@ -14,7 +14,7 @@ tags:
 
 Legendary founder of Waterdeep and immensely powerful wizard. His statue was found in the God Catcher chamber bearing his name. He descended into Undermountain beneath the city and either left this world or went insane. His portrait matched the locket Xae found at the Old Xoblob Shop.
 
-**First appearance:** [[S01E29]]
+**First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 2 episodes
 
 ## Description

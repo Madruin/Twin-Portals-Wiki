@@ -14,7 +14,7 @@ tags:
 
 A Zentarim lieutenant operating out of Amphail who sent Crom and his team to steal the soul stone from Castle Never. Not encountered directly -- only mentioned by Crom during interrogation.
 
-**First appearance:** [[S02E31]]
+**First appearance:** [[S02E31 - Episode Sixty One (S02E31)]]
 **Total appearances:** 4 episodes
 
 ## Description

@@ -60,23 +60,23 @@ Slippery Shim shares intelligence: he witnessed an assassin ambush a Masks lieut
 **NPCs:**
 - [[Jarlaxle Baenre]] — Drow captain of the Sea Maiden's Fair, a fleet that includes the Eyecatcher. Charming, calculating, and underdressed. Provides SWOJ with equipment, a new hat for Lark, and intelligence about Neverwinter. His ships are barred from trading in Neverwinter's port due to suspicion of being Waterdeep spies. Asks SWOJ to put in a good word with city leadership.
 - [[The Milliner]] — A hat-maker aboard Jarlaxle's ship who crafted Lark's original hat and now creates a replacement. Goes solely by 'the Milliner' -- his craft is his entire personality. Creates Lark's new red hat with hidden compartments and a collapsible design.
-- [[Felrecht Laphine]] — A Bregan D'aerthe agent and drow who uses disguises (ring of disguise or shapeshifting). Appears at the Moonstone Mask disguised as a human with a braided beard and half-face mask. Has been in Neverwinter for a tenday gathering information. Introduces SWOJ to Slippery Shim. His backward alias is 'Left to Kerr.' Later disappears after the murder at the Moonstone Mask.
+- [[Fel'Rekt Lafeen]] — A Bregan D'aerthe agent and drow who uses disguises (ring of disguise or shapeshifting). Appears at the Moonstone Mask disguised as a human with a braided beard and half-face mask. Has been in Neverwinter for a tenday gathering information. Introduces SWOJ to Slippery Shim. His backward alias is 'Left to Kerr.' Later disappears after the murder at the Moonstone Mask.
 - [[Slippery Shim]] — A towering black-furred tabaxi smuggler and independent information broker wearing a trench coat. Met through Felrecht at the Moonstone Mask. Witnessed an assassin attack a Masks lieutenant on the road from the war front -- the lieutenant didn't bleed when stabbed. Provides intelligence about the Masks' monthly convoys and the assassin in the Hall of Justice dungeon.
 - [[Squidly]] — A former child NPC from Season 1, now a teenager working as a Harper agent at the House of a Thousand Faces in Neverwinter. Provides SWOJ with Masks uniforms and disguises for their infiltration plan.
 - [[Teriador]] — The Rose Knight in a drow body. Stays aboard Jarlaxle's ship to learn drow ways and better adapt to his new form rather than accompanying SWOJ into Neverwinter.
-- [[Phylith]] — The ragamuffin from the bag dimension who accompanies SWOJ ashore. Identifies as a 'ragamuffin' species. Plans to find work as a craftsman in Neverwinter. Folds up into a pile of clothes to sleep.
+- [[Fioleth]] — The ragamuffin from the bag dimension who accompanies SWOJ ashore. Identifies as a 'ragamuffin' species. Plans to find work as a craftsman in Neverwinter. Folds up into a pile of clothes to sleep.
 - [[Lord Dagult Neverember]] — Lord of Neverwinter who rules from the Hall of Justice. Credited with rebuilding the city after Mount Hotenow erupted 30 years ago and sealing the demonic rift in the chasm. Has imposed harsher taxes on the guilds but is seen as a people's leader. His relationship with his son Renaer is strained.
 - [[Renaer Neverember]] — Son of Lord Neverember. Came to Neverwinter years ago trying to oust his father. Now leads an underground resistance against the Masks' influence. Keeps a very low profile. SWOJ knows him from Waterdeep. Not physically encountered this episode.
 
 ### Locations
 
-- [[Eyecatcher]]
+- [[Eye Catcher]]
 - [[Neverwinter]]
-- [[Hall of Justice]]
+- [[Hall Of Justice]]
 - [[Castle Never]]
 - [[Moonstone Mask]]
 - [[Sleeping Dragon Bridge]]
-- [[House of a Thousand Faces]]
+- [[House Of A Thousand Faces]]
 - [[Scarlet Marpenoth]]
 - [[The Chasm]]
 - [[Mount Hotenow]]

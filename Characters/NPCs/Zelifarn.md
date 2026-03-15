@@ -14,7 +14,7 @@ tags:
 
 A bronze dragon who serves as the self-appointed guardian of Deepwater Harbor. Leads the party to the Sea Plum wreck and then to a smuggler's cave.
 
-**First appearance:** [[S01E06]]
+**First appearance:** [[S01E06 - Episode Six]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -52,24 +52,24 @@ The chase leads to Willaford Crowell, the Cassalanter family's majordomo, who re
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark "Lark" Wavesilver]]
-- [[Xae]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Yalah Gralhund]] — Noble of Gralhund Villa. Secretly sends a nimblewright away with the Stone of Galore and a note/map pointing to the Gralhund Crypt in the City of the Dead. Working with the Cult of Asmodeus.
 - [[Orond Gralhund]] — Noble lord of Gralhund Villa. Present during the city watch questioning after the villa break-in.
-- [[Hrabas]] — Gralhund family bodyguard. Present during the city watch investigation at the villa.
+- [[Hrabbaz]] — Gralhund family bodyguard. Present during the city watch investigation at the villa.
 - [[Terry]] — Intellect devourer inhabiting a horse body. Arrives with the SWOJ-mobile to assist in the chase. Communicates telepathically with the party.
-- [[Zilka]] — Ylka's doppelganger double. Found impaled through the heart in the Gralhund Crypt. Before dying, she draws the symbol of Asmodeus and points upward to warn of the cultists above.
-- [[Willaford Crowell]] — Majordomo (chief servant) of the Cassalanter family. Receives the Stone of Galore from a spined devil atop a building. Flees in a wagon down the High Road during the Feast of the Moon parade. Accompanied by a bearded devil guard.
-- [[Captain Houston Staggit]] — Captain of the city watch. Arrests SWOJ after the High Road chase. Privately warns them at the Docks Ward guardhouse that the magistrate assigned to their trial has been bought off by the Cassalanters.
+- [[Zylka]] — Ylka's doppelganger double. Found impaled through the heart in the Gralhund Crypt. Before dying, she draws the symbol of Asmodeus and points upward to warn of the cultists above.
+- [[Willifort Crowell]] — Majordomo (chief servant) of the Cassalanter family. Receives the Stone of Galore from a spined devil atop a building. Flees in a wagon down the High Road during the Feast of the Moon parade. Accompanied by a bearded devil guard.
+- [[Captain Hyustus Stagget]] — Captain of the city watch. Arrests SWOJ after the High Road chase. Privately warns them at the Docks Ward guardhouse that the magistrate assigned to their trial has been bought off by the Cassalanters.
 - [[Sally]] — SWOJ's pigeon companion. Provides aerial reconnaissance during the rooftop chase across the City of the Dead, spotting the spined devils and Willaford Crowell.
 
 ### Locations
 
 - [[Gralhund Villa]]
 - [[Trollskull Alley]]
-- [[City of the Dead]]
+- [[City Of The Dead]]
 - [[Gralhund Crypt]]
 - [[High Road]]
 - [[Docks Ward Guardhouse]]

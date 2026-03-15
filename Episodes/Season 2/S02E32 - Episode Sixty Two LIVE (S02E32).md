@@ -55,23 +55,23 @@ SWOJ descends into the cavern aboard the Ethereal Galleon and spots cultists loa
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
 - [[Malark Wavesilver]]
-- [[Xae Rumblestride]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Thelrect Lafina]] — A Bregan D'aerthe ally who helps Scoot operate the main ballista on the Ethereal Galleon during the periton attack and subsequent battles. Efficiently reloads the weapon between shots.
+- [[Fel'Rekt Lafeen]] — A Bregan D'aerthe ally who helps Scoot operate the main ballista on the Ethereal Galleon during the periton attack and subsequent battles. Efficiently reloads the weapon between shots.
 - [[Squidly]] — A tiefling crew member aboard the Ethereal Galleon. Part of the assembled crew during the approach to the Sword Mountains.
-- [[Erstel Floxon]] — A former Zentarim member now allied with SWOJ. Aboard the Ethereal Galleon as part of the crew.
-- [[Zellopharn]] — A bronze dragon whose soul is contained in a pendant worn by Xae. Contacts Xae psychically during the approach, conveying that the Preserve of Ancestors in the Radiant Citadel is under attack. His soul pendant glows when he communicates.
-- [[Concord Jewel Pilot]] — A dragon cultist piloting the Concord Jewel who is displaced by Ylka when SWOJ takes control of the jewel. Cowers in the back of the ship during the journey to the Radiant Citadel.
+- [[Urstul Floxxin]] — A former Zentarim member now allied with SWOJ. Aboard the Ethereal Galleon as part of the crew.
+- [[Zelifarn]] — A bronze dragon whose soul is contained in a pendant worn by Xae. Contacts Xae psychically during the approach, conveying that the Preserve of Ancestors in the Radiant Citadel is under attack. His soul pendant glows when he communicates.
+- [[Concord Jewel]] — A dragon cultist piloting the Concord Jewel who is displaced by Ylka when SWOJ takes control of the jewel. Cowers in the back of the ship during the journey to the Radiant Citadel.
 
 ### Locations
 
 - [[Sword Mountains]]
 - [[Moonhole]]
 - [[Spiral Cavern]]
-- [[Ethereal Plane / Deep Ethereal]]
+- [[Ethereal Plane  Deep Ethereal]]
 - [[Radiant Citadel]]
-- [[Keening Gloom]]
+- [[Keening Gloam]]
 
 ---
 

@@ -14,7 +14,7 @@ tags:
 
 One of the top-ranking Jolly Gents. Mentioned but not directly encountered in this episode. Known for a distinctive giggling laugh.
 
-**First appearance:** [[S02E22]]
+**First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)]]
 **Total appearances:** 2 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Leader of Bregan D'aerthe. Mentioned in connection with doppelganger potions and crew disguises.
 
-**First appearance:** [[S01E26]]
+**First appearance:** [[S01E26 - Episode Twenty Six]]
 **Total appearances:** 12 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 An ancient deity known as the Lord of the End of Everything. His trial takes the form of an afterlife court where the fate of souls is adjudicated. Mortimer Quill serves as his representative. One of the original gods of death before Kelemvor.
 
-**First appearance:** [[S02E29]]
+**First appearance:** [[S02E29 - Episode Fifty Nine LIVE (S02E29)]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 A nine-year-old half-orc boy who calls himself a great wizard. Carries a stick with a continual flame candle as his 'magic wand.' One of the three street urchins.
 
-**First appearance:** [[S01E05]]
+**First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 5 episodes
 
 ## Description

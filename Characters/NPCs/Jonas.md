@@ -14,7 +14,7 @@ tags:
 
 Leader of the Hare Company, a plate-armored fighter and former Waterdeep soldier. Led his squad into banditry after deserting following the defeat at Red Larch. Convinced by SWOJ to return to military duty. Receives a WWSD bracelet from Lark.
 
-**First appearance:** [[S02E06]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -56,15 +56,15 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Xae]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Xaerine Rumblestride]]
+- [[Malark Wavesilver]]
 
 **NPCs:**
 - [[The Necromancer]] — The wizard operating from the Kolat Towers and the extra-dimensional sanctum. Confronts SWOJ and reveals that Ylka is a clone of Zilka, created by her grandfather Mordecai Gralhund. Tells them the Cassalanters have the third Eye. His simulacrum (iron mask) fights the city watch.
-- [[Zilka]] — The original person from whom Ylka was cloned. Found shackled in the Necromancer's construct workshop, forced to work on Nim (the Gralhund golem). She has been held captive and is the 'original' Ylka.
-- [[Urstul Floxin]] — Zentarim operative found near the tower exit. Squiddly was with him, having infiltrated his operation and pickpocketed the second Eye.
+- [[Zylka]] — The original person from whom Ylka was cloned. Found shackled in the Necromancer's construct workshop, forced to work on Nim (the Gralhund golem). She has been held captive and is the 'original' Ylka.
+- [[Urstul Floxxin]] — Zentarim operative found near the tower exit. Squiddly was with him, having infiltrated his operation and pickpocketed the second Eye.
 - [[Squiddly]] — One of the Trollskull Trio (street urchins). Found with Urstul Floxin near the tower. Reveals he pickpocketed the second Eye of the Stone of Golorr from Urstul. Rejoins SWOJ.
-- [[Ramalia Haventree]] — Harper agent contacted via sending stone for backup during the tower infiltration.
+- [[Remalia Haventree]] — Harper agent contacted via sending stone for backup during the tower infiltration.
 - [[Mookie]] — Zentarim associate, present in the tower.
 - [[Nim]] — The Gralhund family golem being repaired/constructed by Zilka in the workshop.
 

@@ -14,7 +14,7 @@ tags:
 
 Ylka's relative (possibly grandfather or ancestor) whose initials 'M.G.' are on the magic sword found in Lif's chest. Helped Lif find work at Trollskull Manor.
 
-**First appearance:** [[S01E05]]
+**First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 3 episodes
 
 ## Description

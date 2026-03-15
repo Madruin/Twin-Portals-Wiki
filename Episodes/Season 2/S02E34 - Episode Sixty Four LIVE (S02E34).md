@@ -54,11 +54,11 @@ Xae summons a water elemental to wash away the remaining guards, then activates 
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Zellopharn]] — An ancient bronze dragon who had been imprisoned in the Preserve of the Ancestors by Manshoon's forces. SWOJ freed him in the previous episode. He shares intelligence about the dracolich, the speakers' imprisonment, and the deactivated concord jewels. He is weakened but provides crucial strategic information.
+- [[Zelifarn]] — An ancient bronze dragon who had been imprisoned in the Preserve of the Ancestors by Manshoon's forces. SWOJ freed him in the previous episode. He shares intelligence about the dracolich, the speakers' imprisonment, and the deactivated concord jewels. He is weakened but provides crucial strategic information.
 - [[Sholeh]] — The elder speaker of the Radiant Citadel, revealed to be an ancient brass dragon in disguise. She has been held captive at the top of the Citadel near the soul pylon. SWOJ rescues her during their assault on the speakers' platform. She is elderly in her human form but immensely powerful.
 - [[Amalia Cassalanter]] — A villain and cultist leader allied with Manshoon. She is present at the top of the Citadel during the battle. Ylka polymorphs into a T-Rex and bites her during the climactic fight. She was previously encountered as a schemer working to control the Citadel.
 - [[Raven Queen]] — A deity associated with death and fate. Scoot communes with her during the battle atop the Citadel, and she sends divine intervention in the form of a massive flock of spectral ravens that banish the two-headed dracolich and destroy the top soul pylon.
@@ -66,7 +66,7 @@ Xae summons a water elemental to wash away the remaining guards, then activates 
 
 ### Locations
 
-- [[Preserve of the Ancestors]]
+- [[Preserve Of The Ancestors]]
 - [[Radiant Citadel]]
 - [[Storm Sewers]]
 - [[Speakers' Platform]]

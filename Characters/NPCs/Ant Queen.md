@@ -14,7 +14,7 @@ tags:
 
 Ruler of a large ant colony encountered in Malar's realm. Gives the party purified water that ultimately proves essential to restoring Lyrian.
 
-**First appearance:** [[S01E21]]
+**First appearance:** [[S01E21 - Episode Twenty One]]
 **Total appearances:** 1 episode
 
 ## Description

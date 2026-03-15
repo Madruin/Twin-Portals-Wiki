@@ -14,7 +14,7 @@ tags:
 
 Member of the Circle of Dusk druids. Has gone missing from the glade in the Cryptwood.
 
-**First appearance:** [[S02E06]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 1 episode
 
 ## Description

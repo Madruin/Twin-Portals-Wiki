@@ -52,15 +52,15 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark "Lark" Wavesilver]]
+- [[Malark Wavesilver]]
 
 **NPCs:**
-- [[Captain Houston Staggit]] — The real captain of the Docks Ward city watch. Warned SWOJ about the corrupt magistrate. Found dead (bludgeoned) in the prison basement. The doppelganger Willaford Crowell had been impersonating him.
-- [[Willaford Crowell (Doppelganger)]] — Cassalanter majordomo revealed to be a doppelganger. Impersonates Captain Staggit in the prison. Exposed during the trial when he cannot read the Gralhund note. Tries to flee through a window, caught by a grell and Scoot. Restrained with manacles and taken into custody.
+- [[Captain Hyustus Stagget]] — The real captain of the Docks Ward city watch. Warned SWOJ about the corrupt magistrate. Found dead (bludgeoned) in the prison basement. The doppelganger Willaford Crowell had been impersonating him.
+- [[Willifort Crowell (Doppelganger)]] — Cassalanter majordomo revealed to be a doppelganger. Impersonates Captain Staggit in the prison. Exposed during the trial when he cannot read the Gralhund note. Tries to flee through a window, caught by a grell and Scoot. Restrained with manacles and taken into custody.
 - [[Laeral Silverhand]] — Open Lord of Waterdeep. Replaces the corrupt magistrate to preside over SWOJ's trial. Daughter of the goddess Mystra. Demonstrates immense telekinetic power by crushing a grell. Frees SWOJ, takes custody of the Stone of Galore, and commissions them as her personal agents to infiltrate the Xanathar's Lair. Provides extensive intelligence on the Xanathar Guild.
-- [[Zarda Zord]] — Ally who testifies in SWOJ's defense at the trial. Secretly slips Ylka a tiny pistol during his testimony. Guards the door to protect Taga and other witnesses during the courtroom chaos.
+- [[Zardoz Zord]] — Ally who testifies in SWOJ's defense at the trial. Secretly slips Ylka a tiny pistol during his testimony. Guards the door to protect Taga and other witnesses during the courtroom chaos.
 - [[Bartolo]] — City watch guard who reads the formal charges against SWOJ at the trial.
-- [[Taga]] — Scoot's mother. Testifies as a character witness at the trial. Evacuated to safety during the courtroom chaos.
+- [[Tagga]] — Scoot's mother. Testifies as a character witness at the trial. Evacuated to safety during the courtroom chaos.
 - [[Flo]] — Gralhund family servant who testifies at the trial, corroborating SWOJ's account of events at Gralhund Villa.
 - [[Floon Blagmaar]] — Friend of SWOJ. Appears at the trial as a witness/supporter.
 - [[Terry]] — Intellect devourer in a horse body. Bursts into the courtroom during the chaos and stomps intellect devourers. Follows SWOJ's carriage through the city in a comically un-stealthy manner.
@@ -72,10 +72,10 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 - [[Courtroom (Docks Ward)]]
 - [[Haventree Estate (Harper Safehouse)]]
 - [[Castle Ward]]
-- [[The Godcatcher]]
+- [[The God Catcher]]
 - [[Trollskull Manor]]
 - [[Xanathar's Lair]]
-- [[Palace of Waterdeep]]
+- [[Palace Of Waterdeep]]
 - [[Blackstaff Tower]]
 
 ---

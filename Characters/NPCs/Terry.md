@@ -14,7 +14,7 @@ tags:
 
 Zuber (carriage taxi) driver, becomes a recurring character for the party's transportation.
 
-**First appearance:** [[S01E04]]
+**First appearance:** [[S01E04 - Episode Four]]
 **Total appearances:** 17 episodes
 
 ## Description
@@ -47,7 +47,7 @@ Telepathic horse companion of SWOJ. Communicates telepathically with the party.
 
 Telepathic horse. Arrives at Remalia's house with pass without trace ability. Helps the party move stealthily.
 
-Telepathic horse. Brings dragon reinforcements (Mellafarne and Aurinax) to the Cassalanter Villa battle. Communicates telepathically with Mr. E and SWOJ.
+Telepathic horse. Brings dragon reinforcements (Melifarn and Aurinax) to the Cassalanter Villa battle. Communicates telepathically with Mr. E and SWOJ.
 
 Telepathic horse companion of SWOJ. Became a celebrity and independent vigilante figure in Waterdeep, spending time at Vincent Trench's detective office and developing his own legend.
 

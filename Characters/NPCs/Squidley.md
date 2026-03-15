@@ -14,7 +14,7 @@ tags:
 
 An ally who traveled with SWOJ. Moves into a room at Trollskull Manor and delivers the Masked Lords' letter to the party.
 
-**First appearance:** [[S02E38]]
+**First appearance:** [[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 God of the dead in the Forgotten Realms. The hag reveals she plucked Lark from Kelemvor's fist and gave him to Malar.
 
-**First appearance:** [[S01E21]]
+**First appearance:** [[S01E21 - Episode Twenty One]]
 **Total appearances:** 7 episodes
 
 ## Description

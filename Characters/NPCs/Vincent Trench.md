@@ -14,7 +14,7 @@ tags:
 
 Human private investigator who runs Tiger's Eye detective agency on Trollskull Alley. Charges 300gp for information, 500gp for missing persons cases.
 
-**First appearance:** [[S01E08]]
+**First appearance:** [[S01E08 - Episode Eight]]
 **Total appearances:** 7 episodes
 
 ## Description

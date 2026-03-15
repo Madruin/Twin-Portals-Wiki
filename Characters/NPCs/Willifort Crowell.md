@@ -14,7 +14,7 @@ tags:
 
 Tiefling majordomo of Cassalanter Villa. Manages guests at the door, checks weapons. Wears thin-rimmed glasses pulled from his pocket -- matches the description of the tiefling who gave Blossom the devil ring.
 
-**First appearance:** [[S01E09]]
+**First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 2 episodes
 
 ## Description

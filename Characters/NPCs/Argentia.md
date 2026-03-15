@@ -14,7 +14,7 @@ tags:
 
 A dryad, sister of Tricayla. Also captured and bound by the hag in the shack. Freed by Xae.
 
-**First appearance:** [[S01E21]]
+**First appearance:** [[S01E21 - Episode Twenty One]]
 **Total appearances:** 1 episode
 
 ## Description

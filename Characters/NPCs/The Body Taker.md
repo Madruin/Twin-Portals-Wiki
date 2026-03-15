@@ -14,7 +14,7 @@ tags:
 
 A clone of Manchun made of dense, stringy plant material. Controls vine tentacles and plant-based podlings. More emotionally sensitive than other Manchun clones, particularly enraged by mentions of Rowan Crooks. Defeated atop the tower inside the Dynamo of Possibility.
 
-**First appearance:** [[S02E04]]
+**First appearance:** [[S02E04 - Episode Thirty Four (S02E04)]]
 **Total appearances:** 2 episodes
 
 ## Description

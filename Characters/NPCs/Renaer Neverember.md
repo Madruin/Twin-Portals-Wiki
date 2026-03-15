@@ -1,5 +1,5 @@
 ---
-title: "Renaer Neveremberbrbr"
+title: "Renaer Neverember"
 type: character
 subtype: npc
 status: unknown
@@ -10,11 +10,11 @@ tags:
   - npc
 ---
 
-# Renaer Neveremberbrbr
+# Renaer Neverember
 
 Son of Dagult Neverember, the former Open Lord of Waterdeep. Handsome man with hip-length red-gold blonde hair. Spelled R-E-N-A-E-R. Was kidnapped alongside Floon by the Zhentarim, then hid when the Xanathar Guild attacked. Estranged from his father. Carries a rapier.
 
-**First appearance:** [[S01E02]]
+**First appearance:** [[S01E02 - Episode Two]]
 **Total appearances:** 21 episodes
 
 ## Description

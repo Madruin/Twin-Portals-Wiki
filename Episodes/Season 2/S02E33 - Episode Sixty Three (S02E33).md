@@ -57,23 +57,23 @@ The dracolich emerges from the top of the citadel and enters the Preserve of Anc
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
 - [[Malark Wavesilver]]
-- [[Xae Rumblestride]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Vincent Trench]] — A noir-styled private detective operating from the Night Market on the Radiant Citadel. Actually a rakshasa in disguise with striped 'Cruella de Vil' hair. Provides Xae with a list of her six siblings (all alive) and intelligence about the Speakers' council chamber ward controls. Demands a favor from Xae sealed by a geas spell in exchange for tactical information. His office has Venetian blinds, jazzy background music, and the back door is accessed via a secret knock.
-- [[Zellopharn]] — A bronze dragon ally of SWOJ whose soul was trapped in a crystal pendant worn by Xae. His body lies unconscious in the Preserve of Ancestors surrounded by soul stones used as storage. After Xae clears the stones with thunder wave and meditates to channel his soul back, Zellopharn lurches to life and immediately helps fight the remaining guard. He chases the fleeing lion guard but lets him go after the man renounces his ways.
+- [[Zelifarn]] — A bronze dragon ally of SWOJ whose soul was trapped in a crystal pendant worn by Xae. His body lies unconscious in the Preserve of Ancestors surrounded by soul stones used as storage. After Xae clears the stones with thunder wave and meditates to channel his soul back, Zellopharn lurches to life and immediately helps fight the remaining guard. He chases the fleeing lion guard but lets him go after the man renounces his ways.
 - [[Squidly]] — A resourceful tiefling crew member. Sent on a solo scouting mission to gather intelligence about the occupied city. Returns with information about the invasion timeline, the pylons' effects, the curfew, and the dracolich's recent arrival. Suggests attacking the bottom conduit as a diversion while SWOJ enters the preserve.
-- [[Erstel Floxon]] — A former Zentarim member sent on a scouting mission alongside Squidly. Uses his Zentarim connections and knowledge to eavesdrop on guards and gather intelligence about the occupation. Returns with information complementing Squidly's findings.
-- [[Shole]] — The leader of the Speakers for the Ancestors -- the governing council of the Radiant Citadel representing each founding culture. Has been missing along with all other speakers since the pylons were activated two weeks ago. Their council chamber near the top conduit contains the ward controls.
-- [[Fylith the Ragamuffin]] — The quartermaster and repair specialist aboard the Ethereal Galleon. Works on salvaging the Clockwork Kraken's claw arm and jerry-rigging it onto the galleon as a crude crane mechanism. Also helps with general ship repairs.
-- [[Sid Squids]] — A crawfish vendor on the Radiant Citadel. Creates a distraction for SWOJ by pestering the guards at the Preserve of Ancestors' doors about reopening his business, allowing the party to sneak past unseen.
-- [[Concord Jewel Pilot]] — A dragon cultist who was piloting the Concord Jewel. Interrogated by SWOJ under threat -- reveals the invasion timeline, the hidden pylons, and that agents had been infiltrating the city before the takeover. Brought along to the citadel since he cannot be hidden in the translucent jewel.
-- [[Dragon Incarnate]] — A gemstone dragon entity residing in the Preserve of Ancestors, connected to the citadel's ancient magic. Captured by the dracolich inside an orb of force suspended between its two heads. The citadel shakes violently when it is ripped from the preserve, suggesting the incarnate is integral to the city's stability.
+- [[Urstul Floxxin]] — A former Zentarim member sent on a scouting mission alongside Squidly. Uses his Zentarim connections and knowledge to eavesdrop on guards and gather intelligence about the occupation. Returns with information complementing Squidly's findings.
+- [[Sholeh]] — The leader of the Speakers for the Ancestors -- the governing council of the Radiant Citadel representing each founding culture. Has been missing along with all other speakers since the pylons were activated two weeks ago. Their council chamber near the top conduit contains the ward controls.
+- [[Fioleth The Ragamoffin]] — The quartermaster and repair specialist aboard the Ethereal Galleon. Works on salvaging the Clockwork Kraken's claw arm and jerry-rigging it onto the galleon as a crude crane mechanism. Also helps with general ship repairs.
+- [[Sid Squid]] — A crawfish vendor on the Radiant Citadel. Creates a distraction for SWOJ by pestering the guards at the Preserve of Ancestors' doors about reopening his business, allowing the party to sneak past unseen.
+- [[Concord Jewel]] — A dragon cultist who was piloting the Concord Jewel. Interrogated by SWOJ under threat -- reveals the invasion timeline, the hidden pylons, and that agents had been infiltrating the city before the takeover. Brought along to the citadel since he cannot be hidden in the translucent jewel.
+- [[Dragon Incarnate (Rose Quartz)]] — A gemstone dragon entity residing in the Preserve of Ancestors, connected to the citadel's ancient magic. Captured by the dracolich inside an orb of force suspended between its two heads. The citadel shakes violently when it is ripped from the preserve, suggesting the incarnate is integral to the city's stability.
 
 ### Locations
 
 - [[Radiant Citadel]]
-- [[Preserve of Ancestors]]
+- [[Preserve Of Ancestors]]
 - [[Night Market]]
 - [[Vincent Trench's Office]]
 - [[Speakers' Council Chamber]]

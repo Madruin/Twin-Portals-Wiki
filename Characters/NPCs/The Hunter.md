@@ -14,7 +14,7 @@ tags:
 
 A mysterious shadowy archer figure encountered earlier inside the Dynamo. Referenced as a threat within the pocket dimension.
 
-**First appearance:** [[S02E04]]
+**First appearance:** [[S02E04 - Episode Thirty Four (S02E04)]]
 **Total appearances:** 3 episodes
 
 ## Description

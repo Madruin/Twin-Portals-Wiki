@@ -64,7 +64,7 @@ Scoot ultimately destroys the navigation console to escape the Bag Dimension and
 - [[Radiant Citadel]]
 - [[Spiral Cavern]]
 - [[Skull Rock Dungeon]]
-- [[Bag Dimension]]
+- [[The Bag Dimension]]
 
 ---
 

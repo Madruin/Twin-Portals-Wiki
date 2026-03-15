@@ -54,28 +54,28 @@ Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barr
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Jarlaxle / Zardos Zord]] — Leader of Bregan D'aerthe. Offers SWOJ a counter-deal for the Stone of Golorr. Explains the Xanathar Guild threat and Nihiloor's role. Attends the Short Rest opening party but flees after the fireball explosion.
-- [[Fel'rekt Lafeen]] — Drow agent of Bregan D'aerthe. Attends the Short Rest opening. Feels deeply guilty after the fireball explosion, believing he failed in his duty to protect SWOJ. Stays behind to help clean up and guard the tavern.
+- [[Jarlaxle  Zardos Zord]] — Leader of Bregan D'aerthe. Offers SWOJ a counter-deal for the Stone of Golorr. Explains the Xanathar Guild threat and Nihiloor's role. Attends the Short Rest opening party but flees after the fireball explosion.
+- [[Fel'Rekt Lafeen]] — Drow agent of Bregan D'aerthe. Attends the Short Rest opening. Feels deeply guilty after the fireball explosion, believing he failed in his duty to protect SWOJ. Stays behind to help clean up and guard the tavern.
 - [[Nihiloor]] — Mind flayer working for the Xanathar Guild. Responsible for creating intellect devourers. Mentioned by Jarlaxle as a key threat.
 - [[Davil Starsong]] — Zhentarim agent and member of the Doom Raiders faction. Encounters SWOJ at the Yawning Portal. Bonnie reads his mind and determines he is searching for the Stone of Golorr. Flees the Short Rest opening when a griffin cavalry rider appears overhead.
 - [[Three Strings]] — Bard who performs at the Yawning Portal. Provides entertainment during SWOJ's visit.
 - [[Durnan]] — Owner and bartender of the Yawning Portal. Greets SWOJ when they visit.
 - [[Yagra]] — Half-orc connected to the Zhentarim. Present at or near the Yawning Portal.
 - [[Terry]] — Intellect devourer allied with SWOJ. Desperately eats an alley cat's brain for sustenance. Still inhabiting a humanoid body.
-- [[Janks]] — Orphan street kid and member of the Trollskull Alley Irregulars. Suggests Hrabbaz as a body candidate for Terry. Finds the Necklace of Fireballs in a barrel after the explosion and gives it to SWOJ.
+- [[Jenks]] — Orphan street kid and member of the Trollskull Alley Irregulars. Suggests Hrabbaz as a body candidate for Terry. Finds the Necklace of Fireballs in a barrel after the explosion and gives it to SWOJ.
 - [[Hrabbaz]] — Half-orc bodyguard employed by the Gralhund family. Known for being violent and cruel, especially toward children. Janks suggests him as a potential body for Terry.
 
 ### Locations
 
 - [[The Eyecatcher]]
 - [[Yawning Portal]]
-- [[Trollskull Alley / The Short Rest]]
-- [[Del Zorn Street]]
-- [[Coralund's Crown]]
+- [[Trollskull Alley  The Short Rest]]
+- [[Delzorin Street]]
+- [[Corellon's Crown]]
 - [[Vincent Trench's Office]]
 
 ---

@@ -52,18 +52,18 @@ Thaelin casts Suggestion on Ott Steeltoes, the dwarf fish keeper, compelling him
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
-- [[Thaelin (guest)]]
+- [[Thaelin]]
 
 **NPCs:**
 - [[Remallia Haventree]] — Elven ally who harbored Xae at her estate. Leads SWOJ through the sewers to a secret entrance into the Xanathar's lair. A high-ranking figure connected to the Harpers.
 - [[Flutterfoot Zipswiggle]] — Gnome jester enslaved by the Xanathar. Wears a jester hat with golden eyes on it. Gives SWOJ dust of disappearance and warns them about the lair's dangers. Seems resigned to his captivity.
 - [[Thorvin Twinbeard]] — Dwarf engineer working in a workshop in the Xanathar's lair. Building a crushing device for Skullport. Asks the party to send Nar'l Xibrindas his way if they find him.
 - [[Ott Steeltoes]] — Dwarf fish keeper tending to the Xanathar's prized goldfish Sylgar. Thaelin casts Suggestion on him, compelling him to retrieve the Eye of the Stone of Golorr from a locked chest in the sanctum.
-- [[Larian]] — The crystal unicorn spirit bound to Xae's pendant. Reveals its name to Xae. Creates a green portal that teleports Xae from Remallia's estate to Trollskull Manor.
-- [[Nar'l Xibrindas]] — White-haired elf (drow) lost in the Xanathar's lair. The carny asks SWOJ to find him. Thorvin also mentions him. A spy or double agent within the Xanathar Guild.
-- [[Carny (Fel'rekt Lafeen's Agent)]] — A carnival worker who gives Scoot a pistol and asks the party to look for Nar'l Xibrindas in the Xanathar's lair. Works for Fel'rekt Lafeen and Bregan D'aerthe.
+- [[Lyrian]] — The crystal unicorn spirit bound to Xae's pendant. Reveals its name to Xae. Creates a green portal that teleports Xae from Remallia's estate to Trollskull Manor.
+- [[Narl Xibrindas]] — White-haired elf (drow) lost in the Xanathar's lair. The carny asks SWOJ to find him. Thorvin also mentions him. A spy or double agent within the Xanathar Guild.
+- [[Fel'Rekt Lafeen]] — A carnival worker who gives Scoot a pistol and asks the party to look for Nar'l Xibrindas in the Xanathar's lair. Works for Fel'rekt Lafeen and Bregan D'aerthe.
 - [[Sally]] — A pigeon that Ylka communicates with via Speak with Animals. Has eagle bodyguards on the roof of Trollskull Manor.
 - [[The Xanathar]] — Beholder crime lord whose lair SWOJ infiltrates. Arrives in its private sanctum and fires a death ray at Thaelin (49 necrotic), then uses paralysis and fear rays on Ylka and Lark. Captures the remaining party members.
 - [[Sylgar]] — The Xanathar's beloved pet goldfish, kept in a tank in the private sanctum.
@@ -74,10 +74,10 @@ Thaelin casts Suggestion on Ott Steeltoes, the dwarf fish keeper, compelling him
 - [[Remallia Haventree's Estate]]
 - [[Skullport]]
 - [[Xanathar's Lair]]
-- [[Hall of Eyes]]
+- [[Hall Of Eyes]]
 - [[Thorvin's Workshop]]
 - [[Xanathar's Private Sanctum]]
-- [[Arena of Blood and Fortune]]
+- [[Arena Of Blood And Fortune]]
 - [[Waterdeep Sewers]]
 
 ---

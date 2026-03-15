@@ -14,7 +14,7 @@ tags:
 
 Bard who performs at the Yawning Portal. Provides entertainment during SWOJ's visit.
 
-**First appearance:** [[S01E11]]
+**First appearance:** [[S01E11 - Episode Eleven]]
 **Total appearances:** 2 episodes
 
 ## Description

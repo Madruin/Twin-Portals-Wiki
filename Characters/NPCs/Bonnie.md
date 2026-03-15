@@ -14,7 +14,7 @@ tags:
 
 Waitress at the Yawning Portal tavern. Serves berry drinks and is friendly with the party.
 
-**First appearance:** [[S01E01]]
+**First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 4 episodes
 
 ## Description

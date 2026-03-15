@@ -14,7 +14,7 @@ tags:
 
 Owner of a submersible vessel docked beneath the Eyecatcher. Mentioned by Zelopharne but does not appear directly.
 
-**First appearance:** [[S01E10]]
+**First appearance:** [[S01E10 - Episode Ten]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -16,14 +16,14 @@ A searchable archive of all **78 episodes** of the [Twin Portals](https://twinpo
 
 ## The Party
 
-[[Silver Waves of Justice|SWOJ — Silver Waves of Justice]]
+[[Silver Waves Of Justice|SWOJ — Silver Waves of Justice]]
 
-| Character | Player | Race | Class |
-|-----------|--------|------|-------|
-| [[Scoot Sparkles]] | Scott Hebert | Half-Orc | Barbarian |
-| [[Ylka Gralhund]] | Beth | Human | Bard |
-| [[Malark Wavesilver]] | Justin | Human | Rogue |
-| [[Xaerine Rumblestride]] | Kendra | Lightfoot Halfling | Druid |
+| Character                | Player       | Race               | Class     |
+| ------------------------ | ------------ | ------------------ | --------- |
+| [[Scoot Sparkles]]       | Scott Hebert | Half-Orc           | Barbarian |
+| [[Ylka Gralhund]]        | Beth         | Human              | Bard      |
+| [[Malark Wavesilver]]    | Justin       | Human              | Rogue     |
+| [[Xaerine Rumblestride]] | Kendra       | Lightfoot Halfling | Druid     |
 
 ## Seasons
 

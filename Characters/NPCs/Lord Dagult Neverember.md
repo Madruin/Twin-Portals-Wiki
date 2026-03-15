@@ -14,7 +14,7 @@ tags:
 
 Lord of Neverwinter who rules from the Hall of Justice. Credited with rebuilding the city after Mount Hotenow erupted 30 years ago and sealing the demonic rift in the chasm. Has imposed harsher taxes on the guilds but is seen as a people's leader. His relationship with his son Renaer is strained.
 
-**First appearance:** [[S02E14]]
+**First appearance:** [[S02E14 - Episode Forty Four (S02E14)]]
 **Total appearances:** 4 episodes
 
 ## Description

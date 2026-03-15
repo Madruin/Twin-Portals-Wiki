@@ -14,7 +14,7 @@ tags:
 
 Gorge Bailey Brew's daughter who remains at the homestead. Connected to the Fleece of Navi-dad item.
 
-**First appearance:** [[S01E14]]
+**First appearance:** [[S01E14 - Episode Fourteen]]
 **Total appearances:** 13 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Archer in the Hare Company. One of three archers spotted by Xae using the Avian Circlet.
 
-**First appearance:** [[S02E06]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 7 episodes
 
 ## Description

@@ -63,9 +63,9 @@ Renaer greets SWOJ warmly and provides crucial intelligence: Shimmer Brackenwell
 - [[16 String Jack]] — A C-tier Jolly Gent bard whose signature power summons ghostly additional strings when he plays, creating an accompanying phantom band. Has distinctively long fingers. Recognized by Lark from obscure comic books. Reveals intelligence about the Masks' monthly wizard/stone convoys to the chasm and a Manshoon clone in Neverwinter politics, then betrays SWOJ by screaming for guards. Kicked off the 150-foot cliff by Scoot, hits a rock, and floats away in the river.
 - [[Renaer Neverember]] — Son of Lord Dagult Neverember and leader of the resistance operating from tunnels beneath Castle Never. Red-haired, warm and affectionate toward SWOJ. Has been hiding underground for three years. Provides intelligence about Shimmer's murder, the Masks framing SWOJ, Felrecht's disappearance, and the guilds' allegiances. Introduces them to the concept of Fumbles as a city guard contact.
 - [[Laila]] — A halfling knight wearing night regalia and a helmet that mostly obscures her face. A member of the resistance who patrols the tunnels beneath Castle Never. Discovers SWOJ hiding in the excavation area and leads them to Renaer's underground base.
-- [[Fumbles / Fumblewick]] — A gnome city guard in Neverwinter and contact for the resistance. His real name is Fumblewick. Has accompanied caravans moving into the chasm on a monthly basis and can provide details about what happens there. Can be found at the Slinky Serpent tavern southeast of the House of a Thousand Faces.
+- [[Fumbles  Fumblewick]] — A gnome city guard in Neverwinter and contact for the resistance. His real name is Fumblewick. Has accompanied caravans moving into the chasm on a monthly basis and can provide details about what happens there. Can be found at the Slinky Serpent tavern southeast of the House of a Thousand Faces.
 - [[Shimmer Brackenwell]] — A buff, tawny tabaxi smuggler who ran between the war front and Neverwinter. Also known as Slippery Shim. Murdered outside the Moonstone Mask by someone impersonating Lark (wearing a red hat, vanishing into mist). His death was used to frame SWOJ.
-- [[Felrecht Laphine]] — Bregan D'aerthe agent and drow who introduced SWOJ to Slippery Shim. Has disappeared since the night of Shimmer's murder. Possibly involved or possibly another victim. Had a ring of disguise. SWOJ speculates he may have been killed, or may be the one who impersonated Lark.
+- [[Fel'Rekt Lafeen]] — Bregan D'aerthe agent and drow who introduced SWOJ to Slippery Shim. Has disappeared since the night of Shimmer's murder. Possibly involved or possibly another victim. Had a ring of disguise. SWOJ speculates he may have been killed, or may be the one who impersonated Lark.
 
 ### Locations
 
@@ -75,7 +75,7 @@ Renaer greets SWOJ warmly and provides crucial intelligence: Shimmer Brackenwell
 - [[Neverwinter River]]
 - [[Slinky Serpent Tavern]]
 - [[Dolphin Bridge]]
-- [[Hall of Justice]]
+- [[Hall Of Justice]]
 - [[Moonstone Mask]]
 
 ---

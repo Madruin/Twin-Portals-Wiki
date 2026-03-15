@@ -56,8 +56,8 @@ In the cellar, the party finds Lif's personal effects including his diary, gold,
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Captain Staget]] — City watch captain who advises the party to register magic users with the Watchful Order of Magisters.
-- [[Ocoria Stonemarrow]] — Shield dwarf magistar in the North Ward, mentioned in context of city governance.
+- [[Captain Hyustus Stagget]] — City watch captain who advises the party to register magic users with the Watchful Order of Magisters.
+- [[Ulkoria Stonemarrow]] — Shield dwarf magistar in the North Ward, mentioned in context of city governance.
 - [[Oba the Merlywin]] — A magistar mentioned in Waterdeep's governance structure.
 - [[Pinker]] — A kenku ally who rescues Taga from the Xanathar Guild and hides her in the Honorable Knight statue tenements.
 - [[Lif Lindgren]] — Ghost of a middle-aged elven bartender who worked at Trollskull Manor 95 years ago. His diary reveals the history of Esther the hag. He writes warnings to help the party and smiles at them after the hag is defeated.
@@ -70,7 +70,7 @@ In the cellar, the party finds Lif's personal effects including his diary, gold,
 ### Locations
 
 - [[Spouting Fish]]
-- [[Taga's Apartment]]
+- [[Tagga's Apartment]]
 - [[Honorable Knight Statue]]
 - [[Trollskull Manor]]
 - [[Trollskull Alley]]

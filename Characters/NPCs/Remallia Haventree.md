@@ -14,7 +14,7 @@ tags:
 
 Elven ally who harbored Xae at her estate. Leads SWOJ through the sewers to a secret entrance into the Xanathar's lair. A high-ranking figure connected to the Harpers.
 
-**First appearance:** [[S01E16]]
+**First appearance:** [[S01E16 - Episode Sixteen]]
 **Total appearances:** 1 episode
 
 ## Description

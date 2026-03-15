@@ -14,7 +14,7 @@ tags:
 
 Beholder crime lord whose lair SWOJ infiltrates. Arrives in its private sanctum and fires a death ray at Thaelin (49 necrotic), then uses paralysis and fear rays on Ylka and Lark. Captures the remaining party members.
 
-**First appearance:** [[S01E16]]
+**First appearance:** [[S01E16 - Episode Sixteen]]
 **Total appearances:** 13 episodes
 
 ## Description

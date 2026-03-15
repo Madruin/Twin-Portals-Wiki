@@ -14,7 +14,7 @@ tags:
 
 A clone of Manshoon operating from Amphail. Seen conferring with the ancient black dragon in elf form at the crystal overlook inside the Spiral Cavern. Plans to consolidate forces inside the cavern and open a hole at the top of the mountain for aerial access. Walks past Mr. E without recognizing him.
 
-**First appearance:** [[S02E19]]
+**First appearance:** [[S02E19 - Episode Forty Nine (S02E19)]]
 **Total appearances:** 1 episode
 
 ## Description

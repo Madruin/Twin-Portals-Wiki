@@ -54,19 +54,19 @@ While Ylka begins attuning to the black dragon mask, saboteurs strike Castle Nev
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xaerine 'Xae' Rumblestride]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Grage]] — A black dragon with mottled silvery scales, one of the rescued dragons of the Way of the Balanced Scale. Carries Scoot during the flight from Castle Nehri Tar. The silver mottling suggests mixed heritage.
+- [[Grayj]] — A black dragon with mottled silvery scales, one of the rescued dragons of the Way of the Balanced Scale. Carries Scoot during the flight from Castle Nehri Tar. The silver mottling suggests mixed heritage.
 - [[Argentis]] — A gold dragon of the Way of the Balanced Scale who carries Lark during the flight from Castle Nehri Tar. Introduces himself by name when asked. One of the rescued friendly dragons.
 - [[Kingfisher]] — A druid of the Circle of Dusk operating in the cryptwood forests near Amphail. Reports to SWOJ that Neverwinter has marshalled military forces in response to the dragon threat. Provides local intelligence about the situation around the Moonhole.
 - [[Renaer Neverember]] — SWOJ's ally and patron in Neverwinter. Meets them at Castle Never and receives their report on Amphail's destruction and the dracolich threat. Has overseen the construction of three airships and the marshalling of 500 soldiers and 30 spellcasters. Injured during the saboteur attack but stabilized by SWOJ.
 - [[Little Joan]] — Leader of the allied Jolly Gents contingent at Castle Nehri Tar. SWOJ lands to give her the spelljammer helm and sends the Ripples to Neverwinter with a report for Renaer.
-- [[Corlith the Starweaver]] — A powerful spellcaster who helped Neverwinter build three airships using spelljammer helm technology. Mentioned by Renaer as instrumental in the ship construction effort.
-- [[Zellophane]] — A dragon ally of SWOJ contacted via sending stone early in the episode. They discuss the possibility of reaching the Radiant Citadel through the Concord Jewel.
+- [[Quorlith The Starweaver]] — A powerful spellcaster who helped Neverwinter build three airships using spelljammer helm technology. Mentioned by Renaer as instrumental in the ship construction effort.
+- [[Zelifarn]] — A dragon ally of SWOJ contacted via sending stone early in the episode. They discuss the possibility of reaching the Radiant Citadel through the Concord Jewel.
 - [[Amalia Cassalanter]] — The cult leader (formerly disguised as Velia Shadowmantle) who fled east atop the partial dracolich. SWOJ reports her identity to Renaer Neverember. A Waterdeep noble turned cult leader.
-- [[Jill (Iglemar)]] — The white dragon of the Way of the Balanced Scale. Carries Ylka and Xae during the flight. Leads the formation as they approach the Moonhole near Amphail.
+- [[Jill (Ygglimar)]] — The white dragon of the Way of the Balanced Scale. Carries Ylka and Xae during the flight. Leads the formation as they approach the Moonhole near Amphail.
 
 ### Locations
 
@@ -75,9 +75,9 @@ While Ylka begins attuning to the black dragon mask, saboteurs strike Castle Nev
 - [[Neverwinter]]
 - [[Castle Never]]
 - [[Neverwinter Dry Docks]]
-- [[Castle Nehri Tar (Ruins)]]
+- [[Castle Naerytar (Ruins)]]
 - [[Sword Mountains]]
-- [[Cryptwood]]
+- [[Kryptwood]]
 
 ---
 

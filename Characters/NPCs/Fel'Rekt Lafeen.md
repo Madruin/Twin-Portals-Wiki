@@ -14,7 +14,7 @@ tags:
 
 Drow agent of Bregan D'aerthe. Visits Trollskull Manor at noon, reveals his organization has been tracking SWOJ, shares intelligence about devil worship among nobles and the Wavesilver crest connection. Reveals Yagra was the one who sent the 'Y' note.
 
-**First appearance:** [[S01E07]]
+**First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 4 episodes
 
 ## Description

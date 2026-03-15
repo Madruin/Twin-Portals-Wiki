@@ -14,7 +14,7 @@ tags:
 
 Friend of Xaerine staying at House Phaulkonmere under Maelanore's care.
 
-**First appearance:** [[S01E01]]
+**First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 5 episodes
 
 ## Description
@@ -23,7 +23,7 @@ Friend of Xaerine staying at House Phaulkonmere under Maelanore's care.
 
 Half-elf, Scoot's former crewmate and first mate of the Sea Plum. Now an Emerald Enclave contact. Brings the scarecrow quest from Stout Fellow Farm. Offers to ward Trollskull against vermin and set up a pigeon rookery.
 
-Scoot's former shipmate and an elven woman. Was sent by the Emerald Enclave to help the Circle of Dusk druids near Amphale, where she was mentored by druid Shala. Transformed into a six-eyed beast by Arturia's magic; freed when Lark applies moth weed.
+Scoot's former shipmate and an elven woman. Was sent by the Emerald Enclave to help the Circle of Dusk druids near Amphale, where she was mentored by druid Shala. Transformed into a six-eyed beast by Arcturia's magic; freed when Lark applies moth weed.
 
 Scoot's former shipmate. Stays behind with the Circle of Dusk druids to help coordinate refugee transport to the Radiant Citadel and ensure the moth weed reaches those who need it.
 

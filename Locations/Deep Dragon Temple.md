@@ -10,7 +10,7 @@ tags:
 
 # Deep Dragon Temple
 
-An underwater temple northeast of Lantan where dragons convene. Accessible via a secret tunnel (requiring a dragon guide) or through a whirlpool in the Nameless Seas. Home to Mellafarne. Previously had to fight off aboleth hundreds of years ago. SWOJ's destination.
+An underwater temple northeast of Lantan where dragons convene. Accessible via a secret tunnel (requiring a dragon guide) or through a whirlpool in the Nameless Seas. Home to Melifarn. Previously had to fight off aboleth hundreds of years ago. SWOJ's destination.
 
 **Type:** dungeon
 **First appearance:** Episode S02E09
@@ -18,7 +18,7 @@ An underwater temple northeast of Lantan where dragons convene. Accessible via a
 
 ## Description
 
-An underwater temple northeast of Lantan where dragons convene. Accessible via a secret tunnel (requiring a dragon guide) or through a whirlpool in the Nameless Seas. Home to Mellafarne. Previously had to fight off aboleth hundreds of years ago. SWOJ's destination.
+An underwater temple northeast of Lantan where dragons convene. Accessible via a secret tunnel (requiring a dragon guide) or through a whirlpool in the Nameless Seas. Home to Melifarn. Previously had to fight off aboleth hundreds of years ago. SWOJ's destination.
 
 ## Notable Events
 

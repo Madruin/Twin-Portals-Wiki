@@ -14,7 +14,7 @@ tags:
 
 Member of the Jolly Gents who appeared alongside Rowan Crooks during the summer solstice incursion.
 
-**First appearance:** [[S01E29]]
+**First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 11 episodes
 
 ## Description

@@ -53,25 +53,25 @@ The party takes a long rest and levels up to 9. The next morning, Renaer convene
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
 - [[Malark Wavesilver]]
-- [[Xae Rumblestride]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Renaer Neverember]] — Leader of Neverwinter's civic functions. Knocked unconscious during the attack on Castle Never but revived. Convenes a strategy session the next morning to plan the assault on the moonhole. Stays behind to manage the city while SWOJ departs.
-- [[Corlith the Starweaver]] — A massive teal and peacock-colored giant spider allied with SWOJ. Her eggs were stolen by the man in black during the attack. She helps patch the Ethereal Galleon with spider silk after her eggs are recovered. Her silk is stronger than steel cable and makes the ship more maneuverable.
-- [[Crom]] — A Zentarim agent polymorphed into a cicada by Ylka. Was sent by Lieutenant Crowell from Amphail to steal the soul stone of Rowan Crooks. Reveals intelligence about the spiral cavern's defenses, peritons, dragons, and the plan to use the Radiant Citadel as a base. Turned over to Neverwinter guards after interrogation.
-- [[Zardos Zord]] — An old friend of SWOJ with a huge purple hat. Departing for Waterdeep via Mellafarne. Agrees to carry messages to the masked lords, Blackstaff Tower, and the Griffin riders requesting military reinforcements against the spiral cavern. Claims to have an inn with the masked lords.
+- [[Quorlith The Starweaver]] — A massive teal and peacock-colored giant spider allied with SWOJ. Her eggs were stolen by the man in black during the attack. She helps patch the Ethereal Galleon with spider silk after her eggs are recovered. Her silk is stronger than steel cable and makes the ship more maneuverable.
+- [[Krom]] — A Zentarim agent polymorphed into a cicada by Ylka. Was sent by Lieutenant Crowell from Amphail to steal the soul stone of Rowan Crooks. Reveals intelligence about the spiral cavern's defenses, peritons, dragons, and the plan to use the Radiant Citadel as a base. Turned over to Neverwinter guards after interrogation.
+- [[Zardoz Zord]] — An old friend of SWOJ with a huge purple hat. Departing for Waterdeep via Mellafarne. Agrees to carry messages to the masked lords, Blackstaff Tower, and the Griffin riders requesting military reinforcements against the spiral cavern. Claims to have an inn with the masked lords.
 - [[Squidly]] — A tiefling young man who volunteers to join SWOJ's crew aboard the Ethereal Galleon for the assault on the moonhole.
-- [[Thelrect Lafina]] — A Bregan D'aerthe member who has stayed behind to assist SWOJ. Joins the crew aboard the Ethereal Galleon and helps operate the ballista.
+- [[Fel'Rekt Lafeen]] — A Bregan D'aerthe member who has stayed behind to assist SWOJ. Joins the crew aboard the Ethereal Galleon and helps operate the ballista.
 - [[Shaleheart]] — A massive bulette allied with SWOJ. Her babies are grown up now. Crawls onto the bottom of the Ethereal Galleon to join the mission. Xae gives her lunaria flowers as a gift.
-- [[Fylith the Ragamuffin]] — A creature from the bag dimension who serves as quartermaster. Had been working for Neverwinter's rebuilding efforts since being left behind. Volunteers to join the ship crew.
-- [[Erstel Floxon]] — A surly, heavily scarred former Zentarim enemy of SWOJ who tried to kill them earlier (around episode 4). Brought to the docks in manacles, volunteering for redemption. SWOJ accepts him, removes his bindings, and he regards them with solemn respect. He gives Scoot an awkward fist bump.
-- [[Daggle Neverember]] — A military leader in Neverwinter who marshals the ground forces of about 550 soldiers. Embraces the role of getting soldiers ready, reminiscent of his old days. Works alongside Renaer, handling military functions while Renaer handles civic ones.
+- [[Fioleth The Ragamoffin]] — A creature from the bag dimension who serves as quartermaster. Had been working for Neverwinter's rebuilding efforts since being left behind. Volunteers to join the ship crew.
+- [[Urstul Floxxin]] — A surly, heavily scarred former Zentarim enemy of SWOJ who tried to kill them earlier (around episode 4). Brought to the docks in manacles, volunteering for redemption. SWOJ accepts him, removes his bindings, and he regards them with solemn respect. He gives Scoot an awkward fist bump.
+- [[Dagult Neverember]] — A military leader in Neverwinter who marshals the ground forces of about 550 soldiers. Embraces the role of getting soldiers ready, reminiscent of his old days. Works alongside Renaer, handling military functions while Renaer handles civic ones.
 
 ### Locations
 
 - [[Castle Never]]
 - [[Neverwinter Docks]]
-- [[Corlith's Cave]]
+- [[Quorlith's Cave]]
 - [[Sword Mountains]]
 - [[Moonhole]]
 - [[Spiral Cavern]]

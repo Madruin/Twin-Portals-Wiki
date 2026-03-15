@@ -14,7 +14,7 @@ tags:
 
 A large spider operating a merchant stall in the Dark Market, selling spider silk armor, whisper web shawls, and other spider-silk goods. Appreciative of Ylka's music. Later webs the spell jamming helm rock to the rug free of charge as thanks for a previous performance. Communicates through clicks and spinnerets.
 
-**First appearance:** [[S02E21]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
 **Total appearances:** 1 episode
 
 ## Description

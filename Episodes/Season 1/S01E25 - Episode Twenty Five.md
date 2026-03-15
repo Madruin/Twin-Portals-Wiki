@@ -53,19 +53,19 @@ SWOJ assembles the three pieces of the Stone of Golorr at Remalia Haventree's ho
 
 **NPCs:**
 - [[Remalia Haventree]] — Harper ally, high elf wizard. Hosts SWOJ at her house while they assemble the Stone of Golorr. Gets ensorcelled by the Stone along with her guards.
-- [[Rosetta Stonemeroe]] — Dwarf woman encountered 500 years in the past (992 DR). Historian and scholar who helps SWOJ navigate the ancient city and understand the vault.
+- [[Rosetta Stonemarrow]] — Dwarf woman encountered 500 years in the past (992 DR). Historian and scholar who helps SWOJ navigate the ancient city and understand the vault.
 - [[Zadio Neverember]] — Human theater owner in ancient Waterdeep (992 DR). Ancestor of the Neverember family. Owns the amphitheater above the Vault of Dragons.
-- [[Mellafarne]] — Young bronze dragon found in the ancient Vault of Dragons, fighting black puddings. Allied with SWOJ during the vault exploration.
+- [[Melifarn]] — Young bronze dragon found in the ancient Vault of Dragons, fighting black puddings. Allied with SWOJ during the vault exploration.
 - [[Laeral Silverhand]] — Open Lord of Waterdeep. Mentioned in context of city politics.
 - [[Terry]] — Telepathic horse companion of SWOJ. Communicates telepathically with the party.
 
 ### Locations
 
 - [[Remalia Haventree's House]]
-- [[Ancient Waterdeep (992 DR)]]
-- [[Zadio's Amphitheater]]
-- [[Vault of Dragons (Ancient)]]
-- [[Melaerkan Dwarven Ruins]]
+- [[Ancient Waterdeep (992 D.R.)]]
+- [[Zadio City  Amphitheater]]
+- [[Vault Of Dragons (Ancient)]]
+- [[Melaerkin Dwarven Ruins]]
 
 ---
 

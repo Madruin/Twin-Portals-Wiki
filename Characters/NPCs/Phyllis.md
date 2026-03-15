@@ -14,7 +14,7 @@ tags:
 
 Owner of the flower shop in Trollskull Alley. Witnesses a dark figure taking something from the dead gnome's body and fleeing south after the explosion.
 
-**First appearance:** [[S01E11]]
+**First appearance:** [[S01E11 - Episode Eleven]]
 **Total appearances:** 2 episodes
 
 ## Description

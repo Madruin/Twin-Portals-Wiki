@@ -14,7 +14,7 @@ tags:
 
 An herbalist operating across the street from Trollskull Manor, still in booming business.
 
-**First appearance:** [[S02E38]]
+**First appearance:** [[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)]]
 **Total appearances:** 1 episode
 
 ## Description

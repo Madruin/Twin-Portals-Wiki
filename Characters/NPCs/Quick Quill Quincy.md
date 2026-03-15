@@ -14,7 +14,7 @@ tags:
 
 A Jolly Gents member mentioned during conversations in the Bailey. Known for record-keeping or clerical duties within the organization.
 
-**First appearance:** [[S02E22]]
+**First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visits to offer 150gp to buy the manor. Hostile and antagonistic toward SWOJ.
 
-**First appearance:** [[S01E07]]
+**First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 2 episodes
 
 ## Description

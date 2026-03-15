@@ -60,14 +60,14 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Oranax]] — An elder gold dragon who resides at Trollskull Manor. Can shapeshift into dwarven form. Removes Scoot's frog creature curse with Remove Curse spell. Previously watched over the Horde of Dragons for centuries. Lights the God's Night fire with flame breath.
-- [[Mellafarne]] — A bronze dragon who perches on the rooftop of Trollskull Manor alongside Oranax. Present at the God's Night ceremony in human form.
-- [[Lief]] — A ghostly spectral attendant at Trollskull Manor who welcomes SWOJ home by opening the front door and waggling his eyebrows. Delivers a letter from the Masked Lords to Squidley.
-- [[Tega]] — Scoot's mother, waiting at Trollskull Manor. Has secret shadow skills/history she hints at. Organized the homecoming party. Her children Bennet and Janks are now teenagers. Winks when asked about the Zhentarim, suggesting she knows more than she lets on. Simon (Scoot's father) recently returned home.
+- [[Aurinax]] — An elder gold dragon who resides at Trollskull Manor. Can shapeshift into dwarven form. Removes Scoot's frog creature curse with Remove Curse spell. Previously watched over the Horde of Dragons for centuries. Lights the God's Night fire with flame breath.
+- [[Melifarn]] — A bronze dragon who perches on the rooftop of Trollskull Manor alongside Oranax. Present at the God's Night ceremony in human form.
+- [[Lif]] — A ghostly spectral attendant at Trollskull Manor who welcomes SWOJ home by opening the front door and waggling his eyebrows. Delivers a letter from the Masked Lords to Squidley.
+- [[Tagga]] — Scoot's mother, waiting at Trollskull Manor. Has secret shadow skills/history she hints at. Organized the homecoming party. Her children Bennet and Janks are now teenagers. Winks when asked about the Zhentarim, suggesting she knows more than she lets on. Simon (Scoot's father) recently returned home.
 - [[Simon]] — Scoot's father, a sailor who was shipwrecked years ago and went on an odyssey around the ocean west of the Sword Coast. Was helped home by Zhentarim-affiliated pirates ('people sailing without official charters'). Witnessed a massive divine tidal wave near Luskan that suddenly dissipated.
 - [[Grim Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting at Trollskull Manor with a candle burned low.
-- [[Aspell Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting alongside Grim at Trollskull Manor.
-- [[Marie Polvich]] — Pops out from behind the bar at Trollskull Manor when SWOJ returns.
+- [[Grim Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting alongside Grim at Trollskull Manor.
+- [[Mara]] — Pops out from behind the bar at Trollskull Manor when SWOJ returns.
 - [[Squidley]] — An ally who traveled with SWOJ. Moves into a room at Trollskull Manor and delivers the Masked Lords' letter to the party.
 - [[Terry]] — An awakened horse ally of SWOJ, now upgraded with daggers, armor, a SWOJ hawberk, and faintly glowing yellow eyes. Can throw daggers from his hooves. Arrives dramatically with a lightning bolt, leaps across rooftops to transport the party to the Masked Lords. Invited as the first official member of the SWOJ guild.
 
@@ -75,13 +75,13 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 
 - [[Trollskull Manor]]
 - [[Waterdeep]]
-- [[Shard of the Moon]]
+- [[Shard Of The Moon]]
 - [[Amphail]]
 - [[Yawning Portal]]
 - [[Undermountain]]
-- [[Froon's Tavern]]
+- [[Frewn's  Brews]]
 - [[Vincent Trench's Office]]
-- [[Hole in the Wall]]
+- [[Hole In The Wall]]
 - [[Masked Lords' Palace]]
 
 ---

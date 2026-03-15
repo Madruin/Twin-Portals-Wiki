@@ -14,7 +14,7 @@ tags:
 
 A clone of Manshoon made of ice and water, accompanying SWOJ into the chasm. Uses hypnotic pattern to neutralize guards. Destroyed when he steps on an anti-magic rune trap, causing his magical body to disintegrate.
 
-**First appearance:** [[S02E16]]
+**First appearance:** [[S02E16 - Episode Forty Six LIVE (S02E16)]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Witnessed in a vision during the time-travel sequence, pulling a tentacle beast from the river and crushing it into what becomes the Stone of Galore. Reveals Xae's ancient origin and connection to the Stone.
 
-**First appearance:** [[S01E14]]
+**First appearance:** [[S01E14 - Episode Fourteen]]
 **Total appearances:** 1 episode
 
 ## Description

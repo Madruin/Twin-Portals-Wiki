@@ -14,7 +14,7 @@ tags:
 
 A friendly Zhentarim guard stationed inside the Spiral Cavern who stops SWOJ as they attempt to leave with the crystals. Easily deceived by the party's cover story about carrying weapons to replace those lost in a fire. Enjoys patchouli.
 
-**First appearance:** [[S02E19]]
+**First appearance:** [[S02E19 - Episode Forty Nine (S02E19)]]
 **Total appearances:** 1 episode
 
 ## Description

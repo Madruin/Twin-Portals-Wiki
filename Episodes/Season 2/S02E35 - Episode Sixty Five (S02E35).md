@@ -54,26 +54,26 @@ The party is teleported to the surface of the Wall of the Faithless, where they 
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Nat]] — A griffin rider from Waterdeep who arrives aboard the hammerhead ship with reinforcements. She communicates through sign language and leads the aerial forces. She is brave and competent, coordinating the soldiers, casters, and animal scouts.
-- [[Janks]] — A wizard who wears a distinctive blue hat. He arrives with the hammerhead reinforcements and serves as the primary spellcaster among the allied forces. He assists with magical operations during the descent down the Citadel.
+- [[Jenks]] — A wizard who wears a distinctive blue hat. He arrives with the hammerhead reinforcements and serves as the primary spellcaster among the allied forces. He assists with magical operations during the descent down the Citadel.
 - [[Sholeh]] — The elder speaker of the Radiant Citadel, an ancient brass dragon in disguise. She channels the Aural Diamond's power to provide a compressed long rest for the party. She explains the history of Rowan Crooks and the soul pylons, revealing how Manshoon corrupted the system Crooks built.
 - [[Arcturia]] — Xae's sister, a powerful transmutation wizard who works for Halaster Blackcloak. She is a shapeshifter who can appear as a cloud of butterflies and maggots, or take other forms. She has come to the Wall of the Faithless to break it. Initially hostile, she casts disintegrate on Scoot during negotiations, but is eventually persuaded to join SWOJ. She leads the party to Kelemvor's skeleton and begins a ritual to summon souls from the Wall.
 - [[Raven Queen]] — A deity who communicates with Scoot in the aftermath of the battle. She warns about Manshoon's ambitions to achieve godhood and provides guidance. Her ravens fade as the Citadel passes through the Keening Gloam.
 - [[Rowan Crooks]] — A folk hero who arrived at the Radiant Citadel and built trust with the speakers before introducing the soul pylons. He then mysteriously disappeared. Sholeh explains that Manshoon later took over and weaponized the pylon infrastructure that Crooks had built. His soul stone is a key item.
 - [[Halaster Blackcloak]] — The mad wizard of Undermountain, Arcturia's employer. He sent Arcturia to the Wall of the Faithless. He is not present but his influence drives Arcturia's actions.
-- [[Zellopharn]] — The ancient bronze dragon freed by SWOJ. He accompanies the party during the descent down the Citadel, flying alongside the hammerhead ship and griffins.
+- [[Zelifarn]] — The ancient bronze dragon freed by SWOJ. He accompanies the party during the descent down the Citadel, flying alongside the hammerhead ship and griffins.
 - [[Sally]] — A carrier pigeon among the animal scouts brought by the hammerhead reinforcements. Used for communication between forces.
 
 ### Locations
 
 - [[Radiant Citadel]]
 - [[Keening Gloam]]
-- [[Wall of the Faithless]]
-- [[Floating School]]
+- [[Wall Of The Faithless]]
+- [[Blackstaff Tower]]
 - [[Kelemvor's Skeleton]]
 
 ---

@@ -14,7 +14,7 @@ tags:
 
 Cassalanter patriarch. Uses a charming cane on the crowd at the Founders Day feast. Casts mirror image during combat. Fights SWOJ but is knocked unconscious and kicked through his own portal into the temple of Asmodeus by Mr. E, Lark, and Scoot.
 
-**First appearance:** [[S01E27]]
+**First appearance:** [[S01E27 - Episode Twenty Seven]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -56,7 +56,7 @@ Investigating the sewers beneath the Spouting Fish, the party discovers Xanathar
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Taga]] — Scoot's mother, an elderly orc woman who lives in the Dock Ward. Brings the party a pie.
+- [[Tagga]] — Scoot's mother, an elderly orc woman who lives in the Dock Ward. Brings the party a pie.
 - [[Renaer Neverember]] — Noble ally of the party, mentioned in context of previous rescue mission.
 - [[Floon Blagmaar]] — Man previously rescued by the party, mentioned in context of Volo's reward.
 - [[Volothamp Geddarm]] — Famous author and adventurer. Gives the party the deed to Trollskull Manor as payment for rescuing Floon and Renaer.
@@ -69,7 +69,7 @@ Investigating the sewers beneath the Spouting Fish, the party discovers Xanathar
 
 ### Locations
 
-- [[Scoot and Lark's Apartment]]
+- [[Scoot And Lark's Apartment]]
 - [[Yawning Portal]]
 - [[Spouting Fish]]
 - [[Trollskull Manor]]

@@ -14,7 +14,7 @@ tags:
 
 Reporter for the Waterdeep Wazoo newspaper, interested in the party's exploits.
 
-**First appearance:** [[S01E04]]
+**First appearance:** [[S01E04 - Episode Four]]
 **Total appearances:** 3 episodes
 
 ## Description

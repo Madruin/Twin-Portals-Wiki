@@ -54,20 +54,20 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xae]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Erstel Fluxen]] — A Zhentarim assassin who was sent by Manshoon to retrieve the Crown of Never from Castle Neverwinter. Captured by SWOJ after the castle run. Carries poison vials. Reveals under interrogation that Manshoon ('the boss with the mask') operates from Amphail and commands the forces mustered in the Spiral Cavern. Originally from Amphail himself.
+- [[Urstul Floxxin]] — A Zhentarim assassin who was sent by Manshoon to retrieve the Crown of Never from Castle Neverwinter. Captured by SWOJ after the castle run. Carries poison vials. Reveals under interrogation that Manshoon ('the boss with the mask') operates from Amphail and commands the forces mustered in the Spiral Cavern. Originally from Amphail himself.
 - [[Renaer Neverember]] — Son of Dagult Neverember. Brings halfling clerics to heal SWOJ after their emergence from Castle Neverwinter. Participates in the war council. Eventually agrees to share the Crown of Never ritual duty with his father Dagult to seal the chasm.
 - [[Dagult Neverember]] — Former Open Lord of Waterdeep and ruler of Neverwinter. Father of Renaer. Participates in the war council and agrees to share the Crown of Never ritual with his son. Has a complicated relationship with Renaer but they cooperate for the city's sake.
-- [[Mellafarne]] — An ancient bronze dragon and key ally. Arrives with Mr. E and a flight of four dragons. Explains she can seal the Neverwinter chasm using the Crown of Never combined with crystals from the Amphail cavern. Sends SWOJ to retrieve the crystals while she prepares the ritual.
+- [[Melifarn]] — An ancient bronze dragon and key ally. Arrives with Mr. E and a flight of four dragons. Explains she can seal the Neverwinter chasm using the Crown of Never combined with crystals from the Amphail cavern. Sends SWOJ to retrieve the crystals while she prepares the ritual.
 - [[Jack]] — A silver dragon from the Way of the Balanced Scales flight. One of the dragons SWOJ rides to Amphail. Helps carry the party back to Neverwinter with the crystals.
 - [[Jill]] — A white dragon from the Way of the Balanced Scales flight. One of the dragons SWOJ rides to Amphail. Described as not super smart but loyal.
 - [[Chip]] — A dragon from the Way of the Balanced Scales flight used as a diversion during the Amphail infiltration. Captured by barbarians and periton riders near the Spiral Cavern entrance. Mr. E promises to return and rescue them.
 - [[Dale]] — A dragon from the Way of the Balanced Scales flight used as a diversion during the Amphail infiltration. Captured alongside Chip by barbarians and periton riders near the Spiral Cavern entrance.
 - [[Zardoz Zord]] — An ally who participates in the war council at Neverwinter, helping plan strategy against the multiple threats facing the city.
-- [[Ramalia Haventree]] — An ally who participates in the war council at Neverwinter, helping plan strategy against the threats facing the city.
+- [[Remalia Haventree]] — An ally who participates in the war council at Neverwinter, helping plan strategy against the threats facing the city.
 
 ### Locations
 
@@ -75,7 +75,7 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 - [[Neverwinter]]
 - [[Amphail]]
 - [[Spiral Cavern]]
-- [[Cryptwood]]
+- [[Kryptwood]]
 
 ---
 

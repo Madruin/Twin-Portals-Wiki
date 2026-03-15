@@ -51,14 +51,14 @@ Beneath the balcony staircase, the party discovered a closet where Renaer Nevere
 ### Featured Characters
 
 - [[Scoot Sparkles]]
-- [[Malark "Lark" Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Ylka Gralhund]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Pinker]] — Kenku wearing a distinctive pink hat. Captured alive by the party. Worked for the Xanathar Guild. Released with a gold coin and misleading phrases ('Zhentarim sends their regards'). Had the Xanathar symbol tattooed on its hand.
 - [[Renaer Neverember]] — Son of Dagult Neverember, the former Open Lord of Waterdeep. Handsome man with hip-length red-gold blonde hair. Spelled R-E-N-A-E-R. Was kidnapped alongside Floon by the Zhentarim, then hid when the Xanathar Guild attacked. Estranged from his father. Carries a rapier.
-- [[Captain Eustace Staggerd]] — City Watch captain in charge of the Dock Ward. Arrived with approximately thirteen men to investigate reports of violence on Candle Lane. Recognized Renaer Neverember and deferred to his authority.
+- [[Captain Hyustus Stagget]] — City Watch captain in charge of the Dock Ward. Arrived with approximately thirteen men to investigate reports of violence on Candle Lane. Recognized Renaer Neverember and deferred to his authority.
 - [[Floon Blagmaar]] — Taken by the Xanathar Guild's kenku from the warehouse. The kenku mistook him for Renaer Neverember. Presumably brought to the Xanathar's lair in the sewers.
 - [[Dagult Neverember]] — Former Open Lord of Waterdeep, from Neverwinter. Allegedly embezzled a large sum of gold (dragons) and hid it somewhere in the city. Father of Renaer. Had conservative policies with disruptive tariffs.
 

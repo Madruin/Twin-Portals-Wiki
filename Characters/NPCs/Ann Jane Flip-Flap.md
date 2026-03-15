@@ -14,7 +14,7 @@ tags:
 
 Member of the Jolly Gents who stayed with SWOJ. Helped lock the door during the Shadow Way Inn attack.
 
-**First appearance:** [[S02E01]]
+**First appearance:** [[S02E01 - Episode Thirty One (S02E01)]]
 **Total appearances:** 3 episodes
 
 ## Description

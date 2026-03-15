@@ -14,7 +14,7 @@ tags:
 
 Bartender at Zuber Farm. Mentioned briefly.
 
-**First appearance:** [[S01E07]]
+**First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 2 episodes
 
 ## Description

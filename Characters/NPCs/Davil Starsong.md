@@ -14,7 +14,7 @@ tags:
 
 Zhentarim agent and member of the Doom Raiders faction. Encounters SWOJ at the Yawning Portal. Bonnie reads his mind and determines he is searching for the Stone of Golorr. Flees the Short Rest opening when a griffin cavalry rider appears overhead.
 
-**First appearance:** [[S01E11]]
+**First appearance:** [[S01E11 - Episode Eleven]]
 **Total appearances:** 2 episodes
 
 ## Description

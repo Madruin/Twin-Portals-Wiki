@@ -14,7 +14,7 @@ tags:
 
 Current Open Lord of Waterdeep, very popular with the citizens. Replaced Dagult Neverember.
 
-**First appearance:** [[S01E01]]
+**First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 5 episodes
 
 ## Description

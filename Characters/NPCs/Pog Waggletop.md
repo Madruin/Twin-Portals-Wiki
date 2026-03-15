@@ -14,7 +14,7 @@ tags:
 
 Member of the Sea Plum crew. Stays at Trollskull Manor.
 
-**First appearance:** [[S01E07]]
+**First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 5 episodes
 
 ## Description

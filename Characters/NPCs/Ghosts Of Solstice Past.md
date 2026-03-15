@@ -14,7 +14,7 @@ tags:
 
 Supernatural entities manifesting as snow dwarves during the Winter Solstice in prehistoric Waterdeep. Deliver cryptic riddles and warnings about Krampus to the party.
 
-**First appearance:** [[S01E14]]
+**First appearance:** [[S01E14 - Episode Fourteen]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Farmer at Stout Fellow Farm in Undercliff. Hires SWOJ to deal with the scarecrow attacks. Pays 60gp per scarecrow destroyed.
 
-**First appearance:** [[S01E07]]
+**First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 2 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 One of the three Jolly Gents, a bard who fights with a lute. Previously stole Ylka's concertina. During the battle at the lake, Ylka shatters his stolen loot and recovers her concertina. He teleports away with Jake and the green power stones.
 
-**First appearance:** [[S02E16]]
+**First appearance:** [[S02E16 - Episode Forty Six LIVE (S02E16)]]
 **Total appearances:** 2 episodes
 
 ## Description

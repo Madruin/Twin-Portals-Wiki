@@ -14,7 +14,7 @@ tags:
 
 Drow mastermind disguised as JB Nevercott in the arena audience. Telepathically warns SWOJ via Message that the lair is rigged with smoke powder and reveals the secret door location (south wall, flaming eye symbol).
 
-**First appearance:** [[S01E17]]
+**First appearance:** [[S01E17 - Episode Seventeen]]
 **Total appearances:** 1 episode
 
 ## Description

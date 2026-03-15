@@ -60,26 +60,26 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **NPCs:**
 - [[Rowan Crooks]] — Leader of the Jolly Gents. Captures Fetch's soul in a crystal shard inside the Great Beast. Subjected to Radisare's Geas spell as a safeguard for Fetch's safety.
 - [[Fetch]] — The nine-year-old fragment of Manchun's soul, now merged with Teriador. His soul is captured in a crystal shard by Rowan Crooks.
-- [[Radisare]] — Rock gnome inventor allied with the Jolly Gents. Examines the Dynamo of Possibility and casts Geas on Rowan Crooks to ensure Fetch's safety. Arrives in Waterdeep separately due to time displacement.
+- [[Radecere]] — Rock gnome inventor allied with the Jolly Gents. Examines the Dynamo of Possibility and casts Geas on Rowan Crooks to ensure Fetch's safety. Arrives in Waterdeep separately due to time displacement.
 - [[Antediluvian Jake]] — Member of the Jolly Gents. Teleports the group back to Waterdeep using a teleportation circle.
-- [[Jane Flipflap]] — Member of the Jolly Gents. Present during the extraction from the Great Beast.
+- [[Ann Jane Flip-Flap]] — Member of the Jolly Gents. Present during the extraction from the Great Beast.
 - [[Dorvina]] — Member or associate of the Jolly Gents, present during the return to Waterdeep.
-- [[Taga]] — Scoot's mother, a half-orc woman. Bedridden at the Short Rest with a spore illness that requires mothweed (purple moss) for treatment. Has been ill for some time during the three-year gap.
-- [[Leaf]] — A ghost who manages the Short Rest tavern on Trollskull Alley. Has been running things during SWOJ's three-year absence.
+- [[Tagga]] — Scoot's mother, a half-orc woman. Bedridden at the Short Rest with a spore illness that requires mothweed (purple moss) for treatment. Has been ill for some time during the three-year gap.
+- [[Lif]] — A ghost who manages the Short Rest tavern on Trollskull Alley. Has been running things during SWOJ's three-year absence.
 - [[Nat]] — A teenager now, having grown up during the three-year gap. Helps manage the Short Rest tavern.
 - [[Jenks]] — A teenager now, having grown up during the three-year gap. Helps manage the Short Rest tavern alongside Nat.
 
 ### Locations
 
-- [[Great Beast of Aeroa]]
+- [[The Great Beast of Erua]]
 - [[The Short Rest]]
 - [[Trollskull Alley]]
-- [[Froon's Brews]]
+- [[Frewn's  Brews]]
 - [[Waterdeep]]
-- [[Corallon's Crown]]
+- [[Corellon's Crown]]
 - [[Doom Network Headquarters]]
 - [[Amphail]]
-- [[Cryptwood]]
+- [[Kryptwood]]
 - [[Neverwinter]]
 
 ---

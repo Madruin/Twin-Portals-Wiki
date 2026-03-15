@@ -14,7 +14,7 @@ tags:
 
 One of Remalia's guards. Ensorcelled by the Stone of Golorr, freed by being hit. Fights bugbears in the theater, scoring a critical hit.
 
-**First appearance:** [[S01E26]]
+**First appearance:** [[S01E26 - Episode Twenty Six]]
 **Total appearances:** 3 episodes
 
 ## Description

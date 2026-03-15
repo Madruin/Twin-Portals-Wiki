@@ -14,7 +14,7 @@ tags:
 
 Volo's missing friend. Described as having 'more beauty than brains' with red hair. Full name spelled out as Blagmaar (B-L-A-G-M-A-A-R). Was kidnapped after leaving the Skewered Dragon.
 
-**First appearance:** [[S01E01]]
+**First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 6 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Xae's sister, a powerful transmutation wizard who works for Halaster Blackcloak. She is a shapeshifter who can appear as a cloud of butterflies and maggots, or take other forms. She has come to the Wall of the Faithless to break it. Initially hostile, she casts disintegrate on Scoot during negotiations, but is eventually persuaded to join SWOJ. She leads the party to Kelemvor's skeleton and begins a ritual to summon souls from the Wall.
 
-**First appearance:** [[S02E35]]
+**First appearance:** [[S02E35 - Episode Sixty Five (S02E35)]]
 **Total appearances:** 3 episodes
 
 ## Description

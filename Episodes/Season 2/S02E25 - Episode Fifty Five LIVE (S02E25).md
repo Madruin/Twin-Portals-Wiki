@@ -54,12 +54,12 @@ After defeating their shadow selves, the Raven Queen herself appears, acknowledg
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xaerine 'Xae' Rumblestride]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Rowan Crooks]] — The Manshoon clone and Jolly Gents leader. Defeated by SWOJ atop Zentil Keep and trapped inside the Soul Stone after his phylactery is destroyed. His defeat causes the floating fortress to begin collapsing.
-- [[Zellopharn]] — A dragon ally who resides within Scoot's necklace. Briefly manifests during the dream sequence. An important companion who has been with the party for some time.
+- [[Zelifarn]] — A dragon ally who resides within Scoot's necklace. Briefly manifests during the dream sequence. An important companion who has been with the party for some time.
 - [[Little Joan]] — Leader of a group of Jolly Gents who have allied with SWOJ. Present during the battle at Zentil Keep and continues to travel with the party.
 - [[The Raven Queen]] — A powerful deity associated with death, fate, and the transition between life and death. Orchestrates the dream sequence as a test for SWOJ. Appears at the end of the episode after the party defeats their shadow selves, acknowledging their worthiness.
 - [[Antediluvian Jake]] — Legendary Jolly Gents figure who appears in the dream sequence during the assault on the Xanathar's lair. Leads the charge alongside Giggling Gus.
@@ -68,7 +68,7 @@ After defeating their shadow selves, the Raven Queen herself appears, acknowledg
 
 ### Locations
 
-- [[Zentil Keep]]
+- [[Zhentil Keep]]
 - [[Shadowfell]]
 - [[The Sea Plum]]
 - [[Waterdeep]]

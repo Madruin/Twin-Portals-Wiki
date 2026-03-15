@@ -55,12 +55,12 @@ Finally, SWOJ reaches the soul engine room, a massive chamber where magical chai
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
 - [[Malark Wavesilver]]
-- [[Xae Rumblestride]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Pill Garlic]] — A Jolly Gents member overheard during a wyvern patrol in the underground caverns beneath Zentil Keep. Discusses patrol routes and security with Slim Curly.
 - [[Slim Curly]] — A halfling spy master and undead Jolly Gents operative. Spots SWOJ during a patrol in the underground caverns. Chased and killed by the party. His body is fed to the mushrooms to dispose of evidence.
-- [[Grabmar]] — A ghost archivist working in the print shop beneath Zentil Keep. From House Thistlewhip. Forced to produce propaganda for Rowan Crooks. Provides SWOJ with information about the propaganda operation and gifts Lark a silver quill.
+- [[Grabmaar]] — A ghost archivist working in the print shop beneath Zentil Keep. From House Thistlewhip. Forced to produce propaganda for Rowan Crooks. Provides SWOJ with information about the propaganda operation and gifts Lark a silver quill.
 - [[Little Joan]] — A powerful Jolly Gents warrior found doing pull-ups in the soul engine room. Despite her name, she is physically imposing and wields a dual-bladed axe. Has growing doubts about Crooks' leadership. Persuaded by Scoot to join SWOJ's cause through a show of strength. Helps attack the soul engine chains and goes to rally other Gents against Crooks.
 - [[Friar Truck]] — A demonic cleric serving Rowan Crooks, responsible for the phylactery laboratory containing over a hundred Jolly Gents phylacteries. Immune to fear effects. Wields a mace called 'the Truck' and a dark spellbook with blood magic and pentagrams. Casts spirit guardians (ghostly Jolly Gents), banishment, flame strike, and wall of fire. Serves Manshoon and considers him the 'better leader' over the original Crooks. Killed by Xae's moonbeam.
 - [[Sixteen String Jack]] — A Jolly Gent whose phylactery emits a twinging sound when knocked off the altar. Mentioned by name when the party hears music from one of the phylacteries.

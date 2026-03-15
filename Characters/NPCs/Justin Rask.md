@@ -14,7 +14,7 @@ tags:
 
 Representative of the Guild of Butchers. Involved in tavern licensing.
 
-**First appearance:** [[S01E08]]
+**First appearance:** [[S01E08 - Episode Eight]]
 **Total appearances:** 1 episode
 
 ## Description

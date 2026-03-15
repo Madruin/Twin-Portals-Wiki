@@ -14,7 +14,7 @@ tags:
 
 A drow male with guns, found imprisoned by cultists inside the God Catcher. Rescued by the party.
 
-**First appearance:** [[S01E06]]
+**First appearance:** [[S01E06 - Episode Six]]
 **Total appearances:** 4 episodes
 
 ## Description

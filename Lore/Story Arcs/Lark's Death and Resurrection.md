@@ -19,9 +19,9 @@ tags:
 
 ## Summary
 
-The disintegration of [[Malark Wavesilver|Lark]] by the [[Xanathar]]'s disintegration beam was the most devastating moment of Season 1, reducing the beloved rogue to a pile of ashes with his hat drifting down as his last words -- "For justice" -- echoed through the mind flayer's spawning chamber. The surviving party members were teleported to safety by the unicorn [[Lerian]], arriving at [[Trollskull Manor]] at midnight with nothing but Lark's ashes and hat.
+The disintegration of [[Malark Wavesilver|Lark]] by the [[The Xanathar]]'s disintegration beam was the most devastating moment of Season 1, reducing the beloved rogue to a pile of ashes with his hat drifting down as his last words -- "For justice" -- echoed through the mind flayer's spawning chamber. The surviving party members were teleported to safety by the unicorn [[Lyrian]], arriving at [[Trollskull Manor]] at midnight with nothing but Lark's ashes and hat.
 
-The campaign went on an extended hiatus due to the COVID-19 pandemic, with out-of-character episodes reflecting on Lark's death and the "Lark Lives" sticker campaign created by fans. When gameplay resumed, two months had passed in-universe. [[Xaerine Rumblestride|Xae]] had vanished into the Feywild with Lerian, while [[Ylka Gralhund|Ylka]] discovered a mysterious [[Necromancer]] via a scrying pool in the Short Rest's cellar. The Necromancer offered to create a copy of Lark's body, but warned that without a soul the body would be empty.
+The campaign went on an extended hiatus due to the COVID-19 pandemic, with out-of-character episodes reflecting on Lark's death and the "Lark Lives" sticker campaign created by fans. When gameplay resumed, two months had passed in-universe. [[Xaerine Rumblestride|Xae]] had vanished into the Feywild with Lerian, while [[Ylka Gralhund|Ylka]] discovered a mysterious [[The Necromancer]] via a scrying pool in the Short Rest's cellar. The Necromancer offered to create a copy of Lark's body, but warned that without a soul the body would be empty.
 
 Using Lark's majestic hat as a vessel, Scoot and Ylka traveled to [[Malar]]'s realm in the afterlife, where they discovered the hag [[Esther]] (from Trollskull Manor, now one-armed) had plucked Lark's soul from [[Kelemvor]]'s grasp and given it to Malar as bait to trap the unicorn Lerian. After defeating the hag again, freeing captured dryads, and purifying the corrupted unicorn at a volcanic ash tree summit, Ylka placed Lark's hat on his head and woke him from death.
 
@@ -40,7 +40,7 @@ The return was bittersweet: Lark's soul came back trapped inside the hat, commun
 - [[Scoot Sparkles]] — Kept Lark's urn on the mantle; traveled to the afterlife to recover his soul
 - [[Ylka Gralhund]] — Found the Necromancer; placed the hat on Lark's head to wake him
 - [[Xaerine Rumblestride|Xae]] — Vanished into the Feywild during the hiatus; purified the corrupted Lerian
-- [[Lerian]] — Unicorn who was corrupted by Malar's followers; purified and teleported the party home
+- [[Lyrian]] — Unicorn who was corrupted by Malar's followers; purified and teleported the party home
 - [[Renaer Neverember]] — Provided the 1,000 gold diamond for resurrection
 - [[Esther]] — Hag who stole Lark's soul from Kelemvor
 - [[Manshoon]] / The Necromancer — Performed the clone spell but implanted a spy gem
@@ -48,7 +48,7 @@ The return was bittersweet: Lark's soul came back trapped inside the hat, commun
 ## Locations
 
 - [[Xanathar's Lair]] — Where Lark died
-- [[Malar's Realm]] — Afterlife realm where his soul was held
+- [[Malar's Realm (Afterlife)]] — Afterlife realm where his soul was held
 - [[Kolat Towers]] — Where the resurrection was performed
 - [[Trollskull Manor]] — Where the urn was kept and where the party returned
 

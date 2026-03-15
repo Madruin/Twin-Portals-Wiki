@@ -14,7 +14,7 @@ tags:
 
 An inscrutable wizard contacted by Ylka via scrying pool in the Short Rest cellar. Offered to create a copy of Lark's body and send Scoot and Ylka into the afterlife using Lark's hat as a vessel to bring them home. Mentioned in the recap.
 
-**First appearance:** [[S01E21]]
+**First appearance:** [[S01E21 - Episode Twenty One]]
 **Total appearances:** 7 episodes
 
 ## Description
@@ -23,7 +23,7 @@ An inscrutable wizard contacted by Ylka via scrying pool in the Short Rest cella
 
 A young-looking wizard with a mechanical hand connected to Ylka's grandfather Mordecai Gralhund. Operates from an extra-dimensional sanctum accessed through the Kolat Towers. Performs the clone spell to resurrect Lark. Has a simulacrum wearing an iron mask.
 
-The wizard operating from the Kolat Towers and the extra-dimensional sanctum. Confronts SWOJ and reveals that Ylka is a clone of Zilka, created by her grandfather Mordecai Gralhund. Tells them the Cassalanters have the third Eye. His simulacrum (iron mask) fights the city watch.
+The wizard operating from the Kolat Towers and the extra-dimensional sanctum. Confronts SWOJ and reveals that Ylka is a clone of Zylka, created by her grandfather Mordecai Gralhund. Tells them the Cassalanters have the third Eye. His simulacrum (iron mask) fights the city watch.
 
 
 ## Role in the Story
@@ -38,7 +38,7 @@ The wizard operating from the Kolat Towers and the extra-dimensional sanctum. Co
 - **S01E23:** Necromancer's simulacrum passes through an illusory wall
 - **S01E23:** Ylka uses disguise ring to impersonate the Necromancer, tricks shield wizard into leaving
 - **S01E23:** Search Necromancer's private study vault: find ledger with bookmarked names (Mirt, Coralus Thann, Tharduke Starbuckler, Jelen Irmbrusk, Grim Wavesilver)
-- **S01E23:** Confrontation with the Necromancer who reveals Ylka is a clone of Zilka, created by grandfather Mordecai to protect her soul
+- **S01E23:** Confrontation with the Necromancer who reveals Ylka is a clone of Zylka, created by grandfather Mordecai to protect her soul
 - **S01E23:** Necromancer reveals the Cassalanters possess the third Eye of the Stone of Golorr
 
 ## Episode Appearances

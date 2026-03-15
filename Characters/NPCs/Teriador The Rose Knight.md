@@ -14,7 +14,7 @@ tags:
 
 A ghost knight whose soul is absorbed by the Dynamo's green lightning. His rose-colored soul orb remains atop the tower and is ultimately merged with Fetch, giving the boy enough power to escape the Dynamo.
 
-**First appearance:** [[S02E04]]
+**First appearance:** [[S02E04 - Episode Thirty Four (S02E04)]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 The Rose Knight, a legendary hero who originally slew the Beast of Erua. His ghost emerged from the sarcophagus in the fortress. His reanimated corpse was a podling. Possessed Ylka's body to speak. Asked to have his armor returned to his sarcophagus.
 
-**First appearance:** [[S02E03]]
+**First appearance:** [[S02E03 - Episode Thirty Three (S02E03)]]
 **Total appearances:** 6 episodes
 
 ## Description

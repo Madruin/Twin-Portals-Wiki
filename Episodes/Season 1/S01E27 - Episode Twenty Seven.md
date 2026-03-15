@@ -53,26 +53,26 @@ In the aftermath of the Xanathar battle, SWOJ emerges from the theater to find a
 - [[Mr. E]]
 
 **NPCs:**
-- [[Victoria Cassalanter]] — Leads the city watch army outside the theater after the Xanathar battle. Directs guards to arrest SWOJ. Uses her political influence to control the situation.
+- [[Victoro Cassalanter]] — Leads the city watch army outside the theater after the Xanathar battle. Directs guards to arrest SWOJ. Uses her political influence to control the situation.
 - [[Vittorio Cassalanter]] — Cassalanter patriarch. Uses a charming cane on the crowd at the Founders Day feast. Casts mirror image during combat. Fights SWOJ but is knocked unconscious and kicked through his own portal into the temple of Asmodeus by Mr. E, Lark, and Scoot.
 - [[Amalia Cassalanter]] — Cassalanter matriarch. Found in the temple of Asmodeus pleading with the devil to take gold instead of her children's souls. Desperate and overcome with emotion.
-- [[Isabelle Wavesilver]] — The Black Viper. Lark's mother. Master thief who breaks into the high-security anti-magic prison to rescue SWOJ after about a week of imprisonment. Accompanies them to the Cassalanter feast, entering with Lark's father.
+- [[Esvelle Wavesilver]] — The Black Viper. Lark's mother. Master thief who breaks into the high-security anti-magic prison to rescue SWOJ after about a week of imprisonment. Accompanies them to the Cassalanter feast, entering with Lark's father.
 - [[Vincent Trench]] — Private investigator on Trollskull Alley. Opens a portal for SWOJ to escape to Trollskull Alley. Offers portal services for 300 gold. Has a closet full of trench coats of various cuts and styles. Lends disguise items.
 - [[Bricks]] — Remalia's guard. Betrays Remalia by turning her over to the city watch, apparently ensorcelled again by the Cassalanters.
 - [[Bracks]] — Remalia's guard. Betrays Remalia alongside Bricks.
 - [[Renaer Neverember]] — Mentioned in context of the aftermath and political situation.
-- [[Davel Starsong]] — Half-elf leader of the Doom Raiders band. Agrees to help SWOJ infiltrate the Founders Day feast by letting them join the band. The grandstander of the group who refuses to cover his face.
+- [[Davil Starsong]] — Half-elf leader of the Doom Raiders band. Agrees to help SWOJ infiltrate the Founders Day feast by letting them join the band. The grandstander of the group who refuses to cover his face.
 - [[Yagra]] — Half-orc member of the Doom Raiders. Sober and serious compared to some bandmates. Part of the group that helps SWOJ infiltrate the feast.
 
 ### Locations
 
-- [[Zadio City Music Hall (exterior)]]
+- [[Zadio City Music Hall (Exterior)]]
 - [[Castle Ward Dungeon]]
 - [[Vincent Trench's Shop]]
 - [[Trollskull Manor]]
 - [[Trollskull Alley]]
 - [[Cassalanter Villa]]
-- [[Temple of Asmodeus]]
+- [[Temple Of Asmodeus]]
 
 ---
 

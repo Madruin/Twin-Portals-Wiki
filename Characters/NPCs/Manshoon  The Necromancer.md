@@ -14,7 +14,7 @@ tags:
 
 Discussed as the primary antagonist thread that remained unresolved at the end of Season 1, driving the story into the Feywild for Season 2.
 
-**First appearance:** [[S01E30]]
+**First appearance:** [[S01E30 - Episode Thirty]]
 **Total appearances:** 1 episode
 
 ## Description

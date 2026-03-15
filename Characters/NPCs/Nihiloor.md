@@ -14,7 +14,7 @@ tags:
 
 Mind flayer working for the Xanathar Guild. Responsible for creating intellect devourers. Mentioned by Jarlaxle as a key threat.
 
-**First appearance:** [[S01E11]]
+**First appearance:** [[S01E11 - Episode Eleven]]
 **Total appearances:** 1 episode
 
 ## Description

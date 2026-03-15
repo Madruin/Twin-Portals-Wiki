@@ -14,7 +14,7 @@ tags:
 
 Grinda's mouse familiar.
 
-**First appearance:** [[S01E06]]
+**First appearance:** [[S01E06 - Episode Six]]
 **Total appearances:** 2 episodes
 
 ## Description

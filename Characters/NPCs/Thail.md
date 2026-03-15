@@ -14,7 +14,7 @@ tags:
 
 Ghost of a tiefling, former companion of SWOJ who died previously. Brother of Squidly (Nat'n Jenkson). Appeared to the party in the Shadowfell. Can possess living bodies.
 
-**First appearance:** [[S02E01]]
+**First appearance:** [[S02E01 - Episode Thirty One (S02E01)]]
 **Total appearances:** 4 episodes
 
 ## Description

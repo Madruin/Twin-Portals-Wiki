@@ -14,7 +14,7 @@ tags:
 
 Half-elf fiddler and Hanna's husband. Went missing when the mysterious mists rolled into Amphail about a tenday ago. Was going to play with a local band for the festival.
 
-**First appearance:** [[S02E06]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Former Harper allies and city watch members revealed to be traitors working for the Cassalanters. On the run after the Cassalanter downfall.
 
-**First appearance:** [[S01E29]]
+**First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 2 episodes
 
 ## Description

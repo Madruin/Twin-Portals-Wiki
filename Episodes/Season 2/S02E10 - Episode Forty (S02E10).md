@@ -59,17 +59,17 @@ The tunnel leads to a cliff overlooking a massive underground cavern -- the Deep
 
 **NPCs:**
 - [[Antediluvian Jake]] — The lore keeper of the Jolly Gents adventuring party. Found waiting at the bottom of the Deep Dragon Temple. Possesses an obsidian tablet containing important information about the dragon-aboleth conflict.
-- [[Zardo Zord]] — A pirate ally who rows SWOJ to Devil's Rock from Driftwood. Stays with the boat while SWOJ explores the island.
-- [[Long John McCron]] — A rival pirate captain who also lands on Devil's Rock with his crew. His crew is attacked by skeletons in the Skull Dunes while SWOJ watches from higher ground.
+- [[Zardoz Zord]] — A pirate ally who rows SWOJ to Devil's Rock from Driftwood. Stays with the boat while SWOJ explores the island.
+- [[Long John McRon]] — A rival pirate captain who also lands on Devil's Rock with his crew. His crew is attacked by skeletons in the Skull Dunes while SWOJ watches from higher ground.
 - [[One-Eyed Wilhelmina]] — Captain of the Crimson Cracken. Her ship appears offshore and fires cannons at Devil's Rock during the skeleton battle, adding chaos to the situation.
 - [[Father Fratelli]] — A deceased priest whose skeleton is found at a campsite inside the abbey on Devil's Rock. Wears an ouroboros medallion, suggesting a connection to serpent or dragon cults.
 
 ### Locations
 
-- [[Devil's Rock]]
+- [[Devil's' Rock]]
 - [[Skull Dunes]]
 - [[Bladed Coral]]
-- [[The Abbey]]
+- [[The Devil's Rock Abbey]]
 - [[Deep Dragon Temple]]
 - [[Driftwood]]
 - [[Crimson Cracken]]

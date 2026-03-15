@@ -66,11 +66,11 @@ In a desperate escape, Ylka grabs the marble (the third Eye), Scoot administers 
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Xae]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Xaerine Rumblestride]]
+- [[Malark Wavesilver]]
 
 **NPCs:**
-- [[Zardos Zord]] — An ally who visits the Short Rest and provides intelligence about the Cassalanters. Shoots an imp disguised as a crow with a pistol. Suggests infiltrating Cassalanter Villa during Founder's Day feast.
+- [[Zardoz Zord]] — An ally who visits the Short Rest and provides intelligence about the Cassalanters. Shoots an imp disguised as a crow with a pistol. Suggests infiltrating Cassalanter Villa during Founder's Day feast.
 - [[Mara Melora]] — A reporter who arrives at the Short Rest to ask about the Kolat Towers explosion.
 - [[Sally]] — A pigeon familiar belonging to one of the reporters.
 - [[Beaker]] — A raven familiar belonging to one of the reporters.
@@ -90,7 +90,7 @@ In a desperate escape, Ylka grabs the marble (the third Eye), Scoot administers 
 - [[Wine Cellar (Cassalanter Villa)]]
 - [[Vault (Cassalanter Villa)]]
 - [[Lower Vault (Cassalanter Villa)]]
-- [[Shrine of Asmodeus (Cassalanter Villa)]]
+- [[Shrine Of Asmodeus (Cassalanter Villa)]]
 - [[Mud Flats]]
 
 ---

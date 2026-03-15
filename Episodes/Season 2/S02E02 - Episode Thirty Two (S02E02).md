@@ -61,7 +61,7 @@ After the battle, real staff members emerged from the cellar, led by Fritz, who 
 - [[Rackjack]] — One of the Brighanox elders who teaches SWOJ about wish stones and Brighanox society.
 - [[Blish]] — One of three Shadar-kai (shadow elves) encountered in the Shadowfell. Servant of the Raven Mother.
 - [[Mari]] — One of three Shadar-kai (shadow elves) encountered in the Shadowfell. Servant of the Raven Mother.
-- [[Iday]] — One of three Shadar-kai (shadow elves) encountered in the Shadowfell. Servant of the Raven Mother.
+- [[Idae]] — One of three Shadar-kai (shadow elves) encountered in the Shadowfell. Servant of the Raven Mother.
 - [[Fritz]] — Staff member at the Shadow Way Inn who hid in the cellar with other staff when the podlings took over. Provided information about podlings and Strigoi, and lent the party two giant scarab beetles for transportation.
 - [[Thail]] — Ghost of a tiefling, brother of Squidly. Possessed Lark's body. Found Squidly's wish stone on the Beast of Erua and entered it to say goodbye to his brother.
 - [[Squidly]] — Thail's brother, also known as Nat'n Jenkson. His unfulfilled wish ('I wish my brother came home') was crystallized as a glowing red wish stone embedded in the Beast of Erua. Seen through the stone at the Trollskull tavern with regulars, hatching a scheme.
@@ -69,10 +69,10 @@ After the battle, real staff members emerged from the cellar, led by Fritz, who 
 
 ### Locations
 
-- [[Brighanox Tunnels]]
+- [[Brigganock's Tunnels]]
 - [[The Shadowfell]]
 - [[Shadow Way Inn]]
-- [[Beast of Erua]]
+- [[Beast Of Erua]]
 
 ---
 

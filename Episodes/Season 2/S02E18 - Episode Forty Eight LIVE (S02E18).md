@@ -54,20 +54,20 @@ As Xae lifts the crown, the ghost of Lady Lissandra Never rises from the skeleto
 
 ### Featured Characters
 
-- [[Scoot]]
-- [[Ylka]]
-- [[Lark]]
-- [[Xae]]
+- [[Scoot Sparkles]]
+- [[Ylka Gralhund]]
+- [[Lark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Lord Dagult Neverember]] — Lord Protector of Neverwinter. Hires SWOJ to retrieve the Crown of Neverwinter from Castle Never, offering 5,000 gold each plus property. Warns about the Masks mercenary force pulling out of the city.
 - [[Renaer Neverember]] — Son of Lord Dagult Neverember. Contacts SWOJ via whisper magic, also wanting the Crown of Neverwinter. Provides historical context about the original founding family -- Lord Halueth Never and his wife -- and the Allegondar family who ruled after them.
-- [[Tresa]] — Guard captain who escorts SWOJ to Castle Never. Has a wandering accent described as going from Chicago to other American cities.
+- [[Tressa]] — Guard captain who escorts SWOJ to Castle Never. Has a wandering accent described as going from Chicago to other American cities.
 - [[Halfling Carpenter]] — A halfling carpenter working on Castle Never's restoration who shows SWOJ around the castle's lower levels before they ascend to the upper floors.
 - [[Rhyming Raven]] — A mysterious raven in Castle Never that speaks in rhymes. Confirms that the crown is likely in the original tower's throne room. Xae communicates with it using Speak with Animals. Disappears after they enter the throne room.
-- [[Coralith the Starweaver]] — A giant spider inhabiting the throne room of Castle Never. Eyes the size of beach balls, dozens of them. She has thousands of baby spiders and weaves constellations and star maps into her webs on the ceiling. Speaks via Xae's Speak with Animals spell. Accepts Lark's constellation watch as a gift and smashes the throne to reveal the hidden map and key. She has been living in the throne room for at least 30 years.
-- [[Talgath the Undying]] — The ghost of the dead beholder found in the antechamber. A spectral beholder floating above his own decomposed corpse. Has no eyes -- all hollowed-out pits -- and claims to be psychic. Demands an offering for safe passage but is easily appeased. Confined to his room by an invisible barrier. Has a Baltimore accent.
-- [[Erstell Floxen]] — A Zentarim assassin with a scarred face who wears a red hat similar to Lark's. Previously fought SWOJ at the Gralhund Villa (Season 1) and the Kolat Towers. Can melt through floors. Ambushes Scoot in the crypts with a poison dagger and fires an exploding crossbow bolt. Knocked unconscious by Scoot rather than killed. Seeks revenge against SWOJ.
+- [[Quorlith The Starweaver]] — A giant spider inhabiting the throne room of Castle Never. Eyes the size of beach balls, dozens of them. She has thousands of baby spiders and weaves constellations and star maps into her webs on the ceiling. Speaks via Xae's Speak with Animals spell. Accepts Lark's constellation watch as a gift and smashes the throne to reveal the hidden map and key. She has been living in the throne room for at least 30 years.
+- [[Talgath The Undying]] — The ghost of the dead beholder found in the antechamber. A spectral beholder floating above his own decomposed corpse. Has no eyes -- all hollowed-out pits -- and claims to be psychic. Demands an offering for safe passage but is easily appeased. Confined to his room by an invisible barrier. Has a Baltimore accent.
+- [[Urstul Floxxin]] — A Zentarim assassin with a scarred face who wears a red hat similar to Lark's. Previously fought SWOJ at the Gralhund Villa (Season 1) and the Kolat Towers. Can melt through floors. Ambushes Scoot in the crypts with a poison dagger and fires an exploding crossbow bolt. Knocked unconscious by Scoot rather than killed. Seeks revenge against SWOJ.
 - [[Lady Lissandra Never]] — The ghostly spirit of the wife of Lord Halueth Never, the founder of Neverwinter. Rises as a banshee from her coffin when the Crown of Neverwinter is removed. Her wail deals 83 points of damage. After Lark tells their full story and plays the ghostly pan flute, she calms down, nods approvingly, aligns her ghostly crown with the physical one (making it warmer), places a hand on Lark's shoulder, and fades away.
 - [[Lord Halueth Never]] — The first king of Neverwinter and founder of the city. His ornate tomb lies behind the gold-scaled door in the crypts, surrounded by nine silver swords in a circle. His inscription reads: 'Swear the oath of his knights and join him in rest.'
 

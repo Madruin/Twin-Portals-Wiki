@@ -14,7 +14,7 @@ tags:
 
 Zhentarim lieutenant. Appears on the theater balcony with Manshoon during the battle, armed with a crossbow.
 
-**First appearance:** [[S01E26]]
+**First appearance:** [[S01E26 - Episode Twenty Six]]
 **Total appearances:** 1 episode
 
 ## Description

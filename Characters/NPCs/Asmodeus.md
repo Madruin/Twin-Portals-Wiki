@@ -14,7 +14,7 @@ tags:
 
 Lord of Nessus, archdevil. Appears as a semi-corporeal, well-dressed humanoid figure with red-tinted skin hovering above a fiery altar bowl. Offers Xae a contract to free six 'brothers and sisters' within 13 Founders Days in exchange for voiding the Cassalanter soul contract.
 
-**First appearance:** [[S01E27]]
+**First appearance:** [[S01E27 - Episode Twenty Seven]]
 **Total appearances:** 5 episodes
 
 ## Description

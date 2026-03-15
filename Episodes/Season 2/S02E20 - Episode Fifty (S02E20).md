@@ -54,16 +54,16 @@ SWOJ descends the star staircase into the Raven Queen shrine, finding crow tapes
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xae]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Mellafarne]] — Ancient bronze dragon ally. Has been digging tunnels with Xae and Shaleheart for the chasm-sealing ritual. Discovered a green portal stone at an underground lake. Channels the Crown of Never's power through the Amphail crystals to seal the chasm. Crucial to saving Neverwinter.
+- [[Melifarn]] — Ancient bronze dragon ally. Has been digging tunnels with Xae and Shaleheart for the chasm-sealing ritual. Discovered a green portal stone at an underground lake. Channels the Crown of Never's power through the Amphail crystals to seal the chasm. Crucial to saving Neverwinter.
 - [[Shaleheart]] — SWOJ's bulette companion. Has been helping Mellafarne and Xae dig tunnels for the chasm-sealing ritual beneath Neverwinter.
 - [[Dagult Neverember]] — Former Open Lord of Waterdeep and ruler of Neverwinter. Shares the Crown of Never ritual with his son Renaer, trading the crown back and forth to channel its power and seal the chasm.
 - [[Renaer Neverember]] — Son of Dagult. Shares the crown ritual with his father. Afterward, offers SWOJ a choice of real estate as reward: the Riverside Inn or the Shard of Moonlight. Gives them the Shard of Moonlight floating wizard tower.
 - [[Zardoz Zord]] — Ally who participates in the final war council. Present for the discussions about threats facing the Sword Coast.
-- [[Ramalia Haventree]] — Ally who participates in the final war council. Present for the discussions about the multi-front threats.
+- [[Remalia Haventree]] — Ally who participates in the final war council. Present for the discussions about the multi-front threats.
 - [[Antediluvian Jake]] — A historical figure connected to the Jolly Gents. His clay tablet reveals crucial backstory: the Jolly Gents were killed by Manshoon, Rowan Crooks harvests their souls, and the secret base is Zentil Keep floating above the Shadowfell.
 - [[Jarlaxle]] — The famous drow mercenary leader of Bregan D'aerthe. SWOJ visits him and he allows them to speak with Arcanthos, an ancient red dragon trapped in a bag of holding.
 - [[Arcanthos]] — An ancient red dragon trapped inside a bag of holding, held by Jarlaxle. SWOJ speaks to him through the bag. His presence in the bag dimension may be causing bags of holding to malfunction across the realms.
@@ -72,12 +72,12 @@ SWOJ descends the star staircase into the Raven Queen shrine, finding crow tapes
 ### Locations
 
 - [[Neverwinter]]
-- [[Shard of Moonlight]]
+- [[Shard Of Moonlight]]
 - [[Riverside Inn]]
 - [[Raven Queen Shrine]]
 - [[Mages Guild]]
 - [[Underground Lake]]
-- [[Zentil Keep]]
+- [[Zhentil Keep]]
 - [[Shadowfell]]
 
 ---

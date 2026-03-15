@@ -48,28 +48,28 @@ SWOJ levels up to 3 (Scoot gets dolphin totem, Ylka joins College of War, Lark b
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Mary Stout Fellow]] — Pays SWOJ 180gp (60gp per scarecrow) and gives them the enchanted Sickle of Storms as reward. Also provides a wine discount deal.
+- [[Mary Stoutfellow]] — Pays SWOJ 180gp (60gp per scarecrow) and gives them the enchanted Sickle of Storms as reward. Also provides a wine discount deal.
 - [[Blossom Zuber]] — Confesses to using a ring with a three-pointed devil symbol (same as God Catcher) to summon the scarecrows. The ring was given to her by an aging tiefling in a black suit with thin-rimmed glasses at Cassalanter Villa. The ring crumbled to dust when removed.
 - [[Tula]] — Bartender at Zuber Farm. Reveals Dasher frequented the Hole in the Wall tavern.
-- [[Bonneal Hilltopple]] — Bartender at the Hole in the Wall halfling tavern at the base of the God Catcher.
-- [[Fala Lefaliir]] — Wood elf herbalist who runs Corellon's Crown, an apothecary shop on Trollskull Alley. Member of the Guild of Apothecaries.
+- [[Bonnie Hilltopple]] — Bartender at the Hole in the Wall halfling tavern at the base of the God Catcher.
+- [[Fela Lefaliir]] — Wood elf herbalist who runs Corellon's Crown, an apothecary shop on Trollskull Alley. Member of the Guild of Apothecaries.
 - [[Vincent Trench]] — Human private investigator who runs Tiger's Eye detective agency on Trollskull Alley. Charges 300gp for information, 500gp for missing persons cases.
 - [[Renaer Neverember]] — Noble ally of SWOJ. Offers a 1000gp loan for Trollskull Manor renovations. Mentions that a spy named Dalakhar is following him, seeking the Stone of Golorr on behalf of his father Dagult Neverember.
-- [[Dalakhar]] — A spy following Renaer Neverember, seeking the Stone of Golorr for Dagult Neverember (Renaer's father, former Open Lord of Waterdeep).
+- [[Dalekar]] — A spy following Renaer Neverember, seeking the Stone of Golorr for Dagult Neverember (Renaer's father, former Open Lord of Waterdeep).
 - [[Dagult Neverember]] — Renaer's father and former Open Lord of Waterdeep. Mentioned as having a hoard of gold and employing the spy Dalakhar to find the Stone of Golorr.
 - [[Hammond Kraddoc]] — Representative of the Vintners', Distillers', and Brewers' Guild. Involved in tavern licensing.
 
 ### Locations
 
-- [[Stout Fellow Farm]]
+- [[Stoutfellow Farm]]
 - [[Zuber Farm]]
 - [[Cassalanter Villa]]
-- [[Hole in the Wall]]
-- [[God Catcher]]
+- [[Hole In The Wall]]
+- [[The God Catcher]]
 - [[Trollskull Manor]]
 - [[Trollskull Alley]]
 - [[Corellon's Crown]]

@@ -14,7 +14,7 @@ tags:
 
 An enormous aboleth-like viper fish creature living in the subterranean lake beneath the chasm. Maintains the seal that keeps the chasm stable, powered by green stones of power. Has a bioluminescent dangling appendage that serves as a power conduit. Joan severs this appendage during the Jolly Gents' attack.
 
-**First appearance:** [[S02E16]]
+**First appearance:** [[S02E16 - Episode Forty Six LIVE (S02E16)]]
 **Total appearances:** 1 episode
 
 ## Description

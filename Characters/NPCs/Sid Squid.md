@@ -14,7 +14,7 @@ tags:
 
 A carnival barker and food vendor at the Night Market who runs 'Sid Squid's Battle Prawns: The Shrimpening.' A hustler-looking guy with a team of sous chefs in yellow aprons who challenges contestants to catch, kill, and cook giant prawns.
 
-**First appearance:** [[S02E08]]
+**First appearance:** [[S02E08 - Episode Thirty Eight (S02E08)]]
 **Total appearances:** 3 episodes
 
 ## Description

@@ -52,24 +52,24 @@ The party departs Neverwinter heading south along the High Road toward the Mere 
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xaerine 'Xae' Rumblestride]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[The Raven Queen]] — A powerful deity of death, fate, and memory. Speaks to SWOJ through an emissary about the Wall of the Faithless. Gifts Scoot enchanted raven feathers and takes Lark for a private audience. Opposes Kelemvor's Wall of the Faithless.
 - [[Renaer Neverember]] — SWOJ's ally and patron in Neverwinter. Meets them at the Hall of Justice. Takes custody of the Soul Stone containing Rowan Crooks and provides dragon-hunting gear for their next mission. Son of Dagult Neverember.
-- [[Lachlina]] — A halfling herbalist encountered on the High Road south of Neverwinter. Was being chased by bulettes attracted to her Lunaria herbs. Sells SWOJ three potions of greater healing. Friendly and knowledgeable about herbs.
+- [[Lochlina]] — A halfling herbalist encountered on the High Road south of Neverwinter. Was being chased by bulettes attracted to her Lunaria herbs. Sells SWOJ three potions of greater healing. Friendly and knowledgeable about herbs.
 - [[Kelemvor]] — The god of death and judgment in the Forgotten Realms. Built the Wall of the Faithless to trap souls of the faithless. The Raven Queen opposes him on this matter.
 - [[Little Joan]] — Leader of the allied Jolly Gents contingent traveling with SWOJ. Continues to accompany the party as they travel south from Neverwinter.
 
 ### Locations
 
-- [[Shard of Night]]
+- [[Shard Of Night]]
 - [[Neverwinter]]
-- [[Hall of Justice]]
+- [[Hall Of Justice]]
 - [[High Road]]
-- [[Wall of the Faithless]]
-- [[Mere of Dead Men]]
+- [[Wall Of The Faithless]]
+- [[Mere Of Dead Men]]
 
 ---
 

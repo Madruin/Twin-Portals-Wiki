@@ -14,7 +14,7 @@ tags:
 
 Ghost of a middle-aged elven bartender who worked at Trollskull Manor 95 years ago. His diary reveals the history of Esther the hag. He writes warnings to help the party and smiles at them after the hag is defeated.
 
-**First appearance:** [[S01E05]]
+**First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 2 episodes
 
 ## Description

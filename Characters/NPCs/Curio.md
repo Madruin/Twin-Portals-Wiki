@@ -14,7 +14,7 @@ tags:
 
 A mimic disguised as a merchant stall in the Dark Market. Offers SWOJ a spell jamming helm in exchange for stealing a jar (containing the Breath of the First Dawn) from the angel Rylerin's cabinet. When Lark tells Rylerin instead of stealing, Rylerin captures Curio in a jar. Described as having a familiar glaring eye when captured.
 
-**First appearance:** [[S02E21]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
 **Total appearances:** 2 episodes
 
 ## Description

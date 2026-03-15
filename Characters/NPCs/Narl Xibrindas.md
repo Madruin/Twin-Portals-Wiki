@@ -14,7 +14,7 @@ tags:
 
 White-haired elf (drow) lost in the Xanathar's lair. The carny asks SWOJ to find him. Thorvin also mentions him. A spy or double agent within the Xanathar Guild.
 
-**First appearance:** [[S01E16]]
+**First appearance:** [[S01E16 - Episode Sixteen]]
 **Total appearances:** 1 episode
 
 ## Description

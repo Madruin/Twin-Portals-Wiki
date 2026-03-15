@@ -54,26 +54,26 @@ The mind flayer has been controlling the Xanathar's body, which floats above fir
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
-- [[Thaelin (guest)]]
+- [[Thaelin]]
 
 **NPCs:**
-- [[JB Nevercott / Jarlaxle Baenre]] — Drow mastermind disguised as JB Nevercott in the arena audience. Telepathically warns SWOJ via Message that the lair is rigged with smoke powder and reveals the secret door location (south wall, flaming eye symbol).
+- [[JB Nevercott  Jarlaxle Baenre]] — Drow mastermind disguised as JB Nevercott in the arena audience. Telepathically warns SWOJ via Message that the lair is rigged with smoke powder and reveals the secret door location (south wall, flaming eye symbol).
 - [[Pinker]] — Kenku prisoner in the cells below the arena. Wears a pink hat which he trades to Scoot for his durag. Skilled lockpicker who frees the kenku prisoners. Leads twelve other kenku in the staged arena fight.
 - [[Flutterfoot Zipswiggle]] — Gnome jester previously encountered in E16. Found dead on a throne in a chamber beyond the collapsed lair, his brain eaten by the mind flayer.
-- [[The Xanathar (Body)]] — Beholder crime lord whose body is being controlled by the mind flayer. Floats above the spawning chamber firing eye rays. Disintegrates Lark with its disintegration beam.
-- [[Mind Flayer]] — The true puppetmaster controlling the Xanathar's body. Operates from a spawning chamber with a green pool that produces intellect devourers. Ate Flutterfoot's brain. Scoot tackles it into the spawning pool.
-- [[Drow Announcer]] — Drow who announces the arena fights in the Arena of Blood and Fortune.
-- [[Larian]] — Crystal unicorn spirit. Projects a magical shield that protects the party from the lair collapse. Guides them through the tunnels. Calls 'Gather around me' and teleports the surviving party to Trollskull Manor in a burst of rainbow light.
+- [[The Xanathar]] — Beholder crime lord whose body is being controlled by the mind flayer. Floats above the spawning chamber firing eye rays. Disintegrates Lark with its disintegration beam.
+- [[Nihiloor]] — The true puppetmaster controlling the Xanathar's body. Operates from a spawning chamber with a green pool that produces intellect devourers. Ate Flutterfoot's brain. Scoot tackles it into the spawning pool.
+- [[Jarlaxle]] — Drow who announces the arena fights in the Arena of Blood and Fortune.
+- [[Lyrian]] — Crystal unicorn spirit. Projects a magical shield that protects the party from the lair collapse. Guides them through the tunnels. Calls 'Gather around me' and teleports the surviving party to Trollskull Manor in a burst of rainbow light.
 
 ### Locations
 
-- [[Arena of Blood and Fortune]]
+- [[Arena Of Blood And Fortune]]
 - [[Xanathar's Lair (Collapsing)]]
 - [[Kuo-Toa Shrine Room]]
 - [[Mind Flayer's Spawning Chamber]]
-- [[Trollskull Manor / Short Rest Tavern]]
+- [[Trollskull Manor  The Short Rest]]
 
 ---
 

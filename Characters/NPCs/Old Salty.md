@@ -14,7 +14,7 @@ tags:
 
 A giant crawfish living in the storm sewers beneath the Radiant Citadel. Originally a normal crawfish from Sid's Squids restaurant that was flushed down the drain and grew to enormous size. SWOJ fights and defeats it in the sewers.
 
-**First appearance:** [[S02E34]]
+**First appearance:** [[S02E34 - Episode Sixty Four LIVE (S02E34)]]
 **Total appearances:** 1 episode
 
 ## Description

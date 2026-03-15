@@ -58,7 +58,7 @@ At the Staghorn Flagon (Stag and Flag) tavern, they meet Gundarkson, the bartend
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Ziraj the Hunter]] — Skilled tracker and guide who accompanies SWOJ from Waterdeep to Amphail. Parts ways with the party at Amphail's entrance, declining to enter the Cryptwood.
+- [[Ziraj The Hunter]] — Skilled tracker and guide who accompanies SWOJ from Waterdeep to Amphail. Parts ways with the party at Amphail's entrance, declining to enter the Cryptwood.
 - [[Froon]] — Owner of Froon's Brews on Trollskull Alley. Facilitates the donation of health potions from Ted and Phyllis before SWOJ's departure.
 - [[Ted]] — Patron at Froon's Brews who donates health potions to SWOJ for their journey north.
 - [[Phyllis]] — Patron at Froon's Brews who donates health potions to SWOJ along with Ted.
@@ -67,20 +67,20 @@ At the Staghorn Flagon (Stag and Flag) tavern, they meet Gundarkson, the bartend
 - [[Kai]] — Archer in the Hare Company. One of three archers spotted by Xae using the Avian Circlet.
 - [[Hanna]] — Owner of a music shop in Amphail. Her husband Juan, a half-elf fiddler, has gone missing along with other townspeople. Repairs Ylka's concertina and sells her an orca-shaped ocarina.
 - [[Juan]] — Half-elf fiddler and Hanna's husband. Went missing when the mysterious mists rolled into Amphail about a tenday ago. Was going to play with a local band for the festival.
-- [[Gundarkson]] — Bartender and working mayor of Amphail who runs the Staghorn Flagon (Stag and Flag). Provides information about Anya Irmbrusk's disappearance and the mysterious mists from the Cryptwood. Was affected by the mists himself, blacking out behind the bar and waking outside with an axe.
+- [[Gundark Gundarkson]] — Bartender and working mayor of Amphail who runs the Staghorn Flagon (Stag and Flag). Provides information about Anya Irmbrusk's disappearance and the mysterious mists from the Cryptwood. Was affected by the mists himself, blacking out behind the bar and waking outside with an axe.
 
 ### Locations
 
 - [[Waterdeep]]
-- [[Froon's Brews]]
+- [[Frewn's  Brews]]
 - [[The Long Road]]
 - [[Rassalanter]]
 - [[Red Larch]]
 - [[Amphail]]
-- [[Hanna's Music Shop]]
-- [[Staghorn Flagon (Stag and Flag)]]
-- [[Cryptwood]]
-- [[Circle of Dusk Glade]]
+- [[Hanna'S Music Shop]]
+- [[Staghorn Flagon (Stag And Flag)]]
+- [[Kryptwood]]
+- [[Circle Of Dusk Glade]]
 
 ---
 

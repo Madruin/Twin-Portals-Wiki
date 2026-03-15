@@ -59,25 +59,25 @@ At Driftwood, SWOJ reunites with Fel'reck Lafeen of the Bregan D'aerthe (disguis
 - [[Mystery]]
 
 **NPCs:**
-- [[Mellafarne]] — A dragon (likely deep/brown dragon) who lives in the Deep Dragon Temple. Saved Mystery from a shipwreck and befriended him. Fell into an unconscious state similar to Zellopharn's and communicated through dreams, saying 'get help, find the temple.' Known to have defeated aboleth at the temple hundreds of years ago.
-- [[Zellopharn]] — SWOJ's bronze dragon ally. Possessed by a shadow creature during the sugar mill battle, then falls into a psychic coma. Left in the care of the rose quartz incarnate at the Radiant Citadel while SWOJ seeks help at the Deep Dragon Temple.
+- [[Melifarn]] — A dragon (likely deep/brown dragon) who lives in the Deep Dragon Temple. Saved Mystery from a shipwreck and befriended him. Fell into an unconscious state similar to Zellopharn's and communicated through dreams, saying 'get help, find the temple.' Known to have defeated aboleth at the temple hundreds of years ago.
+- [[Zelifarn]] — SWOJ's bronze dragon ally. Possessed by a shadow creature during the sugar mill battle, then falls into a psychic coma. Left in the care of the rose quartz incarnate at the Radiant Citadel while SWOJ seeks help at the Deep Dragon Temple.
 - [[Trill]] — The sugar mill worker from Godsbreath who was killed by the shadow creatures in the previous episode. Confirmed dead; his body is set aside for burial in the Preserve of the Ancestors.
-- [[Saks Bandin]] — Halfling scientist from the Radiant Citadel welcoming committee. Reports that she has never seen creatures like the shadow figures. Mentions the Lantan Concord Jewel hasn't been used in decades due to pirates. Promises to report to Shole.
+- [[Sax Bandon]] — Halfling scientist from the Radiant Citadel welcoming committee. Reports that she has never seen creatures like the shadow figures. Mentions the Lantan Concord Jewel hasn't been used in decades due to pirates. Promises to report to Shole.
 - [[Jarlaxle]] — The infamous drow leader of the Bregan D'aerthe, disguised as the human Zardos Zord. Captain of the Sea Maiden's Fair fleet. Found at the Blubber Buckle tavern in Driftwood conducting business with halflings. Offers SWOJ passage to Devil's Rock as a detour on his way north to the Sword Coast. Previously introduced Mystery to SWOJ.
-- [[Fel'reck Lafeen]] — A drow lieutenant of the Bregan D'aerthe disguised as a human sailor with an eye patch hiding a glowing red drow eye. Has four pistols and is notably more armed than before. Greets SWOJ at the Eye Catcher and informs them about Driftwood and Kura Han.
-- [[Kura Han]] — An enormous dragon turtle that lives beneath Driftwood. So massive that the entire floating island sits on his shell, anchored to him. The dolphins and sea creatures in the area work for him. Travelers must throw a coin in the water as tribute when arriving or departing.
+- [[Fel'Rekt Lafeen]] — A drow lieutenant of the Bregan D'aerthe disguised as a human sailor with an eye patch hiding a glowing red drow eye. Has four pistols and is notably more armed than before. Greets SWOJ at the Eye Catcher and informs them about Driftwood and Kura Han.
+- [[Kurrihan]] — An enormous dragon turtle that lives beneath Driftwood. So massive that the entire floating island sits on his shell, anchored to him. The dolphins and sea creatures in the area work for him. Travelers must throw a coin in the water as tribute when arriving or departing.
 - [[Long John McRon]] — A pirate captain at the Blubber Buckle with a wooden peg leg on one side and an animated water hook on the other (a magical gift from a pirate queen). Captain of the Wyvern's Whale. Offers passage to Devil's Rock for 500 gold. Knows of the whirlpool legend but has never seen it.
-- [[Sarith Ab'jean]] — Captain of the Hell Razor, one of Jarlaxle's three ships. A swashbuckling fellow with a clearly trimmed mustache who runs a tight ship.
+- [[Sarith Ab'Jean]] — Captain of the Hell Razor, one of Jarlaxle's three ships. A swashbuckling fellow with a clearly trimmed mustache who runs a tight ship.
 - [[Rose Quartz Incarnate]] — The dragon-shaped crystal creature in the Preserve of the Ancestors. Settles down and merges with the unconscious Zellopharn to protect and restore him. Leaves a white crystal with him. Confirms knowledge of the Deep Dragon Temple.
 
 ### Locations
 
-- [[Preserve of the Ancestors]]
+- [[Preserve Of The Ancestors]]
 - [[Deep Dragon Temple]]
 - [[Lantan]]
 - [[Driftwood]]
 - [[Blubber Buckle]]
-- [[Devil's Rock]]
+- [[Devil's' Rock]]
 - [[Radiant Citadel]]
 - [[Nameless Seas]]
 - [[Eye Catcher]]

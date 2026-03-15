@@ -14,7 +14,7 @@ tags:
 
 One of three Shadar-kai (shadow elves) encountered in the Shadowfell. Servant of the Raven Mother.
 
-**First appearance:** [[S02E02]]
+**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)]]
 **Total appearances:** 5 episodes
 
 ## Description

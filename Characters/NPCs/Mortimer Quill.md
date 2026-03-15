@@ -14,7 +14,7 @@ tags:
 
 A skeletal clerk who serves as Jergal's bureaucratic representative in the Trial of Jergal. He presides over the afterlife court proceedings where SWOJ argues for the release of the captured dragon souls. Dry, officious, and procedural in manner.
 
-**First appearance:** [[S02E29]]
+**First appearance:** [[S02E29 - Episode Fifty Nine LIVE (S02E29)]]
 **Total appearances:** 1 episode
 
 ## Description

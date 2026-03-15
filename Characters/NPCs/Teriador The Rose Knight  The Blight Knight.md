@@ -14,7 +14,7 @@ tags:
 
 The Rose Knight previously abandoned by SWOJ to Manshoon's clutches. Now the Blight Knight of the Stadium of Souls, possessed by the Body Taker entity that shares his soul. Alternates between rage at SWOJ's betrayal and the Body Taker's destructive impulses. Wields the Sword of Explosions and fires thorns and fireballs. SWOJ calms him through emotional persuasion and assigns him a random drow body for resurrection.
 
-**First appearance:** [[S02E12]]
+**First appearance:** [[S02E12 - Episode Forty Two (S02E12)]]
 **Total appearances:** 1 episode
 
 ## Description

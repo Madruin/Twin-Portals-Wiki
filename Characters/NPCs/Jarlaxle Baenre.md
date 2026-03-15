@@ -14,7 +14,7 @@ tags:
 
 Leader of Bregan D'aerthe. Emerged from the bag of holding through connected twin portals with his drow soldiers. Traded information about the Necromancer for the Mask of the Lords and offered Zardos's entertainment troupe for SWOJ's celebration.
 
-**First appearance:** [[S01E29]]
+**First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 3 episodes
 
 ## Description

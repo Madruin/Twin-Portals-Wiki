@@ -14,7 +14,7 @@ tags:
 
 Flamboyant character who appears at the Cassalanter party selling nimblewright automatons for 1000gp each.
 
-**First appearance:** [[S01E09]]
+**First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 4 episodes
 
 ## Description

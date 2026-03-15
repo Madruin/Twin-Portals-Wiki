@@ -54,27 +54,27 @@ They arrive inside one of the Kolat Towers, encountering Urstul Floxin and his a
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Xae]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Xaerine Rumblestride]]
+- [[Malark Wavesilver]]
 
 **NPCs:**
 - [[The Necromancer]] — A young-looking wizard with a mechanical hand connected to Ylka's grandfather Mordecai Gralhund. Operates from an extra-dimensional sanctum accessed through the Kolat Towers. Performs the clone spell to resurrect Lark. Has a simulacrum wearing an iron mask.
-- [[Taga]] — Ally of SWOJ, reunited with the party at the Short Rest tavern upon their return from the Feywild.
-- [[Leaf]] — Ally of SWOJ, reunited with the party at the Short Rest tavern.
+- [[Tagga]] — Ally of SWOJ, reunited with the party at the Short Rest tavern upon their return from the Feywild.
+- [[Lif]] — Ally of SWOJ, reunited with the party at the Short Rest tavern.
 - [[Terry]] — Ally of SWOJ (a horse), reunited with the party at the Short Rest tavern.
-- [[Zelapharn]] — A bronze dragon living underwater in the Docksward harbor. Scoot visits his lair and finds a Neverember ledger in his hoard.
-- [[Ramalia Haventree]] — A Harper agent who meets the party at the dock after they visit Zelapharn. She informs them that the Zentarim have the second Eye of the Stone of Golorr and that the Kolat Towers are the Zentarim base. She provides a sending stone.
+- [[Zelifarn]] — A bronze dragon living underwater in the Docksward harbor. Scoot visits his lair and finds a Neverember ledger in his hoard.
+- [[Remalia Haventree]] — A Harper agent who meets the party at the dock after they visit Zelapharn. She informs them that the Zentarim have the second Eye of the Stone of Golorr and that the Kolat Towers are the Zentarim base. She provides a sending stone.
 - [[Renaer Neverember]] — A nobleman and friend of SWOJ who provides the diamond (worth 1000 gold) needed for Lark's resurrection.
 - [[Nat]] — One of the street urchins (Trollskull Trio). Tells SWOJ that Squiddly has gone missing.
 - [[Jenks]] — One of the street urchins (Trollskull Trio). Present when they tell SWOJ about Squiddly's disappearance.
-- [[Urstul Floxin]] — A Zentarim operative encountered inside the Kolat Towers. He and his associate Mookie are present when SWOJ teleports in.
+- [[Urstul Floxxin]] — A Zentarim operative encountered inside the Kolat Towers. He and his associate Mookie are present when SWOJ teleports in.
 
 ### Locations
 
 - [[Trollskull Manor (Short Rest Tavern)]]
-- [[Cellar/Laboratory]]
+- [[Cellar Laboratory]]
 - [[Docksward]]
-- [[Zelapharn's Underwater Lair]]
+- [[Zelifarn's Underwater Lair]]
 - [[Renaer Neverember's Apartment]]
 - [[Gralhund Villa]]
 - [[Kolat Towers]]

@@ -10,7 +10,7 @@ tags:
 
 # Underground Lake
 
-A subterranean lake beneath Neverwinter where Mellafarne discovered a green portal stone belonging to the Jolly Gents.
+A subterranean lake beneath Neverwinter where Melifarn discovered a green portal stone belonging to the Jolly Gents.
 
 **Type:** natural feature
 **First appearance:** Episode S02E20
@@ -18,7 +18,7 @@ A subterranean lake beneath Neverwinter where Mellafarne discovered a green port
 
 ## Description
 
-A subterranean lake beneath Neverwinter where Mellafarne discovered a green portal stone belonging to the Jolly Gents.
+A subterranean lake beneath Neverwinter where Melifarn discovered a green portal stone belonging to the Jolly Gents.
 
 ## Notable Events
 

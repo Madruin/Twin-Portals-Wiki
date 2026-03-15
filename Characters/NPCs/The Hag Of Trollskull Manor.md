@@ -1,5 +1,5 @@
 ---
-title: "The Hag (Of Trollskull Manor)bresther"
+title: "The Hag Of Trollskull Manor"
 type: character
 subtype: npc
 status: unknown
@@ -10,11 +10,11 @@ tags:
   - npc
 ---
 
-# The Hag (Of Trollskull Manor)bresther
+# The Hag Of Trollskull Manor
 
 A spectral hag who haunts Trollskull Manor. According to legend, she ran an orphanage and ate children. Her power is anchored by a talisman hidden under the tower. When the talisman is destroyed in the cauldron, she becomes physical and is killed by the party.
 
-**First appearance:** [[S01E05]]
+**First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 1 episode
 
 ## Description

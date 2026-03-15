@@ -14,7 +14,7 @@ tags:
 
 A deity associated with death and fate. Scoot communes with her during the battle atop the Citadel, and she sends divine intervention in the form of a massive flock of spectral ravens that banish the two-headed dracolich and destroy the top soul pylon.
 
-**First appearance:** [[S02E34]]
+**First appearance:** [[S02E34 - Episode Sixty Four LIVE (S02E34)]]
 **Total appearances:** 9 episodes
 
 ## Description

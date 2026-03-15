@@ -14,7 +14,7 @@ tags:
 
 Noble patriarch of House Cassalanter. Gambles with Scoot at Tymora's Fancy, losing 160gp. Fights cultists with his ruby-tipped staff during the attack, causing the room to shake and trapping cultists. Rushes to the attic to restrain his son Osvaldo.
 
-**First appearance:** [[S01E09]]
+**First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 4 episodes
 
 ## Description
@@ -23,7 +23,7 @@ Noble patriarch of House Cassalanter. Gambles with Scoot at Tymora's Fancy, losi
 
 Lord of the Cassalanter household. Discusses the situation with his wife Amalia regarding Osvaldo. Connected to the cult of Asmodeus.
 
-Referenced only through a threatening letter found in Orond Gralhund's study, signed 'V.' The letter chastises the Gralhunds for the Zilka incident at the Cassalanter party and warns that 'the Lord of Nessus despises incompetence.'
+Referenced only through a threatening letter found in Orond Gralhund's study, signed 'V.' The letter chastises the Gralhunds for the Zylka incident at the Cassalanter party and warns that 'the Lord of Nessus despises incompetence.'
 
 Lord Cassalanter, mentioned but not present. His locked office contains loan documents and the Asmodeus cloven hoof icon. A large portrait of him and Amalia hangs in the library.
 
@@ -37,7 +37,7 @@ Lord Cassalanter, mentioned but not present. His locked office contains loan doc
 - **S01E09:** Victoro and Amalia burst in to restrain Osvaldo with the restored pentagram
 - **S01E10:** Osvaldo Cassalanter revealed as a chain devil bound in the Cassalanter attic
 - **S01E10:** Victoro and Amalia Cassalanter discuss their guilt over the Asmodeus deal
-- **S01E12:** Ylka finds a threatening letter from Victoro Cassalanter ('V') confirming Zilka was a Gralhund agent
+- **S01E12:** Ylka finds a threatening letter from Victoro Cassalanter ('V') confirming Zylka was a Gralhund agent
 - **S01E24:** Zardos Zord visits and shoots an imp spy disguised as a crow, revealing Cassalanter surveillance
 - **S01E24:** Zardos reveals the Cassalanters have the third Eye and suggests infiltrating during Founder's Day feast
 - **S01E24:** SWOJ heads to Cassalanter Villa; Xae wild shapes into a golden retriever to get past guards

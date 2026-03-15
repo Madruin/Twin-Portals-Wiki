@@ -14,7 +14,7 @@ tags:
 
 A nine-year-old boy who is a fragment of Manchun's soul, representing his innocence and childhood. Has a crescent moon glow on his heart. Merges with Teriador's soul to gain enough power to transport SWOJ out of the collapsing Dynamo. Previously worked for the wizard Rantantar.
 
-**First appearance:** [[S02E04]]
+**First appearance:** [[S02E04 - Episode Thirty Four (S02E04)]]
 **Total appearances:** 2 episodes
 
 ## Description

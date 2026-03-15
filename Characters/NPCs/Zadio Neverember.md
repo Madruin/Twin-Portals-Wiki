@@ -14,7 +14,7 @@ tags:
 
 Human theater owner in ancient Waterdeep (992 DR). Ancestor of the Neverember family. Owns the amphitheater above the Vault of Dragons.
 
-**First appearance:** [[S01E25]]
+**First appearance:** [[S01E25 - Episode Twenty Five]]
 **Total appearances:** 1 episode
 
 ## Description

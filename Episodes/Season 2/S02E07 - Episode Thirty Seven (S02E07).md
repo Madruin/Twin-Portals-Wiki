@@ -58,14 +58,14 @@ This episode was performed as a live show, featuring the climactic confrontation
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Arturia]] — Xae's sister, a shape-changing witch responsible for the memory-altering mist in the Cryptwood. Uses transmutation magic to transform people and controls swarms of butterflies. Serves Halaster, 'the most powerful wizard in the multiverse.' Escapes aboard a Concord Jewel, a crystalline vessel.
+- [[Arcturia]] — Xae's sister, a shape-changing witch responsible for the memory-altering mist in the Cryptwood. Uses transmutation magic to transform people and controls swarms of butterflies. Serves Halaster, 'the most powerful wizard in the multiverse.' Escapes aboard a Concord Jewel, a crystalline vessel.
 - [[Leah]] — Scoot's former shipmate and an elven woman. Was sent by the Emerald Enclave to help the Circle of Dusk druids near Amphale, where she was mentored by druid Shala. Transformed into a six-eyed beast by Arturia's magic; freed when Lark applies moth weed.
-- [[Zellopharn]] — SWOJ's bronze dragon ally. Found in human form as Farron under Arturia's enchantment. Freed when the mirror is smashed, immediately transforms back into an adult-sized dragon. Carries the party to board the Concord Jewel.
+- [[Zelifarn]] — SWOJ's bronze dragon ally. Found in human form as Farron under Arturia's enchantment. Freed when the mirror is smashed, immediately transforms back into an adult-sized dragon. Carries the party to board the Concord Jewel.
 - [[Farron]] — A drugged soldier and the sole survivor from the Circle of Dusk druid camp. Guides SWOJ to the spiral cavern. Also the human guise of Zellopharn under enchantment.
 - [[Shala]] — Lead druid of the Circle of Dusk. Mentored Leah and helped heal her injuries. Found transformed into a badger by Arturia's magic.
 - [[Ander]] — A Circle of Dusk druid who was transformed into a talking riddle door by Arturia's magic. Restored after the mirror is smashed.
-- [[Fala Lefaliir]] — Found alive but with scrambled memories deeper in the cavern, in areas SWOJ didn't fully explore.
-- [[Anya Irmbrusk]] — Found alive in the cavern with other captives. The Rite of the Stag Lass participant who wanted to renounce her family. A half-elf who knows Lark from old family reunions.
+- [[Fela Lefaliir]] — Found alive but with scrambled memories deeper in the cavern, in areas SWOJ didn't fully explore.
+- [[Anya Ermbrusk]] — Found alive in the cavern with other captives. The Rite of the Stag Lass participant who wanted to renounce her family. A half-elf who knows Lark from old family reunions.
 - [[Halaster]] — Referenced by Arturia as 'the master' -- 'the most powerful wizard in the multiverse.' Arturia says she will help the master remember. Previously referenced in earlier episodes.
 - [[Gundark Gundarkson]] — Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards from the town coffers.
 
@@ -73,9 +73,9 @@ This episode was performed as a live show, featuring the climactic confrontation
 
 - [[Spiral Cavern]]
 - [[Sword Mountains]]
-- [[Cryptwood]]
-- [[Amphale]]
-- [[Stag and Flag]]
+- [[Kryptwood]]
+- [[Amphail]]
+- [[Stag And Flag]]
 
 ---
 

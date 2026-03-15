@@ -14,7 +14,7 @@ tags:
 
 A guard at Cassalanter Villa who befriends Xae in golden retriever form.
 
-**First appearance:** [[S01E24]]
+**First appearance:** [[S01E24 - Episode Twenty Four]]
 **Total appearances:** 1 episode
 
 ## Description

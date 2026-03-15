@@ -52,31 +52,31 @@ At the docks, SWOJ meets Zelopharne the bronze dragon in human form, who points 
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Amalia Cassalanter]] — Lady of the Cassalanter household. Discusses the fate of their son Osvaldo, who has been turned into a chain devil. Reveals guilt about a deal with Asmodeus. Shows compassion for her son despite his transformation.
 - [[Victoro Cassalanter]] — Lord of the Cassalanter household. Discusses the situation with his wife Amalia regarding Osvaldo. Connected to the cult of Asmodeus.
 - [[Osvaldo Cassalanter]] — Son of Victoro and Amalia Cassalanter, transformed into a chain devil and kept chained in the attic of the Cassalanter villa. His parents believe the transformation was a consequence of their deal with Asmodeus.
-- [[Zilka]] — A doppelganger impersonating Ylka's appearance (body double). Captured after the villa party but cannot speak due to magical effect. Escapes from city watch custody. Had two rings: a silver Ring of Disguise Self and a brass ring of unknown function.
+- [[Zylka]] — A doppelganger impersonating Ylka's appearance (body double). Captured after the villa party but cannot speak due to magical effect. Escapes from city watch custody. Had two rings: a silver Ring of Disguise Self and a brass ring of unknown function.
 - [[Bonnie]] — Bartender at the Yawning Portal, revealed to be a doppelganger. Works with SWOJ. Has telepathic abilities and reads minds of patrons.
 - [[Terry]] — Intellect devourer allied with SWOJ. Gets a new human body from a dead cultist found after the Cassalanter villa incident. Still struggles without adequate intelligence/brain sustenance.
-- [[Willifort Crowelle]] — Majordomo of the Cassalanter household. Suspected of shady dealings. SWOJ considers him suspicious.
+- [[Willifort Crowell]] — Majordomo of the Cassalanter household. Suspected of shady dealings. SWOJ considers him suspicious.
 - [[Max]] — Guard at the Cassalanter villa who provides information and assists SWOJ.
 - [[Agorna]] — Cleric at the Temple of Selune in the Sea Ward. Casts Lesser Restoration on Lark to cure his ailment.
-- [[Fala Lefaliir]] — Apothecary who runs Coralund's Crown, a shop neighboring Trollskull Alley. Friendly with SWOJ.
+- [[Fela Lefaliir]] — Apothecary who runs Coralund's Crown, a shop neighboring Trollskull Alley. Friendly with SWOJ.
 
 ### Locations
 
 - [[Cassalanter Villa]]
-- [[Trollskull Manor / The Short Rest]]
+- [[Trollskull Manor  The Short Rest]]
 - [[Seaward Watch Post]]
-- [[Temple of Selune]]
-- [[Coralund's Crown]]
-- [[Hole in the Wall]]
+- [[Temple Of Selune]]
+- [[Corellon's Crown]]
+- [[Hole In The Wall]]
 - [[The Eyecatcher]]
-- [[Fields of Glory]]
+- [[Fields Of Glory]]
 - [[Yawning Portal]]
 
 ---

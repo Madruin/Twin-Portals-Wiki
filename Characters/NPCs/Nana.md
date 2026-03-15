@@ -14,7 +14,7 @@ tags:
 
 An older tiefling woman who serves as nanny to the Cassalanter children. Scolds them for playing instead of studying.
 
-**First appearance:** [[S01E24]]
+**First appearance:** [[S01E24 - Episode Twenty Four]]
 **Total appearances:** 1 episode
 
 ## Description

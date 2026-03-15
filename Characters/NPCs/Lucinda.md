@@ -14,7 +14,7 @@ tags:
 
 A friendly tiefling/demon in the Dark Market, part of the trio with Mikael and Santorini. Socializes with SWOJ at the Nest.
 
-**First appearance:** [[S02E21]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
 **Total appearances:** 1 episode
 
 ## Description

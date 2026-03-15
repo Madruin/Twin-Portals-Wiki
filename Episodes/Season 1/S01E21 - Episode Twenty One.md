@@ -58,7 +58,7 @@ In the emotional reunion, Lark hugs everyone. The hat's magic activates, pulling
 
 **NPCs:**
 - [[Rowan Crooks]] — A mysterious figure encountered in the afterlife/Malar's realm at the base of the mountain. Provides information about the nature of the plane. Ylka mentions meeting him to Lark upon reunion.
-- [[The Hag (of Trollskull Manor)]] — A hag previously fought by SWOJ in the attic of Trollskull Manor. Now missing an arm (cut off by Scoot in the previous battle). Serves Malar in the afterlife realm, capturing dryads and animals for sacrifice. She plucked Lark's soul from Kelemvor and gave it to Malar as bait for Lyrian. Defeated again -- her heartstone extracted by Ylka, caged by Scoot.
+- [[The Hag Of Trollskull Manor]] — A hag previously fought by SWOJ in the attic of Trollskull Manor. Now missing an arm (cut off by Scoot in the previous battle). Serves Malar in the afterlife realm, capturing dryads and animals for sacrifice. She plucked Lark's soul from Kelemvor and gave it to Malar as bait for Lyrian. Defeated again -- her heartstone extracted by Ylka, caged by Scoot.
 - [[Tricayla]] — A dryad captured by the hag and bound inside the shack. One of three dryad sisters. Freed by Xae.
 - [[Argentia]] — A dryad, sister of Tricayla. Also captured and bound by the hag in the shack. Freed by Xae.
 - [[Third Dryad Sister]] — The third dryad sister, found tied up and unconscious in a cage in the larger building with the animals. Describes herself as 'just a silver maple.' Revived by her sisters with magical berries.
@@ -70,7 +70,7 @@ In the emotional reunion, Lark hugs everyone. The hat's magic activates, pulling
 
 ### Locations
 
-- [[Malar's Realm (Afterlife/Astral Plane)]]
+- [[Malar's Realm (Afterlife)]]
 - [[The Hag's Shack]]
 - [[Animal Cage Building]]
 - [[The Ash Tree Summit]]

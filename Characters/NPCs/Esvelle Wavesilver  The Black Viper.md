@@ -14,7 +14,7 @@ tags:
 
 A masked vigilante woman who appears to help the party fight the grell in the sewers. Leaves a black onyx gemstone rose for Ylka.
 
-**First appearance:** [[S01E04]]
+**First appearance:** [[S01E04 - Episode Four]]
 **Total appearances:** 5 episodes
 
 ## Description

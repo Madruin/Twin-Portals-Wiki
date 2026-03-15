@@ -56,14 +56,14 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Saks Bandin]] — A halfling scientist and member of the Radiant Citadel's welcoming committee. Knowledgeable about the concord jewels, the ethereal plane, and the citadel's history. Explains that the citadel was resettled 250 years ago with 12 of at least 15 known concord jewels.
+- [[Sax Bandon]] — A halfling scientist and member of the Radiant Citadel's welcoming committee. Knowledgeable about the concord jewels, the ethereal plane, and the citadel's history. Explains that the citadel was resettled 250 years ago with 12 of at least 15 known concord jewels.
 - [[Vincent Trench]] — A private detective who operates offices in both Trollskull Alley in Waterdeep and the Radiant Citadel. Charges 1,000 gold per question but accepts Sid Squid's crab cakes as payment. Agrees to investigate Xae's siblings, promising results in a ten-day.
 - [[Sid Squid]] — A carnival barker and food vendor at the Night Market who runs 'Sid Squid's Battle Prawns: The Shrimpening.' A hustler-looking guy with a team of sous chefs in yellow aprons who challenges contestants to catch, kill, and cook giant prawns.
 - [[Trill]] — A farmer and sugar mill worker inside the Preserve of the Ancestors. Originally from Godsbreath, one of the founding cultures of the Radiant Citadel. Killed by one of the alien shadow creatures that appear at his mill. Known as 'Trill from the Mill.'
 - [[Leah]] — Scoot's former shipmate. Stays behind with the Circle of Dusk druids to help coordinate refugee transport to the Radiant Citadel and ensure the moth weed reaches those who need it.
-- [[Zellopharn]] — SWOJ's bronze dragon ally, in human form as Farron/Ferrin. Drawn by a mysterious shadowy figure and whistling sound towards the Preserve of the Ancestors. Communes telepathically with the rose quartz incarnate dragon, discovering possible family connections.
+- [[Zelifarn]] — SWOJ's bronze dragon ally, in human form as Farron/Ferrin. Drawn by a mysterious shadowy figure and whistling sound towards the Preserve of the Ancestors. Communes telepathically with the rose quartz incarnate dragon, discovering possible family connections.
 - [[Rose Quartz Incarnate]] — A small dragon-shaped crystal creature the size of a dog, made of many pieces of rose quartz fitted together magically. An incarnate -- a form created when many ancestral spirits from a similar origin come together. Communes telepathically with Zellopharn about draconic lineage.
-- [[Taiga]] — Scoot's mother, suffering from a shape-changing spore illness. Cured by the moth weed that SWOJ delivers during the montage sequence.
+- [[Tagga]] — Scoot's mother, suffering from a shape-changing spore illness. Cured by the moth weed that SWOJ delivers during the montage sequence.
 - [[Hanna]] — Runs the music shop associated with the Doom Network quest. Returns Ylka's concertina in perfect shape with all pegs restored.
 
 ### Locations
@@ -71,10 +71,10 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 - [[Radiant Citadel]]
 - [[Auroral Diamond]]
 - [[Deep Ethereal Plane]]
-- [[Keening Gloom]]
+- [[Keening Gloam]]
 - [[Night Market]]
-- [[Preserve of the Ancestors]]
-- [[House of Convalescence]]
+- [[Preserve Of The Ancestors]]
+- [[House Of Convalescence]]
 - [[Vincent Trench's Office]]
 - [[Benzo's Weapon Emporium]]
 - [[Trollskull Alley]]

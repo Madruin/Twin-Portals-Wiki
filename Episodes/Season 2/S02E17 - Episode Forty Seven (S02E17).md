@@ -50,21 +50,21 @@ SWOJ encounters members of Bregan D'aerthe -- Tari Dorr and Fel Wrect -- who are
 
 ### Featured Characters
 
-- [[Scoot]]
-- [[Ylka]]
-- [[Lark]]
-- [[Xae]]
+- [[Scoot Sparkles]]
+- [[Ylka Gralhund]]
+- [[Lark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Lord Dagult Neverember]] — Lord Protector of Neverwinter. Arrests SWOJ and subjects them to Zone of Truth interrogation at the Hall of Justice. After they are cleared, he releases them and returns their gear to help defend the city when the chasm erupts. Attacked by shadows during the crisis.
-- [[Tresa]] — A guard captain in Neverember's forces. Escorts SWOJ during their arrest and interrogation.
-- [[Tari Dorr]] — A member of Bregan D'aerthe encountered by SWOJ in the streets of Neverwinter during the chasm eruption. Already fighting the invading creatures on Jarlaxle's orders.
-- [[Fel Wrect]] — A member of Bregan D'aerthe fighting alongside Tari Dorr in the streets during the chasm crisis. Acting on Jarlaxle's orders.
-- [[Shailheart]] — The friendly bulette from the chasm. Arrives during the crisis at the chasm district wall and helps destroy shadows that were attacking Neverember.
+- [[Tressa]] — A guard captain in Neverember's forces. Escorts SWOJ during their arrest and interrogation.
+- [[Teriador]] — A member of Bregan D'aerthe encountered by SWOJ in the streets of Neverwinter during the chasm eruption. Already fighting the invading creatures on Jarlaxle's orders.
+- [[Fel'Rekt]] — A member of Bregan D'aerthe fighting alongside Tari Dorr in the streets during the chasm crisis. Acting on Jarlaxle's orders.
+- [[Shaleheart]] — The friendly bulette from the chasm. Arrives during the crisis at the chasm district wall and helps destroy shadows that were attacking Neverember.
 
 ### Locations
 
-- [[Hall of Justice]]
+- [[Hall Of Justice]]
 - [[Neverwinter Streets]]
 - [[Chasm District Wall]]
 

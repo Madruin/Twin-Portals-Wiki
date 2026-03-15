@@ -14,7 +14,7 @@ tags:
 
 A ten-year-old mute human girl, leader of the three street urchins. Fearless and communicates through sign language interpreted by Jenks. Finds the hag's talisman under the tower floorboards.
 
-**First appearance:** [[S01E05]]
+**First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 42 episodes
 
 ## Description

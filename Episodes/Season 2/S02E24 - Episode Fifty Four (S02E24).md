@@ -55,22 +55,22 @@ Crooks manages to retrieve the Hungering Shard by casting hold person on Scoot, 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
 - [[Malark Wavesilver]]
-- [[Xae Rumblestride]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Rowan Crooks]] — The final Manshoon clone posing as the legendary Jolly Gents leader. Addresses the Jolly Gents about his plan to break Kelemvor's Wall. Uses finger of death, cone of cold, hold person, misty step, and attempts disintegrate during the sky battle. Has legendary actions. Killed by Scoot's lightning-split axe attack. His plan was to use the Hungering Shard at the Radiant Citadel to free remaining Manshoon soul fragments from the Wall of the Faithless.
 - [[Friar Truck]] — The demonic cleric killed at the end of the previous episode. His notes in the laboratory reveal he was the original manipulator who orchestrated the real Rowan Crooks' downfall and replacement by a Manshoon clone. Served the 'Lord of Nexus.' His laboratory contained clone tanks and phylacteries.
 - [[Little Joan]] — A powerful Jolly Gents warrior who sided with SWOJ. Helps in the battle against Crooks and the sky-falling sequence. Uses her axe and her physical strength. Not seen after the island's collapse. Her fate is uncertain among the rubble.
-- [[Anjane Flip-Flap]] — A Jolly Gents lieutenant who sides with SWOJ during the Bailey confrontation. One of the approximately 20-30 Gents who turn against Crooks.
+- [[Ann Jane Flip-Flap]] — A Jolly Gents lieutenant who sides with SWOJ during the Bailey confrontation. One of the approximately 20-30 Gents who turn against Crooks.
 
 ### Locations
 
 - [[Clone Laboratory]]
 - [[The Bailey]]
-- [[Zentil Keep]]
+- [[Zhentil Keep]]
 - [[Radiant Citadel]]
-- [[Kelemvor's Wall of the Faithless]]
-- [[Teleportation Circle]]
+- [[Kelemvor's Wall Of The Faithless]]
+- [[Teleportation Circle (Zhentil Keep)]]
 
 ---
 

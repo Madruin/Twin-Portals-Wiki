@@ -14,7 +14,7 @@ tags:
 
 A tiefling boy with an eye patch and swashbuckling clothes. One of the three street urchins. Gets captured by the hag and placed in a cauldron.
 
-**First appearance:** [[S01E05]]
+**First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 12 episodes
 
 ## Description

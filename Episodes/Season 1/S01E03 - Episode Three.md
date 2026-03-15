@@ -51,20 +51,20 @@ Following the unicorn talisman's pull, the party discovered Blue Alley, a legend
 ### Featured Characters
 
 - [[Scoot Sparkles]]
-- [[Malark "Lark" Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Ylka Gralhund]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Zardos Zord]] — Ringmaster of the Sea Maiden's Fair. Wears red and yellow satin knickers, a harness with knives and vials, and a hat with a huge red plume. Recognized the party as not belonging in the psychic version of Waterdeep. Gave them a bag of holding.
+- [[Zardoz Zord]] — Ringmaster of the Sea Maiden's Fair. Wears red and yellow satin knickers, a harness with knives and vials, and a hat with a huge red plume. Recognized the party as not belonging in the psychic version of Waterdeep. Gave them a bag of holding.
 - [[Nim]] — Wooden automaton/construct found on Zardos Zord's ship. About halfling-sized. Broken and faded, non-functional.
-- [[Mind Flayer]] — Creature with purple skin, tentacles, and a black robe. First appeared in the sewers torturing Floon (referenced from between episodes). In Blue Alley, disguised itself as Durnan with purple tendrils emerging from mutton chops. Cast spells including putting Xaerine to sleep.
+- [[Nihiloor]] — Creature with purple skin, tentacles, and a black robe. First appeared in the sewers torturing Floon (referenced from between episodes). In Blue Alley, disguised itself as Durnan with purple tendrils emerging from mutton chops. Cast spells including putting Xaerine to sleep.
 - [[Floon Blagmaar]] — Found at the Splintered Stair at the end of the episode, holding Scoot. Rescued from the sewers between episodes 2 and 3.
 - [[Renaer Neverember]] — Found at the Splintered Stair at the end of the episode alongside Floon.
 
 ### Locations
 
-- [[Psychic Waterdeep]]
+- [[Waterdeep]]
 - [[Sea Maiden's Fair]]
 - [[Blue Alley]]
 - [[The Splintered Stair]]

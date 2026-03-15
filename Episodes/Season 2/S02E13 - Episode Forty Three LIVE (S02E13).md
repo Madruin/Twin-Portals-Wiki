@@ -58,15 +58,15 @@ The party enters the target bag and finds a platform above a pool of acid, conne
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Phylith]] — A ragamuffin creature who lives in the bag dimension. Humanoid-sized, made up of mismatching clothing and many layers, with a raven-beak wooden mask covering their face and wheel-like prosthetic feet that allow them to travel along the ropes connecting bags. Collects and sorts items that fall through bags of holding. Asks SWOJ to retrieve the golden turtle amulet in exchange for teaching them to navigate the bag dimension.
+- [[Fioleth]] — A ragamuffin creature who lives in the bag dimension. Humanoid-sized, made up of mismatching clothing and many layers, with a raven-beak wooden mask covering their face and wheel-like prosthetic feet that allow them to travel along the ropes connecting bags. Collects and sorts items that fall through bags of holding. Asks SWOJ to retrieve the golden turtle amulet in exchange for teaching them to navigate the bag dimension.
 - [[Teriador]] — The Rose Knight, now inhabiting a drow body after the events at the museum of the multiverse. In very rough shape due to having two pieces of souls and a brand new body. Contains the Body Taker soul fragment as well. Barely able to stay conscious. Later captured by the Bag Man and rescued by SWOJ.
-- [[Bag Man]] — The core entity of the bag dimension demiplane. Was present when the first bag of holding was made; every subsequent bag has anchored itself to his soul. He keeps the dimension together and can never leave. Can open bags to the outside world. Appears as a shadowy figure with two searchlight-like eyes. Goes berserk when the golden turtle amulet locket is opened. Keeps ledgers tracking all bags of holding.
+- [[The Bag Man]] — The core entity of the bag dimension demiplane. Was present when the first bag of holding was made; every subsequent bag has anchored itself to his soul. He keeps the dimension together and can never leave. Can open bags to the outside world. Appears as a shadowy figure with two searchlight-like eyes. Goes berserk when the golden turtle amulet locket is opened. Keeps ledgers tracking all bags of holding.
 - [[Oobledoop]] — A yellowish gelatinous cube-like creature living in Phylith's junkyard bag. A special healing fungus rather than the acidic kind. Provides restorative healing when creatures wade into it -- described as feeling like an exfoliating back massage.
 
 ### Locations
 
-- [[Bag Dimension]]
-- [[Phylith's Junkyard]]
+- [[The Bag Dimension]]
+- [[Fioleth's Junkyard]]
 - [[Acid Bag]]
 - [[Bag Man's Lair]]
 

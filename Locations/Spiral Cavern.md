@@ -10,7 +10,7 @@ tags:
 
 # Spiral Cavern
 
-A deep underground cave system beneath the Sword Mountains. Contains Arturia's lair with transmutation experiments, an enchanted mirror, moth weed gardens, and the Concord Jewel vessel. Formed from jutting layers of basalt.
+A deep underground cave system beneath the Sword Mountains. Contains Arcturia's lair with transmutation experiments, an enchanted mirror, moth weed gardens, and the Concord Jewel vessel. Formed from jutting layers of basalt.
 
 **Type:** cavern, dungeon, underground
 **First appearance:** Episode S02E07
@@ -18,7 +18,7 @@ A deep underground cave system beneath the Sword Mountains. Contains Arturia's l
 
 ## Description
 
-A deep underground cave system beneath the Sword Mountains. Contains Arturia's lair with transmutation experiments, an enchanted mirror, moth weed gardens, and the Concord Jewel vessel. Formed from jutting layers of basalt.
+A deep underground cave system beneath the Sword Mountains. Contains Arcturia's lair with transmutation experiments, an enchanted mirror, moth weed gardens, and the Concord Jewel vessel. Formed from jutting layers of basalt.
 
 ## Notable Events
 

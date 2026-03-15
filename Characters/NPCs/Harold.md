@@ -14,7 +14,7 @@ tags:
 
 Eunissa's husband and a former actor. Rescued from the sewers by the party. Gives them the Playwright's Dagger in gratitude.
 
-**First appearance:** [[S01E04]]
+**First appearance:** [[S01E04 - Episode Four]]
 **Total appearances:** 2 episodes
 
 ## Description

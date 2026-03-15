@@ -55,27 +55,27 @@ Beyond the office, SWOJ discovers a vault and throne room guarded by a massive s
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
 - [[Malark Wavesilver]]
-- [[Xae Rumblestride]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Rambling Bill]] — A Jolly Gents sentry stationed on the chain entrance to Zentil Keep. Talkative and somewhat gullible. Partnered with Long Mary on guard duty. Accepts SWOJ's cover story about being new recruits sent by Antediluvian Jake.
 - [[Long Mary]] — A Jolly Gents sentry partnered with Rambling Bill on chain guard duty. More suspicious than Bill but ultimately lets SWOJ pass. Described as tall and stern.
-- [[Anjane Flip-Flap]] — A Jolly Gents lieutenant and whip fighter who provides SWOJ with intelligence about Zentil Keep's layout. Challenges Lark to a staff sparring match on the Bridge of Destiny and respects him after he wins. Knows that Crooks' office is on the sixth floor and warns about the shadow thread traps on the fifth floor.
+- [[Ann Jane Flip-Flap]] — A Jolly Gents lieutenant and whip fighter who provides SWOJ with intelligence about Zentil Keep's layout. Challenges Lark to a staff sparring match on the Bridge of Destiny and respects him after he wins. Knows that Crooks' office is on the sixth floor and warns about the shadow thread traps on the fifth floor.
 - [[Rowan Crooks]] — The Manshoon clone posing as the legendary Jolly Gents leader. Occupies the sixth floor office and throne room of Zentil Keep. SWOJ's primary antagonist who previously killed them and stole their gear.
 - [[Antediluvian Jake]] — A legendary Jolly Gents figure whose tablet SWOJ uses as a cover story. His phylactery (a copper orb) is found in Crooks' office on the sixth floor, suggesting he is trapped or controlled by Crooks.
-- [[Helena Vandrograph]] — Mentioned as a contact or ally. Referred to by the nickname 'Dutchy'. Previously connected to SWOJ's mission.
+- [[Helena Van Der Graff]] — Mentioned as a contact or ally. Referred to by the nickname 'Dutchy'. Previously connected to SWOJ's mission.
 - [[Quick Quill Quincy]] — A Jolly Gents member mentioned during conversations in the Bailey. Known for record-keeping or clerical duties within the organization.
 - [[Giggling Gus]] — One of the top-ranking Jolly Gents. Mentioned but not directly encountered in this episode. Known for a distinctive giggling laugh.
 
 ### Locations
 
 - [[Shadowfell]]
-- [[Zentil Keep]]
+- [[Zhentil Keep]]
 - [[The Bailey]]
-- [[Bridge of Destiny]]
+- [[Bridge Of Destiny]]
 - [[Crooks' Office]]
-- [[Throne Room / Vault]]
-- [[Fifth Floor Trapped Hallways]]
+- [[Throne Room Vault (Zhentil Keep)]]
+- [[Fifth Floor Trapped Hallways (Zhentil Keep)]]
 
 ---
 

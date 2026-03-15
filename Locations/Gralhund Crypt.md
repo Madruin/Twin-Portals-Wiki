@@ -10,7 +10,7 @@ tags:
 
 # Gralhund Crypt
 
-Family crypt of the Gralhunds in the City of the Dead. Lower level contains the destroyed nimblewright and dying Zilka. Upper level has a pentagram, two cultists, and spined devils performing a handoff of the Stone of Galore.
+Family crypt of the Gralhunds in the City of the Dead. Lower level contains the destroyed nimblewright and dying Zylka. Upper level has a pentagram, two cultists, and spined devils performing a handoff of the Stone of Galore.
 
 **Type:** 
 **First appearance:** Episode S01E13
@@ -18,7 +18,7 @@ Family crypt of the Gralhunds in the City of the Dead. Lower level contains the 
 
 ## Description
 
-Family crypt of the Gralhunds in the City of the Dead. Lower level contains the destroyed nimblewright and dying Zilka. Upper level has a pentagram, two cultists, and spined devils performing a handoff of the Stone of Galore.
+Family crypt of the Gralhunds in the City of the Dead. Lower level contains the destroyed nimblewright and dying Zylka. Upper level has a pentagram, two cultists, and spined devils performing a handoff of the Stone of Galore.
 
 ## Notable Events
 

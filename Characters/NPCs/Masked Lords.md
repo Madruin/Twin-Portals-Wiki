@@ -14,7 +14,7 @@ tags:
 
 Four anonymous figures in purple robes who govern Waterdeep alongside the Open Lord. Met SWOJ at Castle Waterdeep to accept the returned gold and arrange the finder's fee.
 
-**First appearance:** [[S01E29]]
+**First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 3 episodes
 
 ## Description

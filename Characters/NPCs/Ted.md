@@ -14,7 +14,7 @@ tags:
 
 Patron at Froon's Brews who donates health potions to SWOJ for their journey north.
 
-**First appearance:** [[S02E06]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 62 episodes
 
 ## Description

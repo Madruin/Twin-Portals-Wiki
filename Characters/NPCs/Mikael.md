@@ -14,7 +14,7 @@ tags:
 
 A friendly tiefling/demon in the Dark Market. Part of a trio with Lucinda and Santorini. Shares drinks and socializes with SWOJ during their stay at the Nest. Very personable.
 
-**First appearance:** [[S02E21]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
 **Total appearances:** 1 episode
 
 ## Description

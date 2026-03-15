@@ -14,7 +14,7 @@ tags:
 
 Drow advisor who has risen to the upper echelons of the Xanathar Guild despite drow normally being excluded. Personal advisor to the Xanathar beholder. Name spelled with an X.
 
-**First appearance:** [[S01E15]]
+**First appearance:** [[S01E15 - Episode Fifteen]]
 **Total appearances:** 1 episode
 
 ## Description

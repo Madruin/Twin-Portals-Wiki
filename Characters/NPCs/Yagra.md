@@ -14,7 +14,7 @@ tags:
 
 Half-orc woman, business associate of Lark. Got into a bar fight with tattooed thugs at the Yawning Portal. Fights with her fists. Independent and capable fighter.
 
-**First appearance:** [[S01E01]]
+**First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 4 episodes
 
 ## Description

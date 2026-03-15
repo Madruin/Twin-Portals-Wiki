@@ -14,7 +14,7 @@ tags:
 
 A mysterious figure encountered in the afterlife/Malar's realm at the base of the mountain. Provides information about the nature of the plane. Ylka mentions meeting him to Lark upon reunion.
 
-**First appearance:** [[S01E21]]
+**First appearance:** [[S01E21 - Episode Twenty One]]
 **Total appearances:** 23 episodes
 
 ## Description

@@ -26,7 +26,7 @@ tags:
 
 ## Description
 
-A human bard warlock interested in archaeology and theater. Scott's character in the continuing Icewind Dale campaign, replacing [[Bitty Boy]]. Rex uses eldritch blast and thunder wave in combat. During the tarrasque encounter, Rex nearly died but was saved by the honey badger companion [[Zappa]].
+A human bard warlock interested in archaeology and theater. Scott's character in the continuing Icewind Dale campaign, replacing [[Bitty Boy]]. Rex uses eldritch blast and thunder wave in combat. During the tarrasque encounter, Rex nearly died but was saved by the honey badger companion [[Zuzu]].
 
 ## Episode Appearances
 

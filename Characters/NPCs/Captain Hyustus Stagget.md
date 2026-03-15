@@ -14,7 +14,7 @@ tags:
 
 City Watch officer at the Yawning Portal who enforces the party's ban.
 
-**First appearance:** [[S01E04]]
+**First appearance:** [[S01E04 - Episode Four]]
 **Total appearances:** 9 episodes
 
 ## Description

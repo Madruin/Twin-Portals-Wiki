@@ -67,23 +67,23 @@ The episode culminated with a massive celebration in Trollskull Alley, featuring
 - [[Elzerina Cassalanter]] — Daughter of Vittoro and Amalia, twin sister of Terenzio. Placed under city protection and befriended the Irregulars at Trollskull.
 - [[Jarlaxle Baenre]] — Leader of Bregan D'aerthe. Emerged from the bag of holding through connected twin portals with his drow soldiers. Traded information about the Necromancer for the Mask of the Lords and offered Zardos's entertainment troupe for SWOJ's celebration.
 - [[Aurinax]] — Adult gold dragon who guarded the Vault of Dragons, disguised as a dwarf. Flew SWOJ to Castle Waterdeep. Offered the Dragon Staff of Ahghairon to Mr. E and helped vet incoming dragons. Stayed at Castle Waterdeep.
-- [[O'Corea Stonemarrow]] — City watch officer who helped coordinate the cleanup at the Cassalanter Villa. Her district crew was trustworthy and she promised to sweep the city watch for Cassalanter agents.
+- [[Ulkoria Stonemarrow]] — City watch officer who helped coordinate the cleanup at the Cassalanter Villa. Her district crew was trustworthy and she promised to sweep the city watch for Cassalanter agents.
 - [[Remalia Haventree]] — High elf Harper ally. Released from house arrest after the Cassalanter plot was exposed. Helped coordinate the Harper effort at the villa.
-- [[Lerian]] — Unicorn ally of Xae, connected to the Feywild. Appeared at the Cassalanter Villa to help with healing. Guided Rowan Crooks and the Jolly Gents to Trollskull through a Feywild portal on the summer solstice.
-- [[Zellophane]] — Bronze dragon companion of SWOJ. Flew the party to Castle Waterdeep. Received a roost on the Trollskull roof and a custom dragon-shaped chair. Was learning to polymorph from Aurinax to be able to join dinner with the party.
+- [[Lyrian]] — Unicorn ally of Xae, connected to the Feywild. Appeared at the Cassalanter Villa to help with healing. Guided Rowan Crooks and the Jolly Gents to Trollskull through a Feywild portal on the summer solstice.
+- [[Zelifarn]] — Bronze dragon companion of SWOJ. Flew the party to Castle Waterdeep. Received a roost on the Trollskull roof and a custom dragon-shaped chair. Was learning to polymorph from Aurinax to be able to join dinner with the party.
 
 ### Locations
 
 - [[Cassalanter Villa Crypt]]
 - [[Castle Waterdeep]]
-- [[Trollskull Manor / The Short Rest]]
+- [[Trollskull Manor  The Short Rest]]
 - [[Trollskull Alley]]
 - [[Old Xoblob Shop]]
-- [[God Catcher]]
+- [[The God Catcher]]
 - [[Wavesilver Household]]
-- [[Froon's Brews]]
+- [[Frewn's  Brews]]
 - [[Gralhund Villa]]
-- [[Hole in the Wall]]
+- [[Hole In The Wall]]
 
 ---
 

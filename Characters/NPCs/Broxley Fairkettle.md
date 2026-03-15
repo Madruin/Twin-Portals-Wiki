@@ -14,7 +14,7 @@ tags:
 
 Representative of the Fellowship of Innkeepers. Involved in tavern licensing.
 
-**First appearance:** [[S01E08]]
+**First appearance:** [[S01E08 - Episode Eight]]
 **Total appearances:** 1 episode
 
 ## Description

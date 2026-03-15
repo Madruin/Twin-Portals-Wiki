@@ -14,7 +14,7 @@ tags:
 
 Noble matriarch of House Cassalanter. Tall, Morticia Addams-like appearance. Pulls SWOJ aside to hire them to find Dagult Neverember's hoard of golden dragons for 150gp/day stipend. Mentions their late son Osvaldo. Rushes to the attic to save Osvaldo.
 
-**First appearance:** [[S01E09]]
+**First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 8 episodes
 
 ## Description

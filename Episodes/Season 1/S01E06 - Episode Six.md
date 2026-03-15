@@ -59,26 +59,26 @@ The party ascends to the palm of the God Catcher's outstretched hand, where they
 
 **NPCs:**
 - [[Lif Lindgren]] — Ghost bartender at Trollskull Manor. Now friendly, cooking eggs for the party in the morning.
-- [[Pog Wageltop]] — A goblin and former captain of the ship Sea Plum. Sends a pigeon message asking for help investigating his sunken ship.
+- [[Pog Waggletop]] — A goblin and former captain of the ship Sea Plum. Sends a pigeon message asking for help investigating his sunken ship.
 - [[Gildis]] — First mate of the Sea Plum, a human.
-- [[Zardos Zord]] — Enigmatic carnival master of the Sea Maiden's Faire. Gives the party a handkerchief to deliver to Grinda Garloss.
+- [[Zardoz Zord]] — Enigmatic carnival master of the Sea Maiden's Faire. Gives the party a handkerchief to deliver to Grinda Garloss.
 - [[Terry]] — The party's regular Zuber driver. Found murdered at the base of the God Catcher at the end of the episode, run through with a blade.
-- [[Grinda Garloss]] — An elderly woman living in a lighthouse at Mist Shore. Owner of the Apparatus of Kwalish. Claims Ylka visited her the previous night and borrowed the Apparatus, though Ylka has no memory of this.
+- [[Grinda Garloth]] — An elderly woman living in a lighthouse at Mist Shore. Owner of the Apparatus of Kwalish. Claims Ylka visited her the previous night and borrowed the Apparatus, though Ylka has no memory of this.
 - [[Anton]] — Grinda's mouse familiar.
 - [[Zelifarn]] — A bronze dragon who serves as the self-appointed guardian of Deepwater Harbor. Leads the party to the Sea Plum wreck and then to a smuggler's cave.
-- [[Fel'rekt]] — A drow male with guns, found imprisoned by cultists inside the God Catcher. Rescued by the party.
+- [[Fel'Rekt]] — A drow male with guns, found imprisoned by cultists inside the God Catcher. Rescued by the party.
 - [[Ylka Doppelganger]] — A mysterious woman who looks exactly like Ylka, found performing a blood ritual on the palm of the God Catcher. Fights the party and escapes by leaping off the hand.
 
 ### Locations
 
 - [[Trollskull Manor]]
 - [[Sea Maiden's Faire]]
-- [[Mist Shore]]
+- [[Mistshore]]
 - [[Grinda's Lighthouse]]
 - [[Deepwater Harbor]]
 - [[Sea Plum Wreck]]
 - [[Smuggler's Cave]]
-- [[God Catcher]]
+- [[The God Catcher]]
 
 ---
 

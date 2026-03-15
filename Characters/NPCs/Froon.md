@@ -14,7 +14,7 @@ tags:
 
 Runs Froon's Brews across from the Short Rest. Confirms hearing crunching and thumping sounds heading north when Fala was taken.
 
-**First appearance:** [[S02E05]]
+**First appearance:** [[S02E05 - Episode Thirty Five (S02E05)]]
 **Total appearances:** 4 episodes
 
 ## Description

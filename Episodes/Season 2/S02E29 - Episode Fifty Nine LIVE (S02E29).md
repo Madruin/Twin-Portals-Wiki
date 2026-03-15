@@ -54,29 +54,29 @@ The two black dragons burst into the cathedral, seizing the phylactery. Ylka cas
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xaerine 'Xae' Rumblestride]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Bronch]] — The disillusioned white-masked cultist who sacrifices himself as a distraction in the Sunken City, buying SWOJ time to attack the phylactery during the dracolich ritual. His sacrifice is a pivotal moment in disrupting the ceremony.
+- [[Bronk]] — The disillusioned white-masked cultist who sacrifices himself as a distraction in the Sunken City, buying SWOJ time to attack the phylactery during the dracolich ritual. His sacrifice is a pivotal moment in disrupting the ceremony.
 - [[Mortimer Quill]] — A skeletal clerk who serves as Jergal's bureaucratic representative in the Trial of Jergal. He presides over the afterlife court proceedings where SWOJ argues for the release of the captured dragon souls. Dry, officious, and procedural in manner.
 - [[Jergal]] — An ancient deity known as the Lord of the End of Everything. His trial takes the form of an afterlife court where the fate of souls is adjudicated. Mortimer Quill serves as his representative. One of the original gods of death before Kelemvor.
 - [[Orcus]] — The demonic Lord of Undeath, a goat-headed demon lord. His trial is the second challenge in the Shrouded Citadel -- a physical and mental gauntlet featuring riddles, a bone bridge obstacle course, and a hallway of overwhelming death stench.
 - [[Kelemvor]] — The god of the dead in the Forgotten Realms, manifested as a set of floating silver scales in the grand cathedral. He judges and diverts the souls trapped in the phylactery, working with SWOJ to redirect them away from the dracolich ritual.
 - [[The Raven Queen]] — A powerful deity associated with death, fate, and the transition between worlds. Her presence is felt in the hallway where SWOJ's spirits return to their bodies. She imbues SWOJ with power over the dead.
 - [[Amalia Cassalanter]] — Revealed as the true identity of Velia Shadowmantle when moonbeam burns away her magical disguise. A Waterdeep noble and leader of the Cult of the Dragon operation. She uses telekinesis to fight for the phylactery and ultimately flees eastward atop the partially transformed dracolich.
-- [[Zellophane]] — A dragon ally of SWOJ who provides testimony during the Trial of Jergal, helping win the case for the captured dragon souls to be sent to the Preserve of the Ancients rather than being consumed by the dracolich ritual.
+- [[Zelifarn]] — A dragon ally of SWOJ who provides testimony during the Trial of Jergal, helping win the case for the captured dragon souls to be sent to the Preserve of the Ancients rather than being consumed by the dracolich ritual.
 - [[Little Joan]] — Leader of the allied Jolly Gents contingent. SWOJ encounters her as spirits at the surface of Castle Nehri Tar, where she commands operations with the Ripples during the aftermath of the underground battle.
 
 ### Locations
 
 - [[The Sunken City]]
 - [[The Shrouded Citadel]]
-- [[Trial of Jergal]]
-- [[Trial of Orcus]]
-- [[Preserve of the Ancients]]
+- [[Trial Of Jergal]]
+- [[Trial Of Orcus]]
+- [[Preserve Of The Ancients]]
 - [[Kelemvor's Cathedral]]
-- [[Castle Nehri Tar (Surface)]]
+- [[Castle Naerytar (Surface)]]
 
 ---
 

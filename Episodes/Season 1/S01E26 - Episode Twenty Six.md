@@ -68,7 +68,7 @@ SWOJ wakes at Remalia's house and breaks the Stone of Golorr's ensorcellement on
 
 - [[Remalia Haventree's House]]
 - [[Zadio City Music Hall]]
-- [[Vault of Dragons]]
+- [[Vault Of Dragons]]
 
 ---
 

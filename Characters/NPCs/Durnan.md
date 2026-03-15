@@ -14,7 +14,7 @@ tags:
 
 Barkeep and owner of the Yawning Portal tavern. Has lived there for hundreds of years, connected to the bar's essence. Fights with a greatsword. Notable mutton chops. Charges 20 gold for entry into the well to Undermountain.
 
-**First appearance:** [[S01E01]]
+**First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 4 episodes
 
 ## Description

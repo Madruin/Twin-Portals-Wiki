@@ -64,15 +64,15 @@ SWOJ awakens as spectral beings -- ghostly souls hovering over their own corpses
 **NPCs:**
 - [[Antediluvian Jake]] — The lore keeper of the Jolly Gents. Explains the history of the Breathless Elder, the aboleth-dragon conflict, and Manshoon's role in tethering dragon spirits. Waits in the Deep Dragon Temple while SWOJ proceeds through the portals.
 - [[Rowan Crooks]] — Revealed to be the 14th clone of Manshoon, who murdered the real Rowan Crooks long ago and assumed his identity. Leader of the Jolly Gents. Survives the catastrophic explosion, loots SWOJ's corpses, captures Shuni's spirit in a soul stone, and teleports away with all of SWOJ's possessions.
-- [[Shuni]] — A Manshoon clone living inside the Breathless Elder's corpse. Surprisingly friendly and cooperative with SWOJ. Explains the gem/lure mechanism controlling the dragon tethers. Murdered by Rowan Crooks and his allies, then his spirit is recaptured in a cracked soul stone.
+- [[Shoonie]] — A Manshoon clone living inside the Breathless Elder's corpse. Surprisingly friendly and cooperative with SWOJ. Explains the gem/lure mechanism controlling the dragon tethers. Murdered by Rowan Crooks and his allies, then his spirit is recaptured in a cracked soul stone.
 - [[Little Joan]] — A member of the Jolly Gents and secret Manshoon agent. Participates in the betrayal and attack on SWOJ inside the Breathless Elder. Barely survives the explosion.
 - [[Friar Truck]] — A member of the Jolly Gents and secret Manshoon agent. Participates in the betrayal and attack on SWOJ inside the Breathless Elder. Killed in the catastrophic explosion.
-- [[Mellafarne]] — A bronze dragon found sleeping on a stone plateau atop the Deep Dragon Temple. One of many bronze dragons afflicted by the Breathless Elder's enchanted sleep.
+- [[Melifarn]] — A bronze dragon found sleeping on a stone plateau atop the Deep Dragon Temple. One of many bronze dragons afflicted by the Breathless Elder's enchanted sleep.
 
 ### Locations
 
 - [[Deep Dragon Temple]]
-- [[Zellafar's Lair]]
+- [[Zelifarn's Lair]]
 - [[The Astral Sea]]
 - [[The Wall]]
 - [[The Far Realm]]

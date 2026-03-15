@@ -54,15 +54,15 @@ SWOJ shops extensively: Ylka buys spider silk armor and a whisper web shawl; the
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xae]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Idae]] — A Shadar-kai, one of three who greets SWOJ upon their arrival in the Shadowfell. Explains that a dark sun appeared about ten days ago, absorbing souls and disrupting the natural order. The same Shadar-kai from SWOJ's previous visit.
 - [[Mari]] — A Shadar-kai who greets SWOJ in the Shadowfell. One of the three familiar faces from their previous visit.
 - [[Blish]] — A Shadar-kai who greets SWOJ in the Shadowfell. One of the three familiar faces from their previous visit.
 - [[Curio]] — A mimic disguised as a merchant stall in the Dark Market. Offers SWOJ a spell jamming helm in exchange for stealing a jar (containing the Breath of the First Dawn) from the angel Rylerin's cabinet. When Lark tells Rylerin instead of stealing, Rylerin captures Curio in a jar. Described as having a familiar glaring eye when captured.
-- [[Rylerin]] — An angel who trades rare artifacts from a cabinet in the Dark Market. His cabinet contains the Breath of the First Dawn in a clay jar, which Curio coveted. After learning of Curio's plot from Lark, Rylerin captures the mimic and rewards SWOJ with the spell jamming helm for their honesty. Says the Dark Market is a safe haven as long as you don't leave it. Warns about the dangers of the Shadowfell.
+- [[Ryloren]] — An angel who trades rare artifacts from a cabinet in the Dark Market. His cabinet contains the Breath of the First Dawn in a clay jar, which Curio coveted. After learning of Curio's plot from Lark, Rylerin captures the mimic and rewards SWOJ with the spell jamming helm for their honesty. Says the Dark Market is a safe haven as long as you don't leave it. Warns about the dangers of the Shadowfell.
 - [[Mikael]] — A friendly tiefling/demon in the Dark Market. Part of a trio with Lucinda and Santorini. Shares drinks and socializes with SWOJ during their stay at the Nest. Very personable.
 - [[Lucinda]] — A friendly tiefling/demon in the Dark Market, part of the trio with Mikael and Santorini. Socializes with SWOJ at the Nest.
 - [[Santorini]] — A friendly tiefling/demon in the Dark Market, part of the trio with Mikael and Lucinda. Socializes with SWOJ at the Nest.
@@ -72,10 +72,10 @@ SWOJ shops extensively: Ylka buys spider silk armor and a whisper web shawl; the
 ### Locations
 
 - [[Shadowfell (Deep)]]
-- [[Sepulchre of the Raven Queen]]
+- [[Sepulchre Of The Raven Queen]]
 - [[Dark Market]]
 - [[The Nest]]
-- [[Zentil Keep (Dark Sun)]]
+- [[Zhentil Keep (Dark Sun)]]
 
 ---
 

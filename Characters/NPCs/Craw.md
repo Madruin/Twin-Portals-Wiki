@@ -14,7 +14,7 @@ tags:
 
 The giant scarab companion rescued from the Dynamo. Arrives in Waterdeep separately due to time displacement.
 
-**First appearance:** [[S02E05]]
+**First appearance:** [[S02E05 - Episode Thirty Five (S02E05)]]
 **Total appearances:** 12 episodes
 
 ## Description

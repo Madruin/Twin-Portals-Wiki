@@ -18,11 +18,11 @@ tags:
 
 ## Summary
 
-The Stone of Golorr was the central MacGuffin of Season 1 -- a sentient artifact containing the consciousness of an [[aboleth]] named Golorr, which held the key to locating [[Dagult Neverember]]'s embezzled hoard of 500,000 gold dragons hidden in the [[Vault of Dragons]] beneath [[Waterdeep]]. Every major faction in the city competed to possess it, driving the gang violence and political intrigue that consumed the campaign.
+The Stone of Golorr was the central MacGuffin of Season 1 -- a sentient artifact containing the consciousness of an [[Zelifarn]] named Golorr, which held the key to locating [[Dagult Neverember]]'s embezzled hoard of 500,000 gold dragons hidden in the [[Vault Of Dragons]] beneath [[Waterdeep]]. Every major faction in the city competed to possess it, driving the gang violence and political intrigue that consumed the campaign.
 
-The Stone's journey was a chain of theft and betrayal: originally held by the [[Xanathar Guild]], it was stolen by [[Dalakhar]] (Dagult's gnome spy), taken by a [[Zhentarim]] agent after the [[Trollskull Alley]] fireball explosion that killed Dalakhar, brought to [[Gralhund Villa]] where [[Yala Gralhund]] double-crossed the Zhentarim and claimed it, then passed through the [[Cult of Asmodeus]] via [[Willifort Crowelle]] before SWOJ finally recovered it during a dramatic cart chase through the Feast of the Moon festival.
+The Stone's journey was a chain of theft and betrayal: originally held by the [[Xanathar Guild]], it was stolen by [[Dalekar]] (Dagult's gnome spy), taken by a [[Zhentarim]] agent after the [[Trollskull Alley]] fireball explosion that killed Dalakhar, brought to [[Gralhund Villa]] where [[Yalah Gralhund]] double-crossed the Zhentarim and claimed it, then passed through the [[Cult Of Asmodeus]] via [[Willifort Crowell]] before SWOJ finally recovered it during a dramatic cart chase through the Feast of the Moon festival.
 
-The Stone required three Eyes (gems) to reveal the Vault's location. SWOJ recovered the first Eye from the [[Xanathar]]'s lair (hidden in Sylgar the goldfish's tank), the second was pickpocketed by [[Squidly]] from [[Urstul Floxin]] at the [[Kolat Towers]], and the third was claimed from the [[Cassalanter]]s' underground shrine to [[Asmodeus]]. When assembled at [[Remalia Haventree]]'s estate, the Stone transported SWOJ 500 years into the past to witness the Vault's creation, and transformed into an aboleth when submerged in water.
+The Stone required three Eyes (gems) to reveal the Vault's location. SWOJ recovered the first Eye from the [[The Xanathar]]'s lair (hidden in Sylgar the goldfish's tank), the second was pickpocketed by [[Squidly]] from [[Urstul Floxxin]] at the [[Kolat Towers]], and the third was claimed from the [[Cassalanters]]s' underground shrine to [[Asmodeus]]. When assembled at [[Remalia Haventree]]'s estate, the Stone transported SWOJ 500 years into the past to witness the Vault's creation, and transformed into an aboleth when submerged in water.
 
 ## Key Episodes
 
@@ -45,13 +45,13 @@ The Stone required three Eyes (gems) to reveal the Vault's location. SWOJ recove
 - [[Renaer Neverember]] — First revealed its existence; provided the diamond for Lark's resurrection
 - [[Dagult Neverember]] — Embezzled the gold that the Stone leads to
 - [[Laeral Silverhand]] — Took custody of the Stone and commissioned SWOJ to find the Eyes
-- [[Yala Gralhund]] — Double-crossed the Zhentarim to possess it
+- [[Yalah Gralhund]] — Double-crossed the Zhentarim to possess it
 - [[Squidly]] — Pickpocketed the second Eye from the Zhentarim
 - [[Aurinax]] — Gold dragon guarding the Vault of Dragons
 
 ## Locations
 
-- [[Vault of Dragons]]
+- [[Vault Of Dragons]]
 - [[Gralhund Villa]]
 - [[Xanathar's Lair]]
 - [[Kolat Towers]]
@@ -63,9 +63,9 @@ The Stone required three Eyes (gems) to reveal the Vault's location. SWOJ recove
 - [[Xanathar Guild]]
 - [[Zhentarim]]
 - [[House Cassalanter]]
-- [[Bregan D'aerthe]]
+- [[Bregan D'Aerthe]]
 - [[Harpers]]
 
 ## Resolution
 
-SWOJ assembled all three Eyes, opened the Vault of Dragons beneath the Zadio City Music Hall, and recovered the 500,000 gold hoard. During the recovery, the [[Xanathar]] attacked with bugbears and [[Manshoon]]'s simulacrum appeared with Zhentarim forces, but SWOJ and their allies (including [[Aurinax]] in dragon form and [[Remalia Haventree]]) defeated them all. Ylka's thrown dagger dealt the killing blow to the Xanathar. The gold was returned to the city, and SWOJ received a 50,000 gold finder's fee.
+SWOJ assembled all three Eyes, opened the Vault of Dragons beneath the Zadio City Music Hall, and recovered the 500,000 gold hoard. During the recovery, the [[The Xanathar]] attacked with bugbears and [[Manshoon]]'s simulacrum appeared with Zhentarim forces, but SWOJ and their allies (including [[Aurinax]] in dragon form and [[Remalia Haventree]]) defeated them all. Ylka's thrown dagger dealt the killing blow to the Xanathar. The gold was returned to the city, and SWOJ received a 50,000 gold finder's fee.

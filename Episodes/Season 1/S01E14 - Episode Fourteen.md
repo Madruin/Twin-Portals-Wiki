@@ -52,23 +52,23 @@ The party battles Von Gruber and his Pain Deer (gingerbread reindeer constructs)
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark "Lark" Wavesilver]]
+- [[Malark Wavesilver]]
 
 **NPCs:**
-- [[Gorge Bailey Brew]] — Dwarf father in prehistoric Waterdeep. His daughter Zuzu has been taken by Hans Von Gruber to Zaka's Tome Tower. Runs a family homestead near Zedford Falls. Eventually helps deliver toys via magical sleigh.
+- [[Gorge Baileybrew]] — Dwarf father in prehistoric Waterdeep. His daughter Zuzu has been taken by Hans Von Gruber to Zaka's Tome Tower. Runs a family homestead near Zedford Falls. Eventually helps deliver toys via magical sleigh.
 - [[Navi]] — Gorge Bailey Brew's daughter who remains at the homestead. Connected to the Fleece of Navi-dad item.
 - [[Zuzu]] — Gorge Bailey Brew's missing daughter, taken to Zaka's Tome Tower by Hans Von Gruber. Rescued by SWOJ.
 - [[Hans Von Gruber]] — Vampire wizard who has taken over Zaka's Tome Tower and captured the Bailey Brew family. Defeated by SWOJ through combat and an act of kindness with the Fleece of Navi-dad. Commands Pain Deer constructs.
 - [[Zaka]] — Ancient figure whose Tome Tower serves as the setting for the Von Gruber encounter. The tower is a repository of knowledge in prehistoric Waterdeep.
 - [[Grandfather Niklas]] — Mentioned in connection with the Solstice holiday traditions and toy delivery.
-- [[Ghosts of Solstice Past]] — Supernatural entities manifesting as snow dwarves during the Winter Solstice in prehistoric Waterdeep. Deliver cryptic riddles and warnings about Krampus to the party.
-- [[Xae (prehistoric)]] — Witnessed in a vision during the time-travel sequence, pulling a tentacle beast from the river and crushing it into what becomes the Stone of Galore. Reveals Xae's ancient origin and connection to the Stone.
+- [[Ghosts Of Solstice Past]] — Supernatural entities manifesting as snow dwarves during the Winter Solstice in prehistoric Waterdeep. Deliver cryptic riddles and warnings about Krampus to the party.
+- [[Xae (Prehistoric)]] — Witnessed in a vision during the time-travel sequence, pulling a tentacle beast from the river and crushing it into what becomes the Stone of Galore. Reveals Xae's ancient origin and connection to the Stone.
 
 ### Locations
 
 - [[Docks Ward Guardhouse (Jail Cell)]]
 - [[Prehistoric Waterdeep]]
-- [[Zaka's Tome Tower]]
+- [[Zaka's Tomey Tower]]
 - [[Zedford Falls]]
 
 ---

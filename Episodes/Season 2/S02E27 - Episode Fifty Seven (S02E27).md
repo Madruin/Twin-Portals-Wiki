@@ -54,8 +54,8 @@ SWOJ instructs Little Joan to set up a secret camp with the Jolly Gents on nearb
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
-- [[Xaerine 'Xae' Rumblestride]]
+- [[Malark Wavesilver]]
+- [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Semu]] — A lizardfolk cleric of Semuanya who guides SWOJ through the Mere of Dead Men to Castle Naerytar. Her people have suffered from the Cult of the Dragon's activities. She asks SWOJ to look for lizardfolk relics in the castle's refuse piles. Parts ways at the castle perimeter, unwilling to go closer.
@@ -63,7 +63,7 @@ SWOJ instructs Little Joan to set up a secret camp with the Jolly Gents on nearb
 
 ### Locations
 
-- [[Mere of Dead Men]]
+- [[Mere Of Dead Men]]
 - [[The Pump Cave]]
 - [[Swamp Castle]]
 - [[Castle Naerytar]]

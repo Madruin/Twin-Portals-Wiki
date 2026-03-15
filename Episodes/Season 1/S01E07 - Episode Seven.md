@@ -48,17 +48,17 @@ SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry
 
 - [[Scoot Sparkles]]
 - [[Ylka Gralhund]]
-- [[Malark 'Lark' Wavesilver]]
+- [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
 - [[Terry]] — Intellect devourer (brain with legs) formerly inhabiting their Zuber driver's body. Gets placed into a dead body temporarily, then given a SWOJ t-shirt. Communicates telepathically.
-- [[Alcoria Stonemarrow]] — Dwarf magister from the Watchful Order of Magists and Protectors. Visits Trollskull Manor with her shield guardian Winston. Carves a glyph of warding on the front door, registers Xae and Ylka as magic users, and discusses the threats of doppelgangers, intellect devourers, mind flayers, and the Xanathar Guild.
+- [[Ulkoria Stonemarrow]] — Dwarf magister from the Watchful Order of Magists and Protectors. Visits Trollskull Manor with her shield guardian Winston. Carves a glyph of warding on the front door, registers Xae and Ylka as magic users, and discusses the threats of doppelgangers, intellect devourers, mind flayers, and the Xanathar Guild.
 - [[Winston]] — Shield guardian companion of Alcoria Stonemarrow. A large magical construct.
 - [[Emmek Frewn]] — Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visits to offer 150gp to buy the manor. Hostile and antagonistic toward SWOJ.
-- [[Taga]] — Scoot's mother. Agrees to help run Trollskull Manor as a tavern. Mentions that Simon (Scoot's father) works for the Waterdeep Navy.
+- [[Tagga]] — Scoot's mother. Agrees to help run Trollskull Manor as a tavern. Mentions that Simon (Scoot's father) works for the Waterdeep Navy.
 - [[Simon]] — Scoot's father. Works for the Waterdeep Navy. Mentioned but does not appear directly in this episode.
-- [[Fel'rekt Lafeen]] — Drow agent of Bregan D'aerthe. Visits Trollskull Manor at noon, reveals his organization has been tracking SWOJ, shares intelligence about devil worship among nobles and the Wavesilver crest connection. Reveals Yagra was the one who sent the 'Y' note.
+- [[Fel'Rekt Lafeen]] — Drow agent of Bregan D'aerthe. Visits Trollskull Manor at noon, reveals his organization has been tracking SWOJ, shares intelligence about devil worship among nobles and the Wavesilver crest connection. Reveals Yagra was the one who sent the 'Y' note.
 - [[Yagra]] — Mentioned as the person who sent the 'Y' note to SWOJ. Connected to Bregan D'aerthe.
 - [[Leah]] — Half-elf, Scoot's former crewmate and first mate of the Sea Plum. Now an Emerald Enclave contact. Brings the scarecrow quest from Stout Fellow Farm. Offers to ward Trollskull against vermin and set up a pigeon rookery.
 - [[Sally]] — A pigeon from the Sea Plum, now roosting on the roof of Trollskull Manor. Ylka speaks to her via Speak with Animals.
@@ -67,9 +67,9 @@ SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry
 
 - [[Trollskull Manor]]
 - [[Trollskull Alley]]
-- [[Frewn's Brews]]
+- [[Frewn's  Brews]]
 - [[Undercliff]]
-- [[Stout Fellow Farm]]
+- [[Stoutfellow Farm]]
 - [[Zuber Farm]]
 
 ---
