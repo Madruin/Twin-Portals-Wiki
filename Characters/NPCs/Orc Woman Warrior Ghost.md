@@ -1,0 +1,35 @@
+---
+title: "Orc Woman Warrior Ghost"
+type: character
+subtype: npc
+status: unknown
+aliases: []
+tags:
+  - twin-portals
+  - character
+  - npc
+---
+
+# Orc Woman Warrior Ghost
+
+The leader of the army of ancient souls raised from the Wall of the Faithless. She wears a crescent moon earring and has a dolphin tattoo on her arm. She leads blue and white spectres wearing armor from forgotten civilizations up the crystal spire to confront Manshoon's forces.
+
+**First appearance:** Episode S02E36
+**Total appearances:** 1 episodes
+
+## Description
+
+The leader of the army of ancient souls raised from the Wall of the Faithless. She wears a crescent moon earring and has a dolphin tattoo on her arm. She leads blue and white spectres wearing armor from forgotten civilizations up the crystal spire to confront Manshoon's forces.
+
+## Role in the Story
+
+
+
+## Episode Appearances
+
+```dataview
+TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
+FROM "Twin Portals/Episodes"
+WHERE contains(file.outlinks, this.file.link)
+SORT overall ASC
+```

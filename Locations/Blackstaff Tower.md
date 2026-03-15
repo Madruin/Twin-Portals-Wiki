@@ -1,0 +1,38 @@
+---
+title: "Blackstaff Tower"
+type: location
+subtype: ""
+aliases: []
+tags:
+  - twin-portals
+  - location
+---
+
+# Blackstaff Tower
+
+Tower of wizards in Waterdeep. Laeral says SWOJ can drop her name there for assistance, though she advises not trusting them with valuables.
+
+**Type:** 
+**First appearance:** Episode S01E15
+**Total appearances:** 1 episodes
+
+## Description
+
+Tower of wizards in Waterdeep. Laeral says SWOJ can drop her name there for assistance, though she advises not trusting them with valuables.
+
+## Notable Events
+
+
+
+## Connected Characters
+
+
+
+## Episode Appearances
+
+```dataview
+TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
+FROM "Twin Portals/Episodes"
+WHERE contains(file.outlinks, this.file.link)
+SORT overall ASC
+```

@@ -1,0 +1,35 @@
+---
+title: "Laila"
+type: character
+subtype: npc
+status: unknown
+aliases: []
+tags:
+  - twin-portals
+  - character
+  - npc
+---
+
+# Laila
+
+A halfling knight wearing night regalia and a helmet that mostly obscures her face. A member of the resistance who patrols the tunnels beneath Castle Never. Discovers SWOJ hiding in the excavation area and leads them to Renaer's underground base.
+
+**First appearance:** Episode S02E15
+**Total appearances:** 1 episodes
+
+## Description
+
+A halfling knight wearing night regalia and a helmet that mostly obscures her face. A member of the resistance who patrols the tunnels beneath Castle Never. Discovers SWOJ hiding in the excavation area and leads them to Renaer's underground base.
+
+## Role in the Story
+
+
+
+## Episode Appearances
+
+```dataview
+TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
+FROM "Twin Portals/Episodes"
+WHERE contains(file.outlinks, this.file.link)
+SORT overall ASC
+```

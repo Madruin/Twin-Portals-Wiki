@@ -1,0 +1,38 @@
+---
+title: "Vincent Trench's Shop"
+type: location
+subtype: ""
+aliases: []
+tags:
+  - twin-portals
+  - location
+---
+
+# Vincent Trench's Shop
+
+Private investigator office on Trollskull Alley. SWOJ escapes here through a portal. Features a closet full of trench coats.
+
+**Type:** 
+**First appearance:** Episode S01E27
+**Total appearances:** 1 episodes
+
+## Description
+
+Private investigator office on Trollskull Alley. SWOJ escapes here through a portal. Features a closet full of trench coats.
+
+## Notable Events
+
+
+
+## Connected Characters
+
+
+
+## Episode Appearances
+
+```dataview
+TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
+FROM "Twin Portals/Episodes"
+WHERE contains(file.outlinks, this.file.link)
+SORT overall ASC
+```
