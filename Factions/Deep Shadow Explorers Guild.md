@@ -23,9 +23,18 @@ A guild in the Dark Market that sells utility equipment for Shadowfell explorati
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

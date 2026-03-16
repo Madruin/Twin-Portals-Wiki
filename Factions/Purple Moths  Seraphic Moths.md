@@ -23,9 +23,18 @@ Massive six-winged moth creatures that trail stardust in the Far Realm. Whistler
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

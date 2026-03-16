@@ -24,9 +24,30 @@ The broader geographical region through which the party travels on their way nor
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Craw]]
+- [[Farron]]
+- [[Froon]]
+- [[Gundark Gundarkson]]
+- [[Hanna]]
+- [[Jonas]]
+- [[Juan]]
+- [[Kai]]
+- [[Nina Blackthorn]]
+- [[Nuria]]
+- [[Phyllis]]
+- [[Shala]]
+- [[Ted]]
+- [[Ziraj The Hunter]]
 
 ## Episode Appearances
 

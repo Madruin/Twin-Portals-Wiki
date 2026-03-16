@@ -24,9 +24,24 @@ An underwater cave beneath the city, accessible from Deepwater Harbor. Leads upw
 
 
 
+
+- **S01E06:** Zelifarn leads them to a smuggler's cave beneath the city
+
 ## Connected Characters
 
 
+
+
+- [[Anton]]
+- [[Fel'Rekt]]
+- [[Gildis]]
+- [[Grinda Garloth]]
+- [[Lif Lindgren]]
+- [[Pog Waggletop]]
+- [[Terry]]
+- [[Ylka Doppelganger]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

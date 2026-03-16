@@ -24,9 +24,15 @@ The underground cavern where Shailheart the bulette lives with her three childre
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

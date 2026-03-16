@@ -24,9 +24,30 @@ A music shop in Amphail run by Hanna. Sells instruments and offers repairs. Ylka
 
 
 
+
+- **S02E06:** Visit Hanna's music shop; learn her husband Juan the half-elf fiddler is missing
+
 ## Connected Characters
 
 
+
+
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Craw]]
+- [[Farron]]
+- [[Froon]]
+- [[Gundark Gundarkson]]
+- [[Hanna]]
+- [[Jonas]]
+- [[Juan]]
+- [[Kai]]
+- [[Nina Blackthorn]]
+- [[Nuria]]
+- [[Phyllis]]
+- [[Shala]]
+- [[Ted]]
+- [[Ziraj The Hunter]]
 
 ## Episode Appearances
 

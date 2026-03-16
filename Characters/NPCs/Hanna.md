@@ -16,6 +16,7 @@ Owner of a music shop in Amphail. Her husband Juan, a half-elf fiddler, has gone
 
 **First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 2 episodes
+**Faction affiliations:** [[Doom Network]]
 
 ## Description
 

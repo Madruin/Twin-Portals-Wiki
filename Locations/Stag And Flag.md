@@ -24,9 +24,25 @@ A tavern in Amphale where Craw has been hanging out and where festivities relate
 
 
 
+
+- **S02E06:** Learn Anya Irmbrusk was staying at the Stag and Flag for a month, seeking to renounce noble ties through the Right of the Staglass
+- **S02E06:** Meet Gundarkson at the Stag and Flag -- he's the bartender-mayor of Amphail
+
 ## Connected Characters
 
 
+
+
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Arcturia]]
+- [[Farron]]
+- [[Fela Lefaliir]]
+- [[Gundark Gundarkson]]
+- [[Halaster]]
+- [[Leah]]
+- [[Shala]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

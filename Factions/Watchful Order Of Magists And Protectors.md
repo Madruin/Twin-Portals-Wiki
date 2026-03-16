@@ -23,9 +23,18 @@ Magical authority in Waterdeep. Alcoria Stonemarrow is a magister who registers 
 
 
 
+
+
+
+
+- [[Grinda Garloth]]
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

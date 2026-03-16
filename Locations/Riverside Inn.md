@@ -24,9 +24,26 @@ A practical establishment offered to SWOJ as an alternative to the Shard of Moon
 
 
 
+
+- **S02E20:** Renaer offers SWOJ a choice: Riverside Inn or Shard of Moonlight (floating wizard tower)
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Blish]]
+- [[Dagult Neverember]]
+- [[Idae]]
+- [[Jarlaxle]]
+- [[Mari]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Shaleheart]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

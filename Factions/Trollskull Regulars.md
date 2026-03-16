@@ -23,9 +23,18 @@ SWOJ's allied group from Trollskull Alley, present at the Spiral Cavern helping 
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

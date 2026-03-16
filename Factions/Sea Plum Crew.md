@@ -23,9 +23,18 @@ Crew of the sunken ship Sea Plum, led by Pog and first mate Gildis.
 
 
 
+
+
+
+
+- [[Pog Waggletop]]
+
 ## Activities
 
 
+
+
+- **S01E08:** Sea Plum crew arrives at Trollskull including Pog Waggletop and Simon (Scoot's dad)
 
 ## Episode Appearances
 

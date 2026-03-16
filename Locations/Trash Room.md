@@ -24,9 +24,20 @@ A refuse-filled chamber in the underground tunnels inhabited by an otyugh. SWOJ 
 
 
 
+
+- **S02E23:** Party encounters otyugh in trash room; Xae communicates with it and they collect stench
+
 ## Connected Characters
 
 
+
+
+- [[Friar Truck]]
+- [[Grabmaar]]
+- [[Little Joan]]
+- [[Pill Garlic]]
+- [[Sixteen String Jack]]
+- [[Slim Curly]]
 
 ## Episode Appearances
 

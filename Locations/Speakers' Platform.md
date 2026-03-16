@@ -24,9 +24,19 @@ A large gazebo-like structure at the top of the Radiant Citadel where the speake
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Old Salty]]
+- [[Raven Queen]]
+- [[Sholeh]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

@@ -16,6 +16,7 @@ A ten-year-old mute human girl, leader of the three street urchins. Fearless and
 
 **First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 42 episodes
+**Faction affiliations:** [[Trollskull Alley Irregulars]], [[Zhentarim]]
 
 ## Description
 

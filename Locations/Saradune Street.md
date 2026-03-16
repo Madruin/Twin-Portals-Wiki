@@ -24,9 +24,30 @@ Street in the North Ward connecting to Trollskull Alley. SWOJ encounters Renaer 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Dagult Neverember]]
+- [[Dalekar]]
+- [[Fel'Rekt Lafeen]]
+- [[Flo]]
+- [[Hrabbaz]]
+- [[Jarlaxle]]
+- [[Jenks]]
+- [[Lif]]
+- [[Nat]]
+- [[Orond Gralhund]]
+- [[Pog Waggletop]]
+- [[Renaer Neverember]]
+- [[Sally]]
+- [[Squidly]]
+- [[Victoro Cassalanter]]
+- [[Yalah Gralhund]]
 
 ## Episode Appearances
 

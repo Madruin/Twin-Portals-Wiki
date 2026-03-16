@@ -24,9 +24,27 @@ One of three major bridges crossing the Neverwinter River. Features a large ston
 
 
 
+
+- **S02E14:** They cross the Sleeping Dragon Bridge and observe Castle Never (dark, abandoned), the Hall of Justice, and the Moonstone Mask (floating island inn)
+- **S02E15:** SWOJ interrogates 16 String Jack, a C-tier Jolly Gent bard, beneath the Sleeping Dragon Bridge after a prison break from the Hall of Justice
+
 ## Connected Characters
 
 
+
+
+- [[16 String Jack]]
+- [[Dagult Neverember]]
+- [[Fel'Rekt Lafeen]]
+- [[Fumbles  Fumblewick]]
+- [[Jarlaxle Baenre]]
+- [[Laila]]
+- [[Renaer Neverember]]
+- [[Shimmer Brackenwell]]
+- [[Slippery Shim]]
+- [[Squidly]]
+- [[Teriador]]
+- [[The Milliner]]
 
 ## Episode Appearances
 

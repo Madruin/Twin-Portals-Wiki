@@ -24,9 +24,23 @@ Rowan Crooks' personal office on the sixth floor of Zhentil Keep. Contains Anted
 
 
 
+
+- **S02E22:** Anjane Flip-Flap provides intelligence about the keep's layout and Crooks' office location
+- **S02E22:** Party discovers Antediluvian Jake's phylactery (copper orb) in Crooks' office
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Giggling Gus]]
+- [[Helena Van Der Graff]]
+- [[Long Mary]]
+- [[Quick Quill Quincy]]
+- [[Rambling Bill]]
+- [[Rowan Crooks]]
 
 ## Episode Appearances
 

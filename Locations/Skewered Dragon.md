@@ -24,9 +24,24 @@ Grim tavern in the Dock Ward near the waterfront. Named because a dragon was imp
 
 
 
+
+- **S01E01:** Party travels to the Dock Ward and visits the Skewered Dragon tavern
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Dagult Neverember]]
+- [[Durnan]]
+- [[Floon Blagmaar]]
+- [[Jalaster]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Remalia Haventree]]
+- [[Volothamp Geddarm]]
+- [[Yagra]]
 
 ## Episode Appearances
 

@@ -24,9 +24,24 @@ A rundown 15x20 foot shack in Malar's realm with a ramshackle bed, scratched tab
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ant Queen]]
+- [[Argentia]]
+- [[Kelemvor]]
+- [[Lyrian]]
+- [[Malar]]
+- [[Rowan Crooks]]
+- [[The Hag Of Trollskull Manor]]
+- [[The Necromancer]]
+- [[Third Dryad Sister]]
+- [[Tricayla]]
 
 ## Episode Appearances
 

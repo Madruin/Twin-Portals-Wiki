@@ -24,9 +24,19 @@ An extensive sewer system beneath the Radiant Citadel. Contains large cisterns w
 
 
 
+
+- **S02E34:** SWOJ escapes the Preserve of the Ancestors through the storm sewers
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Old Salty]]
+- [[Raven Queen]]
+- [[Sholeh]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

@@ -23,9 +23,18 @@ The governing body of the Radiant Citadel. Led by First Speaker Shole. An egalit
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

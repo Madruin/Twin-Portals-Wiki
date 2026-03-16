@@ -24,9 +24,33 @@ A bustling marketplace in the trade district of the Radiant Citadel, near the en
 
 
 
+
+- **S02E08:** SWOJ participates in Sid Squid's Battle Prawns cooking challenge at the Night Market
+
 ## Connected Characters
 
 
+
+
+- [[Arcturia]]
+- [[Fioleth The Ragamoffin]]
+- [[Hanna]]
+- [[Kelemvor]]
+- [[Leah]]
+- [[Manshoon]]
+- [[Orc Woman Warrior Ghost]]
+- [[Raven Queen]]
+- [[Rose Quartz Incarnate]]
+- [[Rowan Crooks]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Sid Squid]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Trill]]
+- [[Urstul Floxxin]]
+- [[Vincent Trench]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

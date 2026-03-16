@@ -24,9 +24,22 @@ Workshop in the Xanathar's lair where dwarf engineer Thorvin Twinbeard builds ma
 
 
 
+
+- **S01E16:** Party passes through Thorvin's workshop; Thorvin asks them to send Nar'l his way
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[Narl Xibrindas]]
+- [[Ott Steeltoes]]
+- [[Remallia Haventree]]
+- [[Sally]]
+- [[Sylgar]]
+- [[The Xanathar]]
+- [[Thorvin Twinbeard]]
 
 ## Episode Appearances
 

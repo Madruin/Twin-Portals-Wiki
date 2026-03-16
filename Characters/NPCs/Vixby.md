@@ -16,6 +16,7 @@ Member of the Shard Shunners wererats.
 
 **First appearance:** [[S01E08 - Episode Eight]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Shard Shunners]]
 
 ## Description
 

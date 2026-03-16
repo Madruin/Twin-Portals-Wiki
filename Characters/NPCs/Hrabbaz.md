@@ -16,6 +16,7 @@ Half-orc bodyguard employed by the Gralhund family. Known for being violent and 
 
 **First appearance:** [[S01E11 - Episode Eleven]]
 **Total appearances:** 2 episodes
+**Faction affiliations:** [[Gralhund Family]], [[Zhentarim]]
 
 ## Description
 

@@ -23,9 +23,18 @@ Noble family whose majordomo Willaford Crowell receives the Stone of Galore. Hav
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

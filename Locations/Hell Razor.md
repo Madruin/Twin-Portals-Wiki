@@ -24,9 +24,24 @@ One of Jarlaxle's three ships of the Sea Maiden's Fair, captained by Sarith Ab'j
 
 
 
+
+- **S02E09:** Party sails aboard the Hell Razor toward Devil's Rock, encountering spectral green aboleth humming the same melody
+- **S02E09:** A sailor on the Hell Razor is caught whistling the same seven-note tune heard from the shadow creatures
+
 ## Connected Characters
 
 
+
+
+- [[Jarlaxle]]
+- [[Long John McRon]]
+- [[Melifarn]]
+- [[Rose Quartz Incarnate]]
+- [[Sarith Ab'Jean]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Trill]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

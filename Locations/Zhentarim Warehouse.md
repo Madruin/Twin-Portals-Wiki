@@ -24,9 +24,27 @@ Two-story warehouse on Candle Lane marked with a winged snake symbol (Zhentarim 
 
 
 
+
+- **S01E01:** Party discovers the Zhentarim warehouse on Candle Lane with three fresh corpses inside
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Captain Hyustus Stagget]]
+- [[Dagult Neverember]]
+- [[Durnan]]
+- [[Floon Blagmaar]]
+- [[Jalaster]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Pinker]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Volothamp Geddarm]]
+- [[Yagra]]
 
 ## Episode Appearances
 

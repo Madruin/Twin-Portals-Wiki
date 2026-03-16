@@ -23,9 +23,18 @@ Guild that Fala Lefaliir belongs to. Operates Corellon's Crown on Trollskull All
 
 
 
+
+
+
+
+- [[Fela Lefaliir]]
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

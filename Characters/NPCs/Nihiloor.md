@@ -16,6 +16,7 @@ Mind flayer working for the Xanathar Guild. Responsible for creating intellect d
 
 **First appearance:** [[S01E11 - Episode Eleven]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Xanathar Guild]]
 
 ## Description
 

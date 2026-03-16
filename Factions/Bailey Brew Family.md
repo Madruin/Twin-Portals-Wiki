@@ -23,9 +23,18 @@ Dwarf family in prehistoric Waterdeep: Gorge, Navi, and Zuzu. SWOJ rescues them 
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S01E14:** Party reaches Zaka's Tome Tower, finds Bailey Brew family under Hans Von Gruber's spell
 
 ## Episode Appearances
 

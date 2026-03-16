@@ -24,9 +24,20 @@ A shop on the Radiant Citadel staffed by kobolds. One of its kobolds spots SWOJ'
 
 
 
+
+- **S02E33:** A kobold from Benzo's Emporium spots them; Xae follows it in bird form to Vincent Trench's back door
+
 ## Connected Characters
 
 
+
+
+- [[Fioleth The Ragamoffin]]
+- [[Sholeh]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Vincent Trench]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

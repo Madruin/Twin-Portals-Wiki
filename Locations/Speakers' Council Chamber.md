@@ -24,9 +24,20 @@ A chamber near the top of the Radiant Citadel where the Speakers for the Ancesto
 
 
 
+
+- **S02E33:** Vincent Trench provides Xae a list of her six siblings (all alive) and intelligence about the Speakers' council chamber ward controls in exchange for a future favor sealed by geas
+
 ## Connected Characters
 
 
+
+
+- [[Fioleth The Ragamoffin]]
+- [[Sholeh]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Vincent Trench]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

@@ -24,9 +24,23 @@ Scoot's beloved boat that appears in the opening of the dream sequence. The part
 
 
 
+
+- **S01E06:** Pigeon message arrives from Pog Wageltop about the Sea Plum sinking in Deepwater Harbor
+- **S01E06:** Explore the Sea Plum wreck: cargo hold emptied, hull breached from outside
+- **S02E25:** Dream scenario: relaxing and fishing on the Sea Plum
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Giggling Gus]]
+- [[Little Joan]]
+- [[Rowan Crooks]]
+- [[The Raven Queen]]
+- [[The Xanathar]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

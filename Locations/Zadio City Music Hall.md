@@ -24,9 +24,29 @@ Present-day theater built on the site of Zadio Neverember's ancient amphitheater
 
 
 
+
+- **S01E26:** SWOJ infiltrates the Zadio City Music Hall disguised as ushers
+
 ## Connected Characters
 
 
+
+
+- [[Aurinax]]
+- [[Bracks]]
+- [[Bricks]]
+- [[Charles Lurember]]
+- [[Jarlaxle]]
+- [[Manshoon]]
+- [[Mara]]
+- [[Mookie Plush]]
+- [[Mr. Ziyagi]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Sally]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Westra Multimer]]
 
 ## Episode Appearances
 

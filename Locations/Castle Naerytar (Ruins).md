@@ -24,9 +24,23 @@ The now-ruined swamp castle in the Mere of Dead Men. A chasm has split open the 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Argentis]]
+- [[Grayj]]
+- [[Jill (Ygglimar)]]
+- [[Kingfisher]]
+- [[Little Joan]]
+- [[Quorlith The Starweaver]]
+- [[Renaer Neverember]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

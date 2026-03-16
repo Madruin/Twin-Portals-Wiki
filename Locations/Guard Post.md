@@ -24,9 +24,22 @@ An underground guard station within the chasm staffed by five soldiers. The Mans
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Dagult Neverember]]
+- [[Little Joan]]
+- [[Manshoon Clone (Man-Two)]]
+- [[Shaleheart]]
+- [[Sixteen String Jack]]
+- [[The Hungry Elder]]
 
 ## Episode Appearances
 

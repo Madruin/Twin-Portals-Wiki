@@ -24,9 +24,15 @@ An ancient tower of knowledge in prehistoric Waterdeep. Taken over by Hans Von G
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

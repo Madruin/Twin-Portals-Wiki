@@ -24,9 +24,40 @@ A forest near the Sword Mountains where mothweed grows. Home to the Circle of Du
 
 
 
+
+- **S02E06:** Multiple disappearances in Amphail linked to mysterious mists from the Cryptwood causing blackouts
+- **S02E06:** SWOJ enters the Cryptwood tied together, finds shredded dead birds and crushed tree paths
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Ancient Black Dragon (Elf Form)]]
+- [[Ander]]
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Anya Ermbrusk]]
+- [[Arcturia]]
+- [[Argentis]]
+- [[Chip]]
+- [[Craw]]
+- [[Dagult Neverember]]
+- [[Dale]]
+- [[Dorvina]]
+- [[Farron]]
+- [[Fela Lefaliir]]
+- [[Fetch]]
+- [[Froon]]
+- [[Gorg Fallowfoot]]
+- [[Gorp]]
+- [[Grayj]]
+- [[Grinda Garloth]]
+- [[Gundark Gundarkson]]
+- [[Halaster]]
+- [[Hanna]]
+- [[Jack]]
 
 ## Episode Appearances
 

@@ -24,9 +24,20 @@ A vast underground cavern with bioluminescent mushrooms surrounding a subterrane
 
 
 
+
+- **S02E23:** Discovery of bioluminescent mushroom cavern with subterranean lake
+
 ## Connected Characters
 
 
+
+
+- [[Friar Truck]]
+- [[Grabmaar]]
+- [[Little Joan]]
+- [[Pill Garlic]]
+- [[Sixteen String Jack]]
+- [[Slim Curly]]
 
 ## Episode Appearances
 

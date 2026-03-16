@@ -24,9 +24,15 @@ A ruined temple atop Devil's Rock featuring aboleth shrine motifs -- deep-sea cr
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

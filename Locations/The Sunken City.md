@@ -24,9 +24,26 @@ An ancient buried city at the deepest level beneath Castle Nehri Tar, featuring 
 
 
 
+
+- **S02E28:** SWOJ reaches the Sunken City and witnesses Velia draining Jack the silver dragon's soul into a phylactery
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Bronk]]
+- [[Jack]]
+- [[Jergal]]
+- [[Jill (Ygglimar)]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Mortimer Quill]]
+- [[Orcus]]
+- [[The Raven Queen]]
+- [[Velia Shadowmantle]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

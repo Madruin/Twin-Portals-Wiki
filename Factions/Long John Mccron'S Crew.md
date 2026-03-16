@@ -23,9 +23,18 @@ A rival pirate crew that also lands on Devil's Rock seeking treasure. Attacked b
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

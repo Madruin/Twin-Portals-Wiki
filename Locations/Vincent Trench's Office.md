@@ -24,9 +24,39 @@ Private investigator's office in Trollskull Alley. Janks found the Necklace of F
 
 
 
+
+- **S02E38:** SWOJ visits Froon's thriving tavern, finds Vincent Trench's office locked and abandoned
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Dalekar]]
+- [[Davil Starsong]]
+- [[Durnan]]
+- [[Fai Chen]]
+- [[Fel'Rekt Lafeen]]
+- [[Fioleth The Ragamoffin]]
+- [[Grim Wavesilver]]
+- [[Hanna]]
+- [[Hrabbaz]]
+- [[Jarlaxle]]
+- [[Jenks]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Lif]]
+- [[Lyrian]]
+- [[Melifarn]]
+- [[Mordecai Gralhund]]
+- [[Nat]]
+- [[Nihiloor]]
+- [[Phyllis]]
+- [[Pinker]]
+- [[Pog Waggletop]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
 
 ## Episode Appearances
 

@@ -24,9 +24,23 @@ A cobalt blacksmith shop in the Night Market run by a team of cobalts. Works wit
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Hanna]]
+- [[Leah]]
+- [[Rose Quartz Incarnate]]
+- [[Sax Bandon]]
+- [[Sid Squid]]
+- [[Tagga]]
+- [[Trill]]
+- [[Vincent Trench]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

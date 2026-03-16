@@ -23,9 +23,18 @@ Noble family connected to devil worship. Their agent Willaford Crowell (a doppel
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

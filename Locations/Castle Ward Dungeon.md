@@ -24,9 +24,31 @@ High-security anti-magic prison where SWOJ is held for about a week after being 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Asmodeus]]
+- [[Aurinax]]
+- [[Bracks]]
+- [[Bricks]]
+- [[Davil Starsong]]
+- [[Elzerina Cassalanter]]
+- [[Esvelle Wavesilver]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Vincent Trench]]
+- [[Vittorio Cassalanter]]
+- [[Yagra]]
 
 ## Episode Appearances
 

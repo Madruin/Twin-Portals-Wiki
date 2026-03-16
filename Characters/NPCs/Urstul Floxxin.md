@@ -16,6 +16,7 @@ Young servant at the Gralhund Villa. Steps forward to explain the situation to S
 
 **First appearance:** [[S01E12 - Episode Twelve]]
 **Total appearances:** 33 episodes
+**Faction affiliations:** [[Zentarim (Zhentarim)]], [[Zhentarim]]
 
 ## Description
 

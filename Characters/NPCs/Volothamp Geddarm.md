@@ -30,7 +30,8 @@ Famous chronicler found captive in a pod inside the Beast of Erua. Amazed to lea
 
 ## Role in the Story
 
-*Details to be added.*
+
+- **S01E01:** Volothamp Geddarm hires the party to find his missing friend Floon Blagmaar
 
 ## Episode Appearances
 

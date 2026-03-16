@@ -25,6 +25,10 @@ A creature from the bag dimension who serves as quartermaster. Had been working 
 
 
 
+
+- **S02E31:** Allies rally to the crew: Squidly, Thelrect Lafina, Shaleheart, Fylith, Doom Raiders, Erstel Floxon
+- **S02E33:** Fylith salvages the Clockwork Kraken claw arm and jerry-rigs it onto the Ethereal Galleon
+
 ## Episode Appearances
 
 ```dataview

@@ -23,9 +23,18 @@ The occupying army controlling the Radiant Citadel under Manshoon's command. Inc
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

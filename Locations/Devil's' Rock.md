@@ -24,9 +24,30 @@ A wedge-shaped island in the Nameless Seas with two rocky horn-like spires flank
 
 
 
+
+- **S02E09:** Party sails aboard the Hell Razor toward Devil's Rock, encountering spectral green aboleth humming the same melody
+- **S02E09:** SWOJ arrives at Devil's Rock -- a wedge-shaped island with a burned-out temple and the supposed whirlpool within
+- **S02E10:** SWOJ rows to Devil's Rock from Driftwood with Zardo Zord and Mr. E
+- **S02E10:** SWOJ reaches the ruined abbey with aboleth shrine motifs atop Devil's Rock
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Father Fratelli]]
+- [[Jarlaxle]]
+- [[Long John McRon]]
+- [[Melifarn]]
+- [[One-Eyed Wilhelmina]]
+- [[Rose Quartz Incarnate]]
+- [[Sarith Ab'Jean]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Trill]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

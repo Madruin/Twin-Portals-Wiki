@@ -24,9 +24,15 @@ A magical transport circle on a platform that Crooks attempts to reach during th
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

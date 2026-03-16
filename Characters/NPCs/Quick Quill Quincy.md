@@ -16,6 +16,7 @@ A Jolly Gents member mentioned during conversations in the Bailey. Known for rec
 
 **First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

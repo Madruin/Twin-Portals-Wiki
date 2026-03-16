@@ -23,9 +23,18 @@ Devil-worshipping cult connected to the Cassalanter family. Cultists meet in the
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S01E10:** Captured cultist reveals Cult of Asmodeus meetings in Gralhund crypts
 
 ## Episode Appearances
 

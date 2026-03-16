@@ -24,9 +24,25 @@ The basement below the Short Rest containing a scrying pool where they previousl
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Jenks]]
+- [[Lif]]
+- [[Mookie]]
+- [[Nat]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

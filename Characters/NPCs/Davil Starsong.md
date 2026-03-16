@@ -16,6 +16,7 @@ Zhentarim agent and member of the Doom Raiders faction. Encounters SWOJ at the Y
 
 **First appearance:** [[S01E11 - Episode Eleven]]
 **Total appearances:** 2 episodes
+**Faction affiliations:** [[Doom Raiders]], [[Zhentarim]]
 
 ## Description
 

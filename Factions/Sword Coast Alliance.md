@@ -23,9 +23,18 @@ A coalition of Waterdeep, Baldur's Gate, Neverwinter, Luskan, and allied states.
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S02E38:** The Masked Lords and Sword Coast Alliance leadership grant SWOJ an official guild charter — the Guild of the Silver Waves of Justice — with recruitment, petitioning, safe passage, judicial immunity, and franchising rights
 
 ## Episode Appearances
 

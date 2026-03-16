@@ -24,9 +24,15 @@ A colossal creature in the Shadowfell whose skull houses the Dynamo of Possibili
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

@@ -24,9 +24,24 @@ An inn in the Dark Market staffed entirely by owlbears who walk on their back le
 
 
 
+
+- **S02E21:** Party stays overnight at the Nest, an owlbear-run inn (Chauncey the maitre d')
+
 ## Connected Characters
 
 
+
+
+- [[Blish]]
+- [[Chauncey (Beaky)]]
+- [[Curio]]
+- [[Idae]]
+- [[Lucinda]]
+- [[Mari]]
+- [[Mikael]]
+- [[Ryloren]]
+- [[Santorini]]
+- [[Spider Merchant]]
 
 ## Episode Appearances
 

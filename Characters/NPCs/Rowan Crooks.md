@@ -16,6 +16,7 @@ A mysterious figure encountered in the afterlife/Malar's realm at the base of th
 
 **First appearance:** [[S01E21 - Episode Twenty One]]
 **Total appearances:** 23 episodes
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

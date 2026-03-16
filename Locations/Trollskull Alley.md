@@ -24,9 +24,22 @@ The alley/street where Trollskull Manor is located in the North Ward.
 
 
 
+
+- **S01E07:** Trollskull Alley Irregulars (orphans) hired for 10gp per tenday
+- **S01E08:** Meet Trollskull Alley neighbors: Fala Lefaliir (herbalist) and Vincent Trench (PI)
+- **S01E11:** Grand opening of The Short Rest tavern in Trollskull Alley
+- **S01E11:** Fireball explosion devastates Trollskull Alley - 10+ killed including Voniel
+- **S01E12:** Trollskull Alley Irregulars report seeing the burned Zhentarim agent enter the Gralhund Villa with Hrabbaz; Squidly is wounded
+- **S01E13:** Gazers chase the nimblewright through Trollskull Alley; Terry arrives with the SWOJ-mobile
+- **S01E27:** They escape through Vincent Trench's portal to Trollskull Alley
+- **S01E29:** Grand celebration in Trollskull Alley with Doom Raiders performing, food carts, and Xanathar pinata
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

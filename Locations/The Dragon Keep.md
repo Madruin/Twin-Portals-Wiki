@@ -24,9 +24,18 @@ A chamber within the obsidian fortress that houses the dragon hoard, the cauldro
 
 
 
+
+- **S02E28:** Xae scouts the dragon keep in bat form but triggers a sonic screech trap and acid mist
+
 ## Connected Characters
 
 
+
+
+- [[Bronk]]
+- [[Jack]]
+- [[Jill (Ygglimar)]]
+- [[Velia Shadowmantle]]
 
 ## Episode Appearances
 

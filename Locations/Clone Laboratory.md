@@ -24,9 +24,18 @@ A section of Friar Truck's laboratory containing clone tanks with Rowan Crooks c
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Friar Truck]]
+- [[Little Joan]]
+- [[Rowan Crooks]]
 
 ## Episode Appearances
 

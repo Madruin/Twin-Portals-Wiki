@@ -24,9 +24,16 @@ A larger bag in the bag dimension containing a platform above a pool of acid, co
 
 
 
+
+- **S02E13:** SWOJ enters the acid bag and fights animated construct guardians on rope webs above acid
+
 ## Connected Characters
 
 
+
+
+- [[Oobledoop]]
+- [[Teriador]]
 
 ## Episode Appearances
 

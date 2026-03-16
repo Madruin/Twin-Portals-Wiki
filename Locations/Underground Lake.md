@@ -24,9 +24,26 @@ A subterranean lake beneath Neverwinter where Melifarn discovered a green portal
 
 
 
+
+- **S02E20:** Mellafarne reveals she found a green portal stone (Jolly Gents) at the underground lake
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Blish]]
+- [[Dagult Neverember]]
+- [[Idae]]
+- [[Jarlaxle]]
+- [[Mari]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Shaleheart]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

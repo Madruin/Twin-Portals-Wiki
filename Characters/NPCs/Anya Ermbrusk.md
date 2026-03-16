@@ -25,6 +25,11 @@ Missing noblewoman known as the Staglass. Was in Amphail preparing for the Right
 
 
 
+
+- **S02E05:** The Doom Network assigns SWOJ to find missing noblewoman Anya Irmbrusk (the Staglass) in Amphail
+- **S02E06:** Learn Anya Irmbrusk was staying at the Stag and Flag for a month, seeking to renounce noble ties through the Right of the Staglass
+- **S02E07:** Montage: SWOJ returns to rescue all captives from the cavern (Fala, Anya, druids)
+
 ## Episode Appearances
 
 ```dataview

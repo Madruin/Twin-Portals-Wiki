@@ -16,6 +16,7 @@ A friendly Zhentarim guard stationed inside the Spiral Cavern who stops SWOJ as 
 
 **First appearance:** [[S02E19 - Episode Forty Nine (S02E19)]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Zhentarim]]
 
 ## Description
 

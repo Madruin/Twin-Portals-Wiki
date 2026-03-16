@@ -23,9 +23,18 @@ Tiny mouse-like creatures that live in underground tunnels in the borderlands be
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

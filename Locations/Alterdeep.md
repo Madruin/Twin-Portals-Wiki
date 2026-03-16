@@ -24,9 +24,15 @@ An illusory or psychic version of Waterdeep that the party was transported to th
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

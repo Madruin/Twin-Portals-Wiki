@@ -24,9 +24,31 @@ Hidden temple beneath the Cassalanter Villa. Contains an altar bowl of fire fill
 
 
 
+
+- **S01E27:** Mr. E kicks unconscious Vittorio through his own portal into the temple of Asmodeus
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Asmodeus]]
+- [[Aurinax]]
+- [[Bracks]]
+- [[Bricks]]
+- [[Davil Starsong]]
+- [[Elzerina Cassalanter]]
+- [[Esvelle Wavesilver]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Vincent Trench]]
+- [[Vittorio Cassalanter]]
+- [[Yagra]]
 
 ## Episode Appearances
 

@@ -24,9 +24,23 @@ A silver orb that serves as the Great Beast's power source. Contains a spherical
 
 
 
+
+- **S02E03:** Radissera reveals his stolen Dynamo of Possibility is what animates the beast and creates podlings
+- **S02E04:** SWOJ discovers the Dynamo of Possibility malfunctioning inside the Great Beast's skull
+- **S02E11:** They board a ship crewed by animated instruments from the Dynamo of Possibility
+
 ## Connected Characters
 
 
+
+
+- [[Fetch]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Teriador The Rose Knight]]
+- [[Thail]]
+- [[The Body Taker]]
+- [[The Hunter]]
 
 ## Episode Appearances
 

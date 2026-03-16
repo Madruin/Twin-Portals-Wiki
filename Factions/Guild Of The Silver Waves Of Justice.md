@@ -23,9 +23,18 @@ Newly chartered official guild recognized by the Sword Coast Alliance (Waterdeep
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

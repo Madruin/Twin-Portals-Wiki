@@ -24,9 +24,39 @@ Lighthouse at Mist Shore where Grinda Garloss lives and stores the Apparatus of 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Anton]]
+- [[Blossom Zuber]]
+- [[Bonnie Hilltopple]]
+- [[Broxley Fairkettle]]
+- [[Dagult Neverember]]
+- [[Dalekar]]
+- [[Dasher Zuber]]
+- [[Fel'Rekt]]
+- [[Fela Lefaliir]]
+- [[Gildis]]
+- [[Grinda Garloth]]
+- [[Hammond Kraddoc]]
+- [[Justin Rask]]
+- [[Kittle]]
+- [[Lif Lindgren]]
+- [[Mary Stoutfellow]]
+- [[Pog Waggletop]]
+- [[Renaer Neverember]]
+- [[Terry]]
+- [[Tula]]
+- [[Vincent Trench]]
+- [[Vixby]]
+- [[Ylka Doppelganger]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

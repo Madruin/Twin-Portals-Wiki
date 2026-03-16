@@ -23,9 +23,20 @@ A wererats/werecreatures gang living inside the God Catcher. Members include Das
 
 
 
+
+
+
+
+- [[Kittle]]
+- [[Vixby]]
+
 ## Activities
 
 
+
+
+- **S01E08:** Vaniol reveals Emmek Frewn hired Shard Shunners to infest Trollskull with rats for 50gp/night
+- **S01E08:** Negotiate truce: Shard Shunners fake rat activity, SWOJ keeps Frewn paying
 
 ## Episode Appearances
 

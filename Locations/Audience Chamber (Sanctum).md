@@ -24,9 +24,21 @@ A chamber in the sanctum with masks mounted on the walls. Each mask zaps whoever
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Mookie]]
+- [[Nim]]
+- [[Remalia Haventree]]
+- [[Squidley]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Zylka]]
 
 ## Episode Appearances
 

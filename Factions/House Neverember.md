@@ -23,9 +23,18 @@ Noble house. Renaer is an ally of SWOJ; his father Dagult is the former Open Lor
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

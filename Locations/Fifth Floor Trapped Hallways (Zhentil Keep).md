@@ -24,9 +24,15 @@ Corridors on the fifth floor of Zentil Keep filled with shadow threads -- magica
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

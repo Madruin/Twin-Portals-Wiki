@@ -24,9 +24,15 @@ Work area inside the ribcage with desks, shelves, compounds, and notes. Located 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

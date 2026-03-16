@@ -24,9 +24,26 @@ A massive underground shrine beneath Cassalanter Villa. Features a church-like l
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Beaker]]
+- [[Elzerina Cassalanter]]
+- [[Mara Melora]]
+- [[Nana]]
+- [[Phelerek]]
+- [[Pog Waggletop]]
+- [[Sally]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

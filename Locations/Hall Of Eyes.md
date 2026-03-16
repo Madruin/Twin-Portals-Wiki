@@ -24,9 +24,22 @@ Entry area of the Xanathar's lair with a spiral staircase. Guarded by eye-stalk 
 
 
 
+
+- **S01E16:** Party navigates the Hall of Eyes, evading beholder eye-stalk security cameras
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[Narl Xibrindas]]
+- [[Ott Steeltoes]]
+- [[Remallia Haventree]]
+- [[Sally]]
+- [[Sylgar]]
+- [[The Xanathar]]
+- [[Thorvin Twinbeard]]
 
 ## Episode Appearances
 

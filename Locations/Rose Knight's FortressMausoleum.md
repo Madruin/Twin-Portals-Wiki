@@ -24,9 +24,21 @@ Stone fortress lashed to the back of the Beast of Erua with three massive vine-l
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Teriador]]
+- [[Thail]]
+- [[Volo]]
 
 ## Episode Appearances
 

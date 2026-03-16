@@ -23,9 +23,23 @@ Rival criminal organization to the Zhentarim. Mentioned as involved in the gang 
 
 
 
+
+
+
+
+- [[Nihiloor]]
+
 ## Activities
 
 
+
+
+- **S01E02:** Renaer explains the kidnapping: Zhentarim took him and Floon from Fillet Lane, then Xanathar Guild attacked and took Floon thinking he was Renaer
+- **S01E02:** Party captures Pinker, the kenku in the pink hat, who reveals the Xanathar Guild connection
+- **S01E04:** Discover Xanathar Guild symbols in the sewers beneath the tavern
+- **S01E05:** Rush to Taga's apartment -- find it ransacked with crow feathers (Xanathar Guild)
+- **S01E11:** Nihiloor the mind flayer identified as creator of intellect devourers for the Xanathar Guild
+- **S01E12:** SWOJ learns the Stone of Golorr's chain of possession: Xanathar Guild -> Dalcar -> Zhentarim -> Yala Gralhund
 
 ## Episode Appearances
 

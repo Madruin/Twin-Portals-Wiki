@@ -24,9 +24,15 @@ The bronze dragon's underwater lair in the harbor, containing a hoard with a Nev
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

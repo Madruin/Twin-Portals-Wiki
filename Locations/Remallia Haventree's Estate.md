@@ -24,9 +24,22 @@ Elven noble's estate where Xae recovers. Xae is teleported from here to Trollsku
 
 
 
+
+- **S01E16:** Xae awakens at Remallia Haventree's estate; the crystal unicorn reveals its name is Larian
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[Narl Xibrindas]]
+- [[Ott Steeltoes]]
+- [[Remallia Haventree]]
+- [[Sally]]
+- [[Sylgar]]
+- [[The Xanathar]]
+- [[Thorvin Twinbeard]]
 
 ## Episode Appearances
 

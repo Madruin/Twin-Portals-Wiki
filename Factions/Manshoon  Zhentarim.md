@@ -23,9 +23,18 @@ The overarching villainous faction. Rowan Crooks is revealed as the final Mansho
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

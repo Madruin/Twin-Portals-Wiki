@@ -16,6 +16,7 @@ Lord of the Gralhund household. Plump, richly dressed nobleman. Cornered in a gu
 
 **First appearance:** [[S01E12 - Episode Twelve]]
 **Total appearances:** 2 episodes
+**Faction affiliations:** [[Zhentarim]]
 
 ## Description
 

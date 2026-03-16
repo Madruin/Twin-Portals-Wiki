@@ -24,9 +24,22 @@ A volcano near Neverwinter that erupted approximately 30 years ago, destroying h
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Dagult Neverember]]
+- [[Fel'Rekt Lafeen]]
+- [[Jarlaxle Baenre]]
+- [[Renaer Neverember]]
+- [[Slippery Shim]]
+- [[Squidly]]
+- [[Teriador]]
+- [[The Milliner]]
 
 ## Episode Appearances
 

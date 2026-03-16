@@ -24,9 +24,24 @@ Cliff-side docks about 60 feet below Castle Never where the Ethereal Galleon is 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Crowell]]
+- [[Dagult Neverember]]
+- [[Fel'Rekt Lafeen]]
+- [[Fioleth The Ragamoffin]]
+- [[Quorlith The Starweaver]]
+- [[Renaer Neverember]]
+- [[Shaleheart]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

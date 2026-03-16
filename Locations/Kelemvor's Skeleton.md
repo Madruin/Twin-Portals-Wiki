@@ -24,9 +24,30 @@ The enormous physical remains of an avatar of Kelemvor at the base of the Wall o
 
 
 
+
+- **S02E35:** Arcturia leads the party to Kelemvor's skeleton and begins a ritual to summon souls from the Wall
+- **S02E36:** Necrotic energy animates Kelemvor's skeleton into a bone colossus
+- **S02E36:** Arcturia performs her ritual at the foot of Kelemvor's skeleton on the Wall of the Faithless
+
 ## Connected Characters
 
 
+
+
+- [[Arcturia]]
+- [[Halaster Blackcloak]]
+- [[Jenks]]
+- [[Kelemvor]]
+- [[Manshoon]]
+- [[Nat]]
+- [[Orc Woman Warrior Ghost]]
+- [[Raven Queen]]
+- [[Rowan Crooks]]
+- [[Sally]]
+- [[Sholeh]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

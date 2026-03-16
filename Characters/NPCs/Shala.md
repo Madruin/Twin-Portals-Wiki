@@ -16,6 +16,7 @@ Leader of the Circle of Dusk druids. Lived in the Cryptwood for a long time and 
 
 **First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 3 episodes
+**Faction affiliations:** [[Circle Of Dusk]]
 
 ## Description
 

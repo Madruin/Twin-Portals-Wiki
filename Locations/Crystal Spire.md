@@ -24,9 +24,24 @@ The structure connecting the Wall of the Faithless to the Radiant Citadel above.
 
 
 
+
+- **S02E36:** Army of the dead marches up the crystal spire to the Radiant Citadel
+
 ## Connected Characters
 
 
+
+
+- [[Arcturia]]
+- [[Kelemvor]]
+- [[Manshoon]]
+- [[Orc Woman Warrior Ghost]]
+- [[Raven Queen]]
+- [[Rowan Crooks]]
+- [[Sholeh]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

@@ -24,9 +24,19 @@ A pirate ship captained by One-Eyed Wilhelmina. Appears offshore of Devil's Rock
 
 
 
+
+- **S02E10:** The Crimson Cracken (One-Eyed Wilhelmina's ship) fires cannons at the island
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Father Fratelli]]
+- [[Long John McRon]]
+- [[One-Eyed Wilhelmina]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

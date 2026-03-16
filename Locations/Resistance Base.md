@@ -24,9 +24,20 @@ A natural earthen cavern beneath Castle Never's dungeons, where a small creek fl
 
 
 
+
+- **S02E15:** SWOJ reunites with Renaer Neverember in the resistance base beneath Castle Never
+
 ## Connected Characters
 
 
+
+
+- [[16 String Jack]]
+- [[Fel'Rekt Lafeen]]
+- [[Fumbles  Fumblewick]]
+- [[Laila]]
+- [[Renaer Neverember]]
+- [[Shimmer Brackenwell]]
 
 ## Episode Appearances
 

@@ -24,9 +24,27 @@ Basement of the manor containing an ale cellar and wine cellar. Contains Lif's h
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bacto And Juba]]
+- [[Captain Hyustus Stagget]]
+- [[Esther]]
+- [[Jenks]]
+- [[Lif Lindgren]]
+- [[Mordecai Gralhund]]
+- [[Nat]]
+- [[Pinker]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Terry]]
+- [[Ulkoria Stonemarrow]]
+- [[Volo]]
 
 ## Episode Appearances
 

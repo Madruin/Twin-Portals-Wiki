@@ -24,9 +24,39 @@ A purple-themed curiosity shop where Xae previously hid a locket. The shopkeeper
 
 
 
+
+- **S01E29:** Xae retrieves the locket with Halaster Blackcloak's portrait from the Old Xoblob Shop
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Aurinax]]
+- [[Bricks And Bracks]]
+- [[Davil Starsong]]
+- [[Elzerina Cassalanter]]
+- [[Fela Lefaliir]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Halaster Blackcloak]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
+- [[Laeral Silverhand]]
+- [[Little Joan]]
+- [[Manshoon]]
+- [[Masked Lords]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Rowan Crooks]]
+- [[Sally]]
+- [[Tagga]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Ulkoria Stonemarrow]]
+- [[Vittoro Cassalanter]]
+- [[Volo]]
 
 ## Episode Appearances
 

@@ -24,9 +24,27 @@ A shrine to the Raven Queen located beneath the Shard of Moonlight, accessed via
 
 
 
+
+- **S02E20:** SWOJ descends the star staircase into the Raven Queen shrine
+- **S02E20:** Ylka discovers the star staircase descending to a Raven Queen shrine beneath the tower
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Blish]]
+- [[Dagult Neverember]]
+- [[Idae]]
+- [[Jarlaxle]]
+- [[Mari]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Shaleheart]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

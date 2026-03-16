@@ -23,9 +23,19 @@ Druidic organization. The unicorn talisman's imagery is recognized by Xaerine as
 
 
 
+
+
+
+
+- [[Leah]]
+
 ## Activities
 
 
+
+
+- **S01E07:** Leah brings Emerald Enclave quest: scarecrows attacking Stout Fellow Farm
+- **S01E16:** Thaelin buys potions in Skullport; Xae learns Pass Without Trace from the Emerald Enclave
 
 ## Episode Appearances
 

@@ -24,9 +24,23 @@ A bureaucratic afterlife courtroom within the Shrouded Citadel, presided over by
 
 
 
+
+- **S02E29:** SWOJ completes the Trial of Jergal -- arguing for dragon souls to be released in an afterlife court
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Bronk]]
+- [[Jergal]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Mortimer Quill]]
+- [[Orcus]]
+- [[The Raven Queen]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

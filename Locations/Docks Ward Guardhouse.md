@@ -24,9 +24,34 @@ City watch station in the Docks Ward where SWOJ is taken after arrest. Captain S
 
 
 
+
+- **S01E13:** Captain Houston Staggit arrests SWOJ and takes them to Docks Ward guardhouse
+
 ## Connected Characters
 
 
+
+
+- [[Bartolo]]
+- [[Captain Hyustus Stagget]]
+- [[Flo]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Hrabbaz]]
+- [[Laeral Silverhand]]
+- [[Orond Gralhund]]
+- [[Remalia Haventree]]
+- [[Sally]]
+- [[Sylgar]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Thorvin Twinbeard]]
+- [[Willifort Crowell]]
+- [[Xibrinidas]]
+- [[Yalah Gralhund]]
+- [[Zardoz Zord]]
+- [[Zylka]]
 
 ## Episode Appearances
 

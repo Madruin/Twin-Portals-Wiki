@@ -23,9 +23,18 @@ Guild involved in tavern licensing. Broxley Fairkettle is a representative.
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

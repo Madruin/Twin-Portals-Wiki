@@ -24,9 +24,22 @@ Underground port city beneath Waterdeep. Thaelin visits to buy potions (1 potion
 
 
 
+
+- **S01E16:** Thaelin buys potions in Skullport; Xae learns Pass Without Trace from the Emerald Enclave
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[Narl Xibrindas]]
+- [[Ott Steeltoes]]
+- [[Remallia Haventree]]
+- [[Sally]]
+- [[Sylgar]]
+- [[The Xanathar]]
+- [[Thorvin Twinbeard]]
 
 ## Episode Appearances
 

@@ -24,9 +24,23 @@ A miles-wide glowing diamond at the center of the Radiant Citadel. Shifts colors
 
 
 
+
+- **S02E33:** Radiant Citadel comes into view -- auroral diamond glows dark red, two green conduit pylons visible, dracolich circles the city
+
 ## Connected Characters
 
 
+
+
+- [[Hanna]]
+- [[Leah]]
+- [[Rose Quartz Incarnate]]
+- [[Sax Bandon]]
+- [[Sid Squid]]
+- [[Tagga]]
+- [[Trill]]
+- [[Vincent Trench]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

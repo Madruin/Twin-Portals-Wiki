@@ -24,9 +24,27 @@ Tower on the northwest corner of the manor. The children find the hag's talisman
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bacto And Juba]]
+- [[Captain Hyustus Stagget]]
+- [[Esther]]
+- [[Jenks]]
+- [[Lif Lindgren]]
+- [[Mordecai Gralhund]]
+- [[Nat]]
+- [[Pinker]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Terry]]
+- [[Ulkoria Stonemarrow]]
+- [[Volo]]
 
 ## Episode Appearances
 

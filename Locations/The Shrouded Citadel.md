@@ -24,9 +24,23 @@ The deepest and most ancient layer beneath Castle Nehri Tar, reached after the p
 
 
 
+
+- **S02E29:** The plaza explodes and everyone falls hundreds of feet into the Shrouded Citadel
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Bronk]]
+- [[Jergal]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Mortimer Quill]]
+- [[Orcus]]
+- [[The Raven Queen]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

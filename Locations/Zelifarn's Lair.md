@@ -24,9 +24,15 @@ A dragon's empty lair accessed through one of the twin portals. Appears to be a 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

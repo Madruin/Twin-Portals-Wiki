@@ -23,9 +23,18 @@ A colony of wererats (rat people) living inside the God Catcher statue. Aggressi
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

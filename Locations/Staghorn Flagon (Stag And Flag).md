@@ -24,9 +24,30 @@ A busy three-story tavern in Amphail run by Gundarkson, who is also the town's m
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Craw]]
+- [[Farron]]
+- [[Froon]]
+- [[Gundark Gundarkson]]
+- [[Hanna]]
+- [[Jonas]]
+- [[Juan]]
+- [[Kai]]
+- [[Nina Blackthorn]]
+- [[Nuria]]
+- [[Phyllis]]
+- [[Shala]]
+- [[Ted]]
+- [[Ziraj The Hunter]]
 
 ## Episode Appearances
 

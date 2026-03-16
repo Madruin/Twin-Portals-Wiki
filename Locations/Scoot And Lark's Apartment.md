@@ -24,9 +24,23 @@ Shared apartment in the Dock Ward where the party stays.
 
 
 
+
+- **S01E04:** Party wakes in Scoot and Lark's apartment after shared dream sequence
+
 ## Connected Characters
 
 
+
+
+- [[Eunissa]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Mara]]
+- [[Renaer Neverember]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Volo]]
 
 ## Episode Appearances
 

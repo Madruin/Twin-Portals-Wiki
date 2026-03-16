@@ -24,9 +24,24 @@ The dark mirror plane where SWOJ arrives. Characterized by chill, stillness, and
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Blish]]
+- [[Chauncey (Beaky)]]
+- [[Curio]]
+- [[Idae]]
+- [[Lucinda]]
+- [[Mari]]
+- [[Mikael]]
+- [[Ryloren]]
+- [[Santorini]]
+- [[Spider Merchant]]
 
 ## Episode Appearances
 

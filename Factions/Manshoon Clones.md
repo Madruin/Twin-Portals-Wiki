@@ -23,9 +23,18 @@ Multiple clones of the wizard Manshoon operating across the multiverse. Rowan Cr
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S02E01:** Season 2 begins with SWOJ in the Feywild, hunting Manshoon clones with the Jolly Gents
 
 ## Episode Appearances
 

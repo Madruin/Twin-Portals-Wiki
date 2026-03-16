@@ -24,9 +24,23 @@ An afterlife realm or sanctuary for dragon souls. SWOJ wins the case during the 
 
 
 
+
+- **S02E29:** With Zellophane's testimony, they win the case for souls to go to the Preserve of the Ancients
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Bronk]]
+- [[Jergal]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Mortimer Quill]]
+- [[Orcus]]
+- [[The Raven Queen]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

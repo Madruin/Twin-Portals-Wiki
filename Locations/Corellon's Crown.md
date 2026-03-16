@@ -24,9 +24,31 @@ Apothecary shop run by Fala Lefaliir, located in Trollskull Alley next to the ma
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Anton]]
+- [[Blossom Zuber]]
+- [[Bonnie Hilltopple]]
+- [[Broxley Fairkettle]]
+- [[Dagult Neverember]]
+- [[Dalekar]]
+- [[Dasher Zuber]]
+- [[Fela Lefaliir]]
+- [[Hammond Kraddoc]]
+- [[Justin Rask]]
+- [[Kittle]]
+- [[Mary Stoutfellow]]
+- [[Pog Waggletop]]
+- [[Renaer Neverember]]
+- [[Tula]]
+- [[Vincent Trench]]
+- [[Vixby]]
 
 ## Episode Appearances
 

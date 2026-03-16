@@ -24,9 +24,39 @@ Home of Lark's parents. The shipping business was prospering. Lark reconnected w
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Aurinax]]
+- [[Bricks And Bracks]]
+- [[Davil Starsong]]
+- [[Elzerina Cassalanter]]
+- [[Fela Lefaliir]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Halaster Blackcloak]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
+- [[Laeral Silverhand]]
+- [[Little Joan]]
+- [[Manshoon]]
+- [[Masked Lords]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Rowan Crooks]]
+- [[Sally]]
+- [[Tagga]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Ulkoria Stonemarrow]]
+- [[Vittoro Cassalanter]]
+- [[Volo]]
 
 ## Episode Appearances
 

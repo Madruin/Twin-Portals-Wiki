@@ -24,9 +24,23 @@ Tavern on the border between the Feywild and the Shadowfell. Run by Dorvina. A g
 
 
 
+
+- **S02E01:** SWOJ arrives at The Way Inn on the Feywild-Shadowfell border
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Dorvina]]
+- [[Ly Angestunne]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Thail]]
+- [[Tyjit Skesh]]
+- [[Volo]]
 
 ## Episode Appearances
 

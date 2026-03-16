@@ -24,9 +24,24 @@ City mentioned by Volo as a place he had visited where he witnessed violence.
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Dagult Neverember]]
+- [[Durnan]]
+- [[Floon Blagmaar]]
+- [[Jalaster]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Remalia Haventree]]
+- [[Volothamp Geddarm]]
+- [[Yagra]]
 
 ## Episode Appearances
 

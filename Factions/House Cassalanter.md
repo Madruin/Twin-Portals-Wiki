@@ -23,9 +23,18 @@ Noble house that sends a letter demanding repayment of a loan from House Wavesil
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S01E04:** House Cassalanter sends letter demanding 500% interest repayment from House Wavesilver
 
 ## Episode Appearances
 

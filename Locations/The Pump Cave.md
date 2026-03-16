@@ -24,9 +24,16 @@ A hidden cave on the road near the Mere of Dead Men containing a magical pump op
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Little Joan]]
+- [[Semu]]
 
 ## Episode Appearances
 

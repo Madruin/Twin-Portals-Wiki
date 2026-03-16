@@ -24,9 +24,26 @@ A swampy area on the west coast of Waterdeep below the city walls, near the nort
 
 
 
+
+- **S01E24:** SWOJ washes out at the mud flats on Waterdeep's west coast
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Beaker]]
+- [[Elzerina Cassalanter]]
+- [[Mara Melora]]
+- [[Nana]]
+- [[Phelerek]]
+- [[Pog Waggletop]]
+- [[Sally]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

@@ -24,9 +24,24 @@ The base level of the Radiant Citadel where the final battle against Manshoon ta
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Arcturia]]
+- [[Kelemvor]]
+- [[Manshoon]]
+- [[Orc Woman Warrior Ghost]]
+- [[Raven Queen]]
+- [[Rowan Crooks]]
+- [[Sholeh]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

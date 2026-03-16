@@ -24,9 +24,26 @@ A vast, treacherous swamp south of Neverwinter along the Sword Coast. SWOJ's des
 
 
 
+
+- **S02E26:** SWOJ departs south along the High Road toward the Mere of Dead Men
+- **S02E27:** SWOJ follows the drainage tunnel into the Mere of Dead Men
+- **S02E27:** Semu guides SWOJ through the Mere of Dead Men toward Castle Naerytar
+
 ## Connected Characters
 
 
+
+
+- [[Bronk]]
+- [[Jack]]
+- [[Jill (Ygglimar)]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Lochlina]]
+- [[Renaer Neverember]]
+- [[Semu]]
+- [[The Raven Queen]]
+- [[Velia Shadowmantle]]
 
 ## Episode Appearances
 

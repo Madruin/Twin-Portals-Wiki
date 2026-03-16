@@ -24,9 +24,40 @@ Halfling tavern located at the base of the God Catcher statue. Has a secret back
 
 
 
+
+- **S01E08:** SWOJ visits Hole in the Wall halfling tavern at the God Catcher's base
+- **S01E08:** Receive 100gp and Dasher's farewell letter, plus Stout Fellow wine deal for Hole in the Wall
+
 ## Connected Characters
 
 
+
+
+- [[Agorna]]
+- [[Amalia Cassalanter]]
+- [[Anton]]
+- [[Aurinax]]
+- [[Blossom Zuber]]
+- [[Bonnie]]
+- [[Bonnie Hilltopple]]
+- [[Bricks And Bracks]]
+- [[Broxley Fairkettle]]
+- [[Dagult Neverember]]
+- [[Dalekar]]
+- [[Dasher Zuber]]
+- [[Davil Starsong]]
+- [[Durnan]]
+- [[Elzerina Cassalanter]]
+- [[Fai Chen]]
+- [[Fela Lefaliir]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Grim Wavesilver]]
+- [[Grinda Garloth]]
+- [[Halaster Blackcloak]]
+- [[Hammond Kraddoc]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
 
 ## Episode Appearances
 

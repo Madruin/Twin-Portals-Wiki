@@ -24,9 +24,24 @@ A sacred tomb/temple of the Raven Queen atop a mountain spire in the Shadowfell.
 
 
 
+
+- **S02E21:** SWOJ climbs to the Sepulchre of the Raven Queen
+
 ## Connected Characters
 
 
+
+
+- [[Blish]]
+- [[Chauncey (Beaky)]]
+- [[Curio]]
+- [[Idae]]
+- [[Lucinda]]
+- [[Mari]]
+- [[Mikael]]
+- [[Ryloren]]
+- [[Santorini]]
+- [[Spider Merchant]]
 
 ## Episode Appearances
 

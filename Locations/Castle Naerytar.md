@@ -24,9 +24,22 @@ An ancient ruined castle at the center of the Mere of Dead Men, now occupied by 
 
 
 
+
+- **S02E27:** Xae wildshapes into a bat and scouts Castle Naerytar from the air
+- **S02E27:** Semu the lizardfolk cleric explains the cult's operations at Castle Naerytar
+- **S02E28:** SWOJ uses twenty baby otyughs as a distraction to infiltrate Castle Nehri Tar
+
 ## Connected Characters
 
 
+
+
+- [[Bronk]]
+- [[Jack]]
+- [[Jill (Ygglimar)]]
+- [[Little Joan]]
+- [[Semu]]
+- [[Velia Shadowmantle]]
 
 ## Episode Appearances
 

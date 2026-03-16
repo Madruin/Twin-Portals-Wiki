@@ -24,9 +24,39 @@ SWOJ's home base and tavern in Trollskull Alley. Being renovated for opening nig
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Agorna]]
+- [[Amalia Cassalanter]]
+- [[Aurinax]]
+- [[Bonnie]]
+- [[Bricks And Bracks]]
+- [[Davil Starsong]]
+- [[Elzerina Cassalanter]]
+- [[Fela Lefaliir]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Grinda Garloth]]
+- [[Halaster Blackcloak]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
+- [[Laeral Silverhand]]
+- [[Little Joan]]
+- [[Manshoon]]
+- [[Masked Lords]]
+- [[Max]]
+- [[Osvaldo Cassalanter]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Rowan Crooks]]
+- [[Sally]]
+- [[Tagga]]
 
 ## Episode Appearances
 

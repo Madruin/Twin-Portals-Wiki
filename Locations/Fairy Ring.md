@@ -24,9 +24,23 @@ A ring of dancing mushroom creatures in the Feywild. Xae entered and received en
 
 
 
+
+- **S02E01:** Xae enters a fairy ring of dancing mushrooms and receives enhanced vision
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Dorvina]]
+- [[Ly Angestunne]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Thail]]
+- [[Tyjit Skesh]]
+- [[Volo]]
 
 ## Episode Appearances
 

@@ -23,9 +23,18 @@ The adventuring party consisting of Scoot, Ylka, Lark, and Xae/Zay.
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

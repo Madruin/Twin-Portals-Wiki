@@ -24,9 +24,20 @@ An underground workshop staffed by ghost archivists including Grabmar of House T
 
 
 
+
+- **S02E23:** Discovery of print shop with ghost archivists forced to produce Crooks propaganda
+
 ## Connected Characters
 
 
+
+
+- [[Friar Truck]]
+- [[Grabmaar]]
+- [[Little Joan]]
+- [[Pill Garlic]]
+- [[Sixteen String Jack]]
+- [[Slim Curly]]
 
 ## Episode Appearances
 

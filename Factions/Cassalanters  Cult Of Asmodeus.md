@@ -23,9 +23,18 @@ The Cassalanter noble family secretly operates a cult of Asmodeus beneath their 
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

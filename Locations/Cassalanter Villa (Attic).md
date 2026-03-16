@@ -24,9 +24,27 @@ Fourth-floor attic space with 10-foot ceiling. Contains scattered furniture and 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Elzerina Cassalanter]]
+- [[Gralhund]]
+- [[Grim Wavesilver]]
+- [[J.B. Nevercott]]
+- [[Max]]
+- [[Osvaldo Cassalanter]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Willifort Crowell]]
+- [[Zardoz Zord]]
+- [[Zylka]]
 
 ## Episode Appearances
 

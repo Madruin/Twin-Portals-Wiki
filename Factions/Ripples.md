@@ -23,9 +23,20 @@ A mercenary group that SWOJ has hired. They serve as soldiers and fighters aboar
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S02E29:** They encounter Little Joan and the Ripples as spirits before returning to their bodies
+- **S02E29:** The Ripples set off explosions above, opening a chasm to the surface
+- **S02E30:** SWOJ gives the spelljammer helm to Little Joan and sends the Ripples to Neverwinter
 
 ## Episode Appearances
 

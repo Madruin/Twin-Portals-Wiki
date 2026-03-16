@@ -16,6 +16,7 @@ Noble patriarch of House Cassalanter. Gambles with Scoot at Tymora's Fancy, losi
 
 **First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 4 episodes
+**Faction affiliations:** [[City Watch]]
 
 ## Description
 

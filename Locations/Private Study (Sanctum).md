@@ -24,9 +24,21 @@ The Necromancer's private study containing a vault with a ledger (bookmarked wit
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Mookie]]
+- [[Nim]]
+- [[Remalia Haventree]]
+- [[Squidley]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Zylka]]
 
 ## Episode Appearances
 

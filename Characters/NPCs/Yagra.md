@@ -16,6 +16,7 @@ Half-orc woman, business associate of Lark. Got into a bar fight with tattooed t
 
 **First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 4 episodes
+**Faction affiliations:** [[Doom Raiders]]
 
 ## Description
 

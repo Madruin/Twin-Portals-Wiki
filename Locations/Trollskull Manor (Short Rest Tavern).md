@@ -24,9 +24,39 @@ SWOJ's tavern headquarters in the North Ward of Waterdeep. The party reunites he
 
 
 
+
+- **S02E05:** Nat and Jenks have grown into teenagers helping manage the Short Rest
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Anya Ermbrusk]]
+- [[Beaker]]
+- [[Craw]]
+- [[Dorvina]]
+- [[Elzerina Cassalanter]]
+- [[Fela Lefaliir]]
+- [[Fetch]]
+- [[Flutterfoot Zipswiggle]]
+- [[Froon]]
+- [[Gorg Fallowfoot]]
+- [[Grinda Garloth]]
+- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Jenks]]
+- [[Lif]]
+- [[Mara Melora]]
+- [[Mookie]]
+- [[Nana]]
+- [[Nat]]
+- [[Phelerek]]
+- [[Pinker]]
+- [[Pog Waggletop]]
+- [[Radecere]]
 
 ## Episode Appearances
 

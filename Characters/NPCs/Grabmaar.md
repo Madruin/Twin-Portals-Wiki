@@ -25,6 +25,9 @@ A ghost archivist working in the print shop beneath Zentil Keep. From House This
 
 
 
+
+- **S02E23:** Ghost archivist Grabmar gifts Lark a silver quill
+
 ## Episode Appearances
 
 ```dataview

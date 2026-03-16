@@ -23,9 +23,18 @@ The anonymous governing council of Waterdeep. Accepted the returned gold and gra
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

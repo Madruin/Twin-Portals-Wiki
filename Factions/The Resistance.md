@@ -23,9 +23,21 @@ An underground movement seeking to undermine Lord Neverember and the Masks' infl
 
 
 
+
+
+
+
+- [[Laila]]
+- [[Renaer Neverember]]
+
 ## Activities
 
 
+
+
+- **S02E14:** Jarlaxle provides political exposition: Neverember rules from Hall of Justice, war with Waterdeep continues, the Masks control city affairs, Renaer leads the resistance
+- **S02E15:** Laila, a halfling knight of the resistance, discovers SWOJ and leads them to the underground base
+- **S02E15:** SWOJ reunites with Renaer Neverember in the resistance base beneath Castle Never
 
 ## Episode Appearances
 

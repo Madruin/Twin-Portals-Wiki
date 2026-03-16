@@ -24,9 +24,42 @@ Noble estate at the end of Del Zorn Street, very close to Trollskull Alley. Two-
 
 
 
+
+- **S01E12:** SWOJ and Mr. E infiltrate the Gralhund Villa through the servants' entrance
+- **S01E12:** Trollskull Alley Irregulars report seeing the burned Zhentarim agent enter the Gralhund Villa with Hrabbaz; Squidly is wounded
+- **S01E13:** City watch investigates the Gralhund Villa bloodbath while SWOJ is questioned
+- **S01E22:** SWOJ infiltrates Gralhund Villa to use the teleportation circle
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Aurinax]]
+- [[Bricks And Bracks]]
+- [[Captain Hyustus Stagget]]
+- [[Dagult Neverember]]
+- [[Dalekar]]
+- [[Davil Starsong]]
+- [[Elzerina Cassalanter]]
+- [[Fel'Rekt Lafeen]]
+- [[Fela Lefaliir]]
+- [[Flo]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Halaster Blackcloak]]
+- [[Hrabbaz]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
+- [[Jenks]]
+- [[Laeral Silverhand]]
+- [[Lif]]
+- [[Little Joan]]
+- [[Manshoon]]
+- [[Masked Lords]]
+- [[Mookie]]
+- [[Nat]]
 
 ## Episode Appearances
 

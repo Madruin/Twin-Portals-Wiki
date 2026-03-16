@@ -24,9 +24,24 @@ SWOJ's tavern headquarters. Scoot kept Lark's urn on the mantle. Has a deep cell
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ant Queen]]
+- [[Argentia]]
+- [[Kelemvor]]
+- [[Lyrian]]
+- [[Malar]]
+- [[Rowan Crooks]]
+- [[The Hag Of Trollskull Manor]]
+- [[The Necromancer]]
+- [[Third Dryad Sister]]
+- [[Tricayla]]
 
 ## Episode Appearances
 

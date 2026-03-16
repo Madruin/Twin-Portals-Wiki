@@ -24,9 +24,27 @@ Second-floor ballroom with 25-foot ceilings, huge windows, crimson curtains, and
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Elzerina Cassalanter]]
+- [[Gralhund]]
+- [[Grim Wavesilver]]
+- [[J.B. Nevercott]]
+- [[Max]]
+- [[Osvaldo Cassalanter]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Willifort Crowell]]
+- [[Zardoz Zord]]
+- [[Zylka]]
 
 ## Episode Appearances
 

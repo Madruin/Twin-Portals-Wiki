@@ -16,6 +16,7 @@ One of the top-ranking Jolly Gents. Mentioned but not directly encountered in th
 
 **First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)]]
 **Total appearances:** 2 episodes
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

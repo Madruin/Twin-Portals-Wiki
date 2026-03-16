@@ -24,9 +24,20 @@ A geothermally heated river flowing through Neverwinter, approximately 150 feet 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[16 String Jack]]
+- [[Fel'Rekt Lafeen]]
+- [[Fumbles  Fumblewick]]
+- [[Laila]]
+- [[Renaer Neverember]]
+- [[Shimmer Brackenwell]]
 
 ## Episode Appearances
 

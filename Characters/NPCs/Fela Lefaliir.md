@@ -16,6 +16,7 @@ Wood elf herbalist who runs Corellon's Crown, an apothecary shop on Trollskull A
 
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
+**Faction affiliations:** [[Guild Of Apothecaries]]
 
 ## Description
 
@@ -24,6 +25,12 @@ Wood elf herbalist who runs Corellon's Crown, an apothecary shop on Trollskull A
 ## Role in the Story
 
 
+
+
+- **S01E08:** Meet Trollskull Alley neighbors: Fala Lefaliir (herbalist) and Vincent Trench (PI)
+- **S02E05:** Multiple quest threads established: find Fala, get mothweed, locate the Staglass, investigate time displacement
+- **S02E05:** Fala Lefaliir is kidnapped from their shop by something large heading north
+- **S02E07:** Montage: SWOJ returns to rescue all captives from the cavern (Fala, Anya, druids)
 
 ## Episode Appearances
 

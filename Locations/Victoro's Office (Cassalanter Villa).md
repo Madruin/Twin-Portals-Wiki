@@ -24,9 +24,26 @@ Victoro Cassalanter's locked office with a mahogany desk, legal tomes, a bronze 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Beaker]]
+- [[Elzerina Cassalanter]]
+- [[Mara Melora]]
+- [[Nana]]
+- [[Phelerek]]
+- [[Pog Waggletop]]
+- [[Sally]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

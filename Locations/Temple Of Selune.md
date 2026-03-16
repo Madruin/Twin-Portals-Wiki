@@ -24,9 +24,26 @@ Temple in the Sea Ward where Agorna provides healing services. Lark receives Les
 
 
 
+
+- **S01E10:** Lark receives Lesser Restoration at the Temple of Selune
+
 ## Connected Characters
 
 
+
+
+- [[Agorna]]
+- [[Amalia Cassalanter]]
+- [[Bonnie]]
+- [[Fela Lefaliir]]
+- [[Grinda Garloth]]
+- [[Jarlaxle]]
+- [[Max]]
+- [[Osvaldo Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Willifort Crowell]]
+- [[Zylka]]
 
 ## Episode Appearances
 

@@ -23,9 +23,18 @@ Arcturia acts as an agent of Halaster Blackcloak, the mad wizard of Undermountai
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

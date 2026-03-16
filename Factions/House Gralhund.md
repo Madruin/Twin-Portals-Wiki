@@ -23,9 +23,18 @@ Noble house announced at the Cassalanter party. Connected to Ylka's identity/bac
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S01E09:** House Gralhund is announced arriving at the party
 
 ## Episode Appearances
 

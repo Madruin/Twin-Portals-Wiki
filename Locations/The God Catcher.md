@@ -24,9 +24,31 @@ A massive ancient statue in the Castle Ward shaped like a figure reaching skywar
 
 
 
+
+- **S01E06:** Emerge inside the God Catcher statue in the Castle Ward
+- **S01E06:** Ascend to the palm of the God Catcher's outstretched hand
+- **S01E08:** SWOJ visits Hole in the Wall halfling tavern at the God Catcher's base
+- **S01E15:** Laeral takes SWOJ to Haventree Estate (Harper safehouse) near the Godcatcher
+
 ## Connected Characters
 
 
+
+
+- [[Bartolo]]
+- [[Captain Hyustus Stagget]]
+- [[Flo]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Laeral Silverhand]]
+- [[Remalia Haventree]]
+- [[Sylgar]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Thorvin Twinbeard]]
+- [[Xibrinidas]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

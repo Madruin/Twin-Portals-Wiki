@@ -24,9 +24,15 @@ A large chamber on the sixth floor beyond Crooks' office, containing a throne an
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

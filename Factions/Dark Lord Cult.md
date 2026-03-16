@@ -23,9 +23,18 @@ A cult operating inside the God Catcher, imprisoning sailors and performing ritu
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

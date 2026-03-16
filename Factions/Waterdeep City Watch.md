@@ -23,9 +23,18 @@ The city's guard force, active during wartime. Gorg Fallowfoot is a member.
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

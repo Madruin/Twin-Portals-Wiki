@@ -24,9 +24,24 @@ Coastal area of Waterdeep where Grinda Garloss lives in a lighthouse.
 
 
 
+
+- **S01E06:** Zardos gives them a handkerchief to deliver to Grinda Garloss at Mist Shore
+
 ## Connected Characters
 
 
+
+
+- [[Anton]]
+- [[Fel'Rekt]]
+- [[Gildis]]
+- [[Grinda Garloth]]
+- [[Lif Lindgren]]
+- [[Pog Waggletop]]
+- [[Terry]]
+- [[Ylka Doppelganger]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

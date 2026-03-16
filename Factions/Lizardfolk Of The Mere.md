@@ -23,9 +23,18 @@ The native lizardfolk inhabitants of the Mere of Dead Men, represented by Semu. 
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

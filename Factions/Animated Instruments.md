@@ -23,9 +23,18 @@ Musical instruments animated by the Dynamo of Possibility who crew a ship in the
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S02E11:** They board a ship crewed by animated instruments from the Dynamo of Possibility
 
 ## Episode Appearances
 

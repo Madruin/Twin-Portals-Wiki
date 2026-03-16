@@ -24,9 +24,20 @@ The vast cosmic sea beyond the material plane, accessed through the second twin 
 
 
 
+
+- **S02E11:** The party travels through portals: first to Zellafar's empty lair, then to the Astral Sea
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Friar Truck]]
+- [[Little Joan]]
+- [[Melifarn]]
+- [[Rowan Crooks]]
+- [[Shoonie]]
 
 ## Episode Appearances
 

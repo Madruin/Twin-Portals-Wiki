@@ -24,9 +24,26 @@ A huge round hole on a flat mountain face near Amphail, as if the bedrock was bl
 
 
 
+
+- **S02E30:** The Moonhole is heavily fortified with archers, runes, and spikes -- SWOJ decides not to assault directly
+- **S02E30:** Flying to the Moonhole near Amphail, they discover the town has been devastated by dragonfire
+- **S02E31:** Renaer convenes strategy session to plan the assault on the moonhole
+- **S02E32:** Two remaining ships enter the eye of the storm above the moonhole
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Argentis]]
+- [[Grayj]]
+- [[Jill (Ygglimar)]]
+- [[Kingfisher]]
+- [[Little Joan]]
+- [[Quorlith The Starweaver]]
+- [[Renaer Neverember]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

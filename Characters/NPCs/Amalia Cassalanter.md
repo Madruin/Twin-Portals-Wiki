@@ -16,6 +16,7 @@ Noble matriarch of House Cassalanter. Tall, Morticia Addams-like appearance. Pul
 
 **First appearance:** [[S01E09 - Episode Nine]]
 **Total appearances:** 8 episodes
+**Faction affiliations:** [[Cult Of The Dragon]]
 
 ## Description
 

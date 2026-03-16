@@ -24,9 +24,18 @@ A cosmic barrier in the afterlife maintained by the god Kelemvor. Traps the soul
 
 
 
+
+- **S02E24:** Discovery of Crooks' plan: use shard at Radiant Citadel to break Kelemvor's Wall of the Faithless
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Friar Truck]]
+- [[Little Joan]]
+- [[Rowan Crooks]]
 
 ## Episode Appearances
 

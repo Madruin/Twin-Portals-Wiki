@@ -24,9 +24,28 @@ The courtroom within the guardhouse where SWOJ's trial is held. Scene of the dop
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bartolo]]
+- [[Captain Hyustus Stagget]]
+- [[Flo]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Laeral Silverhand]]
+- [[Remalia Haventree]]
+- [[Sylgar]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Thorvin Twinbeard]]
+- [[Xibrinidas]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

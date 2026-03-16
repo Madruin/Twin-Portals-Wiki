@@ -16,6 +16,7 @@ The leader of the Cult of the Dragon cell operating out of Castle Nehri Tar. Des
 
 **First appearance:** [[S02E28 - Episode Fifty Eight (S02E28)]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Cult Of The Dragon]]
 
 ## Description
 

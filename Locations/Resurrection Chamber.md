@@ -24,9 +24,20 @@ The central cylinder within the Stadium of Souls containing all the stored bodie
 
 
 
+
+- **S02E12:** They are deposited in the Stadium of Souls; bodies stored in resurrection chamber, souls in cells
+
 ## Connected Characters
 
 
+
+
+- [[Pippa Flouf]]
+- [[Rowan Crooks]]
+- [[Shoonie]]
+- [[Teriador The Rose Knight  The Blight Knight]]
+- [[The Body Taker]]
+- [[Vincent Trench]]
 
 ## Episode Appearances
 

@@ -16,6 +16,7 @@ A nine-year-old half-orc boy who calls himself a great wizard. Carries a stick w
 
 **First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 5 episodes
+**Faction affiliations:** [[Trollskull Alley Irregulars]]
 
 ## Description
 

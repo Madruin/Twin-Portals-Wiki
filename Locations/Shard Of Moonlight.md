@@ -24,9 +24,27 @@ A floating wizard tower anchored above Neverwinter, awarded to SWOJ by Renaer as
 
 
 
+
+- **S02E20:** SWOJ chooses the Shard of Moonlight as their new base
+- **S02E20:** Renaer offers SWOJ a choice: Riverside Inn or Shard of Moonlight (floating wizard tower)
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Blish]]
+- [[Dagult Neverember]]
+- [[Idae]]
+- [[Jarlaxle]]
+- [[Mari]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Shaleheart]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

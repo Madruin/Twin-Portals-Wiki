@@ -16,6 +16,7 @@ Member of the Jolly Gents who stayed with SWOJ. Helped lock the door during the 
 
 **First appearance:** [[S02E01 - Episode Thirty One (S02E01)]]
 **Total appearances:** 3 episodes
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

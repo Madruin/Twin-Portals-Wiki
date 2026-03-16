@@ -23,9 +23,18 @@ Civilians and fighters hiding in the cisterns beneath the Radiant Citadel, resis
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

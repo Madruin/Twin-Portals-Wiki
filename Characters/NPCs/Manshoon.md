@@ -16,6 +16,7 @@ Zhentarim leader (or his simulacrum). Appears on the theater balcony during the 
 
 **First appearance:** [[S01E26 - Episode Twenty Six]]
 **Total appearances:** 19 episodes
+**Faction affiliations:** [[Zhentarim]]
 
 ## Description
 

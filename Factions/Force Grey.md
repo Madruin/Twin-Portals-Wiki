@@ -23,9 +23,18 @@ Elite adventuring company serving the Lords of Waterdeep. Laeral mentions the in
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S01E15:** Laeral frees SWOJ from manacles, takes control of the investigation under Force Grey
 
 ## Episode Appearances
 

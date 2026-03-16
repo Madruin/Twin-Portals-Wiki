@@ -24,9 +24,21 @@ Massive internal chest cavity of the Beast of Erua. Contains a laboratory, works
 
 
 
+
+- **S02E03:** The floor collapses and the party falls into the Beast of Erua's ribcage
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Teriador]]
+- [[Thail]]
+- [[Volo]]
 
 ## Episode Appearances
 

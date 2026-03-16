@@ -23,9 +23,18 @@ Pilots who guide the Concord Jewels to their destinations between the Radiant Ci
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

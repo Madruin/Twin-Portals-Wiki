@@ -16,6 +16,7 @@ A tiefling boy with an eye patch and swashbuckling clothes. One of the three str
 
 **First appearance:** [[S01E05 - Episode Five]]
 **Total appearances:** 12 episodes
+**Faction affiliations:** [[Harpers]], [[Trollskull Alley Irregulars]], [[Zhentarim]]
 
 ## Description
 

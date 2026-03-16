@@ -23,9 +23,18 @@ The wizards' guild in Waterdeep. Zardos Zord promises to talk to them about send
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

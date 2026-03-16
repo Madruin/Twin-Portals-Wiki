@@ -24,9 +24,20 @@ Another bridge in Neverwinter, mentioned by guards as a possible escape route fo
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[16 String Jack]]
+- [[Fel'Rekt Lafeen]]
+- [[Fumbles  Fumblewick]]
+- [[Laila]]
+- [[Renaer Neverember]]
+- [[Shimmer Brackenwell]]
 
 ## Episode Appearances
 

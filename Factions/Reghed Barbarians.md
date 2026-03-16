@@ -23,9 +23,18 @@ Northern barbarian clans allied with Manshoon's forces. Present in the Spiral Ca
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

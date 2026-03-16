@@ -23,9 +23,18 @@ Golden triangular entities that serve as the keepers and researchers of the Muse
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

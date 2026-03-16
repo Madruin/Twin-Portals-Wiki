@@ -24,9 +24,15 @@ A large cave mouth near the docks, heavily webbed, where Corlith the Starweaver 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

@@ -24,9 +24,21 @@ An infinite Rubik's cube structure of translucent glass in the Far Realm. Houses
 
 
 
+
+- **S02E12:** SWOJ spots Vincent Trench in spectral form at the Museum of the Multiverse, negotiating with a laser-eyed moose
+- **S02E13:** SWOJ tumbles into a bag of holding after escaping the museum of the multiverse, finding four objects: dolphin boomerang, trading cards, marimba, and kippered herring sandwich
+
 ## Connected Characters
 
 
+
+
+- [[Pippa Flouf]]
+- [[Rowan Crooks]]
+- [[Shoonie]]
+- [[Teriador The Rose Knight  The Blight Knight]]
+- [[The Body Taker]]
+- [[Vincent Trench]]
 
 ## Episode Appearances
 

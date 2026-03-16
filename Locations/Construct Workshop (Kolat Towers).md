@@ -24,9 +24,28 @@ A workshop in the Kolat Towers where Zylka was shackled and forced to work on Ni
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Mookie]]
+- [[Nim]]
+- [[Radecere]]
+- [[Remalia Haventree]]
+- [[Rowan Crooks]]
+- [[Squidley]]
+- [[Teriador]]
+- [[Thail]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Volo]]
+- [[Zylka]]
 
 ## Episode Appearances
 

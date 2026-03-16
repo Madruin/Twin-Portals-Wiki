@@ -24,9 +24,26 @@ A magical shop in Neverwinter where SWOJ purchases scrolls of daylight, potions 
 
 
 
+
+- **S02E20:** Shopping at the Mages Guild: scrolls of daylight, protection potions, sunblade
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Blish]]
+- [[Dagult Neverember]]
+- [[Idae]]
+- [[Jarlaxle]]
+- [[Mari]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Shaleheart]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

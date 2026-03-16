@@ -24,9 +24,24 @@ A vast underground lake deep beneath the chasm where the Hungry Elder maintains 
 
 
 
+
+- **S02E16:** They ride the underground river to a subterranean lake
+- **S02E17:** SWOJ is arrested by Neverember's guards at the subterranean lake
+- **S02E23:** Discovery of bioluminescent mushroom cavern with subterranean lake
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Dagult Neverember]]
+- [[Little Joan]]
+- [[Manshoon Clone (Man-Two)]]
+- [[Shaleheart]]
+- [[Sixteen String Jack]]
+- [[The Hungry Elder]]
 
 ## Episode Appearances
 

@@ -25,6 +25,9 @@ A halfling scientist and member of the Radiant Citadel's welcoming committee. Kn
 
 
 
+
+- **S02E08:** Saks Bandin explains the citadel is connected to Toril by Concord Jewels anchored to different locations
+
 ## Episode Appearances
 
 ```dataview

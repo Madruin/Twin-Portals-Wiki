@@ -16,6 +16,7 @@ Member of the Jolly Gents. Teleports the group back to Waterdeep using a telepor
 
 **First appearance:** [[S02E05 - Episode Thirty Five (S02E05)]]
 **Total appearances:** 8 episodes
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

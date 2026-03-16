@@ -25,6 +25,9 @@ Dwarf from Sigil encountered at The Way Inn. Traveling companion of Tigit Sketch
 
 
 
+
+- **S02E01:** They meet Volo, Radissera, Lai Angustune, Tigit Sketch, and bartender Dorvina
+
 ## Episode Appearances
 
 ```dataview

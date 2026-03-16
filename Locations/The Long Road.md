@@ -24,9 +24,30 @@ The main road heading northeast from Waterdeep toward Amphail. The party is ambu
 
 
 
+
+- **S02E06:** The party travels the Long Road northeast through Rassalanter toward Amphail
+
 ## Connected Characters
 
 
+
+
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Craw]]
+- [[Farron]]
+- [[Froon]]
+- [[Gundark Gundarkson]]
+- [[Hanna]]
+- [[Jonas]]
+- [[Juan]]
+- [[Kai]]
+- [[Nina Blackthorn]]
+- [[Nuria]]
+- [[Phyllis]]
+- [[Shala]]
+- [[Ted]]
+- [[Ziraj The Hunter]]
 
 ## Episode Appearances
 

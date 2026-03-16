@@ -24,9 +24,17 @@ The streets of Neverwinter, thrown into chaos when the chasm erupts. Demons, cho
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Dagult Neverember]]
+- [[Shaleheart]]
+- [[Tressa]]
 
 ## Episode Appearances
 

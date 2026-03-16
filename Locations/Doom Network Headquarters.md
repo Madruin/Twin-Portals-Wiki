@@ -24,9 +24,34 @@ The base of operations for the Doom Network in Waterdeep, where Skemo assigns SW
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Anya Ermbrusk]]
+- [[Craw]]
+- [[Dorvina]]
+- [[Fela Lefaliir]]
+- [[Fetch]]
+- [[Froon]]
+- [[Gorg Fallowfoot]]
+- [[Grinda Garloth]]
+- [[Jenks]]
+- [[Lif]]
+- [[Nat]]
+- [[Radecere]]
+- [[Renaer Neverember]]
+- [[Rowan Crooks]]
+- [[Tagga]]
+- [[Volo]]
+- [[Zelifarn]]
+- [[Ziraj The Hunter]]
 
 ## Episode Appearances
 

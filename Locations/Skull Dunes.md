@@ -24,9 +24,19 @@ A beach of powdery white sand on Devil's Rock that conceals dozens of buried ske
 
 
 
+
+- **S02E10:** Crossing the Skull Dunes triggers skeletons to burst from the sand
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Father Fratelli]]
+- [[Long John McRon]]
+- [[One-Eyed Wilhelmina]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

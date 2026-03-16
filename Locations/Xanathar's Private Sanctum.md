@@ -24,9 +24,22 @@ Inner chamber containing Sylgar's fish tank and a locked chest holding the Eye o
 
 
 
+
+- **S01E16:** Party reaches the Xanathar's private sanctum via secret rotating door passage
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[Narl Xibrindas]]
+- [[Ott Steeltoes]]
+- [[Remallia Haventree]]
+- [[Sally]]
+- [[Sylgar]]
+- [[The Xanathar]]
+- [[Thorvin Twinbeard]]
 
 ## Episode Appearances
 

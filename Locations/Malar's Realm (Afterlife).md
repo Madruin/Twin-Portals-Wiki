@@ -24,9 +24,15 @@ A wild, stormy forest realm belonging to the deity Malar. Features a mountain wi
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

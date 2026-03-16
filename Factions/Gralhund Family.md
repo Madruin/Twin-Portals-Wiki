@@ -23,9 +23,19 @@ Discussed during the panel as a coincidence where Beth chose the Gralhund name f
 
 
 
+
+
+
+
+- [[Hrabbaz]]
+
 ## Activities
 
 
+
+
+- **S01E30:** Beth's coincidental choice of the Gralhund family name matching the written adventure module
+- **S02E38:** Each PC reflects on their future: Scoot stays grounded at Trollskull, Ylka investigates Gralhund family demons, Xae seeks siblings in Undermountain, Lark continues adventuring for the guild
 
 ## Episode Appearances
 

@@ -24,9 +24,19 @@ Legendary magical dungeon hidden within the city of Waterdeep. An urban legend t
 
 
 
+
+- **S01E03:** Blue Alley challenges: sticky staircase, laughing mouth riddle ('make me laugh' then 'stop imagining'), madness effects
+- **S01E03:** Party discovers Blue Alley, a legendary magical dungeon within the city
+
 ## Connected Characters
 
 
+
+
+- [[Floon Blagmaar]]
+- [[Nim]]
+- [[Renaer Neverember]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

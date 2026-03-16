@@ -24,9 +24,26 @@ A beauty-and-the-beast style library with rolling ladders, colorful leather-boun
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Beaker]]
+- [[Elzerina Cassalanter]]
+- [[Mara Melora]]
+- [[Nana]]
+- [[Phelerek]]
+- [[Pog Waggletop]]
+- [[Sally]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

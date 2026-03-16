@@ -23,9 +23,18 @@ An organization in Waterdeep that contracts adventurers for jobs. Assigns SWOJ t
 
 
 
+
+
+
+
+- [[Hanna]]
+
 ## Activities
 
 
+
+
+- **S02E05:** The Doom Network assigns SWOJ to find missing noblewoman Anya Irmbrusk (the Staglass) in Amphail
 
 ## Episode Appearances
 

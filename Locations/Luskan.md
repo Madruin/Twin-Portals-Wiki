@@ -24,9 +24,41 @@ A city on the Sword Coast. Simon (Scoot's father) passed through here on his ret
 
 
 
+
+- **S01E24:** Ylka casts shatter twice and provides bardic inspiration (Poison / Where Wolves of Luskan)
+- **S02E20:** Final war council reviews threats: Waterdeep (dragons), Luskan (barbarians), Amphail (army), Cult of the Dragon
+- **S02E38:** Simon (Scoot's father) returns after years lost at sea, tells of being helped by Zhentarim-affiliated pirates and witnessing a divine tidal wave near Luskan
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Durnan]]
+- [[Fai Chen]]
+- [[Grim Wavesilver]]
+- [[Jarlaxle]]
+- [[Jenks]]
+- [[Laeral Silverhand]]
+- [[Lif]]
+- [[Lyrian]]
+- [[Melifarn]]
+- [[Mordecai Gralhund]]
+- [[Pinker]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Sally]]
+- [[Shaleheart]]
+- [[Sid Squid]]
+- [[Simon]]
+- [[Squidley]]
+- [[Tagga]]
+- [[Terry]]
+- [[Three Strings]]
+- [[Ulkoria Stonemarrow]]
+- [[Vincent Trench]]
+- [[Volo]]
 
 ## Episode Appearances
 

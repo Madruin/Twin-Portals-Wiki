@@ -23,9 +23,18 @@ Silver Waves of Justice -- the main party of adventurers. Scoot, Ylka, Lark, and
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

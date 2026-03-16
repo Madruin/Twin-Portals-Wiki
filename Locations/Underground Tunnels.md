@@ -24,9 +24,23 @@ A network of tunnels beneath the pocket dimension containing baby beasts of Aero
 
 
 
+
+- **S02E01:** Brighanox lead the group into underground tunnels to safety
+- **S02E04:** The party navigates underground tunnels, finding baby beasts of Aeroa
+- **S02E23:** SWOJ descends spiral staircase from throne room into underground tunnels
+
 ## Connected Characters
 
 
+
+
+- [[Fetch]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Teriador The Rose Knight]]
+- [[Thail]]
+- [[The Body Taker]]
+- [[The Hunter]]
 
 ## Episode Appearances
 

@@ -24,9 +24,23 @@ A healing facility on the Radiant Citadel, staffed by healers who amplify their 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Hanna]]
+- [[Leah]]
+- [[Rose Quartz Incarnate]]
+- [[Sax Bandon]]
+- [[Sid Squid]]
+- [[Tagga]]
+- [[Trill]]
+- [[Vincent Trench]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

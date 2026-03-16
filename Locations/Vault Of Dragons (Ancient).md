@@ -24,9 +24,20 @@ Underground vault beneath Zadio's amphitheater in 992 DR. Contains the dragon ho
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Laeral Silverhand]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Rosetta Stonemarrow]]
+- [[Terry]]
+- [[Zadio Neverember]]
 
 ## Episode Appearances
 

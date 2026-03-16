@@ -25,6 +25,13 @@ A giant spider inhabiting the throne room of Castle Never. Eyes the size of beac
 
 
 
+
+- **S02E18:** Xae communicates with Coralith via Speak with Animals; Coralith explains the scales have been out of balance for 30 years since the Neverembers took over
+- **S02E18:** Lark gives Coralith his constellation watch as an offering; she reveals the scales control a mechanism within the throne
+- **S02E30:** Renaer reveals 500 soldiers, 30 spellcasters, and Corlith the Starweaver's role in building the ships
+- **S02E31:** Ylka discovers Corlith the Starweaver in distress -- her eggs have been stolen by the man in black
+- **S02E31:** SWOJ pursues the egg thief through the caves, clearing a cave-in to let Corlith follow
+
 ## Episode Appearances
 
 ```dataview

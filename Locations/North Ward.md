@@ -24,9 +24,33 @@ District of Waterdeep where Trollskull Manor is located.
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bacto And Juba]]
+- [[Captain Hyustus Stagget]]
+- [[Esther]]
+- [[Eunissa]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Jenks]]
+- [[Lif Lindgren]]
+- [[Mara]]
+- [[Mordecai Gralhund]]
+- [[Nat]]
+- [[Pinker]]
+- [[Renaer Neverember]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Ulkoria Stonemarrow]]
+- [[Volo]]
 
 ## Episode Appearances
 

@@ -24,9 +24,15 @@ Scoot's mother's home in the Dock Ward, near Candle Lane. Ransacked by the Xanat
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

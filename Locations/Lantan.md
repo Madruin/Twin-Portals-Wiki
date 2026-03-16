@@ -24,9 +24,24 @@ An island/location on the material plane southwest of Devil's Rock. The Concord 
 
 
 
+
+- **S02E09:** Incarnate reveals the closest Concord Jewel goes to Lantan; the Deep Dragon Temple is northeast of there
+- **S02E09:** SWOJ boards a bismuth Concord Jewel to Lantan; arrives 50 feet underwater
+
 ## Connected Characters
 
 
+
+
+- [[Jarlaxle]]
+- [[Long John McRon]]
+- [[Melifarn]]
+- [[Rose Quartz Incarnate]]
+- [[Sarith Ab'Jean]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Trill]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

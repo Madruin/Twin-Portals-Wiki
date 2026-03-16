@@ -24,9 +24,20 @@ Waterdeep 500 years in the past, where the city is much smaller and less develop
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Laeral Silverhand]]
+- [[Melifarn]]
+- [[Remalia Haventree]]
+- [[Rosetta Stonemarrow]]
+- [[Terry]]
+- [[Zadio Neverember]]
 
 ## Episode Appearances
 

@@ -24,9 +24,15 @@ Street at the southern end of Trollskull Alley. The dark figure who took somethi
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

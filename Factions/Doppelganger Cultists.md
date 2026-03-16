@@ -23,9 +23,18 @@ Cultists led by Zylka who crash the Cassalanter party. Wear golden grinning mask
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

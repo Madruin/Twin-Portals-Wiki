@@ -24,9 +24,24 @@ Family crypt of the Gralhunds in the City of the Dead. Lower level contains the 
 
 
 
+
+- **S01E10:** Captured cultist reveals Cult of Asmodeus meetings in Gralhund crypts
+- **S01E13:** The note reveals a map of the City of the Dead pointing to the Gralhund Crypt
+- **S01E13:** Zilka (Ylka's doppelganger) found dying in the Gralhund Crypt, draws symbol of Asmodeus
+
 ## Connected Characters
 
 
+
+
+- [[Captain Hyustus Stagget]]
+- [[Hrabbaz]]
+- [[Orond Gralhund]]
+- [[Sally]]
+- [[Terry]]
+- [[Willifort Crowell]]
+- [[Yalah Gralhund]]
+- [[Zylka]]
 
 ## Episode Appearances
 

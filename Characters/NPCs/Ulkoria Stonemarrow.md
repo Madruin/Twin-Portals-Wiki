@@ -16,6 +16,7 @@ Dwarf magister from the Watchful Order of Magists and Protectors. Visits Trollsk
 
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
+**Faction affiliations:** [[Cassalanters]]
 
 ## Description
 
@@ -24,6 +25,11 @@ Dwarf magister from the Watchful Order of Magists and Protectors. Visits Trollsk
 ## Role in the Story
 
 
+
+
+- **S01E07:** Alcoria Stonemarrow wards Trollskull Manor and registers Xae and Ylka as magic users
+- **S01E29:** City watch arrives with O'Corea Stonemarrow coordinating cleanup
+- **S02E38:** The teleportation circle in Trollskull's basement has been completed by Alcoria Stonemarrow, connecting to the Shard of the Moon
 
 ## Episode Appearances
 

@@ -24,9 +24,18 @@ An infinite demiplane of astral space containing a lattice of floating bags of h
 
 
 
+
+- **S02E13:** SWOJ meets Phylith, a ragamuffin creature with wheel feet and a raven mask who lives in the bag dimension
+- **S02E14:** The party catches Jarlaxle up on the Rowan Crooks/Manshoon betrayal, their death and resurrection, and the bag dimension
+- **S02E21:** Party buys discounted bags of holding (malfunctioning due to Arcanthos in the bag dimension)
+- **S02E37:** Reality warps again to the Bag Dimension, where an ancient red dragon is spotted approaching
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

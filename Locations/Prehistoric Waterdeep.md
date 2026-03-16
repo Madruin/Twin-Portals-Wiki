@@ -24,9 +24,22 @@ The region that will become Waterdeep, visited through time travel during the Wi
 
 
 
+
+- **S01E14:** Scoot, Ylka, and Lark are transported to prehistoric Waterdeep during Winter Solstice
+
 ## Connected Characters
 
 
+
+
+- [[Ghosts Of Solstice Past]]
+- [[Gorge Baileybrew]]
+- [[Grandfather Niklas]]
+- [[Hans Von Gruber]]
+- [[Navi]]
+- [[Xae (Prehistoric)]]
+- [[Zaka]]
+- [[Zuzu]]
 
 ## Episode Appearances
 

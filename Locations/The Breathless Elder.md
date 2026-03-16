@@ -24,9 +24,22 @@ An impossibly massive dead viper fish deity floating in the Far Realm. Dragon sp
 
 
 
+
+- **S02E11:** Antediluvian Jake explains the Breathless Elder, the aboleth-dragon war, and Manshoon's involvement
+- **S02E11:** SWOJ discovers the Breathless Elder with dragon spirits tethered to eggs on its back
+- **S02E12:** SWOJ flees the Breathless Elder's corpse through its ribcage to avoid whistlers
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Friar Truck]]
+- [[Little Joan]]
+- [[Melifarn]]
+- [[Rowan Crooks]]
+- [[Shoonie]]
 
 ## Episode Appearances
 

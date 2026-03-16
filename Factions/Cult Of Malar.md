@@ -23,9 +23,18 @@ Followers of Malar the Beast Lord including a werewolf, four wererats, and the h
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

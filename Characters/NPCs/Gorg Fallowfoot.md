@@ -16,6 +16,7 @@ City Watch member mentioned in context of Waterdeep's current state.
 
 **First appearance:** [[S02E05 - Episode Thirty Five (S02E05)]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[City Watch]]
 
 ## Description
 

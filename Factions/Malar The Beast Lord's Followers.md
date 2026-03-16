@@ -23,9 +23,18 @@ Fierce barbarian riders covered in war paint who ride peritons and chant discord
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

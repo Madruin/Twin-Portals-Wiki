@@ -24,9 +24,15 @@ Rowan Crooks' floating fortress visible as a dark sun in the Shadowfell sky. Abs
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

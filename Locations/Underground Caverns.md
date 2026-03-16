@@ -24,9 +24,20 @@ A network of natural tunnels and chambers beneath Zentil Keep, accessed via the 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Friar Truck]]
+- [[Grabmaar]]
+- [[Little Joan]]
+- [[Pill Garlic]]
+- [[Sixteen String Jack]]
+- [[Slim Curly]]
 
 ## Episode Appearances
 

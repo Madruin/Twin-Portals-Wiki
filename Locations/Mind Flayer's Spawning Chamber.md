@@ -24,9 +24,17 @@ Chamber containing a green spawning pool that produces intellect devourers. The 
 
 
 
+
+- **S01E17:** Party reaches the mind flayer's spawning chamber with a green pool
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Pinker]]
 
 ## Episode Appearances
 

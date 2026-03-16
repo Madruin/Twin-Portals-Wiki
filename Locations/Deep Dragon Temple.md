@@ -24,9 +24,34 @@ An underwater temple northeast of Lantan where dragons convene. Accessible via a
 
 
 
+
+- **S02E09:** Mystery explains he was at the Deep Dragon Temple with Mellafarne who fell into a similar state
+- **S02E09:** Rose quartz incarnate settles over Zellopharn to protect him; confirms knowledge of Deep Dragon Temple
+- **S02E10:** SWOJ descends via the whirlpool into the Deep Dragon Temple cavern
+- **S02E11:** SWOJ climbs the cliff face of the Deep Dragon Temple; Lark fails a constitution save against green mist
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Father Fratelli]]
+- [[Friar Truck]]
+- [[Jarlaxle]]
+- [[Little Joan]]
+- [[Long John McRon]]
+- [[Melifarn]]
+- [[One-Eyed Wilhelmina]]
+- [[Rose Quartz Incarnate]]
+- [[Rowan Crooks]]
+- [[Sarith Ab'Jean]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Shoonie]]
+- [[Trill]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

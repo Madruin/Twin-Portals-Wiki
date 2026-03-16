@@ -23,9 +23,19 @@ A mercenary faction working for Neverwinter that all wear black masks. Have sign
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S02E14:** Jarlaxle provides political exposition: Neverember rules from Hall of Justice, war with Waterdeep continues, the Masks control city affairs, Renaer leads the resistance
+- **S02E18:** Neverember warns that the Masks mercenary force is pulling out of the city and may attempt to claim it
 
 ## Episode Appearances
 

@@ -25,6 +25,11 @@ A disillusioned white-masked cultist stationed at Castle Nehri Tar. He provides 
 
 
 
+
+- **S02E28:** They meet Bronch, a disillusioned white-masked cultist who provides intel on Velia Shadowmantle and the dracolich rituals
+- **S02E28:** Bronch reveals the cult keeps a Mask of Dragon Kind in the underground fortress
+- **S02E29:** Bronch sacrifices himself as a distraction during the dracolich ritual
+
 ## Episode Appearances
 
 ```dataview

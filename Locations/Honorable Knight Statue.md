@@ -24,9 +24,27 @@ A statue/tenement building in the Dock Ward area with smuggler's closets where P
 
 
 
+
+- **S01E05:** Learn Pinker the kenku rescued Taga and hid her in the Honorable Knight statue smuggler's closet
+
 ## Connected Characters
 
 
+
+
+- [[Bacto And Juba]]
+- [[Captain Hyustus Stagget]]
+- [[Esther]]
+- [[Jenks]]
+- [[Lif Lindgren]]
+- [[Mordecai Gralhund]]
+- [[Nat]]
+- [[Pinker]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Terry]]
+- [[Ulkoria Stonemarrow]]
+- [[Volo]]
 
 ## Episode Appearances
 

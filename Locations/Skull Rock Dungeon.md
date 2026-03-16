@@ -24,9 +24,15 @@ A stone dungeon hallway that the party is warped to when the console is damaged.
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Renaer Neverember]]
 
 ## Episode Appearances
 

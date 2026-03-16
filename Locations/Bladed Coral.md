@@ -24,9 +24,19 @@ Dangerous coral reef surrounding Devil's Rock that can shred boats and swimmers.
 
 
 
+
+- **S02E10:** They navigate the bladed coral reef surrounding the island
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Father Fratelli]]
+- [[Long John McRon]]
+- [[One-Eyed Wilhelmina]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

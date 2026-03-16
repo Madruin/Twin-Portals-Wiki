@@ -23,9 +23,18 @@ The adventuring party of Twin Portals, discussed in the context of getting back 
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

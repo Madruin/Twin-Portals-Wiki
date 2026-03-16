@@ -23,9 +23,18 @@ A group of young associates of SWOJ at Trollskull Manor. Taga took over their ed
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

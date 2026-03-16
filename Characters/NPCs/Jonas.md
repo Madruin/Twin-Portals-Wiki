@@ -16,6 +16,7 @@ Leader of the Hare Company, a plate-armored fighter and former Waterdeep soldier
 
 **First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Hare Company]]
 
 ## Description
 

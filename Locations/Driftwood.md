@@ -24,9 +24,29 @@ A massive floating island made of shipwrecks, driftwood, and roped-together mate
 
 
 
+
+- **S02E09:** Dolphins guide SWOJ to Driftwood, a pirate island floating atop the dragon turtle Kura Han
+- **S02E09:** Party finds Jarlaxle (as Zardos Zord) at the Blubber Buckle tavern in Driftwood
+- **S02E10:** SWOJ rows to Devil's Rock from Driftwood with Zardo Zord and Mr. E
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Father Fratelli]]
+- [[Jarlaxle]]
+- [[Long John McRon]]
+- [[Melifarn]]
+- [[One-Eyed Wilhelmina]]
+- [[Rose Quartz Incarnate]]
+- [[Sarith Ab'Jean]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Trill]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

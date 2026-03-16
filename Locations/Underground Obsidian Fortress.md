@@ -24,9 +24,18 @@ A fortress carved from obsidian located deep beneath Castle Nehri Tar. Serves as
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bronk]]
+- [[Jack]]
+- [[Jill (Ygglimar)]]
+- [[Velia Shadowmantle]]
 
 ## Episode Appearances
 

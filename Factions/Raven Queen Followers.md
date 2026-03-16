@@ -23,9 +23,18 @@ Devotees of the Raven Queen. The shrine beneath the Shard of Moonlight contains 
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

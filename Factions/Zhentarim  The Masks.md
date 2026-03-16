@@ -23,9 +23,18 @@ The criminal organization led by Manshoon. Has significant forces mustered in th
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

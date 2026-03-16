@@ -24,9 +24,28 @@ An approximately 80-foot opening in the top of the Sword Mountains that leads se
 
 
 
+
+- **S02E30:** The Moonhole is heavily fortified with archers, runes, and spikes -- SWOJ decides not to assault directly
+- **S02E30:** Flying to the Moonhole near Amphail, they discover the town has been devastated by dragonfire
+- **S02E31:** Renaer convenes strategy session to plan the assault on the moonhole
+- **S02E32:** Two remaining ships enter the eye of the storm above the moonhole
+
 ## Connected Characters
 
 
+
+
+- [[Crowell]]
+- [[Dagult Neverember]]
+- [[Fel'Rekt Lafeen]]
+- [[Fioleth The Ragamoffin]]
+- [[Quorlith The Starweaver]]
+- [[Renaer Neverember]]
+- [[Shaleheart]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

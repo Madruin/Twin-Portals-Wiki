@@ -24,9 +24,23 @@ The surface level of Castle Nehri Tar where Little Joan and the Ripples are oper
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Bronk]]
+- [[Jergal]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Mortimer Quill]]
+- [[Orcus]]
+- [[The Raven Queen]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

@@ -25,6 +25,10 @@ A halfling herbalist encountered on the High Road south of Neverwinter. Was bein
 
 
 
+
+- **S02E26:** Party encounters Lachlina the halfling herbalist fleeing bulettes attracted to her Lunaria
+- **S02E26:** SWOJ purchases three potions of greater healing from Lachlina
+
 ## Episode Appearances
 
 ```dataview

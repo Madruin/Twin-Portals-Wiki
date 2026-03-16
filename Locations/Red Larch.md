@@ -24,9 +24,30 @@ A town where Waterdeep's forces suffered a devastating defeat against Neverwinte
 
 
 
+
+- **S02E06:** Hare Company yields and reveals they deserted after Waterdeep's defeat at Red Larch
+
 ## Connected Characters
 
 
+
+
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Craw]]
+- [[Farron]]
+- [[Froon]]
+- [[Gundark Gundarkson]]
+- [[Hanna]]
+- [[Jonas]]
+- [[Juan]]
+- [[Kai]]
+- [[Nina Blackthorn]]
+- [[Nuria]]
+- [[Phyllis]]
+- [[Shala]]
+- [[Ted]]
+- [[Ziraj The Hunter]]
 
 ## Episode Appearances
 

@@ -24,9 +24,16 @@ A collapsed tower at Castle Naerytar with a broken observatory telescope stickin
 
 
 
+
+- **S02E27:** SWOJ infiltrates the castle through the ruined wizard tower using pass without trace
+
 ## Connected Characters
 
 
+
+
+- [[Little Joan]]
+- [[Semu]]
 
 ## Episode Appearances
 

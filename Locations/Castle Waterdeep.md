@@ -24,9 +24,39 @@ The tallest tower overlooking the sea with a dragon-landing balcony near the top
 
 
 
+
+- **S01E29:** SWOJ flies on dragons Zellophane and Aurinax to Castle Waterdeep
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Aurinax]]
+- [[Bricks And Bracks]]
+- [[Davil Starsong]]
+- [[Elzerina Cassalanter]]
+- [[Fela Lefaliir]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Halaster Blackcloak]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
+- [[Laeral Silverhand]]
+- [[Little Joan]]
+- [[Manshoon]]
+- [[Masked Lords]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Rowan Crooks]]
+- [[Sally]]
+- [[Tagga]]
+- [[Terenzio Cassalanter]]
+- [[Terry]]
+- [[Ulkoria Stonemarrow]]
+- [[Vittoro Cassalanter]]
+- [[Volo]]
 
 ## Episode Appearances
 

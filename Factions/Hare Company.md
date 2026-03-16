@@ -23,9 +23,19 @@ A band of Waterdeep army deserters led by Jonas with Nina Blackthorn as their wi
 
 
 
+
+
+
+
+- [[Jonas]]
+
 ## Activities
 
 
+
+
+- **S02E06:** Ambushed by the Hare Company -- deserters led by Jonas with wizard Nina Blackthorn
+- **S02E06:** Hare Company yields and reveals they deserted after Waterdeep's defeat at Red Larch
 
 ## Episode Appearances
 

@@ -24,9 +24,22 @@ A massive chasm running through the city of Neverwinter. SWOJ descends into its 
 
 
 
+
+- **S02E16:** SWOJ descends into the Neverwinter chasm with the Manshoon clone (Man-two)
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Dagult Neverember]]
+- [[Little Joan]]
+- [[Manshoon Clone (Man-Two)]]
+- [[Shaleheart]]
+- [[Sixteen String Jack]]
+- [[The Hungry Elder]]
 
 ## Episode Appearances
 

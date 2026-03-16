@@ -24,9 +24,17 @@ A shrine room dedicated to the Kuo-Toa deity Blibdoolpoolp, found in the tunnels
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Pinker]]
 
 ## Episode Appearances
 

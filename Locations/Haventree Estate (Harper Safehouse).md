@@ -24,9 +24,28 @@ Ramalia Haventree's estate in the Castle Ward near the Godcatcher. Used by Laera
 
 
 
+
+- **S01E15:** Laeral takes SWOJ to Haventree Estate (Harper safehouse) near the Godcatcher
+
 ## Connected Characters
 
 
+
+
+- [[Bartolo]]
+- [[Captain Hyustus Stagget]]
+- [[Flo]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Laeral Silverhand]]
+- [[Remalia Haventree]]
+- [[Sylgar]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Thorvin Twinbeard]]
+- [[Xibrinidas]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

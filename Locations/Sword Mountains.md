@@ -24,9 +24,43 @@ A mountain range whose foothills border the Cryptwood. The mysterious mists orig
 
 
 
+
+- **S02E06:** Morning: send Craw back to Amphail, head northwest toward the Sword Mountains cave
+- **S02E07:** SWOJ enters the spiral cavern beneath the Sword Mountains following Farron
+- **S02E08:** Montage: SWOJ returns to Sword Mountains, rescues all captives, delivers moth weed to cure Taiga
+- **S02E31:** Three ships -- Ethereal Galleon ('Spider One'), Hammerhead, and Clockwork Kraken -- depart for the Sword Mountains with full crews
+- **S02E32:** Three-ship fleet (Ethereal Galleon, Hammerhead, Clockwork Kraken) approaches the Sword Mountains at sunrise
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Arcturia]]
+- [[Argentis]]
+- [[Craw]]
+- [[Crowell]]
+- [[Dagult Neverember]]
+- [[Farron]]
+- [[Fel'Rekt Lafeen]]
+- [[Fela Lefaliir]]
+- [[Fioleth The Ragamoffin]]
+- [[Froon]]
+- [[Grayj]]
+- [[Gundark Gundarkson]]
+- [[Halaster]]
+- [[Hanna]]
+- [[Jill (Ygglimar)]]
+- [[Jonas]]
+- [[Juan]]
+- [[Kai]]
+- [[Kingfisher]]
+- [[Leah]]
+- [[Little Joan]]
+- [[Nina Blackthorn]]
 
 ## Episode Appearances
 

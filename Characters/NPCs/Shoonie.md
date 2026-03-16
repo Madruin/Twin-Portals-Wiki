@@ -25,6 +25,11 @@ A Manshoon clone living inside the Breathless Elder's corpse. Surprisingly frien
 
 
 
+
+- **S02E11:** Rowan Crooks, Little Joan, and Friar Truck arrive and murder Shuni, revealing themselves as Manshoon agents
+- **S02E11:** Rowan Crooks loots their bodies, takes the bag of holding, recaptures Shuni's spirit, and teleports away
+- **S02E12:** SWOJ exists as spectral souls in the Far Realm; Shuni's ghost advises them before being recaptured by Rowan Crooks
+
 ## Episode Appearances
 
 ```dataview

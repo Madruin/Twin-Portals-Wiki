@@ -23,9 +23,21 @@ Secretive organization working for the greater good. Jelaster is an agent statio
 
 
 
+
+
+
+
+- [[Jalaster]]
+- [[Remalia Haventree]]
+- [[Squidly]]
+- [[Thorvin Twinbeard]]
+
 ## Activities
 
 
+
+
+- **S01E29:** Scoot alerts the Harpers about Bricks and Bracks being traitors
 
 ## Episode Appearances
 

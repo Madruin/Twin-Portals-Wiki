@@ -24,9 +24,19 @@ Street where Renaer and Floon were jumped by five Zhentarim thugs after leaving 
 
 
 
+
+- **S01E02:** Renaer explains the kidnapping: Zhentarim took him and Floon from Fillet Lane, then Xanathar Guild attacked and took Floon thinking he was Renaer
+
 ## Connected Characters
 
 
+
+
+- [[Captain Hyustus Stagget]]
+- [[Dagult Neverember]]
+- [[Floon Blagmaar]]
+- [[Pinker]]
+- [[Renaer Neverember]]
 
 ## Episode Appearances
 

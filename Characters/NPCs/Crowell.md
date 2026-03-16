@@ -16,6 +16,7 @@ A Zentarim lieutenant operating out of Amphail who sent Crom and his team to ste
 
 **First appearance:** [[S02E31 - Episode Sixty One (S02E31)]]
 **Total appearances:** 4 episodes
+**Faction affiliations:** [[Zentarim (Zhentarim)]]
 
 ## Description
 

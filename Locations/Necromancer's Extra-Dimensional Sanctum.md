@@ -24,9 +24,29 @@ An extra-dimensional space accessed via a portal at the top of the Kolat Towers 
 
 
 
+
+- **S01E22:** Pass through portal at top of tower using M-emblazoned rings into Necromancer's extra-dimensional sanctum
+- **S01E23:** SWOJ explores the Necromancer's extra-dimensional sanctum while he fights the city watch
+
 ## Connected Characters
 
 
+
+
+- [[Jenks]]
+- [[Lif]]
+- [[Mookie]]
+- [[Nat]]
+- [[Nim]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Squidley]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
+- [[Zylka]]
 
 ## Episode Appearances
 

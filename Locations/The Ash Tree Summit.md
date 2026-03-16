@@ -24,9 +24,24 @@ A volcanic caldera at the mountain summit containing an enormous ash tree hundre
 
 
 
+
+- **S01E21:** At the ash tree summit: werewolf and 4 wererats feast, corrupting the water with blood
+
 ## Connected Characters
 
 
+
+
+- [[Ant Queen]]
+- [[Argentia]]
+- [[Kelemvor]]
+- [[Lyrian]]
+- [[Malar]]
+- [[Rowan Crooks]]
+- [[The Hag Of Trollskull Manor]]
+- [[The Necromancer]]
+- [[Third Dryad Sister]]
+- [[Tricayla]]
 
 ## Episode Appearances
 

@@ -16,6 +16,7 @@ Zhentarim lieutenant. Appears on the theater balcony with Manshoon during the ba
 
 **First appearance:** [[S01E26 - Episode Twenty Six]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Zhentarim]]
 
 ## Description
 

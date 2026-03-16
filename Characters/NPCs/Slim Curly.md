@@ -16,6 +16,7 @@ A halfling spy master and undead Jolly Gents operative. Spots SWOJ during a patr
 
 **First appearance:** [[S02E23 - Episode Fifty Three (S02E23)]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

@@ -23,9 +23,18 @@ The armed forces of Waterdeep, currently at war with Neverwinter. Soldiers occup
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

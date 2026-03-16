@@ -24,9 +24,16 @@ The Bag Man's home in the first bag of holding ever created. Contains his ledger
 
 
 
+
+- **S02E13:** The party rescues Phylith and Teriador from bags in the Bag Man's lair
+
 ## Connected Characters
 
 
+
+
+- [[Oobledoop]]
+- [[Teriador]]
 
 ## Episode Appearances
 

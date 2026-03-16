@@ -24,9 +24,29 @@ Underground vault beneath the Zadio City Music Hall containing the dragon horde 
 
 
 
+
+- **S01E25:** They discover the Vault of Dragons beneath Zadio's amphitheater
+
 ## Connected Characters
 
 
+
+
+- [[Aurinax]]
+- [[Bracks]]
+- [[Bricks]]
+- [[Charles Lurember]]
+- [[Jarlaxle]]
+- [[Manshoon]]
+- [[Mara]]
+- [[Mookie Plush]]
+- [[Mr. Ziyagi]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Sally]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Westra Multimer]]
 
 ## Episode Appearances
 

@@ -25,6 +25,9 @@ A guard captain in Neverember's forces. Escorts SWOJ during their arrest and int
 
 
 
+
+- **S02E18:** Guard captain Tresa escorts SWOJ to Castle Never; a halfling carpenter gives them a tour of the lower levels
+
 ## Episode Appearances
 
 ```dataview

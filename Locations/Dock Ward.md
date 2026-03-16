@@ -24,9 +24,34 @@ Rough district of Waterdeep near the waterfront. Experiencing significant gang v
 
 
 
+
+- **S01E01:** Party travels to the Dock Ward and visits the Skewered Dragon tavern
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Dagult Neverember]]
+- [[Durnan]]
+- [[Eunissa]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Jalaster]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Mara]]
+- [[Nim]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Volo]]
+- [[Volothamp Geddarm]]
+- [[Yagra]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

@@ -24,9 +24,21 @@ Overgrown magical laboratory space inside the Beast of Erua's ribcage. Contains 
 
 
 
+
+- **S02E03:** Lark trashes the laboratory; the teleportation circle cannot be removed
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Teriador]]
+- [[Thail]]
+- [[Volo]]
 
 ## Episode Appearances
 

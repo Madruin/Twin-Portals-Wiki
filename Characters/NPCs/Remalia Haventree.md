@@ -16,6 +16,7 @@ Harper ally, high elf wizard. Hosts SWOJ at her house while they assemble the St
 
 **First appearance:** [[S01E25 - Episode Twenty Five]]
 **Total appearances:** 5 episodes
+**Faction affiliations:** [[Harpers]]
 
 ## Description
 

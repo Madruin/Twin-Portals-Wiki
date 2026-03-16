@@ -24,9 +24,22 @@ An underground river of lava within the chasm. Crossed using stepping stones tha
 
 
 
+
+- **S02E16:** Shailheart gives them a fire-resistant scale and directions: cross the river of fire, ride the river of water
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Dagult Neverember]]
+- [[Little Joan]]
+- [[Manshoon Clone (Man-Two)]]
+- [[Shaleheart]]
+- [[Sixteen String Jack]]
+- [[The Hungry Elder]]
 
 ## Episode Appearances
 

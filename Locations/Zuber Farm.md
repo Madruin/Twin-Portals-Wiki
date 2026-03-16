@@ -24,9 +24,39 @@ Farm/vineyard in Undercliff near Stout Fellow Farm. Run by Blossom Zuber. Her so
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Anton]]
+- [[Blossom Zuber]]
+- [[Bonnie Hilltopple]]
+- [[Broxley Fairkettle]]
+- [[Dagult Neverember]]
+- [[Dalekar]]
+- [[Dasher Zuber]]
+- [[Emmek Frewn]]
+- [[Fel'Rekt Lafeen]]
+- [[Fela Lefaliir]]
+- [[Hammond Kraddoc]]
+- [[Jenks]]
+- [[Justin Rask]]
+- [[Kittle]]
+- [[Leah]]
+- [[Lif]]
+- [[Mary Stoutfellow]]
+- [[Nat]]
+- [[Pog Waggletop]]
+- [[Renaer Neverember]]
+- [[Sally]]
+- [[Simon]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Terry]]
 
 ## Episode Appearances
 

@@ -24,9 +24,44 @@ Very old tavern in the Castle Ward, built in the shell of an ancient wizard's to
 
 
 
+
+- **S01E01:** Character introductions at the Yawning Portal: Scoot (half-orc barbarian sailor), Lark (human rogue noble), Ylka (resurrected human bard), Xaerine (amnesiac halfling druid)
+- **S01E01:** Bar fight erupts between Yagra and five tattooed thugs at the Yawning Portal
+- **S01E04:** Party visits Yawning Portal, discovers they are banned for 20 days
+- **S01E11:** SWOJ meets Davil Starsong of the Zhentarim Doom Raiders at the Yawning Portal
+- **S02E38:** SWOJ is unbanned from the Yawning Portal; Xae hears a mysterious voice from Undermountain saying 'come home'
+- **S02E38:** Ylka performs with Three Strings at the Yawning Portal to a packed crowd
+
 ## Connected Characters
 
 
+
+
+- [[Agorna]]
+- [[Amalia Cassalanter]]
+- [[Aurinax]]
+- [[Bonnie]]
+- [[Bricks And Bracks]]
+- [[Dagult Neverember]]
+- [[Dalekar]]
+- [[Davil Starsong]]
+- [[Durnan]]
+- [[Elzerina Cassalanter]]
+- [[Eunissa]]
+- [[Fai Chen]]
+- [[Fel'Rekt Lafeen]]
+- [[Fela Lefaliir]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Grim Wavesilver]]
+- [[Grinda Garloth]]
+- [[Halaster Blackcloak]]
+- [[Harold]]
+- [[Hrabbaz]]
+- [[Jalaster]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
+- [[Jenks]]
 
 ## Episode Appearances
 

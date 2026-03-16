@@ -24,9 +24,26 @@ Cemetery or memorial grounds mentioned in connection with the Gralhund crypts an
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Agorna]]
+- [[Amalia Cassalanter]]
+- [[Bonnie]]
+- [[Fela Lefaliir]]
+- [[Grinda Garloth]]
+- [[Jarlaxle]]
+- [[Max]]
+- [[Osvaldo Cassalanter]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Willifort Crowell]]
+- [[Zylka]]
 
 ## Episode Appearances
 

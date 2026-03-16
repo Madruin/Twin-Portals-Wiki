@@ -23,9 +23,18 @@ The governing council of the Radiant Citadel representing each founding culture 
 
 
 
+
+
+
+
+- [[Sholeh]]
+
 ## Activities
 
 
+
+
+- **S02E33:** Shole and all Speakers for the Ancestors have been missing since the pylons activated
 
 ## Episode Appearances
 

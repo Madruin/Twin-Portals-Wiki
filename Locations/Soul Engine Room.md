@@ -24,9 +24,20 @@ A massive underground chamber housing the soul engine -- a central sphere fed by
 
 
 
+
+- **S02E23:** SWOJ reaches the soul engine room and finds Little Joan doing pull-ups
+
 ## Connected Characters
 
 
+
+
+- [[Friar Truck]]
+- [[Grabmaar]]
+- [[Little Joan]]
+- [[Pill Garlic]]
+- [[Sixteen String Jack]]
+- [[Slim Curly]]
 
 ## Episode Appearances
 

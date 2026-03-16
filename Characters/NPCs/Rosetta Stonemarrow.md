@@ -25,6 +25,9 @@ Dwarf woman encountered 500 years in the past (992 DR). Historian and scholar wh
 
 
 
+
+- **S01E25:** They meet Rosetta Stonemeroe, a dwarven historian, in ancient Waterdeep
+
 ## Episode Appearances
 
 ```dataview

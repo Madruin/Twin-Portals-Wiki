@@ -16,6 +16,7 @@ Leader of Bregan D'aerthe. Mentioned in connection with doppelganger potions and
 
 **First appearance:** [[S01E26 - Episode Twenty Six]]
 **Total appearances:** 12 episodes
+**Faction affiliations:** [[Bregan D'Aerthe]], [[Sea Maiden'S Fair]]
 
 ## Description
 

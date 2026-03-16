@@ -23,9 +23,18 @@ Black metal bell-shaped helmets with glass windows and hundreds of centipede leg
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S02E12:** Soul Collectors (metal helmet creatures on moths) vacuum-capture SWOJ's souls
 
 ## Episode Appearances
 

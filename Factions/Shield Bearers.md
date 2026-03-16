@@ -23,9 +23,18 @@ The guard force of the Radiant Citadel who also serve as a questing adventuring 
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

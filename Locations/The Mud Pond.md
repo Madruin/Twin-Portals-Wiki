@@ -24,9 +24,18 @@ A hazardous underground area between the main shaft and the obsidian fortress, f
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bronk]]
+- [[Jack]]
+- [[Jill (Ygglimar)]]
+- [[Velia Shadowmantle]]
 
 ## Episode Appearances
 

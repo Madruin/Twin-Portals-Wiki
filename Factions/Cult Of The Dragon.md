@@ -23,9 +23,20 @@ A faction allied with Manshoon's forces. Dragon cultists are present in the Spir
 
 
 
+
+
+
+
+- [[Amalia Cassalanter]]
+- [[Velia Shadowmantle]]
+
 ## Activities
 
 
+
+
+- **S02E20:** Final war council reviews threats: Waterdeep (dragons), Luskan (barbarians), Amphail (army), Cult of the Dragon
+- **S02E27:** SWOJ discovers a hidden cave with a magical pump operated by three Cult of the Dragon members
 
 ## Episode Appearances
 

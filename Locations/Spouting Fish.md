@@ -24,9 +24,33 @@ Tavern owned by Eunissa where people have been going missing. Connected to sewer
 
 
 
+
+- **S01E04:** Investigate the Spouting Fish tavern where people have gone missing
+
 ## Connected Characters
 
 
+
+
+- [[Bacto And Juba]]
+- [[Captain Hyustus Stagget]]
+- [[Esther]]
+- [[Eunissa]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Jenks]]
+- [[Lif Lindgren]]
+- [[Mara]]
+- [[Mordecai Gralhund]]
+- [[Nat]]
+- [[Pinker]]
+- [[Renaer Neverember]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Ulkoria Stonemarrow]]
+- [[Volo]]
 
 ## Episode Appearances
 

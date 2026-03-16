@@ -24,9 +24,28 @@ A famous fest hall and inn located on a floating island chained above Neverwinte
 
 
 
+
+- **S02E14:** At the Moonstone Mask, SWOJ discovers staff use sending stones to share all overheard information
+- **S02E14:** They cross the Sleeping Dragon Bridge and observe Castle Never (dark, abandoned), the Hall of Justice, and the Moonstone Mask (floating island inn)
+- **S02E15:** Guards announce SWOJ is wanted for murdering Shimmer Brackenwell at the Moonstone Mask -- someone impersonating Lark (red hat, vanishing into mist) framed them
+
 ## Connected Characters
 
 
+
+
+- [[16 String Jack]]
+- [[Dagult Neverember]]
+- [[Fel'Rekt Lafeen]]
+- [[Fumbles  Fumblewick]]
+- [[Jarlaxle Baenre]]
+- [[Laila]]
+- [[Renaer Neverember]]
+- [[Shimmer Brackenwell]]
+- [[Slippery Shim]]
+- [[Squidly]]
+- [[Teriador]]
+- [[The Milliner]]
 
 ## Episode Appearances
 

@@ -24,9 +24,24 @@ A building three times the size of the hag's shack, containing 18 wooden cages h
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ant Queen]]
+- [[Argentia]]
+- [[Kelemvor]]
+- [[Lyrian]]
+- [[Malar]]
+- [[Rowan Crooks]]
+- [[The Hag Of Trollskull Manor]]
+- [[The Necromancer]]
+- [[Third Dryad Sister]]
+- [[Tricayla]]
 
 ## Episode Appearances
 

@@ -23,9 +23,18 @@ The allied Jolly Gents contingent operating at the surface of Castle Naerytar. T
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

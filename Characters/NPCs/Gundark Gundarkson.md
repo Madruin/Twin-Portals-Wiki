@@ -23,7 +23,9 @@ Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards 
 
 ## Role in the Story
 
-*Details to be added.*
+
+- **S02E06:** Meet Gundarkson at the Stag and Flag -- he's the bartender-mayor of Amphail
+- **S02E06:** Gundarkson reveals mists cause blackouts -- he woke up outside with an axe after one
 
 ## Episode Appearances
 

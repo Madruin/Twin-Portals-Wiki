@@ -24,9 +24,18 @@ The plane of existence that the Concord Jewel travels through to reach the Radia
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Fel'Rekt Lafeen]]
+- [[Squidly]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

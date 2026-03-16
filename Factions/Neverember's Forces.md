@@ -23,9 +23,18 @@ Lord Dagult Neverember's military forces. Arrive at the subterranean lake and de
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

@@ -24,9 +24,23 @@ A grand stone cathedral with rubble strewn around its base, containing Kelemvor'
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Bronk]]
+- [[Jergal]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Mortimer Quill]]
+- [[Orcus]]
+- [[The Raven Queen]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

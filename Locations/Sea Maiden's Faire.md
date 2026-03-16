@@ -24,9 +24,24 @@ A carnival/faire on the docks of Waterdeep, run by Zardos Zord. Where Pog and th
 
 
 
+
+- **S01E06:** Party travels to Sea Maiden's Faire and meets Pog and Zardos Zord
+
 ## Connected Characters
 
 
+
+
+- [[Anton]]
+- [[Fel'Rekt]]
+- [[Gildis]]
+- [[Grinda Garloth]]
+- [[Lif Lindgren]]
+- [[Pog Waggletop]]
+- [[Terry]]
+- [[Ylka Doppelganger]]
+- [[Zardoz Zord]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

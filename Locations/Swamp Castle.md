@@ -24,9 +24,16 @@ A roadhouse in the Mere of Dead Men run by lizardfolk. SWOJ meets Semu here and 
 
 
 
+
+- **S02E27:** Party arrives at Swamp Castle, a lizardfolk-run roadhouse
+
 ## Connected Characters
 
 
+
+
+- [[Little Joan]]
+- [[Semu]]
 
 ## Episode Appearances
 

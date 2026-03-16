@@ -24,9 +24,27 @@ The far reaches of the Ethereal Plane where the Radiant Citadel floats. A plane 
 
 
 
+
+- **S02E32:** SWOJ travels through the deep ethereal plane toward the Radiant Citadel with the Keening Gloom in the background
+
 ## Connected Characters
 
 
+
+
+- [[Fioleth The Ragamoffin]]
+- [[Hanna]]
+- [[Leah]]
+- [[Rose Quartz Incarnate]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Sid Squid]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Trill]]
+- [[Urstul Floxxin]]
+- [[Vincent Trench]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

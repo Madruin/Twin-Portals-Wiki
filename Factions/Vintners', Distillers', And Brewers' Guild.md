@@ -23,9 +23,18 @@ One of the guilds involved in tavern licensing. Hammond Kraddoc is a representat
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

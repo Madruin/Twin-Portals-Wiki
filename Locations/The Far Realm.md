@@ -24,9 +24,26 @@ The primordial chaos outside the multiverse, beyond the Wall. Where the Breathle
 
 
 
+
+- **S02E11:** The instrument ship sails through the Wall into the Far Realm
+- **S02E12:** SWOJ exists as spectral souls in the Far Realm; Shuni's ghost advises them before being recaptured by Rowan Crooks
+- **S02E12:** The moths carry and heal SWOJ's bodies while transporting them deeper into the Far Realm
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Friar Truck]]
+- [[Little Joan]]
+- [[Melifarn]]
+- [[Pippa Flouf]]
+- [[Rowan Crooks]]
+- [[Shoonie]]
+- [[Teriador The Rose Knight  The Blight Knight]]
+- [[The Body Taker]]
+- [[Vincent Trench]]
 
 ## Episode Appearances
 

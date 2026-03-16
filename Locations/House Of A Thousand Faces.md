@@ -24,9 +24,22 @@ A clothing boutique in the middle of Neverwinter that serves as the base of the 
 
 
 
+
+- **S02E14:** Felrecht directs them to the House of a Thousand Faces (Harper base in Neverwinter)
+
 ## Connected Characters
 
 
+
+
+- [[Dagult Neverember]]
+- [[Fel'Rekt Lafeen]]
+- [[Jarlaxle Baenre]]
+- [[Renaer Neverember]]
+- [[Slippery Shim]]
+- [[Squidly]]
+- [[Teriador]]
+- [[The Milliner]]
 
 ## Episode Appearances
 

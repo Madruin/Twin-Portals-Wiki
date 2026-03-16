@@ -16,6 +16,7 @@ Member of the Jolly Gents who appeared alongside Rowan Crooks during the summer 
 
 **First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 11 episodes
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

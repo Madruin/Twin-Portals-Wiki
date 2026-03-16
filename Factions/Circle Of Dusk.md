@@ -23,9 +23,24 @@ A druid circle that tends the Cryptwood near the Sword Mountains. May know about
 
 
 
+
+
+
+
+- [[Ander]]
+- [[Nuria]]
+- [[Shala]]
+
 ## Activities
 
 
+
+
+- **S02E06:** Reach the Circle of Dusk glade and meet Farron, an amnesiac soldier cared for by the missing druids
+- **S02E07:** Leah stays with Circle of Dusk to help coordinate refugee transport
+- **S02E08:** Leah is sent back with moth weed and stays to coordinate refugee transport with the Circle of Dusk
+- **S02E19:** Meeting with Circle of Dusk druids Leah and Shala who provide intel on the Spiral Cavern
+- **S02E30:** They meet Kingfisher, a Circle of Dusk druid, who reports Neverwinter has marshalled forces
 
 ## Episode Appearances
 

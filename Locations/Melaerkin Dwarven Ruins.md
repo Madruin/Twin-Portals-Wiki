@@ -24,9 +24,15 @@ Ancient dwarven ruins connected to the vault complex beneath the amphitheater.
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

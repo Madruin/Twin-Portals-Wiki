@@ -25,6 +25,9 @@ A black dragon with mottled silvery scales, one of the rescued dragons of the Wa
 
 
 
+
+- **S02E30:** SWOJ flies east from Castle Nehri Tar on three allied dragons: Jill, Argentis, and Grage
+
 ## Episode Appearances
 
 ```dataview

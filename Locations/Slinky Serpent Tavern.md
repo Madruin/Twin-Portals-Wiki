@@ -24,9 +24,20 @@ A tavern located southeast of the House of a Thousand Faces in Neverwinter. Wher
 
 
 
+
+- **S02E15:** Renaer introduces Fumbles/Fumblewick, a gnome city guard resistance contact at the Slinky Serpent tavern who has accompanied caravans into the chasm
+
 ## Connected Characters
 
 
+
+
+- [[16 String Jack]]
+- [[Fel'Rekt Lafeen]]
+- [[Fumbles  Fumblewick]]
+- [[Laila]]
+- [[Renaer Neverember]]
+- [[Shimmer Brackenwell]]
 
 ## Episode Appearances
 

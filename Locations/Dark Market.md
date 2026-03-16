@@ -24,9 +24,24 @@ A bustling bazaar in the Shadowfell where various beings trade exotic goods. Fea
 
 
 
+
+- **S02E21:** Party descends to the Dark Market and spots a mirror dragon
+
 ## Connected Characters
 
 
+
+
+- [[Blish]]
+- [[Chauncey (Beaky)]]
+- [[Curio]]
+- [[Idae]]
+- [[Lucinda]]
+- [[Mari]]
+- [[Mikael]]
+- [[Ryloren]]
+- [[Santorini]]
+- [[Spider Merchant]]
 
 ## Episode Appearances
 

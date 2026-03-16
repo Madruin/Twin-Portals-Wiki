@@ -24,9 +24,22 @@ An underground river within the chasm that SWOJ rides downstream to reach the su
 
 
 
+
+- **S02E16:** Shailheart gives them a fire-resistant scale and directions: cross the river of fire, ride the river of water
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Dagult Neverember]]
+- [[Little Joan]]
+- [[Manshoon Clone (Man-Two)]]
+- [[Shaleheart]]
+- [[Sixteen String Jack]]
+- [[The Hungry Elder]]
 
 ## Episode Appearances
 

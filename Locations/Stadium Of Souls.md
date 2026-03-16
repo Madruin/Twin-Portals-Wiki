@@ -24,9 +24,20 @@ A cylindrical arena (described as a giant Pringles can) within the Museum of the
 
 
 
+
+- **S02E12:** They are deposited in the Stadium of Souls; bodies stored in resurrection chamber, souls in cells
+
 ## Connected Characters
 
 
+
+
+- [[Pippa Flouf]]
+- [[Rowan Crooks]]
+- [[Shoonie]]
+- [[Teriador The Rose Knight  The Blight Knight]]
+- [[The Body Taker]]
+- [[Vincent Trench]]
 
 ## Episode Appearances
 

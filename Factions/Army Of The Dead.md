@@ -23,9 +23,18 @@ Ancient souls raised from the Wall of the Faithless by Arcturia's ritual. Blue a
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S02E36:** Army of the dead marches up the crystal spire to the Radiant Citadel
 
 ## Episode Appearances
 

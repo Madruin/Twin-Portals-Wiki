@@ -25,6 +25,11 @@ Rock gnome inventor at The Way Inn. Creator of the Dynamo of Possibility, a devi
 
 
 
+
+- **S02E01:** They meet Volo, Radissera, Lai Angustune, Tigit Sketch, and bartender Dorvina
+- **S02E03:** Radissera reveals his stolen Dynamo of Possibility is what animates the beast and creates podlings
+- **S02E05:** Radisare examines the Dynamo and casts Geas on Rowan to safeguard Fetch
+
 ## Episode Appearances
 
 ```dataview

@@ -23,9 +23,18 @@ Neverwinter's assembled military force consisting of 500 soldiers and 30 spellca
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

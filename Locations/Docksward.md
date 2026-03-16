@@ -24,9 +24,25 @@ The harbor district of Waterdeep where Zelapharn the dragon resides underwater.
 
 
 
+
+- **S01E22:** Scoot dives to visit Zelapharn the bronze dragon in the Docksward harbor
+
 ## Connected Characters
 
 
+
+
+- [[Jenks]]
+- [[Lif]]
+- [[Mookie]]
+- [[Nat]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

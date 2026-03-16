@@ -24,9 +24,25 @@ The nobleman's residence where SWOJ obtains the diamond for Lark's resurrection.
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Jenks]]
+- [[Lif]]
+- [[Mookie]]
+- [[Nat]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

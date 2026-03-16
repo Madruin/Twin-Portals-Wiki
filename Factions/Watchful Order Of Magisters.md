@@ -23,9 +23,18 @@ Waterdeep organization that registers magic users. Captain Staget advises the pa
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+- **S01E05:** Captain Staget advises the party to register magic users with the Watchful Order of Magisters
 
 ## Episode Appearances
 

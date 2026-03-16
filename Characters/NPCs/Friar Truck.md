@@ -16,6 +16,7 @@ Member of the Jolly Gents. Healed the wound on Lark's head after Rowan extracted
 
 **First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 4 episodes
+**Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
 ## Description
 

@@ -16,6 +16,7 @@ Harper agent at the Skewered Dragon tavern in the Dock Ward. Provided informatio
 
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
+**Faction affiliations:** [[Harpers]]
 
 ## Description
 
@@ -24,6 +25,9 @@ Harper agent at the Skewered Dragon tavern in the Dock Ward. Provided informatio
 ## Role in the Story
 
 
+
+
+- **S01E01:** Lark meets Jelaster the Harper, who directs them to Candle Lane
 
 ## Episode Appearances
 

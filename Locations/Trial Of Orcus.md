@@ -24,9 +24,23 @@ A demonic gauntlet within the Shrouded Citadel featuring a bone colosseum, rapid
 
 
 
+
+- **S02E29:** SWOJ completes the Trial of Orcus -- rapid-fire riddles, bone bridge obstacle course, and death stench hallway
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Bronk]]
+- [[Jergal]]
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Mortimer Quill]]
+- [[Orcus]]
+- [[The Raven Queen]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

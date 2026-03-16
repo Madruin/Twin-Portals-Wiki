@@ -24,9 +24,23 @@ The pirate-infested waters around Lantan and Devil's Rock. Contains Driftwood, v
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Jarlaxle]]
+- [[Long John McRon]]
+- [[Melifarn]]
+- [[Rose Quartz Incarnate]]
+- [[Sarith Ab'Jean]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Trill]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

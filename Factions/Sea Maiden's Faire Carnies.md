@@ -23,9 +23,18 @@ The carnival performers and workers at the Sea Maiden's Faire, under Zardos Zord
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

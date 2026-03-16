@@ -24,9 +24,22 @@ A sparring platform in the Bailey where Jolly Gents fight with staffs. Anjane Fl
 
 
 
+
+- **S02E22:** Lark defeats Anjane in a staff sparring match on the Bridge of Destiny
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Giggling Gus]]
+- [[Helena Van Der Graff]]
+- [[Long Mary]]
+- [[Quick Quill Quincy]]
+- [[Rambling Bill]]
+- [[Rowan Crooks]]
 
 ## Episode Appearances
 

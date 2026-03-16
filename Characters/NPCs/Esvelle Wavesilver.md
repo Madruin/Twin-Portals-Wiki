@@ -25,6 +25,10 @@ Lark's mother. Supportive and kind, urges Lark to have patience with his father.
 
 
 
+
+- **S01E27:** Isabelle Wavesilver (the Black Viper, Lark's mother) breaks them out of prison
+- **S01E27:** Isabelle goes ahead to enter the feast with Lark's father
+
 ## Episode Appearances
 
 ```dataview

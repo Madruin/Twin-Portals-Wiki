@@ -24,9 +24,30 @@ Underground tunnels beneath the borderlands where the Brighanox live. Connected 
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ann Jane Flip-Flap]]
+- [[Antediluvian Jake]]
+- [[Blish]]
+- [[Dorvina]]
+- [[Fritz]]
+- [[Green Imsa]]
+- [[Idae]]
+- [[Ly Angestunne]]
+- [[Mari]]
+- [[Rackjack]]
+- [[Radecere]]
+- [[Rowan Crooks]]
+- [[Squidly]]
+- [[Thail]]
+- [[Tyjit Skesh]]
+- [[Volo]]
 
 ## Episode Appearances
 

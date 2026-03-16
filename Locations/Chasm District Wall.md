@@ -24,9 +24,17 @@ The defensive wall surrounding the chasm district in Neverwinter. SWOJ travels h
 
 
 
+
+- **S02E17:** Party pushes toward the chasm district wall and witnesses an enormous kaiju creature
+
 ## Connected Characters
 
 
+
+
+- [[Dagult Neverember]]
+- [[Shaleheart]]
+- [[Tressa]]
 
 ## Episode Appearances
 

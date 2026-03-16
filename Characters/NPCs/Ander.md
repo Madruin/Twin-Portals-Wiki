@@ -16,6 +16,7 @@ Member of the Circle of Dusk druids. Has gone missing from the glade in the Cryp
 
 **First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
 **Total appearances:** 6 episodes
+**Faction affiliations:** [[Circle Of Dusk]]
 
 ## Description
 

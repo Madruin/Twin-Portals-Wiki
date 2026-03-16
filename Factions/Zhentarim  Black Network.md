@@ -23,9 +23,18 @@ Criminal organization with competing factions in Waterdeep. The Doom Raiders rep
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

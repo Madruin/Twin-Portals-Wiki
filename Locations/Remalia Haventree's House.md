@@ -24,9 +24,33 @@ Harper safe house in Waterdeep where SWOJ assembles the Stone of Golorr and late
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Aurinax]]
+- [[Bracks]]
+- [[Bricks]]
+- [[Charles Lurember]]
+- [[Jarlaxle]]
+- [[Laeral Silverhand]]
+- [[Manshoon]]
+- [[Mara]]
+- [[Melifarn]]
+- [[Mookie Plush]]
+- [[Mr. Ziyagi]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Rosetta Stonemarrow]]
+- [[Sally]]
+- [[Terry]]
+- [[Victoro Cassalanter]]
+- [[Westra Multimer]]
+- [[Zadio Neverember]]
 
 ## Episode Appearances
 

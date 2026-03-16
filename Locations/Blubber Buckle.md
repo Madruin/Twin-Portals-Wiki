@@ -24,9 +24,24 @@ A rowdy four-story pirate tavern in Driftwood with competing musicians on each f
 
 
 
+
+- **S02E09:** Ylka performs a pirate shanty at the Blubber Buckle, inadvertently advertising their quest for the whirlpool
+- **S02E09:** Party finds Jarlaxle (as Zardos Zord) at the Blubber Buckle tavern in Driftwood
+
 ## Connected Characters
 
 
+
+
+- [[Jarlaxle]]
+- [[Long John McRon]]
+- [[Melifarn]]
+- [[Rose Quartz Incarnate]]
+- [[Sarith Ab'Jean]]
+- [[Sax Bandon]]
+- [[Sholeh]]
+- [[Trill]]
+- [[Zelifarn]]
 
 ## Episode Appearances
 

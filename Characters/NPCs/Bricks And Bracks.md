@@ -16,6 +16,7 @@ Former Harper allies and city watch members revealed to be traitors working for 
 
 **First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 2 episodes
+**Faction affiliations:** [[Cassalanters]], [[City Watch]]
 
 ## Description
 

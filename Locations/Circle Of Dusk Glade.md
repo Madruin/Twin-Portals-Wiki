@@ -24,9 +24,30 @@ A wide open clearing in the Cryptwood with old trees, moss, and druidic totems. 
 
 
 
+
+- **S02E06:** Reach the Circle of Dusk glade and meet Farron, an amnesiac soldier cared for by the missing druids
+
 ## Connected Characters
 
 
+
+
+- [[Ander]]
+- [[Anya Ermbrusk]]
+- [[Craw]]
+- [[Farron]]
+- [[Froon]]
+- [[Gundark Gundarkson]]
+- [[Hanna]]
+- [[Jonas]]
+- [[Juan]]
+- [[Kai]]
+- [[Nina Blackthorn]]
+- [[Nuria]]
+- [[Phyllis]]
+- [[Shala]]
+- [[Ted]]
+- [[Ziraj The Hunter]]
 
 ## Episode Appearances
 

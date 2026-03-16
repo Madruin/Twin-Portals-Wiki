@@ -23,9 +23,18 @@ Ruling council of Waterdeep. Laeral Silverhand is the Open Lord. She takes direc
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

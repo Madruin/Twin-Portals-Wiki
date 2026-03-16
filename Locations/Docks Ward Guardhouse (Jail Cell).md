@@ -24,9 +24,22 @@ Where SWOJ is imprisoned. The Stone of Galore activates here during the night, t
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Ghosts Of Solstice Past]]
+- [[Gorge Baileybrew]]
+- [[Grandfather Niklas]]
+- [[Hans Von Gruber]]
+- [[Navi]]
+- [[Xae (Prehistoric)]]
+- [[Zaka]]
+- [[Zuzu]]
 
 ## Episode Appearances
 

@@ -16,6 +16,7 @@ A halfling knight wearing night regalia and a helmet that mostly obscures her fa
 
 **First appearance:** [[S02E15 - Episode Forty Five (S02E15)]]
 **Total appearances:** 1 episode
+**Faction affiliations:** [[The Resistance]]
 
 ## Description
 

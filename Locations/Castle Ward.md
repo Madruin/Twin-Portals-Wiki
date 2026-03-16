@@ -24,9 +24,40 @@ District of Waterdeep where the palace and nobility reside. High guard presence,
 
 
 
+
+- **S01E06:** Emerge inside the God Catcher statue in the Castle Ward
+- **S01E15:** Secret entrance to Xanathar's Lair via sewers below Castle Ward (symbol: circle with 10 spokes)
+
 ## Connected Characters
 
 
+
+
+- [[Bartolo]]
+- [[Bonnie]]
+- [[Captain Hyustus Stagget]]
+- [[Dagult Neverember]]
+- [[Durnan]]
+- [[Eunissa]]
+- [[Flo]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Jalaster]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Mara]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Sylgar]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Thorvin Twinbeard]]
+- [[Volo]]
+- [[Volothamp Geddarm]]
+- [[Xibrinidas]]
+- [[Yagra]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

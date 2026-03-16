@@ -16,6 +16,7 @@ Son of Dagult Neverember, the former Open Lord of Waterdeep. Handsome man with h
 
 **First appearance:** [[S01E02 - Episode Two]]
 **Total appearances:** 21 episodes
+**Faction affiliations:** [[The Resistance]]
 
 ## Description
 

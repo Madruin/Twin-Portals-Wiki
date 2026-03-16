@@ -24,9 +24,24 @@ Residence run by Mellinor where Xaerine stayed before having to flee due to dang
 
 
 
+
+- **S01E01:** Xaerine needs a new place to stay after fleeing House Phaulkonmere; Lark arranges for her to move into the Splintered Stair
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Dagult Neverember]]
+- [[Durnan]]
+- [[Floon Blagmaar]]
+- [[Jalaster]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Remalia Haventree]]
+- [[Volothamp Geddarm]]
+- [[Yagra]]
 
 ## Episode Appearances
 

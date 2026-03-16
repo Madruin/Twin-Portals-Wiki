@@ -23,9 +23,18 @@ Allied forces from Neverwinter and Waterdeep who arrive aboard the hammerhead sh
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

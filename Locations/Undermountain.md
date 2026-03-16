@@ -24,9 +24,41 @@ Massive, never-ending complex of underground tunnels and dungeons below Waterdee
 
 
 
+
+- **S01E01:** Tattooed leader drinks a potion and escapes down the Yawning Portal well into Undermountain
+- **S02E38:** SWOJ is unbanned from the Yawning Portal; Xae hears a mysterious voice from Undermountain saying 'come home'
+- **S02E38:** Xae dreams of a voice saying 'one sibling freed, five more and nine years remain' with a vision of a red cloak morphing into a many-eyed cloth — connected to Undermountain
+
 ## Connected Characters
 
 
+
+
+- [[Amalia Cassalanter]]
+- [[Aurinax]]
+- [[Bonnie]]
+- [[Bricks And Bracks]]
+- [[Dagult Neverember]]
+- [[Davil Starsong]]
+- [[Durnan]]
+- [[Elzerina Cassalanter]]
+- [[Fai Chen]]
+- [[Fela Lefaliir]]
+- [[Floon Blagmaar]]
+- [[Friar Truck]]
+- [[Grim Wavesilver]]
+- [[Halaster Blackcloak]]
+- [[Jalaster]]
+- [[Jarlaxle]]
+- [[Jarlaxle Baenre]]
+- [[Jenks]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Lif]]
+- [[Little Joan]]
+- [[Lyrian]]
+- [[Manshoon]]
+- [[Masked Lords]]
 
 ## Episode Appearances
 

@@ -24,9 +24,21 @@ A room in the sanctum containing a green flame brazier (enchanted, watching intr
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Mookie]]
+- [[Nim]]
+- [[Remalia Haventree]]
+- [[Squidley]]
+- [[The Necromancer]]
+- [[Urstul Floxxin]]
+- [[Zylka]]
 
 ## Episode Appearances
 

@@ -24,9 +24,19 @@ A portal location connecting the Shadowfell to the Material Plane. SWOJ uses it 
 
 
 
+
+- **S02E26:** SWOJ exits the Shadowfell through the Shard of Night portal to Neverwinter
+
 ## Connected Characters
 
 
+
+
+- [[Kelemvor]]
+- [[Little Joan]]
+- [[Lochlina]]
+- [[Renaer Neverember]]
+- [[The Raven Queen]]
 
 ## Episode Appearances
 

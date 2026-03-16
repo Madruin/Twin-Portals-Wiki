@@ -24,9 +24,25 @@ Gladiatorial arena within the Xanathar's lair where captured prisoners are force
 
 
 
+
+- **S01E16:** SWOJ surrenders and is captured, sent to the Arena of Blood and Fortune
+- **S01E17:** SWOJ is captured, stripped of gear, and brought to the Arena of Blood and Fortune
+
 ## Connected Characters
 
 
+
+
+- [[Flutterfoot Zipswiggle]]
+- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Narl Xibrindas]]
+- [[Ott Steeltoes]]
+- [[Pinker]]
+- [[Remallia Haventree]]
+- [[Sally]]
+- [[Sylgar]]
+- [[The Xanathar]]
+- [[Thorvin Twinbeard]]
 
 ## Episode Appearances
 

@@ -24,9 +24,15 @@ Ancient open-air theater in 992 DR Waterdeep owned by Zadio Neverember. The Vaul
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

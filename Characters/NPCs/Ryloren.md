@@ -25,6 +25,10 @@ An angel who trades rare artifacts from a cabinet in the Dark Market. His cabine
 
 
 
+
+- **S02E21:** Rylerin rewards SWOJ with the spell jamming helm; reveals the jar contained the Breath of the First Dawn
+- **S02E21:** Meeting Curio (mimic merchant) who offers the spell jamming helm for stealing from Rylerin
+
 ## Episode Appearances
 
 ```dataview

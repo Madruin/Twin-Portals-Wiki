@@ -24,9 +24,16 @@ A sacred natural area within the Radiant Citadel where Zelifarn's body lies. Con
 
 
 
+
+- **S02E32:** Zellopharn contacts Xae through soul pendant -- the Preserve of Ancestors is under attack
+- **S02E33:** The dracolich enters the Preserve of Ancestors and captures the dragon incarnate in an orb of force -- the citadel shakes violently
+
 ## Connected Characters
 
 
+
+
+*No connected characters identified from transcripts.*
 
 ## Episode Appearances
 

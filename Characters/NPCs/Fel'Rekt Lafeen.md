@@ -16,6 +16,7 @@ Drow agent of Bregan D'aerthe. Visits Trollskull Manor at noon, reveals his orga
 
 **First appearance:** [[S01E07 - Episode Seven]]
 **Total appearances:** 4 episodes
+**Faction affiliations:** [[Bregan D'Aerthe]]
 
 ## Description
 

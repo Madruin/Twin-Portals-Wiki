@@ -23,7 +23,9 @@ An ally who traveled with SWOJ. Moves into a room at Trollskull Manor and delive
 
 ## Role in the Story
 
-*Details to be added.*
+
+- **S01E23:** Find Squiddly with Urstul Floxin near the tower exit
+- **S01E23:** Squiddly reveals he pickpocketed the second Eye from Urstul and rejoins SWOJ
 
 ## Episode Appearances
 

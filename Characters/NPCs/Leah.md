@@ -16,6 +16,7 @@ Friend of Xaerine staying at House Phaulkonmere under Maelanore's care.
 
 **First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 5 episodes
+**Faction affiliations:** [[Emerald Enclave]]
 
 ## Description
 

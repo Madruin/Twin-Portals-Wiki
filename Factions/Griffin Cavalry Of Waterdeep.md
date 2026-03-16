@@ -23,9 +23,18 @@ Waterdeep's aerial military force, present at the Spiral Cavern to assist with r
 
 
 
+
+
+
+
+*No known members identified from transcripts.*
+
 ## Activities
 
 
+
+
+*No specific activities recorded in transcripts.*
 
 ## Episode Appearances
 

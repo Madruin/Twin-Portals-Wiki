@@ -24,9 +24,20 @@ The mouth and interior of the colossal dead viper fish deity in the Far Realm. S
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Pippa Flouf]]
+- [[Rowan Crooks]]
+- [[Shoonie]]
+- [[Teriador The Rose Knight  The Blight Knight]]
+- [[The Body Taker]]
+- [[Vincent Trench]]
 
 ## Episode Appearances
 

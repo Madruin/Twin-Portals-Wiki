@@ -24,9 +24,33 @@ Cemetery district of Waterdeep. Where Xaerine arrived through a portal and where
 
 
 
+
+- **S01E13:** The note reveals a map of the City of the Dead pointing to the Gralhund Crypt
+- **S01E13:** SWOJ travels to the City of the Dead during the Feast of the Moon festival
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Captain Hyustus Stagget]]
+- [[Dagult Neverember]]
+- [[Durnan]]
+- [[Floon Blagmaar]]
+- [[Hrabbaz]]
+- [[Jalaster]]
+- [[Laeral Silverhand]]
+- [[Leah]]
+- [[Orond Gralhund]]
+- [[Remalia Haventree]]
+- [[Sally]]
+- [[Terry]]
+- [[Volothamp Geddarm]]
+- [[Willifort Crowell]]
+- [[Yagra]]
+- [[Yalah Gralhund]]
+- [[Zylka]]
 
 ## Episode Appearances
 

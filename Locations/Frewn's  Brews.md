@@ -24,9 +24,32 @@ Floon Blagmaar's restaurant in Trollskull Alley. Received a 1,000 gold investmen
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Blossom Zuber]]
+- [[Emmek Frewn]]
+- [[Fel'Rekt Lafeen]]
+- [[Jenks]]
+- [[Leah]]
+- [[Lif]]
+- [[Mary Stoutfellow]]
+- [[Nat]]
+- [[Pog Waggletop]]
+- [[Sally]]
+- [[Simon]]
+- [[Squidly]]
+- [[Tagga]]
+- [[Terry]]
+- [[Tula]]
+- [[Ulkoria Stonemarrow]]
+- [[Winston]]
+- [[Yagra]]
 
 ## Episode Appearances
 

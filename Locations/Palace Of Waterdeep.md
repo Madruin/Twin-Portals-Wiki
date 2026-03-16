@@ -24,9 +24,28 @@ Seat of government on the western shore atop the mountain. Laeral initially clai
 
 
 
+
+*No notable events recorded in transcripts.*
+
 ## Connected Characters
 
 
+
+
+- [[Bartolo]]
+- [[Captain Hyustus Stagget]]
+- [[Flo]]
+- [[Floon Blagmaar]]
+- [[Harold]]
+- [[Laeral Silverhand]]
+- [[Remalia Haventree]]
+- [[Sylgar]]
+- [[Tagga]]
+- [[Terry]]
+- [[The Black Viper]]
+- [[Thorvin Twinbeard]]
+- [[Xibrinidas]]
+- [[Zardoz Zord]]
 
 ## Episode Appearances
 

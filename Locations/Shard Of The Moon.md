@@ -24,9 +24,39 @@ SWOJ's citadel, now connected to Trollskull Manor via the new teleportation circ
 
 
 
+
+- **S02E38:** The teleportation circle in Trollskull's basement has been completed by Alcoria Stonemarrow, connecting to the Shard of the Moon
+
 ## Connected Characters
 
 
+
+
+- [[Bonnie]]
+- [[Durnan]]
+- [[Fai Chen]]
+- [[Grim Wavesilver]]
+- [[Jarlaxle]]
+- [[Jenks]]
+- [[Laeral Silverhand]]
+- [[Lif]]
+- [[Lyrian]]
+- [[Melifarn]]
+- [[Mordecai Gralhund]]
+- [[Pinker]]
+- [[Remalia Haventree]]
+- [[Renaer Neverember]]
+- [[Sally]]
+- [[Shaleheart]]
+- [[Sid Squid]]
+- [[Simon]]
+- [[Squidley]]
+- [[Tagga]]
+- [[Terry]]
+- [[Three Strings]]
+- [[Ulkoria Stonemarrow]]
+- [[Vincent Trench]]
+- [[Volo]]
 
 ## Episode Appearances
 

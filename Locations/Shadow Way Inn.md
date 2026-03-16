@@ -24,9 +24,22 @@ Shadowfell version of The Way Inn, filled with podling replicas of real people. 
 
 
 
+
+- **S02E02:** The party enters the Shadow Way Inn, filled with podling replicas of real people
+
 ## Connected Characters
 
 
+
+
+- [[Blish]]
+- [[Fritz]]
+- [[Green Imsa]]
+- [[Idae]]
+- [[Mari]]
+- [[Rackjack]]
+- [[Squidly]]
+- [[Thail]]
 
 ## Episode Appearances
 

@@ -16,6 +16,7 @@ Leader of Bregan D'aerthe. Emerged from the bag of holding through connected twi
 
 **First appearance:** [[S01E29 - Episode Twenty Nine]]
 **Total appearances:** 3 episodes
+**Faction affiliations:** [[Bregan D'Aerthe]], [[Sea Maiden'S Fair]]
 
 ## Description
 

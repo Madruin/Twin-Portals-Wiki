@@ -24,9 +24,22 @@ A magical trap in the chasm tunnels that emits an anti-magic field when triggere
 
 
 
+
+- **S02E16:** The Manshoon clone is destroyed by an anti-magic rune trap, his ice-and-water body disintegrating
+
 ## Connected Characters
 
 
+
+
+- [[Antediluvian Jake]]
+- [[Arcanthos]]
+- [[Dagult Neverember]]
+- [[Little Joan]]
+- [[Manshoon Clone (Man-Two)]]
+- [[Shaleheart]]
+- [[Sixteen String Jack]]
+- [[The Hungry Elder]]
 
 ## Episode Appearances
 

@@ -24,9 +24,20 @@ An arcane laboratory deep beneath Zentil Keep containing over a hundred phylacte
 
 
 
+
+- **S02E23:** SWOJ discovers Friar Truck's phylactery laboratory with over 100 phylacteries
+
 ## Connected Characters
 
 
+
+
+- [[Friar Truck]]
+- [[Grabmaar]]
+- [[Little Joan]]
+- [[Pill Garlic]]
+- [[Sixteen String Jack]]
+- [[Slim Curly]]
 
 ## Episode Appearances
 

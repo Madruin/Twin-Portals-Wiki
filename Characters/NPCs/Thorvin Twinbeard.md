@@ -16,6 +16,7 @@ Dwarf chief engineer of the Xanathar Guild. Secret Harper informant who provided
 
 **First appearance:** [[S01E15 - Episode Fifteen]]
 **Total appearances:** 2 episodes
+**Faction affiliations:** [[Harpers]]
 
 ## Description
 
