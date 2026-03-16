@@ -53,7 +53,7 @@ SWOJ's home base. Scene of the grand opening party for The Short Rest tavern and
 - [[Broxley Fairkettle]]
 - [[Captain Hyustus Stagget]]
 - [[Craw]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Dalekar]]
 - [[Dasher Zuber]]

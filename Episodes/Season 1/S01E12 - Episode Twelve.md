@@ -29,7 +29,7 @@ Air Date: 2019-10-20 | Duration: 02:19:32
 
 ## Summary
 
-SWOJ picks up directly after the fireball investigation at Trollskull Alley. Sally the pigeon is found alive but badly burned; Pog Waggletop recovers her. The party heads north to find Renaer Neverember, who meets them on the street. Renaer identifies the dead gnome as Dalcar, a spy hired by his father Dagult Neverember to keep tabs on him. Dalcar had been asking around about SWOJ and may have been bringing the Stone of Golorr toward the Short Rest.
+SWOJ picks up directly after the fireball investigation at Trollskull Alley. Sally the pigeon is found alive but badly burned; Pog Waggletop recovers her. The party heads north to find Renaer Neverember, who meets them on the street. Renaer identifies the dead gnome as [[Dalekar|Dalcar]], a spy hired by his father Dagult Neverember to keep tabs on him. [[Dalekar|Dalcar]] had been asking around about SWOJ and may have been bringing the Stone of Golorr toward the Short Rest.
 
 Janks contacts Lark via sending stone to report that Zardos has returned to the Short Rest with associates. Back at the tavern, Jarlaxle/Zardos introduces a drow rogue named Mr. E (played by guest player Robert Lee), a 'home wrecker' (burglar) who can help SWOJ infiltrate the Gralhund Villa. The Trollskull Alley Irregulars report that they followed the burned Zhentarim agent south and saw him meet up with Hrabbaz, who took him into the Gralhund Villa through the back door. Squidly was wounded by Hrabbaz.
 
@@ -40,7 +40,7 @@ The burned Zhentarim leader is cornered and, after being charmed by Ylka, reveal
 ### Key Events
 
 - Sally the pigeon survives the fireball explosion, is rescued by Xae and Pog
-- Renaer Neverember identifies the dead gnome as Dalcar, his father's spy
+- Renaer Neverember identifies the dead gnome as [[Dalekar|Dalcar]], his father's spy
 - Renaer agrees to hide at the Short Rest for safety
 - Jarlaxle/Zardos returns to Short Rest with Mr. E (guest character played by Robert Lee)
 - Trollskull Alley Irregulars report seeing the burned Zhentarim agent enter the Gralhund Villa with Hrabbaz; Squidly is wounded
@@ -58,14 +58,15 @@ The burned Zhentarim leader is cornered and, after being charmed by Ylka, reveal
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Renaer Neverember]] — Noble son of former Open Lord Dagult Neverember. Identifies the dead gnome as Dalcar, a spy his father hired. Concerned for his own safety and agrees to hide at the Short Rest. Lives near the North Gate.
+- [[Renaer Neverember]] — Noble son of former Open Lord Dagult Neverember. Identifies the dead gnome as [[Dalekar|Dalcar]], a spy his father hired. Concerned for his own safety and agrees to hide at the Short Rest. Lives near the North Gate.
 - [[Dalekar]] — Gnome spy hired by Dagult Neverember to track Renaer. Had been asking about SWOJ. Killed in the fireball explosion at Trollskull Alley. Had sewage-stained boots suggesting he came from the sewers. May have stolen the Stone of Golorr from the Xanathar Guild.
-- [[Dagult Neverember]] — Former Open Lord of Waterdeep. Hired Dalcar to spy on his son Renaer. Had no connection to the Xanathar Guild according to Renaer.
+- [[Dagult Neverember]] — Former Open Lord of Waterdeep. Hired [[Dalekar|Dalcar]] to spy on his son Renaer. Had no connection to the Xanathar Guild according to Renaer.
 - [[Jarlaxle  Zardos Zord]] — Returns to the Short Rest after the explosion with Mr. E and Fel'rekt. Sends Mr. E to help SWOJ infiltrate the Gralhund Villa.
 - [[Fel'Rekt Lafeen]] — Drow agent of Bregan D'aerthe. Returns to the Short Rest with Zardos. Promises to defend the Short Rest while SWOJ investigates the Gralhund Villa.
 - [[Yalah Gralhund]] — Lady of the Gralhund household. Tall, imposing human woman with long black hair and strong cheekbones. Wears a breastplate and carries a short sword. Wears a silver key on a necklace. Double-crossed the Zhentarim and now possesses the Stone of Golorr. Recognizes Ylka and accuses her of being a traitor to the family. Escapes onto the balcony where she huddles protectively with her children.
 - [[Orond Gralhund]] — Lord of the Gralhund household. Plump, richly dressed nobleman. Cornered in a guest room by the Zhentarim leader. Throat slashed by the Zhentarim agent but stabilized by Ylka's medicine. Yala seems disappointed he survived.
 - [[Hrabbaz]] — Half-orc bodyguard of the Gralhund family. Extremely tall, wields a great axe, wears studded leather armor. Took the burned Zhentarim agent into the Gralhund Villa. Wounded Squidly. Fights Scoot in the master bedroom. Tears up SWOJ's Cassalanter retainer document. Taunts Scoot about his fighting ability.
+- [[Flo]] — Young Gralhund Villa servant. Braver than the other staff, she has a crowbar and is willing to fight. SWOJ puts her in charge of defense and she leads the servants' evacuation to the Short Rest.
 - [[Pog Waggletop]] — Gnome pigeon keeper at Trollskull Manor. Recovers Sally the burned pigeon. Devastated by the death of his other pigeons in the explosion.
 - [[Sally]] — Pigeon that survived the fireball explosion, badly burned on one side. Recovered by Xae and given to Pog Waggletop.
 

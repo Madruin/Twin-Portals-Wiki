@@ -47,7 +47,6 @@ Private investigator office on Trollskull Alley. SWOJ escapes here through a por
 - [[Terry]]
 - [[Victoro Cassalanter]]
 - [[Vincent Trench]]
-- [[Vittorio Cassalanter]]
 - [[Yagra]]
 
 ## Episode Appearances

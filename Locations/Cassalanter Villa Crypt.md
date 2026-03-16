@@ -55,7 +55,7 @@ Underground crypt beneath the Cassalanter Villa where the demonic ritual was int
 - [[Terenzio Cassalanter]]
 - [[Terry]]
 - [[Ulkoria Stonemarrow]]
-- [[Vittoro Cassalanter]]
+- [[Victoro Cassalanter]]
 - [[Volo]]
 
 ## Episode Appearances

@@ -43,7 +43,7 @@ The largest building in Neverwinter, a massive towering castle on the north side
 - [[16 String Jack]]
 - [[Amalia Cassalanter]]
 - [[Argentis]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Fel'Rekt Lafeen]]
 - [[Fioleth The Ragamoffin]]

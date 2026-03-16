@@ -42,7 +42,7 @@ A mountain range whose foothills border the Cryptwood. The mysterious mists orig
 - [[Arcturia]]
 - [[Argentis]]
 - [[Craw]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Farron]]
 - [[Fel'Rekt Lafeen]]

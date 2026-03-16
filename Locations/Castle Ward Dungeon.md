@@ -47,7 +47,6 @@ High-security anti-magic prison where SWOJ is held for about a week after being 
 - [[Terry]]
 - [[Victoro Cassalanter]]
 - [[Vincent Trench]]
-- [[Vittorio Cassalanter]]
 - [[Yagra]]
 
 ## Episode Appearances

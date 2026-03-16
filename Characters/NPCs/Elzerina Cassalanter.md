@@ -25,7 +25,7 @@ One of the Cassalanter children (younger, bossy sister). Lets SWOJ into the mans
 
 One of the Cassalanter children whose soul is forfeit due to their parents' devil contract. Found in the temple with Amalia, terrified.
 
-Daughter of Vittoro and Amalia, twin sister of Terenzio. Placed under city protection and befriended the Irregulars at Trollskull.
+Daughter of Victoro and Amalia, twin sister of Terenzio. Placed under city protection and befriended the Irregulars at Trollskull.
 
 
 ## Role in the Story
@@ -43,7 +43,7 @@ Daughter of Vittoro and Amalia, twin sister of Terenzio. Placed under city prote
 - **S01E24:** Amalia Cassalanter arrives, casts charm on Scoot, hastes herself, and launches fireball (10d6, 29 damage)
 - **S01E27:** SWOJ emerges from the theater to find a city watch army and Victoria Cassalanter
 - **S01E27:** They learn the Cassalanters' Founders Day feast is a front for a devil-soul harvest
-- **S01E27:** At the feast, Vittorio Cassalanter uses a charming cane on the crowd
+- **S01E27:** At the feast, Victoro Cassalanter uses a charming cane on the crowd
 - **S01E27:** SWOJ rushes into the Cassalanter Villa basement following screaming
 - **S01E27:** They find Amalia Cassalanter pleading with Asmodeus's avatar to spare children Terenzio and Elzerina
 - **S01E27:** A pillar of fire erupts from the altar; the contract is sealed and the Cassalanter children are saved

@@ -46,7 +46,7 @@ A floating city in the Deep Ethereal Plane built around a colossal auroral diamo
 - [[Amalia Cassalanter]]
 - [[Ann Jane Flip-Flap]]
 - [[Arcturia]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Fel'Rekt Lafeen]]
 - [[Fioleth The Ragamoffin]]

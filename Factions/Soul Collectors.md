@@ -2,39 +2,44 @@
 title: "Soul Collectors"
 type: faction
 status: active
-aliases: []
+aliases:
+  - Hermit Crab Helmets
 tags:
   - twin-portals
   - faction
+  - far-realm
+  - creature
 ---
 
 # Soul Collectors
 
-Black metal bell-shaped helmets with glass windows and hundreds of centipede legs that ride giant purple moths. They capture souls in the Far Realm and bring them to the Stadium of Souls. Controlled or directed by the geometric shapes (golden triangles).
+Mechanical black metal bell-shaped constructs with glass windows and hundreds of centipede legs that ride the giant [[Purple Moths / Seraphic Moths|Seraphic Moths]] through the [[Far Realm]]. They capture souls via vacuum tubes and deliver them to the [[Stadium of Souls]] for processing by the [[Geometric Shapes / Curators|Curators]].
 
 **First appearance:** Episode S02E12
-**Total appearances:** 1 episodes
+**Total appearances:** 1 episode
 
 ## Overview
 
-Black metal bell-shaped helmets with glass windows and hundreds of centipede legs that ride giant purple moths. They capture souls in the Far Realm and bring them to the Stadium of Souls. Controlled or directed by the geometric shapes (golden triangles).
+The Soul Collectors are bizarre mechanical entities encountered by [[SWOJ]] during their journey through the [[Far Realm]] in Season 2. Resembling enormous hermit crab-like helmets, they are constructed of black metal in a bell shape with glass windows that reveal their internal workings, and they move on hundreds of centipede-like legs.
+
+These constructs serve a single purpose: the harvesting of souls. Riding atop the massive [[Purple Moths / Seraphic Moths|Seraphic Moths]] -- six-winged creatures that trail stardust through the Far Realm -- the Soul Collectors hunt for souls adrift in the alien expanse. When they locate a target, they capture souls through vacuum tubes, sucking them into containment within the constructs' bodies. They then deposit their captives in the cells of the [[Stadium of Souls]], where the souls are catalogued and studied by the [[Geometric Shapes / Curators|Curators]] (golden triangular entities).
+
+The Soul Collectors' vacuum-capture mechanism proved devastating when they targeted [[SWOJ]]'s souls in S02E12, drawing the party into the Far Realm's soul-harvesting infrastructure. The Seraphic Moths that serve as their mounts possess golden healing light that preserves bodies during transport, ensuring captured souls arrive intact for the Curators' research and the gladiatorial combat of the Stadium.
 
 ## Known Members
 
-
-
-
-
-
-
-*No known members identified from transcripts.*
+The Soul Collectors appear to be constructs rather than individuals -- mass-produced mechanical entities with no distinct identities.
 
 ## Activities
 
+- **S02E12:** Soul Collectors riding [[Purple Moths / Seraphic Moths|Seraphic Moths]] capture [[SWOJ]]'s souls via vacuum tubes and deliver them to the [[Stadium of Souls]], where the [[Geometric Shapes / Curators|Curators]] interrogate them about their identities and abilities
 
+## Connections
 
-
-- **S02E12:** Soul Collectors (metal helmet creatures on moths) vacuum-capture SWOJ's souls
+- Ride the [[Purple Moths / Seraphic Moths|Seraphic Moths]] as mounts through the [[Far Realm]]
+- Directed by the [[Geometric Shapes / Curators|Curators]] (golden triangular entities)
+- Deliver captured souls to the [[Stadium of Souls]] and [[Museum of the Multiverse]]
+- Part of the Far Realm's soul-harvesting ecosystem alongside the [[Whistlers]]
 
 ## Episode Appearances
 

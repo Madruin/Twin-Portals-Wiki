@@ -1,35 +1,15 @@
 ---
 title: "Dalikar"
-type: character
-subtype: npc
-status: unknown
+type: redirect
+redirect: "[[Dalekar]]"
 aliases: []
 tags:
   - twin-portals
-  - character
-  - npc
+  - redirect
 ---
 
 # Dalikar
 
-Dead gnome found in Trollskull Alley after the fireball. Carried a dagger, had sewage-stained boots, and a Neverember-branded pouch with five gemstones. Identified in Episode 12 by Renaer as a spy hired by his father Dagult Neverember to keep tabs on Renaer.
+> **This page is a redirect.** The canonical page for this character is **[[Dalekar]]**.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-Dead gnome found in Trollskull Alley after the fireball. Carried a dagger, had sewage-stained boots, and a Neverember-branded pouch with five gemstones. Identified in Episode 12 by Renaer as a spy hired by his father Dagult Neverember to keep tabs on Renaer.
-
-## Role in the Story
-
-
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+Dalikar is an alternate spelling of [[Dalekar]], a gnome spy employed by [[Lord Dagult Neverember|Dagult Neverember]]. See [[Dalekar]] for the full article.

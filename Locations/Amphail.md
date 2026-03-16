@@ -54,7 +54,7 @@ A town north of Waterdeep where the Right of the Staglass ceremony is held. Anya
 - [[Bonnie]]
 - [[Chip]]
 - [[Craw]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Dale]]
 - [[Dorvina]]

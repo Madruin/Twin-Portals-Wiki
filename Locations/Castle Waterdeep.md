@@ -55,7 +55,7 @@ The tallest tower overlooking the sea with a dragon-landing balcony near the top
 - [[Terenzio Cassalanter]]
 - [[Terry]]
 - [[Ulkoria Stonemarrow]]
-- [[Vittoro Cassalanter]]
+- [[Victoro Cassalanter]]
 - [[Volo]]
 
 ## Episode Appearances

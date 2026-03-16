@@ -3,7 +3,8 @@ title: "Helena Van Der Graff"
 type: character
 subtype: npc
 status: unknown
-aliases: []
+aliases:
+  - "Dutchy"
 tags:
   - twin-portals
   - character
@@ -12,22 +13,19 @@ tags:
 
 # Helena Van Der Graff
 
-Member of the Circle of Dusk druids. Has gone missing from the glade in the Cryptwood.
+A [[Jolly Gents]] noblewoman known as "Dutchy" who serves as a guard leader inside [[Zhentil Keep]]. Recognized by [[Malark Wavesilver|Lark]] when [[SWOJ]] infiltrates the fortress.
 
-**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
-**Total appearances:** 6 episodes
+**First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]
+**Total appearances:** 1 episode
 
 ## Description
 
-Member of the Circle of Dusk druids. Has gone missing from the glade in the Cryptwood.
-
-A Circle of Dusk druid who was transformed into a talking riddle door by Arcturia's magic. Restored after the mirror is smashed.
-
+Helena Van Der Graff, who goes by the nickname "Dutchy," is a tall noblewoman operating within [[Zhentil Keep]] as a member of the [[Jolly Gents]]. She commands a small detail of guards on the keep's ground floor and carries a keychain granting access to locked areas of the fortress.
 
 ## Role in the Story
 
-- **S02E06:** The druids Shala, Nuria, Ander, and Lea have all vanished, progressively losing memories with each mist
-- **S02E07:** Party encounters a talking riddle door (actually the transformed druid Ander)
+- **[[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]:** [[Malark Wavesilver|Lark]] recognizes Dutchy immediately when [[SWOJ]] enters the ground floor of [[Zhentil Keep]] disguised as new recruits; she orders her guards to clean up mud ahead of [[Rowan Crooks]]' return, directs the party toward the refuse chute through an open archway, then locks a door behind her and moves on
+- **[[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]:** Her instruction gives [[SWOJ]] access to the hollowed-out garbage tower, where they commandeer a maintenance ladder and use the spell-jamming rock to fly up through the keep's interior floors
 
 ## Episode Appearances
 

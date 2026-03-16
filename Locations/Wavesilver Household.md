@@ -55,7 +55,7 @@ Home of Lark's parents. The shipping business was prospering. Lark reconnected w
 - [[Terenzio Cassalanter]]
 - [[Terry]]
 - [[Ulkoria Stonemarrow]]
-- [[Vittoro Cassalanter]]
+- [[Victoro Cassalanter]]
 - [[Volo]]
 
 ## Episode Appearances

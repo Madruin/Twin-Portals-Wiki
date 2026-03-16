@@ -27,7 +27,7 @@ A criminal organization operating out of the Kolat Towers. They possess the seco
 
 
 
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Urstul Floxxin]]
 
 ## Activities

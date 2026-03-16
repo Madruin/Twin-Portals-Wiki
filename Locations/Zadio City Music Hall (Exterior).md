@@ -47,7 +47,6 @@ Outside the theater after the Xanathar battle. City watch army, griffin cavalry,
 - [[Terry]]
 - [[Victoro Cassalanter]]
 - [[Vincent Trench]]
-- [[Vittorio Cassalanter]]
 - [[Yagra]]
 
 ## Episode Appearances

@@ -47,7 +47,7 @@ Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barr
 - Bonnie telepathically reads Davil's mind - he's searching for the Stone of Golorr
 - Grand opening of The Short Rest tavern in Trollskull Alley
 - Fireball explosion devastates Trollskull Alley - 10+ killed including Voniel
-- Dead gnome (later identified as Dalcar) found with Neverember pouch and gemstones
+- Dead gnome (later identified as [[Dalekar|Dalcar]]) found with Neverember pouch and gemstones
 - Dark figure in black leather takes something from the gnome's body and flees south
 
 ### Featured Characters

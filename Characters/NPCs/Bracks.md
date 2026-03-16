@@ -2,38 +2,17 @@
 title: "Bracks"
 type: character
 subtype: npc
-status: unknown
+status: on the run
 aliases: []
 tags:
   - twin-portals
   - character
   - npc
+  - redirect
 ---
 
 # Bracks
 
-One of Remalia's guards. Ensorcelled by the Stone of Golorr, freed by being hit.
+> See **[[Bricks And Bracks]]** for the full article.
 
-**First appearance:** [[S01E26 - Episode Twenty Six]]
-**Total appearances:** 3 episodes
-
-## Description
-
-One of Remalia's guards. Ensorcelled by the Stone of Golorr, freed by being hit.
-
-Remalia's guard. Betrays Remalia alongside Bricks.
-
-
-## Role in the Story
-
-- **S01E26:** They break the ensorcellement on Remalia, Bricks, and Bracks by hitting them
-- **S01E27:** Bricks and Bracks betray Remalia to the city watch (ensorcelled again)
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+One half of the guard duo who served [[Remallia Haventree|Remalia Haventree]]. Nearly pulled into a black ooze during the [[Vault of Dragons]] descent ([[S01E26 - Episode Twenty Six|S01E26]]). Betrayed Remalia alongside [[Bricks And Bracks|Bricks]] and was expelled from the [[Harpers]] ([[S01E29 - Episode Twenty Nine|S01E29]]).

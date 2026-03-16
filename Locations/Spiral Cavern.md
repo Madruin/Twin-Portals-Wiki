@@ -43,7 +43,7 @@ A deep underground cave system beneath the Sword Mountains. Contains Arcturia's 
 - [[Anya Ermbrusk]]
 - [[Arcturia]]
 - [[Chip]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Dale]]
 - [[Farron]]

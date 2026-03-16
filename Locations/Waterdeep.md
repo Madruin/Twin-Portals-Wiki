@@ -57,7 +57,7 @@ The City of Splendors, the biggest city on the Sword Coast. Population approxima
 - [[Anya Ermbrusk]]
 - [[Bonnie]]
 - [[Craw]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Dorvina]]
 - [[Durnan]]

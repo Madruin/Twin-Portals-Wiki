@@ -23,7 +23,7 @@ Lord of Nessus, archdevil. Appears as a semi-corporeal, well-dressed humanoid fi
 
 ## Role in the Story
 
-- **S01E27:** Mr. E kicks unconscious Vittorio through his own portal into the temple of Asmodeus
+- **S01E27:** Mr. E kicks unconscious Victoro through his own portal into the temple of Asmodeus
 - **S01E27:** They find Amalia Cassalanter pleading with Asmodeus's avatar to spare children Terenzio and Elzerina
 - **S01E27:** Asmodeus offers Xae a contract: free six 'brothers and sisters' (Jhesiyra, Rantantar, Mayrin, Trobriand, Muiral, Arcturia) within 13 Founders Days
 

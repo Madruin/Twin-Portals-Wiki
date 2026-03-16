@@ -61,7 +61,7 @@ City where Dagult Neverember is from. His main seat of power.
 - [[Bricks And Bracks]]
 - [[Chip]]
 - [[Craw]]
-- [[Crowell]]
+- [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Dale]]
 - [[Davil Starsong]]

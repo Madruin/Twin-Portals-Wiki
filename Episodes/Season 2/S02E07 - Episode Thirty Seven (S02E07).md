@@ -66,7 +66,7 @@ This episode was performed as a live show, featuring the climactic confrontation
 - [[Ander]] — A Circle of Dusk druid who was transformed into a talking riddle door by Arturia's magic. Restored after the mirror is smashed.
 - [[Fela Lefaliir]] — Found alive but with scrambled memories deeper in the cavern, in areas SWOJ didn't fully explore.
 - [[Anya Ermbrusk]] — Found alive in the cavern with other captives. The Rite of the Stag Lass participant who wanted to renounce her family. A half-elf who knows Lark from old family reunions.
-- [[Halaster]] — Referenced by Arturia as 'the master' -- 'the most powerful wizard in the multiverse.' Arturia says she will help the master remember. Previously referenced in earlier episodes.
+- [[Halaster Blackcloak]] — Referenced by Arcturia as "the master" -- "the most powerful wizard in the multiverse." Arcturia says she will help the master remember. Previously referenced in earlier episodes.
 - [[Gundark Gundarkson]] — Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards from the town coffers.
 
 ### Locations

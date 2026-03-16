@@ -55,7 +55,7 @@ A purple-themed curiosity shop where Xae previously hid a locket. The shopkeeper
 - [[Terenzio Cassalanter]]
 - [[Terry]]
 - [[Ulkoria Stonemarrow]]
-- [[Vittoro Cassalanter]]
+- [[Victoro Cassalanter]]
 - [[Volo]]
 
 ## Episode Appearances
