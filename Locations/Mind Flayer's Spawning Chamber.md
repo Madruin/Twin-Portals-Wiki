@@ -33,7 +33,7 @@ Chamber containing a green spawning pool that produces intellect devourers. The 
 
 
 - [[Flutterfoot Zipswiggle]]
-- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Jarlaxle|J.B. Nevercott]]
 - [[Pinker]]
 
 ## Episode Appearances

@@ -44,7 +44,7 @@ When SWOJ encountered wild bulettes on the [[High Road]] south of Neverwinter, [
 
 ### Rally to the Ethereal Galleon (S02E31)
 
-Shaleheart was among the allies who rallied to SWOJ's cause for the assault on the [[Moonhole]], alongside [[Squidly]], [[Fel'Rekt Lafeen]], [[Fioleth The Ragamoffin]], the [[Doom Raiders]], and [[Urstul Floxxin]].
+Shaleheart was among the allies who rallied to SWOJ's cause for the assault on the [[Moonhole]], alongside [[Squidly]], [[Fel'Rekt Lafeen]], [[Fioleth]], the [[Doom Raiders]], and [[Urstul Floxxin]].
 
 ### Battle of the Spiral Cavern (S02E32)
 

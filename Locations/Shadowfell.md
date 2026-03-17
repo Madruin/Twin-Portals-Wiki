@@ -60,7 +60,7 @@ The plane of shadow where the Great Beast of Aeroa resides. The broader setting 
 - [[Renaer Neverember]]
 - [[Rowan Crooks]]
 - [[Shaleheart]]
-- [[Teriador The Rose Knight]]
+- [[Teriador]]
 - [[Thail]]
 - [[The Body Taker]]
 - [[The Hunter]]

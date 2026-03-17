@@ -58,7 +58,7 @@ In the cellar, the party finds Lif's personal effects including his diary, gold,
 **NPCs:**
 - [[Captain Hyustus Stagget]] — City watch captain who advises the party to register magic users with the Watchful Order of Magisters.
 - [[Ulkoria Stonemarrow]] — Shield dwarf magistar in the North Ward, mentioned in context of city governance.
-- [[Oba the Merlywin]] — A magistar mentioned in Waterdeep's governance structure.
+- [[Obatha Merlywin]] — A magistar mentioned in Waterdeep's governance structure.
 - [[Pinker]] — A kenku ally who rescues Taga from the Xanathar Guild and hides her in the Honorable Knight statue tenements.
 - [[Lif Lindgren]] — Ghost of a middle-aged elven bartender who worked at Trollskull Manor 95 years ago. His diary reveals the history of Esther the hag. He writes warnings to help the party and smiles at them after the hag is defeated.
 - [[Nat]] — A ten-year-old mute human girl, leader of the three street urchins. Fearless and communicates through sign language interpreted by Jenks. Finds the hag's talisman under the tower floorboards.
@@ -66,6 +66,7 @@ In the cellar, the party finds Lif's personal effects including his diary, gold,
 - [[Squidly]] — A tiefling boy with an eye patch and swashbuckling clothes. One of the three street urchins. Gets captured by the hag and placed in a cauldron.
 - [[Esther]] — A spectral hag who haunts Trollskull Manor. According to legend, she ran an orphanage and ate children. Her power is anchored by a talisman hidden under the tower. When the talisman is destroyed in the cauldron, she becomes physical and is killed by the party.
 - [[Mordecai Gralhund]] — Ylka's relative (possibly grandfather or ancestor) whose initials 'M.G.' are on the magic sword found in Lif's chest. Helped Lif find work at Trollskull Manor.
+- [[Bacto And Juba]] — A tabaxi couple who live next door to Taga. Musicians who play at all hours. They confirm Taga was home around noon and offered them pie, but heard nothing unusual. Juba comforts Scoot with worldly advice.
 
 ### Locations
 

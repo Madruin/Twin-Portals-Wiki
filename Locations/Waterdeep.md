@@ -66,7 +66,7 @@ The City of Splendors, the biggest city on the Sword Coast. Population approxima
 - [[Fel'Rekt Lafeen]]
 - [[Fela Lefaliir]]
 - [[Fetch]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Floon Blagmaar]]
 - [[Froon]]
 - [[Giggling Gus]]

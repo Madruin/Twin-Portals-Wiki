@@ -35,7 +35,7 @@ A pocket dimension inside the auroral diamond with simulated sunlight, savanna-l
 
 
 - [[Amalia Cassalanter]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Hanna]]
 - [[Jarlaxle]]
 - [[Leah]]

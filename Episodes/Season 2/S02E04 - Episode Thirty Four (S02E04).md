@@ -63,7 +63,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 - [[Rowan Crooks]] — Leader of the Jolly Gents adventuring party. Mentioned frequently during the battle as Ylka uses songs about his defeats of Manchun for Vicious Mockery. Not physically present in this episode.
 - [[The Hunter]] — A mysterious shadowy archer figure encountered earlier inside the Dynamo. Referenced as a threat within the pocket dimension.
 - [[Thail]] — A ghost whose soul is absorbed by green lightning from the Dynamo. His soul is preserved in a crystal that Ylka carries through the transition back to the Great Beast's skull.
-- [[Teriador The Rose Knight]] — A ghost knight whose soul is absorbed by the Dynamo's green lightning. His rose-colored soul orb remains atop the tower and is ultimately merged with Fetch, giving the boy enough power to escape the Dynamo.
+- [[Teriador|Teriador the Rose Knight]] — A ghost knight whose soul is absorbed by the Dynamo's green lightning. His rose-colored soul orb remains atop the tower and is ultimately merged with Fetch, giving the boy enough power to escape the Dynamo.
 - [[Radecere]] — Rock gnome inventor allied with the Jolly Gents. Not physically present in this episode but referenced from previous events.
 
 ### Locations

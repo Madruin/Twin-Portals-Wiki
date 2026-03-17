@@ -35,7 +35,7 @@ The central cylinder within the Stadium of Souls containing all the stored bodie
 - [[Pippa Flouf]]
 - [[Rowan Crooks]]
 - [[Shoonie]]
-- [[Teriador The Rose Knight  The Blight Knight]]
+- [[Teriador]]
 - [[The Body Taker]]
 - [[Vincent Trench]]
 

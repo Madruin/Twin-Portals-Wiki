@@ -49,7 +49,7 @@ A floating city in the Deep Ethereal Plane built around a colossal auroral diamo
 - [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Fel'Rekt Lafeen]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Friar Truck]]
 - [[Halaster Blackcloak]]
 - [[Hanna]]

@@ -2,34 +2,18 @@
 title: "Fai Chen"
 type: character
 subtype: npc
-status: unknown
+status: duplicate
 aliases: []
 tags:
   - twin-portals
   - character
   - npc
+  - duplicate
 ---
 
 # Fai Chen
 
-An herbalist operating across the street from Trollskull Manor, still in booming business.
+> [!warning] Duplicate Entry
+> This page was created in error. The "herbalist across from Trollskull Manor" referenced in [[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]] is actually **[[Fela Lefaliir|Fala Lefaliir]]**, who runs [[Corellon's Crown]] on [[Trollskull Alley]]. The name "Fai Chen" was produced by a transcription error -- the players say "phyla-lephalyr" in the S02E38 transcript, which is a garbled rendering of "Fala Lefaliir." See the [[Fela Lefaliir]] page for the full character entry.
 
-**First appearance:** [[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)]]
-**Total appearances:** 1 episode
-
-## Description
-
-An herbalist operating across the street from Trollskull Manor, still in booming business.
-
-## Role in the Story
-
-*Details to be added.*
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+**See:** [[Fela Lefaliir]]

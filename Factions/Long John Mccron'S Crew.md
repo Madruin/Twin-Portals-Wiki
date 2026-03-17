@@ -20,7 +20,7 @@ A rival pirate crew led by [[Long John Mccron|Long John McRon]], captain of the 
 
 ## Overview
 
-Long John McRon's Crew is a pirate outfit operating in the waters around [[Driftwood]], the floating island settlement that rests on the shell of the dragon turtle [[Kura Han]]. Their captain, [[Long John Mccron|Long John McRon]], is a colorful pirate with a wooden peg leg on one side and a magical animated water hook on the other -- a gift from a pirate queen, connected to his arm by glowing tattoos.
+Long John McRon's Crew is a pirate outfit operating in the waters around [[Driftwood]], the floating island settlement that rests on the shell of the dragon turtle [[Kurrihan]]. Their captain, [[Long John Mccron|Long John McRon]], is a colorful pirate with a wooden peg leg on one side and a magical animated water hook on the other -- a gift from a pirate queen, connected to his arm by glowing tattoos.
 
 McRon's crew sails aboard the [[Wyvern's Whale]], a pirate ship complete with its own shanty band. [[SWOJ]] first encountered McRon at the [[Blubber Buckle]], a tavern in [[Driftwood]], where he offered passage to [[Devil's Rock]] for 500 gold. He knew of the legendary whirlpool near the island but had never seen it himself.
 
@@ -38,7 +38,7 @@ When SWOJ traveled to [[Devil's Rock]] to investigate, McRon and his crew also m
 ## Connections
 
 - Rival pirate crew to [[SWOJ]] and other treasure-seekers at [[Devil's Rock]]
-- Operates from [[Driftwood]], the floating island on [[Kura Han]]'s shell
+- Operates from [[Driftwood]], the floating island on [[Kurrihan]]'s shell
 - Captain's ship is the [[Wyvern's Whale]]
 - [[One-Eyed Wilhelmina]] and the [[Crimson Cracken]] represent another competing pirate faction in the area
 

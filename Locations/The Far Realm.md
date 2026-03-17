@@ -41,7 +41,7 @@ The primordial chaos outside the multiverse, beyond the Wall. Where the Breathle
 - [[Pippa Flouf]]
 - [[Rowan Crooks]]
 - [[Shoonie]]
-- [[Teriador The Rose Knight  The Blight Knight]]
+- [[Teriador]]
 - [[The Body Taker]]
 - [[Vincent Trench]]
 

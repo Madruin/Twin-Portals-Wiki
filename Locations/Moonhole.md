@@ -38,7 +38,7 @@ An approximately 80-foot opening in the top of the Sword Mountains that leads se
 - [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Fel'Rekt Lafeen]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Quorlith The Starweaver]]
 - [[Renaer Neverember]]
 - [[Shaleheart]]

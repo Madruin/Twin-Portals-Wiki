@@ -56,7 +56,7 @@ A clone made of **ice and water** who accompanied SWOJ into the Neverwinter chas
 A clone made of **dense, stringy plant material** encountered inside the [[Dynamo of Possibility]]. Controlled vine tentacles and plant-based podlings. More emotionally sensitive than other clones, particularly enraged by mentions of Rowan Crooks. Defeated atop the tower inside the Dynamo.
 
 ### Fetch (Soul Fragment)
-Not a full clone but a **nine-year-old fragment** of Manshoon's soul, representing his innocence and childhood. Had a crescent moon glow on his heart. Previously worked for the wizard Rantantar. Merged with [[Teriador The Rose Knight|Teriador]]'s soul to gain enough power to transport SWOJ out of the collapsing Dynamo.
+Not a full clone but a **nine-year-old fragment** of Manshoon's soul, representing his innocence and childhood. Had a crescent moon glow on his heart. Previously worked for the wizard Rantantar. Merged with [[Teriador]]'s soul to gain enough power to transport SWOJ out of the collapsing Dynamo.
 
 ### The Final Manshoon (Radiant Citadel)
 The last surviving clone of Manshoon, encountered at the [[Radiant Citadel]]. Undead, wearing a half-mask and possessing a metal arm. He had been channeling [[Rowan Crooks]]' soul pylon to ascend to godhood, planning to use the [[Hungering Shard]] to free his remaining soul fragments from [[Kelemvor]]'s [[Wall of the Faithless]]. He teleported around the battlefield, cast *synaptic static* and exhaustion effects, and desperately searched for the soul stone of Rowan Crooks. Ultimately defeated when [[Kelemvor]] appeared and Manshoon's soul was sent to the [[Raven Queen]], ensuring he could never return.

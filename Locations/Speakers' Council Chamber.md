@@ -32,7 +32,7 @@ A chamber near the top of the Radiant Citadel where the Speakers for the Ancesto
 
 
 
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Sholeh]]
 - [[Squidly]]
 - [[Urstul Floxxin]]

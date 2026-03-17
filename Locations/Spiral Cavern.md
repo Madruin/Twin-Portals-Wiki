@@ -49,7 +49,7 @@ A deep underground cave system beneath the Sword Mountains. Contains Arcturia's 
 - [[Farron]]
 - [[Fel'Rekt Lafeen]]
 - [[Fela Lefaliir]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Gorp]]
 - [[Gundark Gundarkson]]
 - [[Halaster]]

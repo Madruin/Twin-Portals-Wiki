@@ -63,7 +63,7 @@ The party takes a long rest and levels up to 9. The next morning, Renaer convene
 - [[Squidly]] — A tiefling young man who volunteers to join SWOJ's crew aboard the Ethereal Galleon for the assault on the moonhole.
 - [[Fel'Rekt Lafeen]] — A Bregan D'aerthe member who has stayed behind to assist SWOJ. Joins the crew aboard the Ethereal Galleon and helps operate the ballista.
 - [[Shaleheart]] — A massive bulette allied with SWOJ. Her babies are grown up now. Crawls onto the bottom of the Ethereal Galleon to join the mission. Xae gives her lunaria flowers as a gift.
-- [[Fioleth The Ragamoffin]] — A creature from the bag dimension who serves as quartermaster. Had been working for Neverwinter's rebuilding efforts since being left behind. Volunteers to join the ship crew.
+- [[Fioleth]] — A creature from the bag dimension who serves as quartermaster. Had been working for Neverwinter's rebuilding efforts since being left behind. Volunteers to join the ship crew.
 - [[Urstul Floxxin]] — A surly, heavily scarred former Zentarim enemy of SWOJ who tried to kill them earlier (around episode 4). Brought to the docks in manacles, volunteering for redemption. SWOJ accepts him, removes his bindings, and he regards them with solemn respect. He gives Scoot an awkward fist bump.
 - [[Dagult Neverember]] — A military leader in Neverwinter who marshals the ground forces of about 550 soldiers. Embraces the role of getting soldiers ready, reminiscent of his old days. Works alongside Renaer, handling military functions while Renaer handles civic ones.
 

@@ -32,7 +32,7 @@ The far reaches of the Ethereal Plane where the Radiant Citadel floats. A plane 
 
 
 
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Hanna]]
 - [[Leah]]
 - [[Rose Quartz Incarnate]]

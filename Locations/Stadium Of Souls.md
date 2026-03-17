@@ -35,7 +35,7 @@ A cylindrical arena (described as a giant Pringles can) within the Museum of the
 - [[Pippa Flouf]]
 - [[Rowan Crooks]]
 - [[Shoonie]]
-- [[Teriador The Rose Knight  The Blight Knight]]
+- [[Teriador]]
 - [[The Body Taker]]
 - [[Vincent Trench]]
 

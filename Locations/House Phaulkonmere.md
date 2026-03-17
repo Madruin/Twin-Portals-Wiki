@@ -10,7 +10,7 @@ tags:
 
 # House Phaulkonmere
 
-Residence run by Mellinor where Xaerine stayed before having to flee due to dangerous men. Also home to Leah.
+Residence run by [[Mellinore]] where Xaerine stayed before having to flee due to dangerous men. Also home to Leah.
 
 **Type:** 
 **First appearance:** Episode S01E01
@@ -18,7 +18,7 @@ Residence run by Mellinor where Xaerine stayed before having to flee due to dang
 
 ## Description
 
-Residence run by Mellinor where Xaerine stayed before having to flee due to dangerous men. Also home to Leah.
+Residence run by [[Mellinore]] where Xaerine stayed before having to flee due to dangerous men. Also home to Leah.
 
 ## Notable Events
 

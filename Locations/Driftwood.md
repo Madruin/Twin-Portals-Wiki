@@ -10,7 +10,7 @@ tags:
 
 # Driftwood
 
-A massive floating island made of shipwrecks, driftwood, and roped-together materials in the Nameless Seas. A lawless pirate city where the only law is your word and bond. Sits atop the shell of the dragon turtle Kura Han. Features the Blubber Buckle tavern and various docks. Home to multiple pirate crews.
+A massive floating island made of shipwrecks, driftwood, and roped-together materials in the Nameless Seas. A lawless pirate city where the only law is your word and bond. Sits atop the shell of the dragon turtle [[Kurrihan]]. Features the Blubber Buckle tavern and various docks. Home to multiple pirate crews.
 
 **Type:** settlement
 **First appearance:** Episode S02E09
@@ -18,14 +18,14 @@ A massive floating island made of shipwrecks, driftwood, and roped-together mate
 
 ## Description
 
-A massive floating island made of shipwrecks, driftwood, and roped-together materials in the Nameless Seas. A lawless pirate city where the only law is your word and bond. Sits atop the shell of the dragon turtle Kura Han. Features the Blubber Buckle tavern and various docks. Home to multiple pirate crews.
+A massive floating island made of shipwrecks, driftwood, and roped-together materials in the Nameless Seas. A lawless pirate city where the only law is your word and bond. Sits atop the shell of the dragon turtle [[Kurrihan]]. Features the Blubber Buckle tavern and various docks. Home to multiple pirate crews.
 
 ## Notable Events
 
 
 
 
-- **S02E09:** Dolphins guide SWOJ to Driftwood, a pirate island floating atop the dragon turtle Kura Han
+- **S02E09:** Dolphins guide SWOJ to Driftwood, a pirate island floating atop the dragon turtle [[Kurrihan]]
 - **S02E09:** Party finds Jarlaxle (as Zardos Zord) at the Blubber Buckle tavern in Driftwood
 - **S02E10:** SWOJ rows to Devil's Rock from Driftwood with Zardo Zord and Mr. E
 

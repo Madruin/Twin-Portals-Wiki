@@ -2,28 +2,31 @@
 title: "J.B. Nevercott"
 type: character
 subtype: npc
-status: unknown
-aliases: []
+status: active
+aliases:
+  - "JB Nevercott"
 tags:
   - twin-portals
   - character
   - npc
+  - redirect
 ---
 
 # J.B. Nevercott
 
-Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust.
+**J.B. Nevercott** is an alias used by [[Jarlaxle|Jarlaxle Baenre]], the drow leader of [[Bregan D'Aerthe]], as a covert support identity. Posing as a haberdasher, Jarlaxle uses this persona to deliver specialized equipment and intelligence to [[SWOJ]] without revealing his true identity or his connection to [[Jarlaxle|Zardos Zord]].
 
-**First appearance:** [[S01E09 - Episode Nine]]
-**Total appearances:** 2 episodes
+> *For the full character page, see **[[Jarlaxle]]***.
+> *For details on this specific disguise, see [[Jarlaxle#J.B. Nevercott (Haberdasher Persona)]]***.
 
-## Description
+---
 
-Haberdasher who delivers specialized gear to SWOJ: a fancy hat with lead foil lining (blocks thought-reading/detect thoughts), and three pistols loaded with true sight rounds that reveal doppelgangers by dispersing a pink dust.
+## Appearances
 
-## Role in the Story
+- **[[S01E09 - Episode Nine]]** -- Delivers a lead-foil-lined hat (blocks Detect Thoughts) and three pistols loaded with true sight rounds to SWOJ at [[Trollskull Manor (Short Rest Tavern)|Trollskull Manor]], equipping them for the [[Cassalanter]] party.
+- **[[S01E17 - Episode Seventeen]]** -- Appears in the audience of the [[Arena Of Blood And Fortune|Xanathar's Arena of Blood and Fortune]]. Winks at [[Malark Wavesilver|Lark]] and [[Xae|Xae]], then uses the Message spell to warn SWOJ that the lair is rigged with smoke powder and reveals a secret exit -- the south wall, marked with a flaming eye symbol. This intelligence saves the party's lives.
 
-- **S01E09:** JB Nevercott delivers lead-foil hat and three true sight pistols to SWOJ
+---
 
 ## Episode Appearances
 

@@ -37,7 +37,7 @@ A silver orb that serves as the Great Beast's power source. Contains a spherical
 - [[Fetch]]
 - [[Radecere]]
 - [[Rowan Crooks]]
-- [[Teriador The Rose Knight]]
+- [[Teriador]]
 - [[Thail]]
 - [[The Body Taker]]
 - [[The Hunter]]

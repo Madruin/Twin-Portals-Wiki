@@ -59,7 +59,7 @@ The mind flayer has been controlling the Xanathar's body, which floats above fir
 - [[Thaelin]]
 
 **NPCs:**
-- [[JB Nevercott  Jarlaxle Baenre]] — Drow mastermind disguised as JB Nevercott in the arena audience. Telepathically warns SWOJ via Message that the lair is rigged with smoke powder and reveals the secret door location (south wall, flaming eye symbol).
+- [[Jarlaxle|J.B. Nevercott (Jarlaxle)]] — Drow mastermind disguised as J.B. Nevercott in the arena audience. Telepathically warns SWOJ via Message that the lair is rigged with smoke powder and reveals the secret door location (south wall, flaming eye symbol).
 - [[Pinker]] — Kenku prisoner in the cells below the arena. Wears a pink hat which he trades to Scoot for his durag. Skilled lockpicker who frees the kenku prisoners. Leads twelve other kenku in the staged arena fight.
 - [[Flutterfoot Zipswiggle]] — Gnome jester previously encountered in E16. Found dead on a throne in a chamber beyond the collapsed lair, his brain eaten by the mind flayer.
 - [[The Xanathar]] — Beholder crime lord whose body is being controlled by the mind flayer. Floats above the spawning chamber firing eye rays. Disintegrates Lark with its disintegration beam.

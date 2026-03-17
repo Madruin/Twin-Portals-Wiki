@@ -35,7 +35,7 @@ The mouth and interior of the colossal dead viper fish deity in the Far Realm. S
 - [[Pippa Flouf]]
 - [[Rowan Crooks]]
 - [[Shoonie]]
-- [[Teriador The Rose Knight  The Blight Knight]]
+- [[Teriador]]
 - [[The Body Taker]]
 - [[Vincent Trench]]
 

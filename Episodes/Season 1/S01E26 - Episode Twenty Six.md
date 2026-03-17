@@ -63,6 +63,7 @@ SWOJ wakes at Remalia's house and breaks the Stone of Golorr's ensorcellement on
 - [[Renaer Neverember]] — Son of Dagult Neverember. Arrives at the vault with a ledger proving the Cassalanters' embezzlement. Helps load gold and fights in the theater battle, attempting to stab the Xanathar in the eye.
 - [[Manshoon]] — Zhentarim leader (or his simulacrum). Appears on the theater balcony during the battle with Zhentarim lieutenants. Casts Bigby's Hand against Scoot. Retreats after Remalia's fireball blasts the balcony.
 - [[Mookie Plush]] — Zhentarim lieutenant. Appears on the theater balcony with Manshoon during the battle, armed with a crossbow.
+- [[Beaker]] — Raven from [[Sally]]'s bird network. Crashes through a window during the theater battle to reinforce Xae's conjured birds in attacking the chandelier rope.
 
 ### Locations
 

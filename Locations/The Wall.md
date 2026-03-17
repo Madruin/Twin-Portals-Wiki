@@ -51,7 +51,7 @@ The opalescent boundary of the entire multiverse. An immense, seemingly infinite
 - [[Pippa Flouf]]
 - [[Rowan Crooks]]
 - [[Shoonie]]
-- [[Teriador The Rose Knight  The Blight Knight]]
+- [[Teriador]]
 - [[The Body Taker]]
 - [[Vincent Trench]]
 

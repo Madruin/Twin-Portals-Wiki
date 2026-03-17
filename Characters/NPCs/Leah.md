@@ -12,7 +12,7 @@ tags:
 
 # Leah
 
-Friend of Xaerine staying at House Phaulkonmere under Maelanore's care.
+Friend of Xaerine staying at House Phaulkonmere under [[Mellinore]]'s care.
 
 **First appearance:** [[S01E01 - Episode One]]
 **Total appearances:** 5 episodes
@@ -20,7 +20,7 @@ Friend of Xaerine staying at House Phaulkonmere under Maelanore's care.
 
 ## Description
 
-Friend of Xaerine staying at House Phaulkonmere under Maelanore's care.
+Friend of Xaerine staying at House Phaulkonmere under [[Mellinore]]'s care.
 
 Half-elf, Scoot's former crewmate and first mate of the Sea Plum. Now an Emerald Enclave contact. Brings the scarecrow quest from Stout Fellow Farm. Offers to ward Trollskull against vermin and set up a pigeon rookery.
 

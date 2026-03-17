@@ -65,7 +65,8 @@ After the chaos subsided, the famous chronicler Volothamp "Volo" Geddarm descend
 - [[Remalia Haventree]] — Harper mentioned by Jelaster. Can sometimes be found at the Yawning Portal. Associated with the Haventree family estate.
 - [[Dagult Neverember]] — Former Open Lord of Waterdeep, originally from Neverwinter. Had conservative spending policies and drove the city into the ground with disruptive tariffs. Deposed and replaced by Laeral Silverhand. Father of Renaer Neverember.
 - [[Laeral Silverhand]] — Current Open Lord of Waterdeep, very popular with the citizens. Replaced Dagult Neverember.
-- [[Maelanore]] — Runs House Phaulkonmere where Xaerine and Leah stayed. Xaerine had to leave after dangerous men came looking for her.
+- [[Mellinore]] — Runs House Phaulkonmere where Xaerine and Leah stayed. Xaerine had to leave after dangerous men came looking for her.
+- [[Three Strings]] — Off-key bard at the Yawning Portal who plays a lute with only three strings. Provides background music as SWOJ gathers at the tavern for the first time.
 
 ### Locations
 

@@ -66,6 +66,7 @@ At the docks, SWOJ meets Zelopharne the bronze dragon in human form, who points 
 - [[Max]] — Guard at the Cassalanter villa who provides information and assists SWOJ.
 - [[Agorna]] — Cleric at the Temple of Selune in the Sea Ward. Casts Lesser Restoration on Lark to cure his ailment.
 - [[Fela Lefaliir]] — Apothecary who runs Coralund's Crown, a shop neighboring Trollskull Alley. Friendly with SWOJ.
+- [[Vaniel]] — Halfling patron at the [[Hole In The Wall]] tavern. Discusses concerns about lycanthropy with SWOJ during their visit.
 
 ### Locations
 

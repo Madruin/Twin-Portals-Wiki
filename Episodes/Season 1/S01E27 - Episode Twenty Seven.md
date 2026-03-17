@@ -62,6 +62,7 @@ In the aftermath of the Xanathar battle, SWOJ emerges from the theater to find a
 - [[Renaer Neverember]] — Mentioned in context of the aftermath and political situation.
 - [[Davil Starsong]] — Half-elf leader of the Doom Raiders band. Agrees to help SWOJ infiltrate the Founders Day feast by letting them join the band. The grandstander of the group who refuses to cover his face.
 - [[Yagra]] — Half-orc member of the Doom Raiders. Sober and serious compared to some bandmates. Part of the group that helps SWOJ infiltrate the feast.
+- [[Skeemo]] — Member of the [[Doom Raiders]] band (full name: Skeemo Weirdbottle). Named in the roster at the [[Cassalanter Villa]] gates during the Founders Day feast infiltration.
 
 ### Locations
 

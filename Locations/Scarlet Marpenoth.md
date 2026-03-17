@@ -25,7 +25,7 @@ Jarlaxle's one-of-a-kind submersible vessel. Used to covertly transport SWOJ fro
 
 
 
-- **S02E09:** SWOJ borrows the submersible Scarlet Marpenoth to visit Kura Han, a massive dragon turtle
+- **S02E09:** SWOJ borrows the submersible Scarlet Marpenoth to visit [[Kurrihan]], a massive dragon turtle
 - **S02E14:** SWOJ takes the Scarlet Marpenoth submersible to shore under cover of darkness
 
 ## Connected Characters

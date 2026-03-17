@@ -47,7 +47,7 @@ A mountain range whose foothills border the Cryptwood. The mysterious mists orig
 - [[Farron]]
 - [[Fel'Rekt Lafeen]]
 - [[Fela Lefaliir]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Froon]]
 - [[Grayj]]
 - [[Gundark Gundarkson]]

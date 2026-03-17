@@ -10,29 +10,24 @@ tags:
 
 # Fioleth's Junkyard
 
-Phylith's personal bag of holding in the bag dimension, protected by an arcane gesture that keeps the Bag Man away. Contains piles of refuse, junk, and items that have fallen through other bags. Also houses Oobledoop the healing fungus.
+[[Fioleth]]'s personal bag of holding in the [[The Bag Dimension]], protected by an arcane gesture that keeps [[The Bag Man]] away. Contains piles of refuse, junk, and items that have fallen through other bags. Also houses [[Oobledoop]], a healing gelatinous fungus.
 
 **Type:** hideout
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+**First appearance:** [[S02E13 - Episode Forty Three LIVE (S02E13)|S02E13]]
 
 ## Description
 
-Phylith's personal bag of holding in the bag dimension, protected by an arcane gesture that keeps the Bag Man away. Contains piles of refuse, junk, and items that have fallen through other bags. Also houses Oobledoop the healing fungus.
+Fioleth's Junkyard is a bag of holding within the bag dimension that serves as [[Fioleth]]'s personal hideout and workshop. Protected by an arcane gesture that keeps [[The Bag Man]] at bay, the junkyard contains piles of refuse, sorted items, weapons, and armor that have fallen through other bags of holding over the years. [[Oobledoop]], a yellowish healing gelatinous fungus, also resides here, providing restorative healing to those who wade into it.
 
 ## Notable Events
 
-
-
-
-*No notable events recorded in transcripts.*
+- **S02E13:** SWOJ is brought here by [[Fioleth]] after entering the bag dimension. [[Scoot Sparkles|Scoot]] and [[Teriador]] heal in [[Oobledoop]]. Fioleth equips the party with weapons and gear from stored bags.
 
 ## Connected Characters
 
-
-
-
-*No connected characters identified from transcripts.*
+- [[Fioleth]]
+- [[Oobledoop]]
+- [[The Bag Man]]
 
 ## Episode Appearances
 

@@ -32,7 +32,7 @@ A shop on the Radiant Citadel staffed by kobolds. One of its kobolds spots SWOJ'
 
 
 
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Sholeh]]
 - [[Squidly]]
 - [[Urstul Floxxin]]

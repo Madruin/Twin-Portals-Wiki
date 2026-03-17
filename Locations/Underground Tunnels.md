@@ -37,7 +37,7 @@ A network of tunnels beneath the pocket dimension containing baby beasts of Aero
 - [[Fetch]]
 - [[Radecere]]
 - [[Rowan Crooks]]
-- [[Teriador The Rose Knight]]
+- [[Teriador]]
 - [[Thail]]
 - [[The Body Taker]]
 - [[The Hunter]]

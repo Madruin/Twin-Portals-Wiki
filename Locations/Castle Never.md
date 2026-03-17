@@ -46,7 +46,7 @@ The largest building in Neverwinter, a massive towering castle on the north side
 - [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Fel'Rekt Lafeen]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Fumbles  Fumblewick]]
 - [[Grayj]]
 - [[Jarlaxle Baenre]]

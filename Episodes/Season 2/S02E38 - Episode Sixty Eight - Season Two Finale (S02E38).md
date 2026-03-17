@@ -33,7 +33,7 @@ The Season 2 finale is an epilogue episode focused on SWOJ's homecoming to Water
 
 Upon arriving at Trollskull Manor, SWOJ is reunited with beloved NPCs: Lief the ghost attendant, Grim and Aspell Wavesilver (Lark's family), Tega and Simon (Scoot's parents), and Marie Polvich behind the bar. On the rooftop, Oranax the gold dragon (in dwarven form) removes four red tadpoles from Scoot's wounds using Remove Curse, explaining that if the curse progresses too far, victims might transform into frog creatures. The teleportation circle in the Trollskull basement has been completed by Alcoria Stonemarrow, and Tega's children Bennet and Janks have grown into teenagers — Bennet as a Griffin Rider recruit and Janks studying wizardry.
 
-The party spends a day revisiting Waterdeep: visiting Froon's tavern (their competition across the street, now thriving with their startup investment), checking on Vincent Trench's detective office (locked and abandoned), getting unbanned from the Yawning Portal where Xae hears a mysterious voice from Undermountain saying 'come home,' and Ylka performs with Three Strings to a packed crowd. Terry the awakened horse arrives — now armored with daggers and glowing yellow eyes — and races them across rooftops to their meeting with the Masked Lords.
+The party spends a day revisiting Waterdeep: visiting Froon's tavern (their competition across the street, now thriving with their startup investment), checking on Vincent Trench's detective office (locked and abandoned), getting unbanned from the Yawning Portal where Xae hears a mysterious voice from Undermountain saying 'come home,' and Ylka performs with [[Three Strings]] to a packed crowd. Terry the awakened horse arrives — now armored with daggers and glowing yellow eyes — and races them across rooftops to their meeting with the Masked Lords.
 
 At the palace, SWOJ performs a musical recap of Season 2 for the assembled leadership: the Masked Lords, Renaer Neverember, Jarlaxle (as himself), Ramalia Haventree of the Harpers, and representatives from the Sword Coast Alliance including Baldur's Gate. They are presented with a Letters of Charter officially recognizing the Guild of the Silver Waves of Justice, granting them recruitment rights, petitioning privileges, safe passage, limited judicial immunity, and franchising rights across the Sword Coast Alliance. Terry is invited as the first official guild member.
 
@@ -70,6 +70,7 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 - [[Mara]] — Pops out from behind the bar at Trollskull Manor when SWOJ returns.
 - [[Squidley]] — An ally who traveled with SWOJ. Moves into a room at Trollskull Manor and delivers the Masked Lords' letter to the party.
 - [[Terry]] — An awakened horse ally of SWOJ, now upgraded with daggers, armor, a SWOJ hawberk, and faintly glowing yellow eyes. Can throw daggers from his hooves. Arrives dramatically with a lightning bolt, leaps across rooftops to transport the party to the Masked Lords. Invited as the first official member of the SWOJ guild.
+- [[Three Strings]] — Resident bard at the Yawning Portal. Plays one of Ylka's tunes to the packed crowd, who all sing along. When Ylka joins in, Three Strings jumps up on the table with her for a celebratory duet.
 
 ### Locations
 

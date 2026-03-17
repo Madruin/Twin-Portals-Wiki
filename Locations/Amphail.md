@@ -64,7 +64,7 @@ A town north of Waterdeep where the Right of the Staglass ceremony is held. Anya
 - [[Fel'Rekt Lafeen]]
 - [[Fela Lefaliir]]
 - [[Fetch]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Froon]]
 - [[Gorg Fallowfoot]]
 - [[Gorp]]

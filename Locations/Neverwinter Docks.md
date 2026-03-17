@@ -35,7 +35,7 @@ Cliff-side docks about 60 feet below Castle Never where the Ethereal Galleon is 
 - [[Willifort Crowell|Crowell]]
 - [[Dagult Neverember]]
 - [[Fel'Rekt Lafeen]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Quorlith The Starweaver]]
 - [[Renaer Neverember]]
 - [[Shaleheart]]

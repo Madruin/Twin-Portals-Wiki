@@ -1,35 +1,14 @@
 ---
 title: "Beaka Brazzi"
-type: character
-subtype: npc
-status: unknown
+type: redirect
 aliases: []
 tags:
   - twin-portals
-  - character
-  - npc
+  - redirect
 ---
 
 # Beaka Brazzi
 
-Xae's giant raven ally. Flies in through a window during the theater battle to help attack the chandelier.
+"Beaka Brazzi" is a transcription error for **[[Beaker|Beaker Bratzie]]**, a raven in [[Sally]]'s bird intelligence network. The name was misheard by automated transcription in [[S01E26 - Episode Twenty Six|S01E26]] (the original audio says "Beaker Bratzie").
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-Xae's giant raven ally. Flies in through a window during the theater battle to help attack the chandelier.
-
-## Role in the Story
-
-
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+See **[[Beaker]]** for the full article.

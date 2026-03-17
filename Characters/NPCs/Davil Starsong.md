@@ -74,7 +74,7 @@ By Season 2, SWOJ's investment had helped the Doom Raiders formalize their opera
 
 ### The Ethereal War (S02E31-S02E33)
 
-When SWOJ assembled their allies for the final assault against [[Manshoon]]'s forces at the [[Spiral Cavern]] and beyond, the Doom Raiders answered the call. They joined the crew aboard the Ethereal Galleon alongside other allies -- [[Squidly]], [[Fel'Rekt Lafeen]], [[Shaleheart]], and [[Fylith]]. Their role was characteristically musical: the Doom Raiders served as the second musical act aboard the ship, their performances helping to power the spelljamming helm that propelled the fleet. [[Ylka Gralhund|Ylka]] led them with her concertina in what was described as "very death metal polka."
+When SWOJ assembled their allies for the final assault against [[Manshoon]]'s forces at the [[Spiral Cavern]] and beyond, the Doom Raiders answered the call. They joined the crew aboard the Ethereal Galleon alongside other allies -- [[Squidly]], [[Fel'Rekt Lafeen]], [[Shaleheart]], and [[Fioleth]]. Their role was characteristically musical: the Doom Raiders served as the second musical act aboard the ship, their performances helping to power the spelljamming helm that propelled the fleet. [[Ylka Gralhund|Ylka]] led them with her concertina in what was described as "very death metal polka."
 
 When the Ethereal Galleon took on extra weight from a towed vessel, the Doom Raiders joined Ylka in making music to help power the ship through the added strain. Throughout the fleet's journey, they kept playing to keep the ships afloat while other allied forces -- the [[Jolly Gents]], Neverwinter troops -- handled scouting and combat.
 

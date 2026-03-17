@@ -93,7 +93,7 @@ By Season 2, the Doom Raiders had formalized their operations through the **Doom
 
 ### Joining SWOJ's Fleet (S02E31)
 
-When SWOJ assembled their allies for the final assault against Manshoon's forces at the [[Spiral Cavern]] and beyond, the Doom Raiders answered the call. They joined the crew aboard the Ethereal Galleon alongside other allies -- [[Squidly]], [[Fel'Rekt Lafeen|Thelrect Lafina]], [[Shaleheart]] the bulette, and [[Fylith]] the Ragamuffin. Their role was characteristically musical: the Doom Raiders served as the second musical act aboard the ship, their performances helping to power the spelljamming helm that propelled the fleet. Ylka led them with her concertina in what was described as "very death metal polka."
+When SWOJ assembled their allies for the final assault against Manshoon's forces at the [[Spiral Cavern]] and beyond, the Doom Raiders answered the call. They joined the crew aboard the Ethereal Galleon alongside other allies -- [[Squidly]], [[Fel'Rekt Lafeen|Thelrect Lafina]], [[Shaleheart]] the bulette, and [[Fioleth]] the Ragamuffin. Their role was characteristically musical: the Doom Raiders served as the second musical act aboard the ship, their performances helping to power the spelljamming helm that propelled the fleet. Ylka led them with her concertina in what was described as "very death metal polka."
 
 ### Captured by Manshoon (S02E36)
 

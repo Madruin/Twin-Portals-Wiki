@@ -68,6 +68,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 - [[Lif]] — A ghost who manages the Short Rest tavern on Trollskull Alley. Has been running things during SWOJ's three-year absence.
 - [[Nat]] — A teenager now, having grown up during the three-year gap. Helps manage the Short Rest tavern.
 - [[Jenks]] — A teenager now, having grown up during the three-year gap. Helps manage the Short Rest tavern alongside Nat.
+- [[Skeemo]] — Operative who runs the [[Doom Network Headquarters|Doom Network]] for the [[Doom Raiders]]. Assigns SWOJ the mission to find [[Anya Irmbrusk]] (the Staglass) in [[Amphail]].
 
 ### Locations
 

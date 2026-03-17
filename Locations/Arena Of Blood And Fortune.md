@@ -34,7 +34,7 @@ Gladiatorial arena within the Xanathar's lair where captured prisoners are force
 
 
 - [[Flutterfoot Zipswiggle]]
-- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Jarlaxle|J.B. Nevercott]]
 - [[Narl Xibrindas]]
 - [[Ott Steeltoes]]
 - [[Pinker]]

@@ -36,7 +36,7 @@ An infinite Rubik's cube structure of translucent glass in the Far Realm. Houses
 - [[Pippa Flouf]]
 - [[Rowan Crooks]]
 - [[Shoonie]]
-- [[Teriador The Rose Knight  The Blight Knight]]
+- [[Teriador]]
 - [[The Body Taker]]
 - [[Vincent Trench]]
 

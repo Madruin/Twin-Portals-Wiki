@@ -46,7 +46,7 @@ SWOJ's tavern headquarters in the North Ward of Waterdeep. The party reunites he
 - [[Froon]]
 - [[Gorg Fallowfoot]]
 - [[Grinda Garloth]]
-- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Jarlaxle|J.B. Nevercott]]
 - [[Jenks]]
 - [[Lif]]
 - [[Mara Melora]]

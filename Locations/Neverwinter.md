@@ -72,7 +72,7 @@ City where Dagult Neverember is from. His main seat of power.
 - [[Fel'Rekt Lafeen]]
 - [[Fela Lefaliir]]
 - [[Fetch]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 
 ## Episode Appearances
 

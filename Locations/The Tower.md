@@ -41,7 +41,7 @@ A tall stone structure at the center of the Dynamo's pocket dimension, covered i
 - [[Fetch]]
 - [[Radecere]]
 - [[Rowan Crooks]]
-- [[Teriador The Rose Knight]]
+- [[Teriador]]
 - [[Thail]]
 - [[The Body Taker]]
 - [[The Hunter]]

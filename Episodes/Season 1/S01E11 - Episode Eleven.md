@@ -68,6 +68,7 @@ Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barr
 - [[Terry]] — Intellect devourer allied with SWOJ. Desperately eats an alley cat's brain for sustenance. Still inhabiting a humanoid body.
 - [[Jenks]] — Orphan street kid and member of the Trollskull Alley Irregulars. Suggests Hrabbaz as a body candidate for Terry. Finds the Necklace of Fireballs in a barrel after the explosion and gives it to SWOJ.
 - [[Hrabbaz]] — Half-orc bodyguard employed by the Gralhund family. Known for being violent and cruel, especially toward children. Janks suggests him as a potential body for Terry.
+- [[Vaniel]] — Halfling patron of the [[Hole In The Wall]] tavern. Attends the Short Rest grand opening and is killed in the fireball explosion on [[Trollskull Alley]].
 
 ### Locations
 

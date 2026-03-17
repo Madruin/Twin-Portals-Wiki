@@ -1,35 +1,12 @@
 ---
 title: "Quorleth The Starweaver"
-type: character
-subtype: npc
-status: unknown
-aliases: []
+type: redirect
+redirect: "[[Quorlith The Starweaver]]"
 tags:
-  - twin-portals
-  - character
-  - npc
+  - redirect
 ---
 
-# Quorleth The Starweaver
+> [!info] Redirect
+> This page redirects to [[Quorlith The Starweaver]].
 
-A powerful spellcaster who helped Neverwinter build three airships using spelljammer helm technology. Mentioned by Renaer as instrumental in the ship construction effort.
-
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-A powerful spellcaster who helped Neverwinter build three airships using spelljammer helm technology. Mentioned by Renaer as instrumental in the ship construction effort.
-
-## Role in the Story
-
-
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+"Quorleth" is an alternate transcription spelling of **[[Quorlith The Starweaver]]**, the giant spider ally of [[SWOJ]] who inhabits [[Castle Never]].

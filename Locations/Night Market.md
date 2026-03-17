@@ -33,7 +33,7 @@ A bustling marketplace in the trade district of the Radiant Citadel, near the en
 
 
 - [[Arcturia]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Hanna]]
 - [[Kelemvor]]
 - [[Leah]]

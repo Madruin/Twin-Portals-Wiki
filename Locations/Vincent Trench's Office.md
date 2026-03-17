@@ -38,7 +38,7 @@ Private investigator's office in Trollskull Alley. Janks found the Necklace of F
 - [[Durnan]]
 - [[Fai Chen]]
 - [[Fel'Rekt Lafeen]]
-- [[Fioleth The Ragamoffin]]
+- [[Fioleth]]
 - [[Grim Wavesilver]]
 - [[Hanna]]
 - [[Hrabbaz]]

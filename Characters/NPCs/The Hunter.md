@@ -12,18 +12,36 @@ tags:
 
 # The Hunter
 
-A mysterious shadowy archer figure encountered earlier inside the Dynamo. Referenced as a threat within the pocket dimension.
+The Hunter is a mysterious, shadowy archer figure that lurked within the [[Dynamo Of Possibility]], the pocket dimension inside the [[The Great Beast of Erua|Great Beast of Erua]]. Named by [[Fetch]], who was terrified of him, The Hunter stalked the Dynamo's forests and city streets, shooting down [[The Body Taker|podlings]] with lethal precision from impossible distances. His true nature remains ambiguous -- he may be another fragment of [[Manshoon]]'s shattered soul, or a manifestation conjured from Fetch's deepest fears.
 
-**First appearance:** [[S02E04 - Episode Thirty Four (S02E04)]]
-**Total appearances:** 3 episodes
+**First appearance:** [[S02E04 - Episode Thirty Four (S02E04)|S02E04]]
+**Total appearances:** 2 episodes
 
 ## Description
 
-A mysterious shadowy archer figure encountered earlier inside the Dynamo. Referenced as a threat within the pocket dimension.
+The Hunter is described as a shadowy figure who wears a large, wide-brimmed hat. Beyond that, very little is known about his physical form -- [[Fetch]] himself has never seen the Hunter clearly, only knowing of his existence through the Body Taker's encounters with him. Fetch describes him as "shadowy" with "a big hat," and calls him lethal and "evil as hell." The Hunter fires longbow arrows that appear shadowy in nature, capable of striking targets from hundreds of feet away with frightening accuracy. His arrows leave a distinctive mark: dark, shadowy shafts embedded in whatever they hit, from podlings to baby beasts to animated instruments.
 
 ## Role in the Story
 
-*Details to be added.*
+- **[[S02E04 - Episode Thirty Four (S02E04)|S02E04]]:** As [[SWOJ]] traveled through the city inside the [[Dynamo Of Possibility]] with [[Fetch]] and a procession of animated musical instruments, they discovered podlings littering the main thoroughfare with shadowy arrows stuck in them -- evidence of the Hunter's handiwork. When asked about the arrows, Fetch became visibly terrified and named the unseen archer "the Hunter," warning the party that he was hunting for Fetch as well as the [[The Body Taker|Body Taker]]. As the group entered the dark forest between the city and the tower, Fetch sensed the Hunter's presence nearby. The party cast Pass Without a Trace and proceeded with stealth. Deeper in the woods, the Hunter opened fire -- shadowy longbow arrows streaked from hundreds of feet away, pinning the piccolo to a tree and striking the piano. Anything that poked out from cover drew an arrow. [[Ylka Gralhund|Ylka]] rallied the animated instruments into a marching distraction playing "I Will Survive," drawing the Hunter's fire while SWOJ and Fetch escaped through the trees toward the underground tunnels. The instruments later caught up, battered and "peppered with arrows" but still functioning. In the tunnels, the party found a baby [[The Great Beast of Erua|beast of Erua]] also wounded by the Hunter's shadowy arrows, which Fetch helped heal.
+- **[[S02E05 - Episode Thirty Five (S02E05)|S02E05]]:** After escaping the Dynamo, SWOJ recounted their experiences to [[Rowan Crooks]] and the [[Jolly Gents]]. When the Hunter came up in conversation, Rowan compared the Hunter's archery to his own skill and speculated that the Hunter might have been "an impression of me, some like generated out of fear" -- a manifestation created by Fetch's terror rather than a real, independent being. Rowan also noted that if the Hunter was real, he could represent another fragment of [[Manshoon]] still trapped inside the Dynamo. The question of whether the Hunter survived the Dynamo's collapse was left unresolved.
+
+## Nature and Theories
+
+The Hunter's true identity is one of the lingering mysteries of the Dynamo arc. Two theories emerge from the story:
+
+1. **Another Manshoon fragment:** Like [[Fetch]] (Manshoon's innocence) and the [[The Body Taker|Body Taker]] (Manshoon's cruelty), the Hunter could be a third aspect of the wizard's fractured soul -- perhaps representing Manshoon's predatory cunning or relentless pursuit.
+2. **A fear-generated construct:** [[Rowan Crooks]] suggested the Hunter might be an "impression" generated from Fetch's fear, a manifestation of the Dynamo's reality-bending power rather than a distinct entity. Since the Dynamo can imbue objects with the suggestion of a soul, it may have given form to Fetch's terror of being hunted.
+
+Regardless of his origin, the Hunter was a genuine threat within the pocket dimension, capable of causing real harm to both living creatures and animated objects alike.
+
+## Relationships
+
+- [[Fetch]] -- Terrified of the Hunter; named him and warned SWOJ to run whenever the Hunter was near
+- [[The Body Taker]] -- The only other entity confirmed to have encountered the Hunter directly; both stalked the Dynamo as threats to Fetch
+- [[Manshoon]] -- Possibly another fragment of Manshoon's soul, alongside Fetch and the Body Taker
+- [[Rowan Crooks]] -- Rowan speculated the Hunter might be an impression of himself generated by fear; Fetch may have conflated Rowan with the Hunter during his capture
+- [[Dynamo Of Possibility]] -- The pocket dimension where the Hunter existed; his fate after its collapse is unknown
 
 ## Episode Appearances
 

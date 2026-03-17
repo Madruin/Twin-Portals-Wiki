@@ -33,7 +33,7 @@ The lair collapses when Thaelin's Flame Bolt triggers the smoke powder explosive
 
 
 - [[Flutterfoot Zipswiggle]]
-- [[JB Nevercott  Jarlaxle Baenre]]
+- [[Jarlaxle|J.B. Nevercott]]
 - [[Pinker]]
 
 ## Episode Appearances
