@@ -76,7 +76,7 @@ The episode culminated with a massive celebration in Trollskull Alley, featuring
 
 - [[Cassalanter Villa Crypt]]
 - [[Castle Waterdeep]]
-- [[Trollskull Manor  The Short Rest]]
+- [[Trollskull Manor]]
 - [[Trollskull Alley]]
 - [[Old Xoblob Shop]]
 - [[The God Catcher]]

@@ -73,7 +73,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 ### Locations
 
 - [[The Great Beast of Erua]]
-- [[The Short Rest]]
+- [[Trollskull Manor]]
 - [[Trollskull Alley]]
 - [[Frewn's  Brews]]
 - [[Waterdeep]]

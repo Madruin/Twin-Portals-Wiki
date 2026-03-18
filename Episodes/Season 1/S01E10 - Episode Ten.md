@@ -71,7 +71,7 @@ At the docks, SWOJ meets Zelopharne the bronze dragon in human form, who points 
 ### Locations
 
 - [[Cassalanter Villa]]
-- [[Trollskull Manor  The Short Rest]]
+- [[Trollskull Manor]]
 - [[Seaward Watch Post]]
 - [[Temple Of Selune]]
 - [[Corellon's Crown]]

@@ -72,7 +72,8 @@ The burned Zhentarim leader is cornered and, after being charmed by Ylka, reveal
 
 ### Locations
 
-- [[Trollskull Alley  The Short Rest]]
+- [[Trollskull Manor]]
+- [[Trollskull Alley]]
 - [[Gralhund Villa]]
 - [[Saradune Street]]
 - [[Delzorin Street]]

@@ -10,37 +10,9 @@ tags:
 
 # Neverwinter Dry Docks
 
-The shipbuilding facility in Neverwinter where three airships are under construction. The Ethereal Galleon is damaged by saboteur explosives during the attack on Castle Never.
+> **See:** [[Neverwinter Docks]] -- The dry docks are part of the larger cliff-side dock complex below [[Castle Never]].
 
-**Type:** facility
-**First appearance:** Episode S02E30
-**Total appearances:** 1 episodes
-
-## Description
-
-The shipbuilding facility in Neverwinter where three airships are under construction. The Ethereal Galleon is damaged by saboteur explosives during the attack on Castle Never.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-- [[Amalia Cassalanter]]
-- [[Argentis]]
-- [[Grayj]]
-- [[Jill (Ygglimar)]]
-- [[Kingfisher]]
-- [[Little Joan]]
-- [[Quorlith The Starweaver]]
-- [[Renaer Neverember]]
-- [[Zelifarn]]
+The Neverwinter Dry Docks refer specifically to the elevated shipbuilding platforms extending from the cliff face where three airships were constructed under [[Renaer Neverember]]'s direction: the [[Ethereal Galleon]], the Hammerhead Destroyer, and the Clockwork Kraken. [[Quorlith The Starweaver|Corlith the Starweaver]] contributed spider silk stronger than steel cable to their construction.
 
 ## Episode Appearances
 

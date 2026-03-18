@@ -49,7 +49,7 @@ Terry's arc is partly defined by the succession of bodies he has occupied:
 - **S01E07:** Terry's true nature is revealed -- he is an intellect devourer who had been inhabiting the Zuber driver's body; placed into a dead body temporarily; given a SWOJ t-shirt
 - **S01E09:** Terry now inhabits a one-eyed golden retriever corpse; left outside the Cassalanter villa with guards; plays with the Cassalanter children; tries to get help during the attic fight
 - **S01E10:** Terry receives a new human body from a dead cultist found after the Cassalanter villa incident; still struggles without adequate brain sustenance
-- **S01E11:** Terry desperately eats an alley cat's brain for sustenance; [[Janks]] suggests [[Hrabbaz]] (Gralhund bodyguard) as a potential body for Terry
+- **S01E11:** Terry desperately eats an alley cat's brain for sustenance; [[Jenks]] suggests [[Hrabbaz]] (Gralhund bodyguard) as a potential body for Terry
 - **S01E13:** Now inhabiting a horse body, Terry arrives with the SWOJ-mobile to assist in the pursuit through Trollskull Alley
 - **S01E15:** Terry the horse bursts into the courtroom during the trial chaos and stomps enemy intellect devourers; follows SWOJ's carriage through the city in a comically un-stealthy manner
 - **S01E19:** Terry is mentioned in passing

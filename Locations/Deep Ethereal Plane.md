@@ -10,41 +10,15 @@ tags:
 
 # Deep Ethereal Plane
 
-The far reaches of the Ethereal Plane where the Radiant Citadel floats. A plane of spirits, far from the regular ethereal plane. Time flows the same as on the material plane.
+> See main article: [[Ethereal Plane  Deep Ethereal]]
 
-**Type:** plane
-**First appearance:** Episode S02E08
-**Total appearances:** 2 episodes
-
-## Description
-
-The far reaches of the Ethereal Plane where the Radiant Citadel floats. A plane of spirits, far from the regular ethereal plane. Time flows the same as on the material plane.
+The far reaches of the Ethereal Plane where the [[Radiant Citadel]] floats around the [[Auroral Diamond]]. An infinite auroral space of scintillating rainbows, far from the Border Ethereal. Time flows at the same rate as on the Material Plane. SWOJ travels through this plane multiple times via the [[Concord Jewel]] during Season 2.
 
 ## Notable Events
 
-
-
-
-- **S02E32:** SWOJ travels through the deep ethereal plane toward the Radiant Citadel with the Keening Gloom in the background
-
-## Connected Characters
-
-
-
-
-- [[Fioleth]]
-- [[Hanna]]
-- [[Leah]]
-- [[Rose Quartz Incarnate]]
-- [[Sax Bandon]]
-- [[Sholeh]]
-- [[Sid Squid]]
-- [[Squidly]]
-- [[Tagga]]
-- [[Trill]]
-- [[Urstul Floxxin]]
-- [[Vincent Trench]]
-- [[Zelifarn]]
+- **[[S02E08 - Episode Thirty Eight (S02E08)|S02E08]]:** SWOJ first arrives at the [[Radiant Citadel]] through the Deep Ethereal via the [[Concord Jewel]], passing the [[Keening Gloam]].
+- **[[S02E32 - Episode Sixty Two LIVE (S02E32)|S02E32]]:** SWOJ returns to the Deep Ethereal after taking control of the Concord Jewel during the assault on the [[Moonhole]].
+- **[[S02E33 - Episode Sixty Three (S02E33)|S02E33]]:** SWOJ travels through the Deep Ethereal toward the besieged Radiant Citadel, finding it glowing a sickly red under [[Cult of the Dragon]] occupation.
 
 ## Episode Appearances
 

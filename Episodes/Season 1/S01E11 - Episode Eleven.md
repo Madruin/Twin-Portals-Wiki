@@ -74,7 +74,8 @@ Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barr
 
 - [[The Eyecatcher]]
 - [[Yawning Portal]]
-- [[Trollskull Alley  The Short Rest]]
+- [[Trollskull Manor]]
+- [[Trollskull Alley]]
 - [[Delzorin Street]]
 - [[Corellon's Crown]]
 - [[Vincent Trench's Office]]

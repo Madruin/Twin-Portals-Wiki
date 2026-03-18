@@ -75,9 +75,6 @@ In the cellar, the party finds Lif's personal effects including his diary, gold,
 - [[Honorable Knight Statue]]
 - [[Trollskull Manor]]
 - [[Trollskull Alley]]
-- [[Trollskull Manor Cellar]]
-- [[Trollskull Manor Tower]]
-- [[Trollskull Manor Attic]]
 - [[North Ward]]
 
 ---

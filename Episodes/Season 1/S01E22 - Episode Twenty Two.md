@@ -71,7 +71,7 @@ They arrive inside one of the Kolat Towers, encountering Urstul Floxin and his a
 
 ### Locations
 
-- [[Trollskull Manor (Short Rest Tavern)]]
+- [[Trollskull Manor]]
 - [[Cellar Laboratory]]
 - [[Docksward]]
 - [[Zelifarn's Underwater Lair]]

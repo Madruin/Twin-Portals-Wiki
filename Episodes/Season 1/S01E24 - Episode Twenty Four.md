@@ -83,7 +83,7 @@ In a desperate escape, Ylka grabs the marble (the third Eye), Scoot administers 
 
 ### Locations
 
-- [[Trollskull Manor (Short Rest Tavern)]]
+- [[Trollskull Manor]]
 - [[Cassalanter Villa]]
 - [[Victoro's Office (Cassalanter Villa)]]
 - [[Library (Cassalanter Villa)]]

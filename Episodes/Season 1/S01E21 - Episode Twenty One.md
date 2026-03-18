@@ -74,7 +74,7 @@ In the emotional reunion, Lark hugs everyone. The hat's magic activates, pulling
 - [[The Hag's Shack]]
 - [[Animal Cage Building]]
 - [[The Ash Tree Summit]]
-- [[Short Rest Tavern (Trollskull Manor)]]
+- [[Trollskull Manor]]
 
 ---
 
