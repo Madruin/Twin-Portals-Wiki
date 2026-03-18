@@ -1,11 +1,12 @@
 ---
-title: "The Sea Plum"
+title: The Sea Plum
 type: location
-subtype: "vessel"
-aliases: []
+subtype: vessel
+aliases:
+- Sea Plum
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # The Sea Plum

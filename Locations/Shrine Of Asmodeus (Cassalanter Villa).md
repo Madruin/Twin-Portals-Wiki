@@ -1,12 +1,13 @@
 ---
-title: "Shrine Of Asmodeus (Cassalanter Villa)"
+title: Shrine Of Asmodeus (Cassalanter Villa)
 type: location
-subtype: "shrine"
-aliases: []
+subtype: shrine
+aliases:
+- Shrine of Asmodeus (Cassalanter Villa)
 tags:
-  - twin-portals
-  - location
-  - cassalanter
+- twin-portals
+- location
+- cassalanter
 ---
 
 # Shrine Of Asmodeus (Cassalanter Villa)

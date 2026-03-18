@@ -14,7 +14,7 @@ tags:
 
 A drow mercenary organization led by [[Jarlaxle Baenre]], operating covertly across the Sword Coast. Composed of outcasts from the great drow houses of Menzoberranzan, Bregan D'Aerthe pursues legitimate drow presence in surface cities while running intelligence networks and mercantile operations under various fronts. They are long-standing allies of [[SWOJ]], providing intelligence, operatives, and material support throughout both seasons of the campaign.
 
-**First appearance:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 17 episodes
 
 ## Goals and Philosophy

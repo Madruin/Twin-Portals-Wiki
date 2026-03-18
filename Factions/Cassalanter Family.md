@@ -1,11 +1,12 @@
 ---
-title: "Cassalanter Family"
+title: Cassalanter Family
 type: faction
 status: active
-aliases: []
+aliases:
+- Cassalanter
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Cassalanter Family

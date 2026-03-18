@@ -13,7 +13,7 @@ tags:
 The private locked office of [[Victoro Cassalanter]] within [[Cassalanter Villa]], containing his business records, legal documents, and a hidden symbol of his allegiance to the [[Cult of Asmodeus]]. The room is protected by a helmed horror trap disguised as a decorative suit of armor.
 
 **Type:** room
-**First appearance:** [[S01E24 - Episode Twenty Four]]
+**First appearance:** [[S01E24 - Episode Twenty Four|S01E24]]
 **Total appearances:** 1 episodes
 
 ## Description
@@ -22,7 +22,7 @@ A well-appointed office behind a locked door on one of the upper floors of Cassa
 
 ## Notable Events
 
-- **[[S01E24 - Episode Twenty Four]]:** During [[SWOJ]]'s infiltration of the villa while playing "ghosts" with the children, [[Terenzio Cassalanter|Terenzio]] leads [[Malark Wavesilver|Lark]] to his father's forbidden office. Lark picks the lock with a natural 20 (rolling 30 total), cleanly bypassing the spring trap mechanism that would have activated the helmed horror. Inside, Lark picks the desk drawer and discovers several sealed scroll tubes containing loan documents -- including one to the Wavesilver family -- and a secret compartment holding a solid gold cloven hoof icon, the symbol of the Cult of Asmodeus. Terenzio recognizes the hoof symbol from his bad dreams and mentions dreaming of his mother going into a secret passage in his bedroom. Lark shows the children the scroll tubes and pendant, then pockets the evidence.
+- **[[S01E24 - Episode Twenty Four|S01E24]]:** During [[SWOJ]]'s infiltration of the villa while playing "ghosts" with the children, [[Terenzio Cassalanter|Terenzio]] leads [[Malark Wavesilver|Lark]] to his father's forbidden office. Lark picks the lock with a natural 20 (rolling 30 total), cleanly bypassing the spring trap mechanism that would have activated the helmed horror. Inside, Lark picks the desk drawer and discovers several sealed scroll tubes containing loan documents -- including one to the Wavesilver family -- and a secret compartment holding a solid gold cloven hoof icon, the symbol of the Cult of Asmodeus. Terenzio recognizes the hoof symbol from his bad dreams and mentions dreaming of his mother going into a secret passage in his bedroom. Lark shows the children the scroll tubes and pendant, then pockets the evidence.
 
 ## Connected Characters
 

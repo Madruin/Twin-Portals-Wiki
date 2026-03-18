@@ -1,11 +1,12 @@
 ---
-title: "Stadium Of Souls"
+title: Stadium Of Souls
 type: location
-subtype: ""
-aliases: []
+subtype: ''
+aliases:
+- Stadium of Souls
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Stadium Of Souls

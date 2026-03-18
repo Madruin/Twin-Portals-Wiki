@@ -2,7 +2,8 @@
 title: "Soul Engine Room"
 type: location
 subtype: "chamber"
-aliases: []
+aliases:
+  - "Soul Engine"
 tags:
   - twin-portals
   - location

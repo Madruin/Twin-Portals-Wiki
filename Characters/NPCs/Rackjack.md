@@ -16,7 +16,7 @@ tags:
 
 The eldest of the [[Brighanox]], a community of tiny fairy folk living in tunnels along the border between the [[Feywild]] and [[The Shadowfell]]. Rackjack led her people in sheltering [[SWOJ]] after they fought off [[Strigoi]] attackers, and she taught the party about [[wish stones]] and Brighanox society before sending them on their way with an open invitation to return.
 
-**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)]]
+**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)|S02E02]]
 **Total appearances:** 1 episode
 
 ## Description

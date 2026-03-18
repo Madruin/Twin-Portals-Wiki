@@ -12,7 +12,7 @@ tags:
 
 The Trollskull Regulars are the loyal circle of allies, neighbors, and regular patrons who gathered around [[SWOJ]] and the [[Short Rest]] tavern on [[Trollskull Alley]]. Over the course of the campaign, this informal community became a steadfast support network that stood by SWOJ through the darkest times -- from the fireball attack to the final battle against [[Manshoon]]'s forces.
 
-**First appearance:** [[S02E37 - Episode Sixty-Seven]] (as a named group)
+**First appearance:** [[S02E37 - Episode Sixty Seven LIVE (S02E37)|S02E37]] (as a named group)
 **Total appearances:** 2 episodes (named as "Trollskull Regulars")
 
 ## Overview
@@ -21,7 +21,7 @@ While the [[Short Rest]] attracted many customers after its opening, a core grou
 
 The term "Trollskull Regulars" is first used explicitly during the events of Season 2's finale, when this allied group appeared at the [[Spiral Cavern]] helping with the refugee effort alongside [[Neverwinter Forces|Neverwinter soldiers]] and the [[Griffin Cavalry of Waterdeep|Griffin Cavalry]]. They later arrived at [[Trollskull Manor]] through the new teleportation circle for the homecoming celebration, cementing their identity as SWOJ's core supporters.
 
-The Regulars are known for their irreverent sense of humor -- they once tried to put googly eyes on the [[Stone of Golorr]], which [[Taga|Tega]] put a stop to.
+The Regulars are known for their irreverent sense of humor -- they once tried to put googly eyes on the [[The Stone of Golorr]], which [[Taga|Tega]] put a stop to.
 
 ## Known Members
 

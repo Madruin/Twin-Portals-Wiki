@@ -14,7 +14,7 @@ tags:
 
 The third dryad sister, found tied up and unconscious in a cage in the larger building with the animals. Describes herself as 'just a silver maple.' Revived by her sisters with magical berries.
 
-**First appearance:** [[S01E21 - Episode Twenty One]]
+**First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 1 episode
 
 ## Description

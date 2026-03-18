@@ -12,7 +12,7 @@ tags:
 
 The Clavagers are the pilots who guide the [[Concord Jewel|Concord Jewels]] to their destinations, navigating the crystalline vessels between the [[Radiant Citadel]] in the [[Ethereal Plane]] and anchor points on the material plane. The word "clavager" may derive from a root meaning "key," reflecting their role as the keepers who unlock the pathways between worlds.
 
-**First appearance:** [[S02E08 - Episode Thirty-Eight]]
+**First appearance:** [[S02E08 - Episode Thirty Eight (S02E08)|S02E08]]
 **Total appearances:** 1 episode
 
 ---

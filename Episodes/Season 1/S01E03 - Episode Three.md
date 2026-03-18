@@ -8,8 +8,8 @@ duration: "01:55:13"
 type: episode
 format: gameplay
 live: false
-prev: "[[S01E02 - Episode Two]]"
-next: "[[S01E04 - Episode Four]]"
+prev: "[[S01E02 - Episode Two|S01E02]]"
+next: "[[S01E04 - Episode Four|S01E04]]"
 tags:
   - twin-portals
   - season-1
@@ -65,7 +65,7 @@ Following the unicorn talisman's pull, the party discovered Blue Alley, a legend
 ### Locations
 
 - [[Waterdeep]]
-- [[Sea Maiden's Fair]]
+- [[Sea Maiden's Faire]]
 - [[Blue Alley]]
 - [[The Splintered Stair]]
 - [[Dock Ward]]

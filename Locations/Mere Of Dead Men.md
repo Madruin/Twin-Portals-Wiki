@@ -1,11 +1,12 @@
 ---
-title: "Mere Of Dead Men"
+title: Mere Of Dead Men
 type: location
-subtype: "swamp"
-aliases: []
+subtype: swamp
+aliases:
+- Mere of Dead Men
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Mere Of Dead Men

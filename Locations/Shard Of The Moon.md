@@ -1,11 +1,12 @@
 ---
-title: "Shard Of The Moon"
+title: Shard Of The Moon
 type: location
-subtype: "fortress"
-aliases: []
+subtype: fortress
+aliases:
+- Shard of the Moon
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Shard Of The Moon

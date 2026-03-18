@@ -12,7 +12,7 @@ tags:
 
 The Dark Lord Cult is a group of cultists discovered by [[Silver Waves Of Justice|SWOJ]] operating inside the [[God Catcher]], a massive ancient walking statue in [[Waterdeep]]'s Castle Ward. The cultists imprisoned sailors and performed rituals "for the dark lord of Nexus," and at least one member wore [[House Wavesilver]] insignia -- a disturbing connection to [[Malark Wavesilver|Lark]]'s noble family.
 
-**First appearance:** [[S01E06 - Episode Six]]
+**First appearance:** [[S01E06 - Episode Six|S01E06]]
 **Total appearances:** 1 episode
 
 ---

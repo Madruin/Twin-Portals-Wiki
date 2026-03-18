@@ -15,7 +15,7 @@ tags:
 
 The Army of the Dead is a host of ancient souls raised from the [[Wall Of The Faithless]] by [[Arcturia]]'s ritual during the climactic battle against [[Manshoon]] at the [[Radiant Citadel]]. Manifesting as blue and white spectres wearing armor from forgotten civilizations, the army was led by an orc woman warrior ghost and marched up the crystal spire to engage Manshoon's forces, turning the tide of the final conflict.
 
-**First appearance:** [[S02E36 - Episode Sixty-Eight]]
+**First appearance:** [[S02E36 - Episode Sixty Six (S02E36)|S02E36]]
 **Total appearances:** 1 episode
 
 ---

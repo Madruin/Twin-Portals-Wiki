@@ -14,7 +14,7 @@ tags:
 
 Phelerek is a guard employed at [[Cassalanter Villa]], serving the [[Cassalanter Family  Cult Of Asmodeus|Cassalanter family]]. He is best known for being charmed by [[Xaerine Rumblestride|Xae]] in golden retriever form during SWOJ's infiltration of the villa, unwittingly allowing the party access to the estate grounds.
 
-**First appearance:** [[S01E24 - Episode Twenty Four]]
+**First appearance:** [[S01E24 - Episode Twenty Four|S01E24]]
 **Total appearances:** 1 episode
 
 ## Description
@@ -25,7 +25,7 @@ Phelerek is a guard stationed at the rear stable entrance of [[Cassalanter Villa
 
 ### Season 1
 
-- **[[S01E24 - Episode Twenty Four]]:** When SWOJ arrives at [[Cassalanter Villa]] to infiltrate the estate during the Founder's Day feast preparations, [[Xaerine Rumblestride|Xae]] wild shapes into a golden retriever and approaches the rear stable entrance where Phelerek stands guard. Xae rolls a 15 on persuasion, and Phelerek is immediately smitten, bending down and cooing "Who's a good girl? Who wants some scritches?" He glances around to make sure no one is watching him neglect his duties, then lets the "dog" inside. Xae nudges and pants to convince him she needs water, and he leads her into the stable area with its carriages and horse trough. While Phelerek is thoroughly distracted petting and fussing over Xae, the rest of the party -- [[Scoot Sparkles]], [[Ylka Gralhund]], and [[Malark Wavesilver|Lark]] -- sneak past the unguarded entrance into the villa grounds. Xae later barks and points away from the gate to further distract him, then bolts toward the inner gardens where the [[Cassalanter Family  Cult Of Asmodeus|Cassalanter]] children [[Elzerina Cassalanter|Elzerina]] and [[Terenzio Cassalanter|Terenzio]] are playing, completing the party's infiltration.
+- **[[S01E24 - Episode Twenty Four|S01E24]]:** When SWOJ arrives at [[Cassalanter Villa]] to infiltrate the estate during the Founder's Day feast preparations, [[Xaerine Rumblestride|Xae]] wild shapes into a golden retriever and approaches the rear stable entrance where Phelerek stands guard. Xae rolls a 15 on persuasion, and Phelerek is immediately smitten, bending down and cooing "Who's a good girl? Who wants some scritches?" He glances around to make sure no one is watching him neglect his duties, then lets the "dog" inside. Xae nudges and pants to convince him she needs water, and he leads her into the stable area with its carriages and horse trough. While Phelerek is thoroughly distracted petting and fussing over Xae, the rest of the party -- [[Scoot Sparkles]], [[Ylka Gralhund]], and [[Malark Wavesilver|Lark]] -- sneak past the unguarded entrance into the villa grounds. Xae later barks and points away from the gate to further distract him, then bolts toward the inner gardens where the [[Cassalanter Family  Cult Of Asmodeus|Cassalanter]] children [[Elzerina Cassalanter|Elzerina]] and [[Terenzio Cassalanter|Terenzio]] are playing, completing the party's infiltration.
 
 ## Relationships
 

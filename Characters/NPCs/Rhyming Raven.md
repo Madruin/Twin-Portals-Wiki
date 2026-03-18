@@ -14,7 +14,7 @@ tags:
 
 A mysterious raven in Castle Never that speaks in rhymes. Confirms that the crown is likely in the original tower's throne room. Xae communicates with it using Speak with Animals. Disappears after they enter the throne room.
 
-**First appearance:** [[S02E18 - Episode Forty Eight LIVE (S02E18)]]
+**First appearance:** [[S02E18 - Episode Forty Eight LIVE (S02E18)|S02E18]]
 **Total appearances:** 1 episode
 
 ## Description

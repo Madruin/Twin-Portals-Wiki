@@ -20,7 +20,7 @@ tags:
 
 Full name **Volothamp Ignatius Geddarm**, better known as **Volo**. The famous chronicler, wizard, adventurer, and celebrity of the Sword Coast whose fateful hiring of four strangers to find his missing friend set the entire Twin Portals saga in motion. Foppish, mustachioed, and perpetually overdressed, Volo is equal parts brilliant author and shameless self-promoter -- a man whose generosity with property deeds far exceeds his generosity with actual gold.
 
-**First appearance:** [[S01E01 - Episode One]]
+**First appearance:** [[S01E01 - Episode One|S01E01]]
 **Total appearances:** 8 episodes (across 3 registry entries: "Volothamp Geddarm," "Volo," and "Volothamp 'Volo' Geddarm")
 
 ## Description

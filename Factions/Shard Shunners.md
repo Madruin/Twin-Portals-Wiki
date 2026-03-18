@@ -11,17 +11,17 @@ tags:
 
 # Shard Shunners
 
-The Shard Shunners are a gang of wererats and werecreatures who make their lair inside the [[God Catcher]], a massive ancient walking statue in [[Waterdeep]]'s Castle Ward. Led by [[Vaniol]], a paranoid and intense wereferret, the gang operates out of hidden chambers within the statue and the connected [[Hole in the Wall]] halfling tavern at its base. Members identify themselves with distinctive paw-print tattoos on their palms.
+The Shard Shunners are a gang of wererats and werecreatures who make their lair inside the [[God Catcher]], a massive ancient walking statue in [[Waterdeep]]'s Castle Ward. Led by [[Vaniel]], a paranoid and intense wereferret, the gang operates out of hidden chambers within the statue and the connected [[Hole in the Wall]] halfling tavern at its base. Members identify themselves with distinctive paw-print tattoos on their palms.
 
-**First appearance:** [[S01E06 - Episode Six]] (as unnamed wererats)
-**Named appearance:** [[S01E08 - Episode Eight]]
+**First appearance:** [[S01E06 - Episode Six|S01E06]] (as unnamed wererats)
+**Named appearance:** [[S01E08 - Episode Eight|S01E08]]
 **Total appearances:** 3 episodes (S01E06, S01E08, S01E10)
 
 ## Overview
 
 The Shard Shunners occupy a unique niche in Waterdeep's underworld. Rather than operating as a traditional criminal enterprise, they function more as a colony or commune of lycanthropes who have chosen to live together as a "family" inside the God Catcher statue. The gang takes in those who have been bitten or who voluntarily embrace lycanthropy, offering them a sense of belonging.
 
-SWOJ first encountered the wererats during [[S01E06 - Episode Six|Episode 6]] while investigating the God Catcher statue, when they found a hostile colony of rat people living inside. The relationship turned from adversarial to pragmatic during [[S01E08 - Episode Eight|Episode 8]], when SWOJ discovered that the Shard Shunners had been hired by [[Emmek Frewn]] -- the owner of [[Frewn's Brews]] across the street from [[Trollskull Manor]] -- to infest the tavern with rats as sabotage. [[Vaniol]] revealed that Frewn was paying them 50 gold per night for the infestation.
+SWOJ first encountered the wererats during [[S01E06 - Episode Six|Episode 6]] while investigating the God Catcher statue, when they found a hostile colony of rat people living inside. The relationship turned from adversarial to pragmatic during [[S01E08 - Episode Eight|Episode 8]], when SWOJ discovered that the Shard Shunners had been hired by [[Emmek Frewn]] -- the owner of [[Frewn's Brews]] across the street from [[Trollskull Manor]] -- to infest the tavern with rats as sabotage. [[Vaniel]] revealed that Frewn was paying them 50 gold per night for the infestation.
 
 Rather than fighting, SWOJ negotiated a clever truce: the Shard Shunners would fake the rat activity to keep up appearances while SWOJ ensured Frewn kept paying. This arrangement turned potential enemies into unlikely allies and demonstrated SWOJ's preference for creative diplomacy over violence.
 
@@ -29,7 +29,7 @@ The God Catcher itself proved to be far more than just the Shunners' lair. It co
 
 ## Known Members
 
-- [[Vaniol]] -- Wereferret and apparent leader of the gang. White-haired, paranoid, and intense. Protective of [[Dasher Zuber|Dasher]] and the gang's secrets. Revealed [[Emmek Frewn]]'s sabotage scheme to SWOJ.
+- [[Vaniel]] -- Wereferret and apparent leader of the gang. White-haired, paranoid, and intense. Protective of [[Dasher Zuber|Dasher]] and the gang's secrets. Revealed [[Emmek Frewn]]'s sabotage scheme to SWOJ.
 - [[Dasher Zuber]] -- [[Blossom Zuber]]'s missing son. Voluntarily became a wererat a couple of weeks before the events of Episode 8 to join the Shard Shunners as his "real family." Paid SWOJ 100 gold and wrote a farewell letter to his mother.
 - [[Kittle]] -- Member of the Shard Shunners wererats.
 - [[Vixby]] -- Member of the Shard Shunners wererats.
@@ -38,8 +38,8 @@ The God Catcher itself proved to be far more than just the Shunners' lair. It co
 
 ### Season 1
 - **S01E06:** SWOJ encounters a colony of aggressive wererats living inside the [[God Catcher]] statue while investigating the structure. The wererats are hostile toward intruders. The party also discovers cultists imprisoning sailors inside the statue and performing rituals "for the dark lord of Nexus."
-- **S01E08:** SWOJ investigates the Shard Shunners through the [[Hole in the Wall]] halfling tavern at the base of the God Catcher. [[Vaniol]] reveals that [[Emmek Frewn]] hired the gang to infest [[Trollskull Manor]] with rats for 50 gold per night as sabotage against SWOJ's tavern. SWOJ negotiates a truce: the Shard Shunners will fake the rat activity while Frewn continues paying. SWOJ meets [[Dasher Zuber]], who chose lycanthropy voluntarily. Dasher pays 100 gold and provides a farewell letter for his mother, plus a Stout Fellow wine deal for the Hole in the Wall.
-- **S01E10:** The [[Hole in the Wall]] tavern is visited by SWOJ, where [[Vaniol]] discusses lycanthropy. The tavern remains a regular haunt.
+- **S01E08:** SWOJ investigates the Shard Shunners through the [[Hole in the Wall]] halfling tavern at the base of the God Catcher. [[Vaniel]] reveals that [[Emmek Frewn]] hired the gang to infest [[Trollskull Manor]] with rats for 50 gold per night as sabotage against SWOJ's tavern. SWOJ negotiates a truce: the Shard Shunners will fake the rat activity while Frewn continues paying. SWOJ meets [[Dasher Zuber]], who chose lycanthropy voluntarily. Dasher pays 100 gold and provides a farewell letter for his mother, plus a Stout Fellow wine deal for the Hole in the Wall.
+- **S01E10:** The [[Hole in the Wall]] tavern is visited by SWOJ, where [[Vaniel]] discusses lycanthropy. The tavern remains a regular haunt.
 
 ## Locations
 

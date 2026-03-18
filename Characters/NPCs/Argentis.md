@@ -14,7 +14,7 @@ tags:
 
 A gold dragon of the Way of the Balanced Scale who carries Lark during the flight from Castle Nehri Tar. Introduces himself by name when asked. One of the rescued friendly dragons.
 
-**First appearance:** [[S02E30 - Episode Sixty (S02E30)]]
+**First appearance:** [[S02E30 - Episode Sixty (S02E30)|S02E30]]
 **Total appearances:** 1 episode
 
 ## Description

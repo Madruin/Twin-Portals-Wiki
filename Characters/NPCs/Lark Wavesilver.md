@@ -14,7 +14,7 @@ tags:
 
 Human rogue (swashbuckler) played by Justin Peck, discussed extensively. Was disintegrated by the Xanathar's beholder in the previous live episode. Scott and Justin reflect on the moment and speculate about his possible return.
 
-**First appearance:** [[S01E19 - Episode Nineteen]]
+**First appearance:** [[S01E19 - Episode Nineteen|S01E19]]
 **Total appearances:** 1 episode
 
 ## Description

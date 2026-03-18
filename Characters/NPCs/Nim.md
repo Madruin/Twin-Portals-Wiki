@@ -21,7 +21,7 @@ A wooden automaton -- one of a class of constructs called nimblewrights -- first
 
 Nim is a nimblewright, a type of autonomous wooden construct built by gnomish artificers from [[Lantan]], far to the west. Nimblewrights are small, bespoke figures crafted from wood and metal, each one handcrafted and possessing a modicum of self-autonomy. They can follow complex instructions, perform tricks and stunts, play music from internal mechanisms, and serve as autonomous servants.
 
-When first found aboard the [[Sea Maiden's Fair]] in the psychic dreamscape, Nim was broken and faded -- [[Zardoz Zord]] flipped a lever inside its chest cavity, but the construct shuddered and fizzled out, prompting Zardos to curse, "Dammit, Nim." In the waking world, the "real" version of Nim was described as a small wooden creature with silver feathers for hair, beautifully bespoke with every piece handcrafted. Unlike the dream version that seemed to have personality, the real Nim spoke in the third person -- "This one does not know you" and "This one does not need food" -- and behaved more robotically.
+When first found aboard the [[Sea Maiden's Faire]] in the psychic dreamscape, Nim was broken and faded -- [[Zardoz Zord]] flipped a lever inside its chest cavity, but the construct shuddered and fizzled out, prompting Zardos to curse, "Dammit, Nim." In the waking world, the "real" version of Nim was described as a small wooden creature with silver feathers for hair, beautifully bespoke with every piece handcrafted. Unlike the dream version that seemed to have personality, the real Nim spoke in the third person -- "This one does not know you" and "This one does not need food" -- and behaved more robotically.
 
 Nim was ultimately revealed to be the [[Gralhund Family]] golem, found in pieces on a worktable in the construct workshop at the [[Kolat Towers]], where [[Zylka]] (the original person from whom [[Ylka Gralhund]] was cloned) was shackled and forced to repair it by [[Manshoon|the Necromancer]].
 
@@ -29,7 +29,7 @@ Nim was ultimately revealed to be the [[Gralhund Family]] golem, found in pieces
 
 ### Discovery in the Dream World (S01E03)
 
-During SWOJ's first trip into the psychic dream-version of [[Waterdeep]] -- a surreal place that smelled of cherry, populated by zombie-like citizens chanting "lovely day" -- the party rowed out to the ships of the [[Sea Maiden's Fair]]. Aboard one of the vessels, [[Zardoz Zord]] showed them Nim, pulling the automaton out of a small crate. The construct was about Xae's size, made of wood and metal, and equipped with a rapier and dagger. Zardos tried to activate it by flipping a lever inside its chest, but Nim shuddered and fizzled out. This first encounter planted the seed of the party's fascination with the little construct.
+During SWOJ's first trip into the psychic dream-version of [[Waterdeep]] -- a surreal place that smelled of cherry, populated by zombie-like citizens chanting "lovely day" -- the party rowed out to the ships of the [[Sea Maiden's Faire]]. Aboard one of the vessels, [[Zardoz Zord]] showed them Nim, pulling the automaton out of a small crate. The construct was about Xae's size, made of wood and metal, and equipped with a rapier and dagger. Zardos tried to activate it by flipping a lever inside its chest, but Nim shuddered and fizzled out. This first encounter planted the seed of the party's fascination with the little construct.
 
 ### The Cassalanter Party and Nimblewright Sales (S01E09)
 
@@ -45,7 +45,7 @@ After the catastrophic fireball explosion at the grand opening of [[Trollskull M
 
 ### The Gralhund Nimblewright (S01E13)
 
-[[Yalah Gralhund]] secretly dispatched a nimblewright carrying the [[Stone of Golorr]] and a handwritten map pointing to the [[Gralhund Crypt]] in the [[City of the Dead]]. This nimblewright was later found destroyed inside the crypt, confirming the Gralhund family's direct possession of nimblewright constructs -- a thread that would connect back to Nim's true origin.
+[[Yalah Gralhund]] secretly dispatched a nimblewright carrying the [[The Stone of Golorr]] and a handwritten map pointing to the [[Gralhund Crypt]] in the [[City of the Dead]]. This nimblewright was later found destroyed inside the crypt, confirming the Gralhund family's direct possession of nimblewright constructs -- a thread that would connect back to Nim's true origin.
 
 ### Nim's Remains in the Kolat Towers (S01E23)
 
@@ -56,7 +56,7 @@ During the battle with animated armor constructs, Zylka leaped over the table wh
 ## Connections
 
 - **[[Zardoz Zord]] / [[Jarlaxle]]** -- Nim was first found aboard Zardos's ship, and Jarlaxle's [[Bregan D'aerthe]] operation sold nimblewrights across [[Waterdeep]]. The relationship between Jarlaxle's nimblewright trade and the Gralhund family's possession of Nim is unclear but suggestive.
-- **[[Gralhund Family]]** -- Nim is identified as the Gralhund family golem. The Gralhunds possessed at least one nimblewright (used by [[Yalah Gralhund]] to transport the [[Stone of Golorr]]) and had deep ties to [[Manshoon]], who held [[Zylka]] captive to work on Nim.
+- **[[Gralhund Family]]** -- Nim is identified as the Gralhund family golem. The Gralhunds possessed at least one nimblewright (used by [[Yalah Gralhund]] to transport the [[The Stone of Golorr]]) and had deep ties to [[Manshoon]], who held [[Zylka]] captive to work on Nim.
 - **[[Mordecai Gralhund]]** -- Ylka's grandfather, who created the clone magic and the [[Song Sword]]. Nim appears to be connected to Mordecai's legacy of arcane invention.
 - **[[Zylka]]** -- The original person from whom [[Ylka Gralhund]] was cloned. Found shackled in the [[Kolat Towers]] construct workshop, forced by [[Manshoon|the Necromancer]] to repair Nim.
 - **[[Manshoon]] (the Necromancer)** -- Held [[Zylka]] captive in the [[Kolat Towers]] and forced her to work on Nim. The Necromancer's interest in the Gralhund golem suggests Nim held strategic or magical value.

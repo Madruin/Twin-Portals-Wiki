@@ -1,13 +1,14 @@
 ---
-title: "Guild Of Butchers"
+title: Guild Of Butchers
 type: faction
 status: active
-aliases: []
+aliases:
+- Guild of Butchers
 tags:
-  - twin-portals
-  - faction
-  - waterdeep
-  - guild
+- twin-portals
+- faction
+- waterdeep
+- guild
 ---
 
 # Guild Of Butchers

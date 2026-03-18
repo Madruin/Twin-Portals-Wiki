@@ -8,8 +8,8 @@ duration: "53:09"
 type: episode
 format: meta
 live: false
-prev: "[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)]]"
-next: "[[S03E02 - S3E02 - How We've Funded Our Projects]]"
+prev: "[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]"
+next: "[[S03E02 - S3E02 - How We've Funded Our Projects|S03E02]]"
 tags:
   - twin-portals
   - season-3

@@ -29,7 +29,7 @@ A hallway near the central antechamber displays a collection of steel and iron m
 
 - **[[S01E22 - Episode Twenty Two|S01E22]]:** [[The Necromancer]] addresses SWOJ from the raised stage during their first meeting in the sanctum
 - **[[S01E23 - Episode Twenty Three|S01E23]]:** SWOJ explores the now-empty chamber; each party member selects a grotesque mask from the hallway walls, each receiving a zap of damage
-- **[[S01E23 - Episode Twenty Three|S01E23]]:** The party investigates the chamber and backstage area during their search for the [[Stone of Golorr]]'s missing eye
+- **[[S01E23 - Episode Twenty Three|S01E23]]:** The party investigates the chamber and backstage area during their search for the [[The Stone of Golorr]]'s missing eye
 
 ## Connected Characters
 

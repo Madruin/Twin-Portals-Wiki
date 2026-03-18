@@ -14,7 +14,7 @@ tags:
 
 **Curio** is a [[mimic]] who operates a merchant stall in the [[Dark Market]], a bazaar deep in the [[Shadowfell (Deep)|Shadowfell]]. Presenting himself as a friendly and enthusiastic vendor of armor, information, and rare goods, Curio conceals a covetous nature -- and a dangerous fixation on the [[Breath of the First Dawn]], a powerful artifact kept by the angel [[Ryloren|Rylerin]]. His attempt to manipulate [[Silver Waves of Justice|SWOJ]] into stealing the artifact backfires spectacularly when [[Malark Wavesilver|Lark]] chooses honesty over theft, resulting in Curio's capture and imprisonment in a jar inside Rylerin's cabinet.
 
-**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)|S02E21]]
 **Status:** Captured (imprisoned in a jar by [[Ryloren|Rylerin]])
 
 ## Description

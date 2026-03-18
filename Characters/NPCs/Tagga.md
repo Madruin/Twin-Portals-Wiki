@@ -19,7 +19,7 @@ tags:
 
 Tagga is [[Scoot Sparkles|Scoot]]'s mother, an elderly orc woman who becomes one of SWOJ's most steadfast allies and the heart of their domestic life in [[Waterdeep]]. Beginning as a surprise visitor who brings pie to Scoot's apartment, Tagga quickly evolves into the operational backbone of [[Trollskull Manor]] -- managing the tavern, raising the [[Trollskull Alley Irregulars|Irregulars]], cooking for visiting dragons, and holding the home front together through every crisis. She endures being targeted by the [[Xanathar Guild]], survives the fireball that devastates Trollskull Alley, testifies bravely at SWOJ's trial, and fights through a debilitating spore illness during the three-year gap. By the Season 2 finale, her children Bennet and Janks have grown into teenagers, and hints of a secret past with the [[Zhentarim]] suggest there is more to this formidable orc matriarch than meets the eye.
 
-**First appearance:** [[S01E04 - Episode Four]]
+**First appearance:** [[S01E04 - Episode Four|S01E04]]
 **Total appearances:** 10 episodes
 **Faction affiliations:** None confirmed (hints of [[Zhentarim]] connection)
 

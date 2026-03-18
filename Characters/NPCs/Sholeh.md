@@ -14,7 +14,7 @@ tags:
 
 The elder speaker of the Radiant Citadel, revealed to be an ancient brass dragon in disguise. She has been held captive at the top of the Citadel near the soul pylon. SWOJ rescues her during their assault on the speakers' platform. She is elderly in her human form but immensely powerful.
 
-**First appearance:** [[S02E34 - Episode Sixty Four LIVE (S02E34)]]
+**First appearance:** [[S02E34 - Episode Sixty Four LIVE (S02E34)|S02E34]]
 **Total appearances:** 3 episodes
 **Faction affiliations:** [[Speakers For The Ancestors]]
 

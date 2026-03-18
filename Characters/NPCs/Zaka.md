@@ -14,7 +14,7 @@ tags:
 
 Ancient figure whose Tome Tower serves as the setting for the Von Gruber encounter. The tower is a repository of knowledge in prehistoric Waterdeep.
 
-**First appearance:** [[S01E14 - Episode Fourteen]]
+**First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
 ## Description

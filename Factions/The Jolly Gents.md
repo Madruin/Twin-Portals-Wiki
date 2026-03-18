@@ -112,48 +112,48 @@ Scoot persuaded Little Joan to defect. SWOJ confronted Crooks publicly, triggeri
 
 | Episode | Event |
 |---------|-------|
-| **[[S01E29 - Episode Twenty Nine\|S01E29]]** | Summer solstice: Rowan Crooks and the Jolly Gents arrive through a Feywild portal at Trollskull Manor. Rowan extracts a Gem of Seeing from Lark's temple, reveals the Necromancer is Manshoon. SWOJ steps through twin portals into the Feywild with the Gents. |
+| **[[S01E29 - Episode Twenty Nine|S01E29]]** | Summer solstice: Rowan Crooks and the Jolly Gents arrive through a Feywild portal at Trollskull Manor. Rowan extracts a Gem of Seeing from Lark's temple, reveals the Necromancer is Manshoon. SWOJ steps through twin portals into the Feywild with the Gents. |
 
 ### Season 2: The Alliance (S02E01 - S02E05)
 
 | Episode | Event |
 |---------|-------|
-| **[[S02E01 - Episode Thirty One (S02E01)\|S02E01]]** | SWOJ travels the Feywild with the Jolly Gents hunting Manshoon clones. Rowan splits off with part of his crew, leaving Jake, Ann Jane, and Lyrian with SWOJ. |
-| **[[S02E03 - Episode Thirty Three (S02E03)\|S02E03]]** | Inside the Great Beast of Erua, SWOJ frees captives from podling pods including the real Antediluvian Jake and Ann Jane (who had been captured and replaced). Jake begins an incantation to contact Rowan Crooks. |
-| **[[S02E05 - Episode Thirty Five (S02E05)\|S02E05]]** | Rowan Crooks and the full Jolly Gents contingent arrive. Rowan captures Fetch's soul in a crystal shard. Radisare casts Geas on Rowan. Jake teleports everyone to Waterdeep, where three years have passed. |
+| **[[S02E01 - Episode Thirty One (S02E01)|S02E01]]** | SWOJ travels the Feywild with the Jolly Gents hunting Manshoon clones. Rowan splits off with part of his crew, leaving Jake, Ann Jane, and Lyrian with SWOJ. |
+| **[[S02E03 - Episode Thirty Three (S02E03)|S02E03]]** | Inside the Great Beast of Erua, SWOJ frees captives from podling pods including the real Antediluvian Jake and Ann Jane (who had been captured and replaced). Jake begins an incantation to contact Rowan Crooks. |
+| **[[S02E05 - Episode Thirty Five (S02E05)|S02E05]]** | Rowan Crooks and the full Jolly Gents contingent arrive. Rowan captures Fetch's soul in a crystal shard. Radisare casts Geas on Rowan. Jake teleports everyone to Waterdeep, where three years have passed. |
 
 ### Season 2: The Betrayal (S02E11 - S02E12)
 
 | Episode | Event |
 |---------|-------|
-| **[[S02E11 - Episode Forty One (S02E11)\|S02E11]]** | At the Breathless Elder in the Far Realm, Rowan Crooks, Little Joan, and Friar Truck murder Shuni and attack SWOJ. Rowan is unmasked as the 14th Manshoon clone. Catastrophic explosion kills SWOJ and Friar Truck; Joan barely survives. Rowan loots everything and teleports away. |
-| **[[S02E12 - Episode Forty Two (S02E12)\|S02E12]]** | SWOJ exists as spectral souls. Rowan finishes looting, recaptures Shuni's ghost, takes Little Joan, and teleports away, leaving SWOJ as helpless spirits in the Far Realm. |
+| **[[S02E11 - Episode Forty One (S02E11)|S02E11]]** | At the Breathless Elder in the Far Realm, Rowan Crooks, Little Joan, and Friar Truck murder Shuni and attack SWOJ. Rowan is unmasked as the 14th Manshoon clone. Catastrophic explosion kills SWOJ and Friar Truck; Joan barely survives. Rowan loots everything and teleports away. |
+| **[[S02E12 - Episode Forty Two (S02E12)|S02E12]]** | SWOJ exists as spectral souls. Rowan finishes looting, recaptures Shuni's ghost, takes Little Joan, and teleports away, leaving SWOJ as helpless spirits in the Far Realm. |
 
 ### Season 2: The Chasm and the Revelation (S02E16 - S02E20)
 
 | Episode | Event |
 |---------|-------|
-| **[[S02E16 - Episode Forty Six LIVE (S02E16)\|S02E16]]** | SWOJ finds three sets of Jolly Gents camouflage in the Neverwinter chasm. Little Joan, Sixteen String Jack, and Antediluvian Jake ambush SWOJ at the subterranean lake. Joan severs the Hungry Elder's power source. Jake secretly passes his tablet to Lark, whispering "we're all prisoners of Crooks." Jake and Jack teleport away with stolen green power stones. |
-| **[[S02E17 - Episode Forty Seven (S02E17)\|S02E17]]** | SWOJ is cleared of murder charges and explains the Jolly Gents/Manshoon connection to Neverwinter authorities. |
-| **[[S02E20 - Episode Fifty (S02E20)\|S02E20]]** | Mellafarne discovers a green portal stone belonging to the Jolly Gents at the underground lake. Lark reads Jake's tablet: the Jolly Gents were killed by Manshoon, their souls are harvested by Crooks, and the secret base is Zentil Keep in the Shadowfell. |
+| **[[S02E16 - Episode Forty Six LIVE (S02E16)|S02E16]]** | SWOJ finds three sets of Jolly Gents camouflage in the Neverwinter chasm. Little Joan, Sixteen String Jack, and Antediluvian Jake ambush SWOJ at the subterranean lake. Joan severs the Hungry Elder's power source. Jake secretly passes his tablet to Lark, whispering "we're all prisoners of Crooks." Jake and Jack teleport away with stolen green power stones. |
+| **[[S02E17 - Episode Forty Seven (S02E17)|S02E17]]** | SWOJ is cleared of murder charges and explains the Jolly Gents/Manshoon connection to Neverwinter authorities. |
+| **[[S02E20 - Episode Fifty (S02E20)|S02E20]]** | Mellafarne discovers a green portal stone belonging to the Jolly Gents at the underground lake. Lark reads Jake's tablet: the Jolly Gents were killed by Manshoon, their souls are harvested by Crooks, and the secret base is Zentil Keep in the Shadowfell. |
 
 ### Season 2: Zentil Keep and the Fall of Crooks (S02E22 - S02E25)
 
 | Episode | Event |
 |---------|-------|
-| **[[S02E22 - Episode Fifty Two LIVE (S02E22)\|S02E22]]** | SWOJ disguises themselves with Jolly Gents cloaks and bronze rings. They bluff past sentries Rambling Bill and Long Mary, mingle with Gents in the Bailey, meet Anjane Flip-Flap, and navigate to Crooks' office. They discover Jake's phylactery and recover their stolen gear. |
-| **[[S02E23 - Episode Fifty Three (S02E23)\|S02E23]]** | SWOJ overhears Pill Garlic and Slim Curly on wyvern patrol. They kill Slim Curly, discover the print shop and the real Crooks' journal. Scoot persuades Little Joan to defect. Joan gives Lark the original journal. SWOJ fights and kills Friar Truck in his phylactery laboratory, discovering over 100 phylacteries containing Jolly Gents souls. |
-| **[[S02E24 - Episode Fifty Four (S02E24)\|S02E24]]** | SWOJ finds clone tanks and Truck's notes revealing the full conspiracy. Rowan Crooks addresses the Gents about his Wall of the Faithless plan. SWOJ confronts him publicly, triggering a civil war. Lark destabilizes the island. In the sky-falling battle, Scoot kills Crooks with a lightning-split axe. Zentil Keep crashes into a Shadowfell canyon. |
-| **[[S02E25 - Episode Fifty Five LIVE (S02E25)\|S02E25]]** | Crooks is trapped in the Soul Stone after his phylactery is destroyed. Little Joan leads surviving allied Gents. The Raven Queen tests SWOJ with a dream sequence including a vision of the Jolly Gents' legendary assault on the Xanathar's lair. |
+| **[[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]** | SWOJ disguises themselves with Jolly Gents cloaks and bronze rings. They bluff past sentries Rambling Bill and Long Mary, mingle with Gents in the Bailey, meet Anjane Flip-Flap, and navigate to Crooks' office. They discover Jake's phylactery and recover their stolen gear. |
+| **[[S02E23 - Episode Fifty Three (S02E23)|S02E23]]** | SWOJ overhears Pill Garlic and Slim Curly on wyvern patrol. They kill Slim Curly, discover the print shop and the real Crooks' journal. Scoot persuades Little Joan to defect. Joan gives Lark the original journal. SWOJ fights and kills Friar Truck in his phylactery laboratory, discovering over 100 phylacteries containing Jolly Gents souls. |
+| **[[S02E24 - Episode Fifty Four (S02E24)|S02E24]]** | SWOJ finds clone tanks and Truck's notes revealing the full conspiracy. Rowan Crooks addresses the Gents about his Wall of the Faithless plan. SWOJ confronts him publicly, triggering a civil war. Lark destabilizes the island. In the sky-falling battle, Scoot kills Crooks with a lightning-split axe. Zentil Keep crashes into a Shadowfell canyon. |
+| **[[S02E25 - Episode Fifty Five LIVE (S02E25)|S02E25]]** | Crooks is trapped in the Soul Stone after his phylactery is destroyed. Little Joan leads surviving allied Gents. The Raven Queen tests SWOJ with a dream sequence including a vision of the Jolly Gents' legendary assault on the Xanathar's lair. |
 
 ### Season 2: The Ripples (S02E26 - S02E38)
 
 | Episode | Event |
 |---------|-------|
-| **[[S02E27 - Episode Fifty Seven (S02E27)\|S02E27]]** | Approximately 15 Jolly Gents led by Little Joan accompany SWOJ. They set up a secret camp outside Castle Naerytar awaiting SWOJ's purple fireworks signal. |
-| **[[S02E29 - Episode Fifty Nine (S02E29)\|S02E29]]** | The allied Jolly Gents contingent ("The Ripples") sets off explosions at the surface of Castle Naerytar, opening a chasm for SWOJ's escape on dragonback. |
-| **[[S02E30 - Episode Sixty (S02E30)\|S02E30]]** | SWOJ gives the spelljammer helm to Little Joan and sends the Ripples to Neverwinter with a report for Renaer. |
-| **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)\|S02E38]]** | At the God's Night celebration, Antediluvian Jake eulogizes the fallen Jolly Gents and performs a soul-binding ritual to end his undead state. Lark burns his Jolly Gents outfit (+2 stealth in wooded areas) in their memory. Scoot burns Rowan Crooks trading cards. |
+| **[[S02E27 - Episode Fifty Seven (S02E27)|S02E27]]** | Approximately 15 Jolly Gents led by Little Joan accompany SWOJ. They set up a secret camp outside Castle Naerytar awaiting SWOJ's purple fireworks signal. |
+| **[[S02E29 - Episode Fifty Nine LIVE (S02E29)|S02E29]]** | The allied Jolly Gents contingent ("The Ripples") sets off explosions at the surface of Castle Naerytar, opening a chasm for SWOJ's escape on dragonback. |
+| **[[S02E30 - Episode Sixty (S02E30)|S02E30]]** | SWOJ gives the spelljammer helm to Little Joan and sends the Ripples to Neverwinter with a report for Renaer. |
+| **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]** | At the God's Night celebration, Antediluvian Jake eulogizes the fallen Jolly Gents and performs a soul-binding ritual to end his undead state. Lark burns his Jolly Gents outfit (+2 stealth in wooded areas) in their memory. Scoot burns Rowan Crooks trading cards. |
 
 ---
 

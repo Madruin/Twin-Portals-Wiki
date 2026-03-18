@@ -8,8 +8,8 @@ duration: "01:34:54"
 type: episode
 format: meta
 live: true
-prev: "[[S03E04 - S3E04 - Twin Portals Live at ExcaliburCon]]"
-next: "[[S03E06 - S3E06 - The Producers Took This One Off]]"
+prev: "[[S03E04 - S3E04 - Twin Portals Live at ExcaliburCon|S03E04]]"
+next: "[[S03E06 - S3E06 - The Producers Took This One Off|S03E06]]"
 tags:
   - twin-portals
   - season-3

@@ -15,7 +15,7 @@ tags:
 
 Gildis is a human sailor who served as the first mate of the [[Sea Plum Wreck|Sea Plum]], the ship captained by [[Pog Waggletop]]. He effectively ran the vessel's day-to-day operations while Pog busied himself with pigeons and schemes. When the Sea Plum was sunk under mysterious circumstances in [[Deepwater Harbor]], Gildis's fate became one of [[Scoot Sparkles]]'s primary concerns.
 
-**First appearance:** [[S01E06 - Episode Six]] (mentioned)
+**First appearance:** [[S01E06 - Episode Six|S01E06]] (mentioned)
 **Total appearances:** 1 episode
 
 ## Description
@@ -26,7 +26,7 @@ Gildis is a human male and the practical backbone of the [[Sea Plum Wreck|Sea Pl
 
 ### Season 1
 
-- **[[S01E06 - Episode Six]]:** When a pigeon message arrives at [[Trollskull Manor]] from [[Pog Waggletop]] reporting that the [[Sea Plum Wreck|Sea Plum]] has been sunk in [[Deepwater Harbor]], [[Scoot Sparkles]] recognizes the message as legitimate. The DM explains that Pog spends more time dealing with pigeons and making plans than actually captaining -- "that's mostly done by his first mate, Gildis." Later, when the party meets Pog at the [[Sea Maiden's Faire]], Pog's primary concern is the fate of the crew, "especially Gildis the first mate." Pog is "extremely guilty" about what happened to Gildis, since Gildis "kind of ran everything on the ship." When the party encounters the bronze dragon [[Zelifarn]] near the wreck, Scoot asks the dragon specifically about Gildis, confirming that Gildis is human. Zelifarn reports he saw no survivors in the wreck. The party later discovers imprisoned sailors from the Sea Plum crew held in cages inside [[The God Catcher]], captured by cultists, though whether Gildis is specifically among them is not confirmed.
+- **[[S01E06 - Episode Six|S01E06]]:** When a pigeon message arrives at [[Trollskull Manor]] from [[Pog Waggletop]] reporting that the [[Sea Plum Wreck|Sea Plum]] has been sunk in [[Deepwater Harbor]], [[Scoot Sparkles]] recognizes the message as legitimate. The DM explains that Pog spends more time dealing with pigeons and making plans than actually captaining -- "that's mostly done by his first mate, Gildis." Later, when the party meets Pog at the [[Sea Maiden's Faire]], Pog's primary concern is the fate of the crew, "especially Gildis the first mate." Pog is "extremely guilty" about what happened to Gildis, since Gildis "kind of ran everything on the ship." When the party encounters the bronze dragon [[Zelifarn]] near the wreck, Scoot asks the dragon specifically about Gildis, confirming that Gildis is human. Zelifarn reports he saw no survivors in the wreck. The party later discovers imprisoned sailors from the Sea Plum crew held in cages inside [[The God Catcher]], captured by cultists, though whether Gildis is specifically among them is not confirmed.
 
 ## Relationships
 

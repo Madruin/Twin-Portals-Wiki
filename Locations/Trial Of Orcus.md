@@ -1,11 +1,12 @@
 ---
-title: "Trial Of Orcus"
+title: Trial Of Orcus
 type: location
-subtype: "trial"
-aliases: []
+subtype: trial
+aliases:
+- Trial of Orcus
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Trial Of Orcus

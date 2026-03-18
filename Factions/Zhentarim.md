@@ -15,7 +15,7 @@ tags:
 
 The Zhentarim, also known as the **Black Network**, is a powerful criminal organization and one of the central antagonist factions throughout the Twin Portals campaign. Founded by the ancient wizard [[Manshoon]], the Zhentarim's agents are identified by their black leather armor and the sigil of a **winged snake**. Over the course of the story, the organization evolves from a street-level criminal syndicate warring over Waterdeep's underworld to a continent-spanning military threat under Manshoon's direct command, before ultimately being reformed under new leadership after his defeat.
 
-**First appearance:** [[S01E01 - Episode One]]
+**First appearance:** [[S01E01 - Episode One|S01E01]]
 **Total appearances:** 20+ episodes across both seasons
 **Also known as:** The Black Network, the Zentarim, the Zents
 
@@ -46,7 +46,7 @@ Following the attack, the Harper agent [[Jalaster]] directs the party to **[[Can
 
 Inside the Zhentarim warehouse, the party discovers three fresh corpses in black leather armor, followed by twelve additional bodies from both factions -- Zhentarim agents and Xanathar Guild thugs who had fought each other to the death. The warehouse is a two-story space with a balcony overlooking a ground-level storage area filled with crates and barrels.
 
-[[Renaer Neverember]] is found hiding in a closet beneath the staircase. He explains that the **Zhentarim kidnapped him and [[Floon Blagmaar]] from [[Fillet Lane]]** after they left the Skewered Dragon tavern. The Xanathar Guild then attacked the warehouse and took Floon, mistaking him for Renaer. Both factions were searching for the **[[Stone of Golorr]]**, an artifact needed to locate the massive hoard of gold that [[Dagult Neverember]] had embezzled and hidden within the city.
+[[Renaer Neverember]] is found hiding in a closet beneath the staircase. He explains that the **Zhentarim kidnapped him and [[Floon Blagmaar]] from [[Fillet Lane]]** after they left the Skewered Dragon tavern. The Xanathar Guild then attacked the warehouse and took Floon, mistaking him for Renaer. Both factions were searching for the **[[The Stone of Golorr]]**, an artifact needed to locate the massive hoard of gold that [[Dagult Neverember]] had embezzled and hidden within the city.
 
 #### The Gralhund Connection (S01E11-S01E13)
 
@@ -208,7 +208,7 @@ With Manshoon destroyed, the Zhentarim enters a **power vacuum** in Waterdeep. T
 The Zhentarim and the [[Xanathar Guild]] are locked in a brutal gang war throughout Season 1. Their conflict drives the early plot:
 
 - The Candle Lane warehouse massacre (S01E01-02) leaves fifteen dead from both sides
-- Both factions are searching for the [[Stone of Golorr]] to locate Neverember's hidden gold
+- Both factions are searching for the [[The Stone of Golorr]] to locate Neverember's hidden gold
 - The Xanathar Guild employs kenku agents and operates from the sewers
 - The conflict culminates in the three-way theater battle (S01E26), where the Xanathar attacks with bugbears while Manshoon's simulacrum appears on the balcony
 - SWOJ ultimately kills the Xanathar itself, with Ylka's thrown dagger delivering the final blow
@@ -226,7 +226,7 @@ The Zhentarim is divided between Manshoon's authoritarian main division and the 
 
 ## The Stone of Golorr
 
-The Zhentarim's pursuit of the [[Stone of Golorr]] is central to the Season 1 plot. The Stone is a sentient artifact that reveals the location of Dagult Neverember's embezzled gold hoard hidden in the Vault of Dragons. The Stone possesses three removable "Eyes" that were scattered among the factions:
+The Zhentarim's pursuit of the [[The Stone of Golorr]] is central to the Season 1 plot. The Stone is a sentient artifact that reveals the location of Dagult Neverember's embezzled gold hoard hidden in the Vault of Dragons. The Stone possesses three removable "Eyes" that were scattered among the factions:
 
 - **First Eye:** Held by the Xanathar Guild, stolen by Dalcar, taken by the Zhentarim, then double-crossed away by Yalah Gralhund
 - **Second Eye:** Held by the Zentarim at the Kolat Towers; pickpocketed by Squidly from Urstul Floxxin

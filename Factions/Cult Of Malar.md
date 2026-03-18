@@ -1,19 +1,20 @@
 ---
-title: "Cult Of Malar"
+title: Cult Of Malar
 type: faction
 status: active
 aliases:
-  - "Malar's Followers"
+- Malar's Followers
+- Cult of Malar
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Cult Of Malar
 
 The Cult of Malar is a group of followers devoted to Malar the Beast Lord, the god of the hunt, predators, and bestial savagery. In the Twin Portals campaign, they appear in two distinct forms: a corrupting cabal in Season 1 who targeted the unicorn [[Lyrian]], and fierce barbarian periton riders in Season 2 who served as part of [[Manshoon]]'s alliance during the war.
 
-**First appearance:** [[S01E21 - Episode Twenty-One]]
+**First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 2 episodes (S01E21, S02E32)
 
 ---

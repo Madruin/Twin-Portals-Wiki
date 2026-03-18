@@ -20,7 +20,7 @@ tags:
 
 An intellect devourer who became one of [[SWOJ]]'s most loyal and beloved companions. Originally posing as the party's Zuber (carriage taxi) driver in Waterdeep, Terry's true nature was revealed when his host body was murdered -- and rather than treating him as a monster, SWOJ accepted him as a friend. Over the course of both seasons, Terry inhabited a series of increasingly memorable bodies, evolved from a dependent creature into an independent hero, and ultimately became the first official member of the SWOJ guild beyond the four founders.
 
-**First appearance:** [[S01E04 - Episode Four]]
+**First appearance:** [[S01E04 - Episode Four|S01E04]]
 **Total appearances:** 17 episodes
 
 ## Description

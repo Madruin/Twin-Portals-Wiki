@@ -14,7 +14,7 @@ tags:
 
 Famous author and adventurer. Arrived at Trollskull seeking 5,000 gold to fund his next book, 'Volo's Book of Portals and Portents.' Left with the promise of Lark's stories instead.
 
-**First appearance:** [[S01E29 - Episode Twenty Nine]]
+**First appearance:** [[S01E29 - Episode Twenty Nine|S01E29]]
 **Total appearances:** 9 episodes
 
 ## Description

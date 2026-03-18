@@ -1,15 +1,16 @@
 ---
-title: "Beast Of Erua"
+title: Beast Of Erua
 type: location
-subtype: "creature"
+subtype: creature
 aliases:
-  - "Great Beast of Erua"
-  - "Great Beast Of Errua"
-  - "Beast of Errua"
+- Great Beast of Erua
+- Great Beast Of Errua
+- Beast of Errua
+- Beast of Erua
 tags:
-  - twin-portals
-  - location
-  - shadowfell
+- twin-portals
+- location
+- shadowfell
 ---
 
 # Beast Of Erua

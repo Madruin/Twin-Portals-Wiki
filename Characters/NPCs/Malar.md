@@ -16,7 +16,7 @@ tags:
 
 Malar the Beast Lord is a deity of hunting, lycanthropy, and blood in the Forgotten Realms. He is a malevolent god whose followers -- wererats, werewolves, hags, and war-painted barbarian riders -- carry out blood sacrifices and corruption rituals in his name. In the Twin Portals campaign, Malar serves as a major antagonist during Season 1's resurrection arc when [[Silver Waves Of Justice|SWOJ]] must enter his afterlife realm to recover [[Malark Wavesilver|Lark]]'s stolen soul, and his followers resurface as hostile combatants in Season 2.
 
-**First appearance:** [[S01E21 - Episode Twenty One]]
+**First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 3 episodes
 
 ## Description

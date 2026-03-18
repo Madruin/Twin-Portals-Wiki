@@ -12,7 +12,7 @@ tags:
 
 The Deep Shadow Explorers Guild is a merchant guild operating a stall in the [[Dark Market]] that specializes in selling utility equipment for [[Shadowfell]] exploration. [[Silver Waves Of Justice|SWOJ]] purchased several items from them to prepare for their journey deeper into the Shadowfell.
 
-**First appearance:** [[S02E21 - Episode Fifty-One]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)|S02E21]]
 **Total appearances:** 1 episode
 
 ---

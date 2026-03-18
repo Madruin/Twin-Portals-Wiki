@@ -1,11 +1,12 @@
 ---
-title: "House Of A Thousand Faces"
+title: House Of A Thousand Faces
 type: location
-subtype: "shop/faction base"
-aliases: []
+subtype: shop/faction base
+aliases:
+- House of a Thousand Faces
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # House Of A Thousand Faces

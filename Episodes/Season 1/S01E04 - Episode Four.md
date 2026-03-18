@@ -8,8 +8,8 @@ duration: "01:55:33"
 type: episode
 format: gameplay
 live: false
-prev: "[[S01E03 - Episode Three]]"
-next: "[[S01E05 - Episode Five]]"
+prev: "[[S01E03 - Episode Three|S01E03]]"
+next: "[[S01E05 - Episode Five|S01E05]]"
 tags:
   - twin-portals
   - season-1

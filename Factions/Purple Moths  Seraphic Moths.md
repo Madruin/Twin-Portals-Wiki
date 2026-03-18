@@ -25,7 +25,7 @@ The Purple Moths, also known as Seraphic Moths, are enormous six-winged creature
 
 The Seraphic Moths occupy a unique position in the Far Realm's ecosystem. They are powerful enough to frighten away the [[Whistlers]] -- dangerous creatures that had been pouring through twin portals and threatening the material plane. This suggests the moths are apex entities within the Far Realm hierarchy.
 
-Despite their apparent grace, the Seraphic Moths serve a darker purpose: they are used as mounts by the [[Soul Collectors]], mechanical black metal bell-shaped constructs with glass windows and centipede legs. Riding the moths, the Soul Collectors hunt through the Far Realm, capturing souls via vacuum tubes and delivering them to the [[Stadium of Souls]] for processing by the [[Geometric Shapes / Curators|Curators]]. The moths' healing abilities likely serve to preserve the bodies of captured souls during transport, keeping them intact for the Curators' research.
+Despite their apparent grace, the Seraphic Moths serve a darker purpose: they are used as mounts by the [[Soul Collectors]], mechanical black metal bell-shaped constructs with glass windows and centipede legs. Riding the moths, the Soul Collectors hunt through the Far Realm, capturing souls via vacuum tubes and delivering them to the [[Stadium of Souls]] for processing by the [[Geometric Shapes  Curators|Curators]]. The moths' healing abilities likely serve to preserve the bodies of captured souls during transport, keeping them intact for the Curators' research.
 
 ## Known Members
 
@@ -38,7 +38,7 @@ The Seraphic Moths appear to be a species rather than an organized faction with 
 ## Connections
 
 - Serve as mounts for the [[Soul Collectors]]
-- Operate under the direction of the [[Geometric Shapes / Curators|Curators]] (golden triangular entities)
+- Operate under the direction of the [[Geometric Shapes  Curators|Curators]] (golden triangular entities)
 - Their prey is delivered to the [[Stadium of Souls]] and [[Museum of the Multiverse]]
 - [[Whistlers]] fear them, suggesting they are apex entities in the [[Far Realm]]
 

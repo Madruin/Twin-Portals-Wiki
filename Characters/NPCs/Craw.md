@@ -16,7 +16,7 @@ tags:
 
 A giant scarab beetle who became a loyal companion of [[Scoot Sparkles]] and [[SWOJ]] after being rescued from the [[Dynamo Of Possibility]], and who later served as a mount for the [[Circle Of Dusk]] druids near [[Amphail]].
 
-**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)]]
+**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)|S02E02]]
 **Total appearances:** 7 episodes
 
 ## Description

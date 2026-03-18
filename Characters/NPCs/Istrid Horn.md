@@ -63,7 +63,7 @@ As a member of the Doom Raiders, Istrid is implicitly present during the band's 
 
 | Episode | Event |
 |---------|-------|
-| **[[S01E27 - Episode Twenty Seven\|S01E27]]** | Named among the Doom Raiders roster at the gates of [[Cassalanter Villa]] during the Founders Day feast infiltration; the band performs while SWOJ moves through the event |
+| **[[S01E27 - Episode Twenty Seven|S01E27]]** | Named among the Doom Raiders roster at the gates of [[Cassalanter Villa]] during the Founders Day feast infiltration; the band performs while SWOJ moves through the event |
 
 ---
 

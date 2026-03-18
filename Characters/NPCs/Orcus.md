@@ -14,7 +14,7 @@ tags:
 
 The demonic Lord of Undeath, a goat-headed demon lord. His trial is the second challenge in the Shrouded Citadel -- a physical and mental gauntlet featuring riddles, a bone bridge obstacle course, and a hallway of overwhelming death stench.
 
-**First appearance:** [[S02E29 - Episode Fifty Nine LIVE (S02E29)]]
+**First appearance:** [[S02E29 - Episode Fifty Nine LIVE (S02E29)|S02E29]]
 **Total appearances:** 1 episode
 
 ## Description

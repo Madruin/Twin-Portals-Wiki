@@ -14,7 +14,7 @@ tags:
 
 # Davil Starsong
 
-Half-elf bandleader, adventurer, and leader of the [[Doom Raiders]], a moderate subfaction within the [[Zhentarim|Zhentarim (Black Network)]]. Davil is a charismatic showman and "grandstander" who refuses to hide behind masks or black leather, instead operating openly as both a musician and a political operator in [[Waterdeep]]. He came to Waterdeep from [[Neverwinter]] searching for the [[Stone of Golorr]], and over the course of the campaign became one of [[Scoot Sparkles|SWOJ]]'s most enduring allies -- ultimately rising to lead the Zhentarim in Waterdeep after [[Manshoon]]'s defeat.
+Half-elf bandleader, adventurer, and leader of the [[Doom Raiders]], a moderate subfaction within the [[Zhentarim|Zhentarim (Black Network)]]. Davil is a charismatic showman and "grandstander" who refuses to hide behind masks or black leather, instead operating openly as both a musician and a political operator in [[Waterdeep]]. He came to Waterdeep from [[Neverwinter]] searching for the [[The Stone of Golorr]], and over the course of the campaign became one of [[Scoot Sparkles|SWOJ]]'s most enduring allies -- ultimately rising to lead the Zhentarim in Waterdeep after [[Manshoon]]'s defeat.
 
 **Race:** Half-elf
 **Occupation:** Bandleader of the [[Doom Raiders]]; Zhentarim faction leader
@@ -46,7 +46,7 @@ He is direct about his faction's needs and does not disguise his Zhentarim affil
 
 ### First Contact at the Yawning Portal (S01E11)
 
-SWOJ first encountered Davil at the [[Yawning Portal]] after [[Bonnie Hilltopple|Bonnie]] identified him as someone with connections to the Zhentarim who "knows more than he lets on." Bonnie telepathically read Davil's mind -- rolling a natural 20 -- and pulled [[Xaerine Rumblestride|Xae]] aside on the balcony to share critical intelligence: Davil had come to Waterdeep from [[Neverwinter]] specifically searching for the [[Stone of Golorr]], and he had a connection to [[Yagra]].
+SWOJ first encountered Davil at the [[Yawning Portal]] after [[Bonnie Hilltopple|Bonnie]] identified him as someone with connections to the Zhentarim who "knows more than he lets on." Bonnie telepathically read Davil's mind -- rolling a natural 20 -- and pulled [[Xaerine Rumblestride|Xae]] aside on the balcony to share critical intelligence: Davil had come to Waterdeep from [[Neverwinter]] specifically searching for the [[The Stone of Golorr]], and he had a connection to [[Yagra]].
 
 Meanwhile, Davil was standing on a table leading the crowd in song. When Ylka leapt down from the balcony using featherfall and floated toward him to shake his hand, the crowd erupted. Davil gave her a strong handshake, set his drinks down, and introduced himself: "You must be Ilka. I'm Davil. Davil Starsong."
 
@@ -99,7 +99,7 @@ The Doom Raiders performed at the massive God's Night celebration at [[Trollskul
 - **[[Ziraj The Hunter|Ziraj]]** -- Tracker and bowman in Davil's crew. Offered by Davil as part of the 5,000 gold deal ("You have access to Ziraj and his bowmanship"). Later guided SWOJ north from Waterdeep to Amphail.
 - **[[Skeemo]]** -- Alchemist and operative who runs the [[Doom Network Headquarters|Doom Network]]. Offered by Davil alongside Ziraj. Assigned SWOJ the Staglass mission in [[S02E05 - Episode Thirty Five (S02E05)|S02E05]].
 - **[[Lark Wavesilver|Lark]]** -- Lark "really does not like Davil Starsong," though he participated in the investment decision and later freed Davil from captivity at the [[Radiant Citadel]].
-- **[[Bonnie Hilltopple|Bonnie]]** -- The doppelganger bartender at the [[Yawning Portal]] who telepathically read Davil's mind, confirming his search for the [[Stone of Golorr]] and his origins in [[Neverwinter]].
+- **[[Bonnie Hilltopple|Bonnie]]** -- The doppelganger bartender at the [[Yawning Portal]] who telepathically read Davil's mind, confirming his search for the [[The Stone of Golorr]] and his origins in [[Neverwinter]].
 - **[[Manshoon]]** -- Davil's direct rival within the Zhentarim. The Doom Raiders and Manshoon's main division represent opposing visions for the Black Network. Davil's faction outlasted Manshoon's and inherited the organization.
 
 ---
@@ -125,19 +125,19 @@ Their style aboard the Ethereal Galleon was described as "very death metal polka
 
 | Episode | Event |
 |---------|-------|
-| **[[S01E04 - Episode Four\|S01E04]]** | The Doom Raiders are mentioned by name as a known adventuring band in Waterdeep, alongside the [[Jolly Gents]] and [[Rowan Crooks]] |
-| **[[S01E11 - Episode Eleven\|S01E11]]** | SWOJ meets Davil at the [[Yawning Portal]]; [[Bonnie Hilltopple\|Bonnie]] telepathically reads his mind (natural 20) and confirms he came from [[Neverwinter]] searching for the [[Stone of Golorr]]; Davil and Ylka perform a duet of "The Wizard War"; Davil introduces himself and shakes Ylka's hand; attends the [[Trollskull Alley  The Short Rest\|Short Rest]] opening; flees when [[Griffin Cavalry Of Waterdeep\|griffin cavalry]] appears during the fireball explosion |
-| **[[S01E27 - Episode Twenty Seven\|S01E27]]** | Davil and the Doom Raiders agree to help SWOJ infiltrate the Cassalanter Founders Day feast; SWOJ disguises as band members and enters [[Cassalanter Villa]] alongside the Doom Raiders; Davil refuses to cover his face |
-| **[[S01E29 - Episode Twenty Nine\|S01E29]]** | Grand celebration in [[Trollskull Alley]] with the Doom Raiders performing; Davil approaches Ylka and explains the Zhentarim internal split between the Doom Raiders and the Necromancer's division; requests a **5,000gp investment** offering Ziraj, Skeemo, and his own services; SWOJ agrees to fund the Doom Raiders despite Lark's reservations |
-| **[[S02E05 - Episode Thirty Five (S02E05)\|S02E05]]** | SWOJ visits the [[Doom Network Headquarters\|Doom Network]], the formalized operation funded by their investment; [[Skeemo]] assigns the Staglass mission; [[Ziraj The Hunter\|Ziraj]] demands they find "Thela"; city guards compare SWOJ favorably to the Doom Raiders as heroes |
-| **[[S02E06 - Episode Thirty Six (S02E06)\|S02E06]]** | SWOJ departs Waterdeep northward after receiving leads from the Doom Raiders |
-| **[[S02E18 - Episode Forty Eight LIVE (S02E18)\|S02E18]]** | The Doom Raiders are mentioned as having attempted to explore a castle rumored to contain a lich but "pieced right the heck out" |
-| **[[S02E31 - Episode Sixty One (S02E31)\|S02E31]]** | The Doom Raiders join SWOJ's fleet aboard the Ethereal Galleon for the assault on the [[Spiral Cavern]]; they serve as the second musical act to power the spelljamming helm |
-| **[[S02E32 - Episode Sixty Two LIVE (S02E32)\|S02E32]]** | The Doom Raiders provide backup aboard ship; Ylka leads them with her concertina in "very death metal polka"; they help power the ship through extra towing weight |
-| **[[S02E33 - Episode Sixty Three (S02E33)\|S02E33]]** | The Doom Raiders continue making music aboard the fleet to keep the ships afloat while other allies handle fighting and scouting |
-| **[[S02E35 - Episode Sixty Five (S02E35)\|S02E35]]** | The Doom Raiders are aboard the galleon as it approaches the Radiant Citadel |
-| **[[S02E36 - Episode Sixty Six (S02E36)\|S02E36]]** | [[Lark Wavesilver\|Lark]] frees Davil, the Doom Raiders, [[Squidly]], and [[Urstul Floxxin]] from magical restraints at the bottom of the [[Radiant Citadel]] during the final battle against Manshoon; they rejoin the fight |
-| **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)\|S02E38]]** | The Doom Raiders have filled the Zhentarim power vacuum in Waterdeep; they operate from a public-facing office; [[Simon]] tells of being helped by Zhentarim-affiliated pirates who checked in with the Doom Raiders; they perform at the God's Night celebration at [[Trollskull Manor]] |
+| **[[S01E04 - Episode Four|S01E04]]** | The Doom Raiders are mentioned by name as a known adventuring band in Waterdeep, alongside the [[Jolly Gents]] and [[Rowan Crooks]] |
+| **[[S01E11 - Episode Eleven|S01E11]]** | SWOJ meets Davil at the [[Yawning Portal]]; [[Bonnie Hilltopple\|Bonnie]] telepathically reads his mind (natural 20) and confirms he came from [[Neverwinter]] searching for the [[The Stone of Golorr]]; Davil and Ylka perform a duet of "The Wizard War"; Davil introduces himself and shakes Ylka's hand; attends the [[Trollskull Alley  The Short Rest\|Short Rest]] opening; flees when [[Griffin Cavalry Of Waterdeep\|griffin cavalry]] appears during the fireball explosion |
+| **[[S01E27 - Episode Twenty Seven|S01E27]]** | Davil and the Doom Raiders agree to help SWOJ infiltrate the Cassalanter Founders Day feast; SWOJ disguises as band members and enters [[Cassalanter Villa]] alongside the Doom Raiders; Davil refuses to cover his face |
+| **[[S01E29 - Episode Twenty Nine|S01E29]]** | Grand celebration in [[Trollskull Alley]] with the Doom Raiders performing; Davil approaches Ylka and explains the Zhentarim internal split between the Doom Raiders and the Necromancer's division; requests a **5,000gp investment** offering Ziraj, Skeemo, and his own services; SWOJ agrees to fund the Doom Raiders despite Lark's reservations |
+| **[[S02E05 - Episode Thirty Five (S02E05)|S02E05]]** | SWOJ visits the [[Doom Network Headquarters\|Doom Network]], the formalized operation funded by their investment; [[Skeemo]] assigns the Staglass mission; [[Ziraj The Hunter\|Ziraj]] demands they find "Thela"; city guards compare SWOJ favorably to the Doom Raiders as heroes |
+| **[[S02E06 - Episode Thirty Six (S02E06)|S02E06]]** | SWOJ departs Waterdeep northward after receiving leads from the Doom Raiders |
+| **[[S02E18 - Episode Forty Eight LIVE (S02E18)|S02E18]]** | The Doom Raiders are mentioned as having attempted to explore a castle rumored to contain a lich but "pieced right the heck out" |
+| **[[S02E31 - Episode Sixty One (S02E31)|S02E31]]** | The Doom Raiders join SWOJ's fleet aboard the Ethereal Galleon for the assault on the [[Spiral Cavern]]; they serve as the second musical act to power the spelljamming helm |
+| **[[S02E32 - Episode Sixty Two LIVE (S02E32)|S02E32]]** | The Doom Raiders provide backup aboard ship; Ylka leads them with her concertina in "very death metal polka"; they help power the ship through extra towing weight |
+| **[[S02E33 - Episode Sixty Three (S02E33)|S02E33]]** | The Doom Raiders continue making music aboard the fleet to keep the ships afloat while other allies handle fighting and scouting |
+| **[[S02E35 - Episode Sixty Five (S02E35)|S02E35]]** | The Doom Raiders are aboard the galleon as it approaches the Radiant Citadel |
+| **[[S02E36 - Episode Sixty Six (S02E36)|S02E36]]** | [[Lark Wavesilver\|Lark]] frees Davil, the Doom Raiders, [[Squidly]], and [[Urstul Floxxin]] from magical restraints at the bottom of the [[Radiant Citadel]] during the final battle against Manshoon; they rejoin the fight |
+| **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]** | The Doom Raiders have filled the Zhentarim power vacuum in Waterdeep; they operate from a public-facing office; [[Simon]] tells of being helped by Zhentarim-affiliated pirates who checked in with the Doom Raiders; they perform at the God's Night celebration at [[Trollskull Manor]] |
 
 ---
 

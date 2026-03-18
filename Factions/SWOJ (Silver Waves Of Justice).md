@@ -1,11 +1,12 @@
 ---
-title: "SWOJ (Silver Waves Of Justice)"
+title: SWOJ (Silver Waves Of Justice)
 type: faction
 status: active
-aliases: []
+aliases:
+- SWOJ (Silver Waves of Justice)
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # SWOJ (Silver Waves Of Justice)

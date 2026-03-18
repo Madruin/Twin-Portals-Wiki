@@ -8,8 +8,8 @@ duration: "02:54:28"
 type: episode
 format: gameplay
 live: false
-prev: "[[S01E23 - Episode Twenty Three]]"
-next: "[[S01E25 - Episode Twenty Five]]"
+prev: "[[S01E23 - Episode Twenty Three|S01E23]]"
+next: "[[S01E25 - Episode Twenty Five|S01E25]]"
 tags:
   - twin-portals
   - season-1

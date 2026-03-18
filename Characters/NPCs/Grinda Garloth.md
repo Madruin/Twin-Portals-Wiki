@@ -3,7 +3,8 @@ title: "Grinda Garloth"
 type: character
 subtype: npc
 status: unknown
-aliases: []
+aliases:
+  - "Grinda Garloff"
 tags:
   - twin-portals
   - character
@@ -14,7 +15,7 @@ tags:
 
 Owner of a submersible vessel docked beneath the Eyecatcher. Mentioned by Zelopharne but does not appear directly.
 
-**First appearance:** [[S01E10 - Episode Ten]]
+**First appearance:** [[S01E10 - Episode Ten|S01E10]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Watchful Order Of Magists And Protectors]]
 

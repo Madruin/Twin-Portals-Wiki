@@ -8,8 +8,8 @@ duration: "01:34:41"
 type: episode
 format: meta
 live: false
-prev: "[[S03E06 - S3E06 - The Producers Took This One Off]]"
-next: "[[S03E08 - S3E08 - DM Sessions]]"
+prev: "[[S03E06 - S3E06 - The Producers Took This One Off|S03E06]]"
+next: "[[S03E08 - S3E08 - DM Sessions|S03E08]]"
 tags:
   - twin-portals
   - season-3

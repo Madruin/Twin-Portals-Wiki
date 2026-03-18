@@ -14,7 +14,7 @@ tags:
 
 The core entity of the bag dimension demiplane. Was present when the first bag of holding was made; every subsequent bag has anchored itself to his soul. He keeps the dimension together and can never leave. Can open bags to the outside world. Appears as a shadowy figure with two searchlight-like eyes. Goes berserk when the golden turtle amulet locket is opened. Keeps ledgers tracking all bags of holding.
 
-**First appearance:** [[S02E13 - Episode Forty Three LIVE (S02E13)]]
+**First appearance:** [[S02E13 - Episode Forty Three LIVE (S02E13)|S02E13]]
 **Total appearances:** 2 episodes
 
 ## Description

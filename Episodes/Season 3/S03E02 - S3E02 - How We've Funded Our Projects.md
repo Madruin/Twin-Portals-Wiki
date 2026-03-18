@@ -8,8 +8,8 @@ duration: "01:07:20"
 type: episode
 format: meta
 live: false
-prev: "[[S03E01 - S3E01 - Re-Introductions]]"
-next: "[[S03E03 - S3E03 - Parenthood, ft. Beth and Justin]]"
+prev: "[[S03E01 - S3E01 - Re-Introductions|S03E01]]"
+next: "[[S03E03 - S3E03 - Parenthood, ft. Beth and Justin|S03E03]]"
 tags:
   - twin-portals
   - season-3

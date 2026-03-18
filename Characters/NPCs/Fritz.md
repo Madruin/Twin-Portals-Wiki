@@ -14,7 +14,7 @@ tags:
 
 Staff member at the Shadow Way Inn who hid in the cellar with other staff when the podlings took over. Provided information about podlings and Strigoi, and lent the party two giant scarab beetles for transportation.
 
-**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)]]
+**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)|S02E02]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -12,7 +12,7 @@ tags:
 
 The Animated Instruments are a crew of musical instruments brought to life by the [[Dynamo Of Possibility]], [[Radissera]]'s invention capable of imbuing inanimate objects with the suggestion of a soul. They crew a ship in the [[Astral Sea]] and served as unlikely allies to [[Silver Waves Of Justice|SWOJ]] during the party's journey through the [[Wall Of The Faithless]] to reach the [[Breathless Elder]].
 
-**First appearance:** [[S02E11 - Episode Forty-One]]
+**First appearance:** [[S02E11 - Episode Forty One (S02E11)|S02E11]]
 **Total appearances:** 1 episode
 
 ---

@@ -1,11 +1,12 @@
 ---
-title: "Preserve Of The Ancestors"
+title: Preserve Of The Ancestors
 type: location
-subtype: "demiplane, sanctuary"
-aliases: []
+subtype: demiplane, sanctuary
+aliases:
+- Preserve of the Ancestors
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Preserve Of The Ancestors

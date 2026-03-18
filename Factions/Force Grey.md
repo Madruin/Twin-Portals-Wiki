@@ -13,16 +13,16 @@ tags:
 
 Force Grey is an elite adventuring company that serves the [[Lords of Waterdeep]] and the [[Masked Lords of Waterdeep|Masked Lords]]. Functioning as Waterdeep's most powerful defenders, Force Grey operates under the direct authority of the [[Open Lord]] and handles threats that are beyond the capabilities of the [[City Watch of Waterdeep|City Watch]] or regular military forces.
 
-**First appearance:** [[S01E15 - Episode Fifteen]]
+**First appearance:** [[S01E15 - Episode Fifteen|S01E15]]
 **Total appearances:** 1 episode
 
 ## Overview
 
-Force Grey came to prominence in the Twin Portals story during the dramatic trial of [[SWOJ]] in [[S01E15 - Episode Fifteen|Episode 15]]. After [[Laeral Silverhand]], the [[Open Lord]] of [[Waterdeep]], personally intervened in the trial -- replacing a corrupt magistrate, telekinetically crushing a grell that attacked the courtroom, and freeing SWOJ from their manacles -- she declared that the investigation into the [[Stone of Golorr]] and the [[Vault of Dragons]] was now under the joint control of Force Grey and the Masked Lords.
+Force Grey came to prominence in the Twin Portals story during the dramatic trial of [[SWOJ]] in [[S01E15 - Episode Fifteen|Episode 15]]. After [[Laeral Silverhand]], the [[Open Lord]] of [[Waterdeep]], personally intervened in the trial -- replacing a corrupt magistrate, telekinetically crushing a grell that attacked the courtroom, and freeing SWOJ from their manacles -- she declared that the investigation into the [[The Stone of Golorr]] and the [[Vault of Dragons]] was now under the joint control of Force Grey and the Masked Lords.
 
 This was a significant escalation that signaled the gravity of the situation: the hunt for [[Dagult Neverember|Lord Neverember]]'s hidden gold hoard had attracted the attention of the [[Xanathar Guild]], the [[Zhentarim]], the [[Cassalanter Family]], and [[Bregan D'Aerthe]], and Laeral determined that only Waterdeep's most elite operatives could be trusted to manage it. By placing the investigation under Force Grey's authority, Laeral effectively elevated SWOJ from suspects to sanctioned agents of the city.
 
-Following this declaration, Laeral took SWOJ to [[Haventree Estate]], a [[Harpers|Harper]] safehouse near the [[God Catcher]], where she briefed them extensively on the [[Xanathar Guild]] -- including the Xanathar's paranoid nature, the mind flayer who breeds intellect devourers, the Harper informant [[Thorvin Twinbeard]], and the drow advisor [[Xibrinidas]]. She entrusted the [[Stone of Golorr]] to her own keeping and commissioned SWOJ to infiltrate the Xanathar's Lair.
+Following this declaration, Laeral took SWOJ to [[Haventree Estate]], a [[Harpers|Harper]] safehouse near the [[God Catcher]], where she briefed them extensively on the [[Xanathar Guild]] -- including the Xanathar's paranoid nature, the mind flayer who breeds intellect devourers, the Harper informant [[Thorvin Twinbeard]], and the drow advisor [[Xibrinidas]]. She entrusted the [[The Stone of Golorr]] to her own keeping and commissioned SWOJ to infiltrate the Xanathar's Lair.
 
 ## Known Members
 
@@ -36,7 +36,7 @@ While the full roster of Force Grey is not detailed in the podcast, the organiza
 ## Activities
 
 ### Season 1
-- **S01E15:** [[Laeral Silverhand]] intervenes in SWOJ's trial, replacing the corrupt judge. After a grell attack disrupts the courtroom, Laeral frees SWOJ from manacles and declares the investigation into the [[Stone of Golorr]] and the [[Vault of Dragons]] is now under the control of Force Grey and the [[Masked Lords of Waterdeep|Masked Lords]]. She takes SWOJ to [[Haventree Estate]] for a briefing on the [[Xanathar Guild]] and commissions them as her personal agents to infiltrate the Xanathar's Lair.
+- **S01E15:** [[Laeral Silverhand]] intervenes in SWOJ's trial, replacing the corrupt judge. After a grell attack disrupts the courtroom, Laeral frees SWOJ from manacles and declares the investigation into the [[The Stone of Golorr]] and the [[Vault of Dragons]] is now under the control of Force Grey and the [[Masked Lords of Waterdeep|Masked Lords]]. She takes SWOJ to [[Haventree Estate]] for a briefing on the [[Xanathar Guild]] and commissions them as her personal agents to infiltrate the Xanathar's Lair.
 
 ## Relationships
 

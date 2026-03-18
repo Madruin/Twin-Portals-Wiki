@@ -14,7 +14,7 @@ tags:
 
 **Agorna** is a cleric at the [[Temple Of Selune]] in [[Waterdeep]]'s Sea Ward. She is the Wavesilver family's longtime cleric, having been present for ceremonies throughout [[Malark Wavesilver|Lark]]'s upbringing. When Lark contracts lycanthropy after being bitten by a wereferret, Agorna casts Lesser Restoration on him to help manage the curse, though she cautions that only a more powerful Greater Restoration could remove it entirely.
 
-**First appearance:** [[S01E10 - Episode Ten]]
+**First appearance:** [[S01E10 - Episode Ten|S01E10]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Dwarf fish keeper tending to the Xanathar's prized goldfish Sylgar. Thaelin casts Suggestion on him, compelling him to retrieve the Eye of the Stone of Golorr from a locked chest in the sanctum.
 
-**First appearance:** [[S01E16 - Episode Sixteen]]
+**First appearance:** [[S01E16 - Episode Sixteen|S01E16]]
 **Total appearances:** 1 episode
 
 ## Description

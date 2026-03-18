@@ -4,6 +4,7 @@ type: location
 subtype: "dungeon"
 aliases:
   - "Inside the Breathless Elder"
+  - "The Breathless Elder (MouthInterior)"
 tags:
   - twin-portals
   - location

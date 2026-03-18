@@ -1,18 +1,19 @@
 ---
-title: "Fellowship Of Innkeepers"
+title: Fellowship Of Innkeepers
 type: faction
 status: active
-aliases: []
+aliases:
+- Fellowship of Innkeepers
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Fellowship Of Innkeepers
 
 The Fellowship of Innkeepers is one of [[Waterdeep]]'s many trade guilds, responsible for the licensing and regulation of taverns and inns throughout the city. [[SWOJ]] encountered the Fellowship when they sought to open their tavern, the [[Short Rest]], at [[Trollskull Manor]].
 
-**First appearance:** [[S01E08 - Episode Eight]]
+**First appearance:** [[S01E08 - Episode Eight|S01E08]]
 **Total appearances:** 1 episode
 
 ## Overview

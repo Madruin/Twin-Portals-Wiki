@@ -14,7 +14,7 @@ tags:
 
 The Cassalanters' supposedly dead son. Actually a nine-foot-tall demonic chain-bound humanoid trapped in a pentagram circle in the attic. Has chains that animate with barbed spikes, bleeds black ichor, emanates an aura dampening healing magic. Previously the source of the howling sounds.
 
-**First appearance:** [[S01E09 - Episode Nine]]
+**First appearance:** [[S01E09 - Episode Nine|S01E09]]
 **Total appearances:** 2 episodes
 
 ## Description

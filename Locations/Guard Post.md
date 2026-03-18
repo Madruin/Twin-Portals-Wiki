@@ -23,7 +23,7 @@ The guard post is a small, poorly maintained stone structure approximately 100 f
 
 ## Notable Events
 
-- **[[S02E16 - Episode Forty Six LIVE (S02E16)|S02E16]]:** [[SWOJ]] approaches the guard post with the [[Manshoon Clone (Man-Two)|Manshoon clone]], who insists on keeping a low profile. [[Scoot Sparkles|Scoot]] takes the lead, claiming they are there "for the delivery." The lead guard, a woman, is suspicious because another group claiming the same thing had just passed through. [[Ylka Gralhund|Ylka]] shows the [[Stone of Golorr]] to persuade the guards, though the Manshoon clone is alarmed by this breach of secrecy. The party successfully bluffs their way through and descends into the chasm tunnels.
+- **[[S02E16 - Episode Forty Six LIVE (S02E16)|S02E16]]:** [[SWOJ]] approaches the guard post with the [[Manshoon Clone (Man-Two)|Manshoon clone]], who insists on keeping a low profile. [[Scoot Sparkles|Scoot]] takes the lead, claiming they are there "for the delivery." The lead guard, a woman, is suspicious because another group claiming the same thing had just passed through. [[Ylka Gralhund|Ylka]] shows the [[The Stone of Golorr]] to persuade the guards, though the Manshoon clone is alarmed by this breach of secrecy. The party successfully bluffs their way through and descends into the chasm tunnels.
 
 ## Connected Characters
 

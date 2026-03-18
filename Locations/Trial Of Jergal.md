@@ -1,11 +1,12 @@
 ---
-title: "Trial Of Jergal"
+title: Trial Of Jergal
 type: location
-subtype: "trial"
-aliases: []
+subtype: trial
+aliases:
+- Trial of Jergal
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Trial Of Jergal

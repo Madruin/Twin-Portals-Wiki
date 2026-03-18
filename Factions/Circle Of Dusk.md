@@ -1,11 +1,13 @@
 ---
-title: "Circle Of Dusk"
+title: Circle Of Dusk
 type: faction
 status: active
-aliases: ["Circle of Dust"]
+aliases:
+- Circle of Dust
+- Circle of Dusk
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Circle Of Dusk

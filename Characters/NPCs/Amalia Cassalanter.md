@@ -57,7 +57,7 @@ In the aftermath ([[S01E10 - Episode Ten|S01E10]]), Amalia and Victoro discussed
 
 #### The Shrine Confrontation ([[S01E24 - Episode Twenty Four|S01E24]])
 
-When SWOJ infiltrated [[Cassalanter Villa]] during the Founder's Day preparations -- with Xae disguised as a golden retriever to bypass guards -- and fought their way through the underground [[Shrine Of Asmodeus (Cassalanter Villa)|shrine to Asmodeus]], Amalia arrived just as [[Ylka Gralhund|Ylka]] shattered the stone fire bowl (causing both Cassalanters psychic pain) and freed the third Eye of the [[Stone of Golorr]].
+When SWOJ infiltrated [[Cassalanter Villa]] during the Founder's Day preparations -- with Xae disguised as a golden retriever to bypass guards -- and fought their way through the underground [[Shrine Of Asmodeus (Cassalanter Villa)|shrine to Asmodeus]], Amalia arrived just as [[Ylka Gralhund|Ylka]] shattered the stone fire bowl (causing both Cassalanters psychic pain) and freed the third Eye of the [[The Stone of Golorr]].
 
 Amalia confronted SWOJ in the shrine, framed in a golden dress as if she had just come from a ball. Before Xae could even warn her about the cultist infiltration, Amalia raised a wand and cast charm person -- ensnaring Scoot, who began calling her "Ramalia" in his befuddled state. She then hasted herself and unleashed a devastating fireball (10d6 fire damage, 29 damage) that knocked Lark and Xae unconscious. SWOJ barely escaped with the third Eye, fleeing through a natural cave passage to an underground river that washed them out near the mud flats on Waterdeep's west coast.
 

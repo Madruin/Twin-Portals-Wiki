@@ -14,7 +14,7 @@ tags:
 
 Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visits to offer 150gp to buy the manor. Hostile and antagonistic toward SWOJ.
 
-**First appearance:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 2 episodes
 
 ## Description
@@ -24,7 +24,7 @@ Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visi
 ## Role in the Story
 
 - **[[S01E07 - Episode Seven|S01E07]]:** Visits [[Trollskull Manor]] and offers 150gp to buy it from [[SWOJ]]; they refuse.
-- **[[S01E08 - Episode Eight|S01E08]]:** [[Dasher Zuber]] reveals that Emmek Frewn hired the [[Shard Shunners]] to infest [[Trollskull Manor]] with rats at 50gp per night; [[Vaniol]] suspects Frewn is borrowing money and won't last, and SWOJ negotiate a truce with the gang to fake the sabotage.
+- **[[S01E08 - Episode Eight|S01E08]]:** [[Dasher Zuber]] reveals that Emmek Frewn hired the [[Shard Shunners]] to infest [[Trollskull Manor]] with rats at 50gp per night; [[Vaniel]] suspects Frewn is borrowing money and won't last, and SWOJ negotiate a truce with the gang to fake the sabotage.
 
 ## Episode Appearances
 

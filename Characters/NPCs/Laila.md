@@ -14,7 +14,7 @@ tags:
 
 A halfling knight wearing night regalia and a helmet that mostly obscures her face. A member of the resistance who patrols the tunnels beneath Castle Never. Discovers SWOJ hiding in the excavation area and leads them to Renaer's underground base.
 
-**First appearance:** [[S02E15 - Episode Forty Five (S02E15)]]
+**First appearance:** [[S02E15 - Episode Forty Five (S02E15)|S02E15]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[The Resistance]]
 

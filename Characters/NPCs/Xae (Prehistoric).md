@@ -12,20 +12,20 @@ tags:
 
 # Xae (Prehistoric)
 
-**Xae (Prehistoric)** is a version of [[Xae|Xaerine Rumblestride]] witnessed by [[Scoot Sparkles]], [[Ylka Gralhund]], and [[Malark Wavesilver]] during a time-travel vision to [[Prehistoric Waterdeep]]. This ancient incarnation of the halfling possesses immense magical power and is directly responsible for the creation of the [[Stone of Golorr|Stone of Galore]] -- one of the campaign's most important artifacts.
+**Xae (Prehistoric)** is a version of [[Xae|Xaerine Rumblestride]] witnessed by [[Scoot Sparkles]], [[Ylka Gralhund]], and [[Malark Wavesilver]] during a time-travel vision to [[Prehistoric Waterdeep]]. This ancient incarnation of the halfling possesses immense magical power and is directly responsible for the creation of the [[The Stone of Golorr|Stone of Galore]] -- one of the campaign's most important artifacts.
 
-**First appearance:** [[S01E14 - Episode Fourteen]]
+**First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
 ## Description
 
-Prehistoric Xae appears as a small halfling standing by a frozen riverbank in what will one day become [[Waterdeep]]. She wields extraordinary magical power, projecting a beam of bright green light from her hand to telekinetically pull a massive thirty-foot tentacle beast -- resembling a lamprey with an enormous jaw -- thrashing from the icy river. She hauls the creature onto land with one hand, casually, then clenches her fist to compress the beast. Over the course of about twenty seconds, the thrashing monster wraps tighter and tighter into a sphere until it plunks down into her palm as a small avocado-sized stone: the [[Stone of Golorr|Stone of Galore]].
+Prehistoric Xae appears as a small halfling standing by a frozen riverbank in what will one day become [[Waterdeep]]. She wields extraordinary magical power, projecting a beam of bright green light from her hand to telekinetically pull a massive thirty-foot tentacle beast -- resembling a lamprey with an enormous jaw -- thrashing from the icy river. She hauls the creature onto land with one hand, casually, then clenches her fist to compress the beast. Over the course of about twenty seconds, the thrashing monster wraps tighter and tighter into a sphere until it plunks down into her palm as a small avocado-sized stone: the [[The Stone of Golorr|Stone of Galore]].
 
 Despite the extraordinary display of power, her demeanor is relaxed and familiar. She waves to the arriving party and greets them with a simple "Hello, friends," showing a hint of recognition before returning to her work.
 
 ## Role in the Story
 
-In [[S01E14 - Episode Fourteen]], the [[Stone of Golorr|Stone of Galore]] activates while SWOJ is imprisoned in the [[Docks Ward Guardhouse (Jail Cell)|Docks Ward guardhouse jail cell]]. The Stone gives each party member personal visions, then transports [[Scoot Sparkles]], [[Ylka Gralhund]], and [[Malark Wavesilver]] back in time to [[Prehistoric Waterdeep]] during the Winter Solstice. (The present-day [[Xae]] remains asleep clutching a crystal unicorn and does not travel with them.)
+In [[S01E14 - Episode Fourteen|S01E14]], the [[The Stone of Golorr|Stone of Galore]] activates while SWOJ is imprisoned in the [[Docks Ward Guardhouse (Jail Cell)|Docks Ward guardhouse jail cell]]. The Stone gives each party member personal visions, then transports [[Scoot Sparkles]], [[Ylka Gralhund]], and [[Malark Wavesilver]] back in time to [[Prehistoric Waterdeep]] during the Winter Solstice. (The present-day [[Xae]] remains asleep clutching a crystal unicorn and does not travel with them.)
 
 After SWOJ completes a holiday adventure -- meeting [[Gorge Baileybrew]], fighting [[Krampus]], and defeating the vampire wizard [[Hans Von Gruber]] at [[Zaka's Tomey Tower]] -- they are carried by a magical sleigh back toward the river. There, they witness Prehistoric Xae pulling the tentacle beast from the water and crushing it into the Stone.
 
@@ -36,7 +36,7 @@ Immediately after this scene, time freezes around the party. The Stone floats of
 ## Relationships
 
 - [[Xae]] -- The present-day version of this character; a halfling PC played by Kendra and member of [[SWOJ]]
-- [[Stone of Golorr|Stone of Galore]] -- Created by Prehistoric Xae from a compressed tentacle beast; the central artifact of much of the campaign
+- [[The Stone of Golorr|Stone of Galore]] -- Created by Prehistoric Xae from a compressed tentacle beast; the central artifact of much of the campaign
 - [[Scoot Sparkles]], [[Ylka Gralhund]], [[Malark Wavesilver]] -- Witnessed her feat during the time-travel sequence; she greets them with familiarity
 
 ## Episode Appearances

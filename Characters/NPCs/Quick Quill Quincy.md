@@ -14,7 +14,7 @@ tags:
 
 **Quick Quill Quincy** is a member of the [[Jolly Gents]], the criminal organization operating out of [[Zhentil Keep]] in the [[Shadowfell]]. Named for his record-keeping duties, Quincy serves in a janitorial or maintenance capacity within the keep alongside [[Giggling Gus]].
 
-**First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)]]
+**First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Jolly Gents]]
 

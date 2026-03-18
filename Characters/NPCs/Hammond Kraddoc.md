@@ -17,7 +17,7 @@ tags:
 
 **Hammond Kraddoc** is a representative of the [[Vintners', Distillers', and Brewers' Guild]] in [[Waterdeep]]. He visits [[Trollskull Manor]] to discuss tavern licensing with [[SWOJ]], bringing along a young scribe named Ginny. He shares market intelligence about trending spirits in the city.
 
-**First appearance:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Vintners', Distillers', and Brewers' Guild]]
 

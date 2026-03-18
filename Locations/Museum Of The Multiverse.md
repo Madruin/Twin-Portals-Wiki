@@ -1,11 +1,12 @@
 ---
-title: "Museum Of The Multiverse"
+title: Museum Of The Multiverse
 type: location
-subtype: ""
-aliases: []
+subtype: ''
+aliases:
+- Museum of the Multiverse
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Museum Of The Multiverse

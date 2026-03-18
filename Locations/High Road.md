@@ -22,13 +22,13 @@ The High Road is one of the most important routes in the Sword Coast, running th
 
 ## Notable Events
 
-- **[[S01E13 - Episode Thirteen|S01E13]]:** [[Willifort Crowell]], majordomo of the [[Cassalanter]] family, flees down the High Road in a wagon with the [[Stone of Golorr]], accompanied by a bearded devil guard. SWOJ gives chase through the crowded Feast of the Moon parade in a frantic cart pursuit. The chase ends with [[Captain Hyustus Stagget]] arresting SWOJ, and at the [[Docks Ward Guardhouse]] he privately warns them that the magistrate assigned to their trial has been bought off by the Cassalanters.
+- **[[S01E13 - Episode Thirteen|S01E13]]:** [[Willifort Crowell]], majordomo of the [[Cassalanter]] family, flees down the High Road in a wagon with the [[The Stone of Golorr]], accompanied by a bearded devil guard. SWOJ gives chase through the crowded Feast of the Moon parade in a frantic cart pursuit. The chase ends with [[Captain Hyustus Stagget]] arresting SWOJ, and at the [[Docks Ward Guardhouse]] he privately warns them that the magistrate assigned to their trial has been bought off by the Cassalanters.
 - **[[S02E26 - Episode Fifty Six (S02E26)|S02E26]]:** After receiving enchanted raven feathers from [[The Raven Queen]] and dragon-hunting gear from [[Renaer Neverember]], SWOJ departs south along the High Road from [[Neverwinter]] toward the [[Mere Of Dead Men]]. Along the way they encounter [[Lochlina]], a halfling herbalist being chased by bulettes attracted to her Lunaria herbs, and they befriend Shaleheart, a friendly bulette.
 - **[[S02E27 - Episode Fifty Seven (S02E27)|S02E27]]:** SWOJ continues south along the High Road and discovers a hidden cave containing a magical pump operated by three [[Cult of the Dragon]] members in black dragon masks. The pump is draining the [[Mere Of Dead Men]] to expose underground ruins the cult is excavating for relics of [[Myrkul]]. The party destroys the pump and follows the drainage tunnel into the swamp.
 
 ## Connected Characters
 
-- [[Willifort Crowell]] — fled down the High Road with the [[Stone of Golorr]] during the Feast of the Moon
+- [[Willifort Crowell]] — fled down the High Road with the [[The Stone of Golorr]] during the Feast of the Moon
 - [[Captain Hyustus Stagget]] — arrested SWOJ after the High Road chase
 - [[Renaer Neverember]] — equipped SWOJ before their departure south along the road
 - [[Lochlina]] — halfling herbalist encountered on the road south of [[Neverwinter]]

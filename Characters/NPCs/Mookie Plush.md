@@ -16,7 +16,7 @@ tags:
 
 Mookie Plush is a [[Zhentarim]] lieutenant who operates out of the [[Kolat Towers]] alongside [[Urstul Floxxin]] and under the command of [[Manshoon|The Necromancer (Manshoon)]]. She serves as a guide and field commander for Zhentarim forces, and later appears on the battlefield during the climactic theater battle at the [[Zadio City Music Hall]].
 
-**First appearance:** [[S01E22 - Episode Twenty Two]]
+**First appearance:** [[S01E22 - Episode Twenty Two|S01E22]]
 **Total appearances:** 3 episodes
 **Faction affiliations:** [[Zhentarim]]
 

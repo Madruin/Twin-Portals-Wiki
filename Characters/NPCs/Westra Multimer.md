@@ -14,7 +14,7 @@ tags:
 
 Actress at the Zadio City Music Hall who SWOJ must get past while infiltrating the theater disguised as ushers.
 
-**First appearance:** [[S01E26 - Episode Twenty Six]]
+**First appearance:** [[S01E26 - Episode Twenty Six|S01E26]]
 **Total appearances:** 1 episode
 
 ## Description

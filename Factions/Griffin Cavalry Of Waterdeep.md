@@ -1,20 +1,21 @@
 ---
-title: "Griffin Cavalry Of Waterdeep"
+title: Griffin Cavalry Of Waterdeep
 type: faction
 status: active
 aliases:
-  - "Griffin Riders"
-  - "Griffin Riders of Waterdeep"
+- Griffin Riders
+- Griffin Riders of Waterdeep
+- Griffin Cavalry of Waterdeep
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Griffin Cavalry Of Waterdeep
 
 The Griffin Cavalry of Waterdeep is the city's aerial military force, patrolling the skies above [[Waterdeep]] on trained griffins. Across the campaign, they serve as both a symbol of civic authority and a military asset, ultimately providing air support and refugee assistance during the assault on the [[Spiral Cavern]] and the aftermath of the war against [[Manshoon]].
 
-**First appearance:** [[S02E31 - Episode Sixty-One]]
+**First appearance:** [[S02E31 - Episode Sixty One (S02E31)|S02E31]]
 **Total appearances:** 3 episodes (S02E31, S02E37, S02E38)
 **Also known as:** Griffin Riders, Griffin Riders of Waterdeep
 

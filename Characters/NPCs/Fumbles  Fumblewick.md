@@ -14,7 +14,7 @@ tags:
 
 A gnome city guard in Neverwinter and contact for the resistance. His real name is Fumblewick. Has accompanied caravans moving into the chasm on a monthly basis and can provide details about what happens there. Can be found at the Slinky Serpent tavern southeast of the House of a Thousand Faces.
 
-**First appearance:** [[S02E15 - Episode Forty Five (S02E15)]]
+**First appearance:** [[S02E15 - Episode Forty Five (S02E15)|S02E15]]
 **Total appearances:** 1 episode
 
 ## Description

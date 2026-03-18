@@ -1,11 +1,14 @@
 ---
-title: "Cult Of The Dragon"
+title: Cult Of The Dragon
 type: faction
 status: active
-aliases: ["Dragon Cult", "Cultists"]
+aliases:
+- Dragon Cult
+- Cultists
+- Cult of the Dragon
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Cult Of The Dragon

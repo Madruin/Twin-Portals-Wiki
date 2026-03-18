@@ -19,7 +19,7 @@ Zedford Falls is a small settlement in [[Prehistoric Waterdeep]] near the homest
 
 ## Description
 
-Zedford Falls is a modest dwarven settlement in the snowy wilderness of prehistoric Waterdeep. The Bailey Brew family describes it as their humble home, situated in a region of scattered dwarf communities that will eventually grow into the city of Waterdeep. The settlement exists during the same prehistoric era visited by SWOJ during the Winter Solstice holiday special, when the party was transported back in time by the [[Stone of Golorr]].
+Zedford Falls is a modest dwarven settlement in the snowy wilderness of prehistoric Waterdeep. The Bailey Brew family describes it as their humble home, situated in a region of scattered dwarf communities that will eventually grow into the city of Waterdeep. The settlement exists during the same prehistoric era visited by SWOJ during the Winter Solstice holiday special, when the party was transported back in time by the [[The Stone of Golorr]].
 
 ## Notable Events
 

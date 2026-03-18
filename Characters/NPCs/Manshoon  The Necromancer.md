@@ -21,8 +21,8 @@ tags:
 
 The ancient founder of the [[Zhentarim]] and the primary antagonist of the Twin Portals campaign across both seasons. A wizard of terrifying power who perpetuated himself through a network of clones scattered across the multiverse, Manshoon's schemes to achieve godhood drove SWOJ from the streets of Waterdeep to the furthest reaches of the planes.
 
-**First mentioned:** [[S01E21 - Episode Twenty One]] (as "The Necromancer")
-**Final defeat:** [[S02E36 - Episode Sixty Six (S02E36)]]
+**First mentioned:** [[S01E21 - Episode Twenty One|S01E21]] (as "The Necromancer")
+**Final defeat:** [[S02E36 - Episode Sixty Six (S02E36)|S02E36]]
 **Total appearances:** 9+ episodes (across multiple identities)
 
 ## Description
@@ -41,7 +41,7 @@ Manshoon's clones were a defining feature of his villainy -- each operated with 
 The identity SWOJ first encountered. A young-looking wizard with a mechanical hand, he operated from the [[Kolat Towers]] and an extra-dimensional sanctum in Waterdeep. He performed the clone spell to resurrect [[Malark Wavesilver|Lark]] after his death, and revealed the truth about Ylka's origins. He planted a **Gem of Seeing** in Lark's temple to spy on SWOJ. His simulacrum (iron mask) battled the city watch. He appeared on the theater balcony during the Stone of Golorr battle, casting *Bigby's Hand* against [[Scoot Sparkles|Scoot]], but retreated after [[Remalia Haventree|Remalia]]'s fireball.
 
 ### Rowan Crooks (The 14th Clone) -- see also: [[Rowan Crooks]]
-The most dangerous and deceptive of all clones. Manshoon murdered the real Rowan Crooks long ago and assumed his identity, becoming the beloved leader of the [[Jolly Gents]] adventuring group. He traveled to the [[Radiant Citadel]] as a folk hero, built trust with the speakers, and introduced the **soul pylons** -- an infrastructure he later weaponized for his ascension plot. He was revealed as the 14th clone in [[S02E11 - Episode Forty One (S02E11)]], where he killed SWOJ, looted their corpses, captured [[Shuni]]'s spirit in a soul stone, and teleported away with all of SWOJ's possessions. He established his floating fortress, [[Zentil Keep]], in the Shadowfell and used the Jolly Gents as his personal army, binding many of their souls to phylacteries via [[Friar Truck]]. Ultimately defeated by [[Scoot Sparkles|Scoot]]'s lightning-split axe attack during the sky-falling battle as Zentil Keep collapsed, then trapped inside the [[Soul Stone]] after his phylactery was destroyed.
+The most dangerous and deceptive of all clones. Manshoon murdered the real Rowan Crooks long ago and assumed his identity, becoming the beloved leader of the [[Jolly Gents]] adventuring group. He traveled to the [[Radiant Citadel]] as a folk hero, built trust with the speakers, and introduced the **soul pylons** -- an infrastructure he later weaponized for his ascension plot. He was revealed as the 14th clone in [[S02E11 - Episode Forty One (S02E11)|S02E11]], where he killed SWOJ, looted their corpses, captured [[Shuni]]'s spirit in a soul stone, and teleported away with all of SWOJ's possessions. He established his floating fortress, [[Zentil Keep]], in the Shadowfell and used the Jolly Gents as his personal army, binding many of their souls to phylacteries via [[Friar Truck]]. Ultimately defeated by [[Scoot Sparkles|Scoot]]'s lightning-split axe attack during the sky-falling battle as Zentil Keep collapsed, then trapped inside the [[Soul Stone]] after his phylactery was destroyed.
 
 ### Shuni (The Breathless Elder Clone)
 A Manshoon clone living inside the corpse of the [[Breathless Elder]], a colossal dead viper fish deity in the Far Realm. Uniquely among the clones, Shuni was **surprisingly friendly and cooperative** with SWOJ, explaining the gem/lure mechanism controlling the dragon tethers. He was murdered by Rowan Crooks and his allies, then his spirit was recaptured in a cracked soul stone. As a ghost, he briefly advised SWOJ about soul mechanics before being recaptured again.
@@ -67,7 +67,7 @@ The last surviving clone of Manshoon, encountered at the [[Radiant Citadel]]. Un
 
 - **S01E21:** [[Ylka Gralhund|Ylka]] contacts the inscrutable wizard known as "The Necromancer" via a scrying pool in the Short Rest cellar; he offers to create a copy of Lark's body and send Scoot and Ylka into the afterlife to retrieve him
 - **S01E22:** The Necromancer is revealed as a young-looking wizard with a mechanical hand, connected to [[Mordecai Gralhund]]; performs the clone spell to resurrect Lark from his extra-dimensional sanctum accessed through the [[Kolat Towers]]
-- **S01E23:** The Necromancer confronts SWOJ and reveals that Ylka is a clone of Zilka; tells them the [[Cassalanters]] have the third Eye of the [[Stone of Golorr]]; his simulacrum battles the city watch
+- **S01E23:** The Necromancer confronts SWOJ and reveals that Ylka is a clone of Zilka; tells them the [[Cassalanters]] have the third Eye of the [[The Stone of Golorr]]; his simulacrum battles the city watch
 - **S01E26:** Manshoon (or his simulacrum) appears on the theater balcony during the Stone of Golorr battle with Zhentarim lieutenants; casts *Bigby's Hand* against Scoot; retreats after Remalia's fireball
 - **S01E29:** [[Rowan Crooks]] reveals the Necromancer's true name as **Manshoon**, founder of the Zhentarim; Crooks extracts a Gem of Seeing from Lark's temple that Manshoon had planted to spy on SWOJ; SWOJ sets out through a Feywild portal to hunt him
 - **S01E30:** Manshoon is discussed as the primary antagonist thread that remained unresolved, driving the story into the Feywild for Season 2

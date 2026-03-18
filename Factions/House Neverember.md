@@ -14,12 +14,12 @@ tags:
 
 A powerful noble house whose influence spans both [[Waterdeep]] and [[Neverwinter]]. The family's legacy is defined by [[Dagult Neverember]]'s controversial tenure as Open Lord of Waterdeep and his subsequent rule of Neverwinter, as well as his son [[Renaer Neverember]]'s strained rebellion against his father's corruption.
 
-**First appearance:** Episode [[S01E02 - A Friend In Need|S01E02]] (Renaer), [[S01E01 - A Tail Of Two Cities|S01E01]] (Dagult mentioned)
+**First appearance:** Episode [[S01E02 - Episode Two|S01E02]] (Renaer), [[S01E01 - Episode One|S01E01]] (Dagult mentioned)
 **Total appearances:** 20+ episodes
 
 ## Overview
 
-House Neverember's story is one of political ambition, embezzlement, and a father-son conflict that reshapes two cities. [[Dagult Neverember]] served as Open Lord of Waterdeep before being deposed and replaced by [[Laeral Silverhand]]. His conservative spending policies and disruptive tariffs drove Waterdeep into decline. Before leaving, he embezzled a massive gold hoard -- half a million dragons -- and hid it somewhere beneath the city, accessible only through the [[Stone of Golorr]].
+House Neverember's story is one of political ambition, embezzlement, and a father-son conflict that reshapes two cities. [[Dagult Neverember]] served as Open Lord of Waterdeep before being deposed and replaced by [[Laeral Silverhand]]. His conservative spending policies and disruptive tariffs drove Waterdeep into decline. Before leaving, he embezzled a massive gold hoard -- half a million dragons -- and hid it somewhere beneath the city, accessible only through the [[The Stone of Golorr]].
 
 His son [[Renaer Neverember]] is estranged from his father and becomes one of SWOJ's most steadfast allies across both seasons, evolving from a rescued nobleman into a resistance leader and eventually a co-ruler of Neverwinter.
 
@@ -33,7 +33,7 @@ His son [[Renaer Neverember]] is estranged from his father and becomes one of SW
 
 ## The Embezzled Gold
 
-The central mystery of Season 1 revolves around Dagult's hidden gold hoard. Before his removal as Open Lord, Dagult embezzled an enormous fortune and concealed it in the [[Vault of Dragons]] beneath Waterdeep. He employed the gnome spy [[Dalakhar]] (also called Dalcar) to track the [[Stone of Golorr]] -- the key to finding the vault -- through his son Renaer.
+The central mystery of Season 1 revolves around Dagult's hidden gold hoard. Before his removal as Open Lord, Dagult embezzled an enormous fortune and concealed it in the [[Vault of Dragons]] beneath Waterdeep. He employed the gnome spy [[Dalakhar]] (also called Dalcar) to track the [[The Stone of Golorr]] -- the key to finding the vault -- through his son Renaer.
 
 The Stone became the object of a multi-faction treasure hunt involving the [[Xanathar Guild]], the [[Zhentarim]], the [[Cassalanters]], the [[Bregan D'aerthe]], and SWOJ themselves. When the gold was ultimately recovered, the [[Masked Lords Of Waterdeep|Masked Lords]] accepted its return and granted SWOJ a 50,000 gold finder's fee.
 
@@ -51,14 +51,14 @@ Dagult and Renaer's relationship is deeply fractured:
 ## Activities by Episode
 
 ### Season 1
-- **[[S01E01 - A Tail Of Two Cities|S01E01]]:** Dagult Neverember is introduced as the deposed former Open Lord of Waterdeep, originally from Neverwinter. Allegedly embezzled a large sum of gold.
-- **[[S01E02 - A Friend In Need|S01E02]]:** [[Renaer Neverember]] is rescued from the Zhentarim alongside [[Floon]]. Handsome man with hip-length red-gold blonde hair. Estranged from his father, carries a rapier.
+- **[[S01E01 - Episode One|S01E01]]:** Dagult Neverember is introduced as the deposed former Open Lord of Waterdeep, originally from Neverwinter. Allegedly embezzled a large sum of gold.
+- **[[S01E02 - Episode Two|S01E02]]:** [[Renaer Neverember]] is rescued from the Zhentarim alongside [[Floon]]. Handsome man with hip-length red-gold blonde hair. Estranged from his father, carries a rapier.
 - **[[S01E03]]:** Renaer is found at the Splintered Stair alongside Floon.
 - **[[S01E08]]:** Renaer offers SWOJ a 1,000 gold loan for Trollskull Manor. Mentions the spy [[Dalakhar]] is following him, seeking the Stone of Golorr on Dagult's behalf.
 - **[[S01E12]]:** Renaer identifies the dead gnome [[Dalcar]] as his father's spy. Dalcar was killed in the fireball explosion. Renaer agrees to hide at the [[Short Rest]].
 - **[[S01E22]]:** Renaer provides the diamond needed for Lark's resurrection.
 - **[[S01E26]]:** Renaer arrives at the vault with a ledger proving the [[Cassalanters]]' embezzlement. Helps load gold and fights in the theater battle, attempting to stab the [[Xanathar]] in the eye.
-- **[[S01E29 - The Summer Solstice|S01E29]]:** Renaer departs for Neverwinter after the Cassalanter trial, fearing war between the cities.
+- **[[S01E29 - Episode Twenty Nine|S01E29]]:** Renaer departs for Neverwinter after the Cassalanter trial, fearing war between the cities.
 
 ### Season 2
 - **[[S02E05]]:** Renaer has gone missing during the three-year gap.
@@ -71,7 +71,7 @@ Dagult and Renaer's relationship is deeply fractured:
 - **[[S02E30]]:** Renaer meets SWOJ at Castle Never. Has overseen three airship constructions and marshalled 500 soldiers and 30 spellcasters. Injured during a saboteur attack but stabilized.
 - **[[S02E31]]:** Renaer convenes a strategy session. Stays behind to manage the city while SWOJ departs.
 - **[[S02E37]]:** Renaer leads Neverwinter soldiers, guarding refugees boarding the [[Concord Jewel]].
-- **[[S02E38 - God's Night|S02E38]]:** Renaer is present at the [[Masked Lords Of Waterdeep|Masked Lords]]' council. Gives a toast to SWOJ. Offers to take them back to Waterdeep from the Spiral Cavern.
+- **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** Renaer is present at the [[Masked Lords Of Waterdeep|Masked Lords]]' council. Gives a toast to SWOJ. Offers to take them back to Waterdeep from the Spiral Cavern.
 
 ## The Rule of Neverwinter
 

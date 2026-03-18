@@ -14,7 +14,7 @@ tags:
 
 A druid of the Circle of Dusk operating in the cryptwood forests near Amphail. Reports to SWOJ that Neverwinter has marshalled military forces in response to the dragon threat. Provides local intelligence about the situation around the Moonhole.
 
-**First appearance:** [[S02E30 - Episode Sixty (S02E30)]]
+**First appearance:** [[S02E30 - Episode Sixty (S02E30)|S02E30]]
 **Total appearances:** 1 episode
 
 ## Description

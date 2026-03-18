@@ -73,7 +73,7 @@ Halaster operates through proxies. [[Arcturia]] is his primary known agent, oper
 | [[Lyrian]] | Apprentice (trapped/scattered) |
 | [[Trobriand]] | Apprentice (trapped/scattered) |
 | [[Muiral]] | Apprentice (trapped/scattered) |
-| [[Xaerine Rumblestride\|Xae]] | Bound by contract to free his apprentices |
+| [[Xaerine Rumblestride|Xae]] | Bound by contract to free his apprentices |
 | [[Asmodeus]] | Set the contract terms involving Halaster's apprentices |
 
 ---

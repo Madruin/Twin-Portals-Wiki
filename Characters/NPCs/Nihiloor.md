@@ -50,7 +50,7 @@ Nihiloor also performed eldritch rituals using a magical focus and a green spawn
 - **[[Scoot Sparkles]]** -- Half-orc barbarian who tackled Nihiloor into the spawning pool in a grief-fueled rage after watching [[Malark Wavesilver|Lark]] be disintegrated. This was the act that defeated Nihiloor.
 - **[[Jarlaxle]]** -- Drow leader of [[Bregan D'Aerthe]] who identified Nihiloor by name and warned SWOJ about the mind flayer's role in the Xanathar Guild.
 - **[[Laeral Silverhand]]** -- Open Lord of Waterdeep who provided intelligence about Nihiloor's spawning pool and commissioned SWOJ to infiltrate the lair and destroy the mind flayer's operation.
-- **[[Thaelin]]** -- Former [[Xanathar Guild]] employee who returned to help SWOJ infiltrate the lair. In his final moments, Thaelin appeared "puppet-controlled" -- possibly by Nihiloor -- as he delivered the Eye of the [[Stone of Golorr]] to [[Xaerine Rumblestride|Xae]] before triggering the smoke powder explosion.
+- **[[Thaelin]]** -- Former [[Xanathar Guild]] employee who returned to help SWOJ infiltrate the lair. In his final moments, Thaelin appeared "puppet-controlled" -- possibly by Nihiloor -- as he delivered the Eye of the [[The Stone of Golorr]] to [[Xaerine Rumblestride|Xae]] before triggering the smoke powder explosion.
 
 ## Faction Affiliations
 

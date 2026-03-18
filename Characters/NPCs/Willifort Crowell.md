@@ -50,7 +50,7 @@ Following the events at the villa, SWOJ openly discusses their suspicions about 
 
 #### The Stone of Golorr Chase ([[S01E13 - Episode Thirteen|S01E13]])
 
-During the investigation of the [[Gralhund Crypt]] in the [[City of the Dead]], SWOJ discovers a handoff in progress -- cultists and spined devils transferring the [[Stone of Golorr]]. A rooftop chase ensues across the City of the Dead during [[Feast of the Moon]] fireworks. [[Sally]] the pigeon provides aerial reconnaissance and spots Crowell waiting in a side alley with an ornate unmarked wagon, a bearded devil guard, and a valet.
+During the investigation of the [[Gralhund Crypt]] in the [[City of the Dead]], SWOJ discovers a handoff in progress -- cultists and spined devils transferring the [[The Stone of Golorr]]. A rooftop chase ensues across the City of the Dead during [[Feast of the Moon]] fireworks. [[Sally]] the pigeon provides aerial reconnaissance and spots Crowell waiting in a side alley with an ornate unmarked wagon, a bearded devil guard, and a valet.
 
 A spined devil delivers the Stone to Crowell. He takes it, looks at SWOJ, and declares: *"It is time for the tides to turn on the Silver Waves of Justice. Kill them."* He then steps into the wagon and flees down the [[High Road]] through the Feast of the Moon parade, triggering a cart chase.
 
@@ -90,13 +90,13 @@ This reveals that Crowell either escaped custody or was released, and has shifte
 
 | Episode | Role |
 |---|---|
-| [[S01E09 - Episode Nine\|S01E09]] | Receives SWOJ at Cassalanter Villa; first appearance |
-| [[S01E10 - Episode Ten\|S01E10]] | Mentioned as suspicious by SWOJ |
-| [[S01E11 - Episode Eleven\|S01E11]] | Discussed during SWOJ's investigation |
-| [[S01E13 - Episode Thirteen\|S01E13]] | Receives Stone of Golorr; cart chase down the High Road |
-| [[S01E15 - Episode Fifteen\|S01E15]] | Unmasked as doppelganger impersonating Captain Stagget; captured at trial |
-| [[S01E16 - Episode Sixteen\|S01E16]] | Discussed in aftermath of trial |
-| [[S02E31 - Episode Sixty One (S02E31)\|S02E31]] | Mentioned by Krom as Zentarim lieutenant operating from Amphail |
+| [[S01E09 - Episode Nine|S01E09]] | Receives SWOJ at Cassalanter Villa; first appearance |
+| [[S01E10 - Episode Ten|S01E10]] | Mentioned as suspicious by SWOJ |
+| [[S01E11 - Episode Eleven|S01E11]] | Discussed during SWOJ's investigation |
+| [[S01E13 - Episode Thirteen|S01E13]] | Receives Stone of Golorr; cart chase down the High Road |
+| [[S01E15 - Episode Fifteen|S01E15]] | Unmasked as doppelganger impersonating Captain Stagget; captured at trial |
+| [[S01E16 - Episode Sixteen|S01E16]] | Discussed in aftermath of trial |
+| [[S02E31 - Episode Sixty One (S02E31)|S02E31]] | Mentioned by Krom as Zentarim lieutenant operating from Amphail |
 
 ```dataview
 TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"

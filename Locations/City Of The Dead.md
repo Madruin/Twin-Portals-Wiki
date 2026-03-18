@@ -1,11 +1,12 @@
 ---
-title: "City Of The Dead"
+title: City Of The Dead
 type: location
-subtype: ""
-aliases: []
+subtype: ''
+aliases:
+- City of the Dead
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # City Of The Dead

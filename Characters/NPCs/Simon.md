@@ -14,7 +14,7 @@ tags:
 
 Scoot's father. Works for the Waterdeep Navy. Mentioned but does not appear directly in this episode.
 
-**First appearance:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 2 episodes
 
 ## Description

@@ -45,7 +45,7 @@ She deposed [[Dagult Neverember]], whose conservative spending policies, disrupt
 - **[[S01E01 - Episode One|S01E01]]:** Introduced in background exposition as the current Open Lord of Waterdeep, "very popular with the citizens," who replaced the deposed [[Dagult Neverember]].
 - **[[S01E15 - Episode Fifteen|S01E15]]:** Makes her dramatic on-screen debut. Replaces the corrupt magistrate Umberto Stonemero to preside over SWOJ's trial in the [[Docks Ward Guardhouse|Docks Ward courtroom]]. When the doppelganger [[Willifort Crowell (Doppelganger)|Willaford Crowell]] is unmasked and a [[Grell|grell]] attacks through the window, Laeral demonstrates immense telekinetic power by slamming the grell into the room and crushing it. She frees SWOJ from their manacles and declares the investigation now under the joint control of [[Force Grey]] and the [[Masked Lords Of Waterdeep|Masked Lords]].
 - **[[S01E15 - Episode Fifteen|S01E15]]:** Takes SWOJ by carriage to the [[Haventree Estate (Harper Safehouse)|Haventree Estate]] near the [[The God Catcher|God Catcher]] in the [[Castle Ward]]. In a long private briefing she:
-  - Reveals the [[Stone of Golorr]]'s three eye sockets are keys to [[Dagult Neverember|Neverember]]'s [[Vault of Dragons|dragon hoard vault]]
+  - Reveals the [[The Stone of Golorr]]'s three eye sockets are keys to [[Dagult Neverember|Neverember]]'s [[Vault of Dragons|dragon hoard vault]]
   - Commissions SWOJ as her personal agents -- "separate from the Masked Lords of Waterdeep, separate from the Harpers, separate from any other agency. This is between me and you."
   - Takes custody of the Stone of Golorr for safekeeping (carefully wrapped in a handkerchief, refusing to touch it directly lest the aboleth gain access to her memories)
   - Provides extensive intelligence on the [[Xanathar Guild]]: the [[The Xanathar|Xanathar]] is a paranoid beholder who trusts only its pet goldfish [[Sylgar]]; a [[Mind Flayer|mind flayer]] breeds intellect devourers via a spawning pool; [[Thorvin Twinbeard]] is the Harpers' paid informant inside the lair; the drow [[Xibrinidas]] has risen to become the Xanathar's personal advisor
@@ -88,7 +88,7 @@ She deposed [[Dagult Neverember]], whose conservative spending policies, disrupt
 
 > "The legends are unclear. Some say that he created clones of himself and those clones are still alive to this day." -- on [[Manshoon]], [[S01E15 - Episode Fifteen|S01E15]]
 
-> "I'm not going to touch that stone if I can help it. Otherwise, that thing might have access to my memories. And that would be more than that stone deserves." -- on the [[Stone of Golorr]], [[S01E15 - Episode Fifteen|S01E15]]
+> "I'm not going to touch that stone if I can help it. Otherwise, that thing might have access to my memories. And that would be more than that stone deserves." -- on the [[The Stone of Golorr]], [[S01E15 - Episode Fifteen|S01E15]]
 
 ---
 

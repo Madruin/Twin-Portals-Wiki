@@ -14,7 +14,7 @@ tags:
 
 Bartender at The Way Inn. Told tales of the Beast of Erua and the Rose Knight.
 
-**First appearance:** [[S02E01 - Episode Thirty One (S02E01)]]
+**First appearance:** [[S02E01 - Episode Thirty One (S02E01)|S02E01]]
 **Total appearances:** 3 episodes
 **Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 

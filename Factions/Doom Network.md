@@ -12,7 +12,7 @@ tags:
 
 The Doom Network is an organization in [[Waterdeep]] that contracts adventurers for jobs, operated by [[Skeemo|Skemo]] on behalf of the [[Doom Raiders]]. It represents the Doom Raiders' formalization of their operations within the moderate wing of the [[Zhentarim]], providing a structured way to assign missions and build relationships with adventuring parties across the city.
 
-**First appearance:** [[S02E05 - Episode Thirty-Five]]
+**First appearance:** [[S02E05 - Episode Thirty Five (S02E05)|S02E05]]
 **Total appearances:** 2 episodes (S02E05, S02E07)
 
 ---

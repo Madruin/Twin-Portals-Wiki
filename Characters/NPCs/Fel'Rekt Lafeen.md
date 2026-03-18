@@ -1,27 +1,28 @@
 ---
-title: "Fel'Rekt Lafeen"
+title: Fel'Rekt Lafeen
 type: character
 subtype: npc
 status: active
 aliases:
-  - "Fel'Rekt"
-  - "Felrecht Laphine"
-  - "Fel'Reck Lafeen"
-  - "Thelrect Lafina"
-  - "Left to Kerr"
+- Fel'Rekt
+- Felrecht Laphine
+- Fel'Reck Lafeen
+- Thelrect Lafina
+- Left to Kerr
+- Fel'rekt Lafeen
 tags:
-  - twin-portals
-  - character
-  - npc
-  - drow
-  - bregan-daerthe
+- twin-portals
+- character
+- npc
+- drow
+- bregan-daerthe
 ---
 
 # Fel'Rekt Lafeen
 
 Fel'Rekt Lafeen is a drow trans man and lieutenant of [[Bregan D'Aerthe]], serving as [[Jarlaxle]]'s trusted agent in both [[Waterdeep]] and [[Neverwinter]]. A skilled operative armed with multiple firearms, Fel'Rekt acts as SWOJ's primary point of contact with the drow mercenary organization throughout both seasons of the campaign. Resourceful and loyal, he uses disguises and aliases to operate covertly in hostile cities, gathering intelligence and providing critical support to the party at key moments. His mysterious disappearance during the Neverwinter arc underscores the dangers of the political landscape the party navigates in Season 2.
 
-**First appearance:** [[S01E06 - Episode Six]]
+**First appearance:** [[S01E06 - Episode Six|S01E06]]
 **Total appearances:** 10 episodes
 **Faction affiliations:** [[Bregan D'Aerthe]]
 
@@ -40,8 +41,8 @@ Fel'Rekt carries himself with a deep sense of duty toward those he is assigned t
 - **S01E06:** SWOJ discovers Fel'Rekt imprisoned by cultists inside the [[God Catcher]], a drow male armed with guns. The party rescues him, establishing their first connection to [[Bregan D'Aerthe]].
 - **S01E07:** Fel'Rekt visits [[Trollskull Manor]] at noon as a formal Bregan D'Aerthe envoy. He reveals that his organization has been tracking SWOJ, shares intelligence about devil worship among [[Waterdeep]]'s nobles and the [[Wavesilver]] family crest connection, and reveals that [[Yagra]] was the one who sent the mysterious note signed "Y."
 - **S01E11:** Fel'Rekt attends the grand opening of the [[Short Rest]] alongside [[Jarlaxle|Zardos Zord]]. When the catastrophic fireball explosion rocks Trollskull Alley -- killing ten or more people and badly injuring [[Tagga]] -- Fel'Rekt is deeply affected. He stays behind to help clean up and guard the tavern, feeling profoundly guilty that he failed in his duty to protect SWOJ.
-- **S01E12:** Fel'Rekt returns to the Short Rest with [[Jarlaxle|Zardos Zord]]. He promises to defend the tavern while SWOJ investigates the [[Gralhund Villa]] to pursue the [[Stone of Golorr]].
-- **S01E16:** A carnival worker operating as Fel'Rekt's agent approaches SWOJ at the [[Sea Maiden's Fair]]. The agent gives [[Scoot Sparkles|Scoot]] a pistol and asks the party to search for [[Narl Xibrindas|Nar'l Xibrindas]], a Bregan D'Aerthe spy embedded within the [[Xanathar Guild]]'s lair.
+- **S01E12:** Fel'Rekt returns to the Short Rest with [[Jarlaxle|Zardos Zord]]. He promises to defend the tavern while SWOJ investigates the [[Gralhund Villa]] to pursue the [[The Stone of Golorr]].
+- **S01E16:** A carnival worker operating as Fel'Rekt's agent approaches SWOJ at the [[Sea Maiden's Faire]]. The agent gives [[Scoot Sparkles|Scoot]] a pistol and asks the party to search for [[Narl Xibrindas|Nar'l Xibrindas]], a Bregan D'Aerthe spy embedded within the [[Xanathar Guild]]'s lair.
 
 ### Season 2
 

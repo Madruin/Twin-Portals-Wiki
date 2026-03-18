@@ -14,7 +14,7 @@ tags:
 
 Blossom Zuber's missing son, now a wererat living with the Shard Shunners gang inside the God Catcher. Chose to become a wererat a couple weeks ago to join his 'real family.' Pays SWOJ 100gp and writes a farewell letter to his mother.
 
-**First appearance:** [[S01E08 - Episode Eight]]
+**First appearance:** [[S01E08 - Episode Eight|S01E08]]
 **Total appearances:** 1 episode
 
 ## Description

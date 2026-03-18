@@ -14,7 +14,7 @@ tags:
 
 **Grandfather Niklas** was the patriarch of the [[Gorge Baileybrew|Bailey Brew]] dwarven clan in [[Prehistoric Waterdeep]], encountered by [[SWOJ]] during the time-travel holiday adventure in [[S01E14 - Episode Fourteen|Episode Fourteen]]. He manifested as one of the [[Ghosts Of Solstice Past]] -- a snow dwarf spirit tied to a magical hat -- and was recognized by his descendant [[Gorge Baileybrew|Gorge]] during the Winter Solstice crisis. He posed riddles to the party and warned them about dangers in the region. Later, the vampire wizard [[Hans Von Gruber]] disguised himself as Grandfather Niklas inside [[Zaka's Tomey Tower|Zaka's Tome Tower]], using the grandfather's appearance to deceive the Bailey Brew family.
 
-**First appearance:** [[S01E14 - Episode Fourteen]]
+**First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
 ## Description

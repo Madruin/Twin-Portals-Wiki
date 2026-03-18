@@ -8,8 +8,8 @@ duration: "01:29:23"
 type: episode
 format: meta
 live: true
-prev: "[[S03E08 - S3E08 - DM Sessions]]"
-next: "[[S03E10 - S3E10 - Painting Minis and Making Plans]]"
+prev: "[[S03E08 - S3E08 - DM Sessions|S03E08]]"
+next: "[[S03E10 - S3E10 - Painting Minis and Making Plans|S03E10]]"
 tags:
   - twin-portals
   - season-3

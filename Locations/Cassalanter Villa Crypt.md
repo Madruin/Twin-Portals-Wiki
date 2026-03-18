@@ -13,7 +13,7 @@ tags:
 The underground crypt and shrine complex beneath [[Cassalanter Villa]], serving as the secret center of the [[Cult of Asmodeus]] operations run by [[Victoro Cassalanter|Victoro]] and [[Amalia Cassalanter|Amalia]]. This is where the Cassalanters attempted to sacrifice 99 souls and a million gold coins to pay their debt to the [[Asmodeus|Lord of the Nine Hells]], and where [[Xaerine Rumblestride|Xae]] signed her fateful contract to save the Cassalanter children.
 
 **Type:** dungeon
-**First appearance:** [[S01E24 - Episode Twenty Four]]
+**First appearance:** [[S01E24 - Episode Twenty Four|S01E24]]
 **Total appearances:** 2 episodes
 
 ## Description
@@ -22,8 +22,8 @@ Accessed through a spiral staircase beneath the [[Lower Vault (Cassalanter Villa
 
 ## Notable Events
 
-- **[[S01E24 - Episode Twenty Four]]:** [[SWOJ]] discovers the crypt after descending through the wine cellar, vault, and lower vault. They find the underground [[Shrine of Asmodeus (Cassalanter Villa)|shrine]] with its massive statue, fire bowl, and the third Eye of the [[Stone of Golorr]] resting on a pedestal within the flames. Three bearded devils in crimson robes guard the shrine. SWOJ fights and defeats the devils in a pitched battle, then struggles to retrieve the Eye from the fire bowl before [[Amalia Cassalanter|Amalia]] arrives and attacks them with a devastating fireball.
-- **[[S01E29 - Episode Twenty Nine]]:** The Season 1 finale opens in the crypt, where SWOJ has just interrupted the Cassalanters' demonic ritual. [[Xaerine Rumblestride|Xae]] signs a contract with [[Asmodeus]] to save the souls of [[Terenzio Cassalanter|Terenzio]] and [[Elzerina Cassalanter|Elzerina]], trading her own fate for theirs. The contract fizzles out of existence as the fiendish figure over the pile of gold fades away laughing. [[Mr. E]] pockets roughly 520 gold coins from the hoard. [[Malark Wavesilver|Lark]] strips the unconscious [[Victoro Cassalanter|Victoro]] of his Ring of Protection and Rod of Rulership. [[Jarlaxle Baenre|Jarlaxle]] then emerges from the bag of holding through connected twin portals with Bregan D'aerthe drow, and the city watch arrives to secure the scene.
+- **[[S01E24 - Episode Twenty Four|S01E24]]:** [[SWOJ]] discovers the crypt after descending through the wine cellar, vault, and lower vault. They find the underground [[Shrine of Asmodeus (Cassalanter Villa)|shrine]] with its massive statue, fire bowl, and the third Eye of the [[The Stone of Golorr]] resting on a pedestal within the flames. Three bearded devils in crimson robes guard the shrine. SWOJ fights and defeats the devils in a pitched battle, then struggles to retrieve the Eye from the fire bowl before [[Amalia Cassalanter|Amalia]] arrives and attacks them with a devastating fireball.
+- **[[S01E29 - Episode Twenty Nine|S01E29]]:** The Season 1 finale opens in the crypt, where SWOJ has just interrupted the Cassalanters' demonic ritual. [[Xaerine Rumblestride|Xae]] signs a contract with [[Asmodeus]] to save the souls of [[Terenzio Cassalanter|Terenzio]] and [[Elzerina Cassalanter|Elzerina]], trading her own fate for theirs. The contract fizzles out of existence as the fiendish figure over the pile of gold fades away laughing. [[Mr. E]] pockets roughly 520 gold coins from the hoard. [[Malark Wavesilver|Lark]] strips the unconscious [[Victoro Cassalanter|Victoro]] of his Ring of Protection and Rod of Rulership. [[Jarlaxle Baenre|Jarlaxle]] then emerges from the bag of holding through connected twin portals with Bregan D'aerthe drow, and the city watch arrives to secure the scene.
 
 ## Connected Characters
 

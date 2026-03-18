@@ -14,7 +14,7 @@ tags:
 
 A deceased priest whose skeleton is found at a campsite inside the abbey on Devil's Rock. Wears an ouroboros medallion, suggesting a connection to serpent or dragon cults.
 
-**First appearance:** [[S02E10 - Episode Forty (S02E10)]]
+**First appearance:** [[S02E10 - Episode Forty (S02E10)|S02E10]]
 **Total appearances:** 1 episode
 
 ## Description

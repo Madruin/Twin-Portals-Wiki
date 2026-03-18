@@ -1,11 +1,14 @@
 ---
-title: "Shadar-Kai"
+title: Shadar-Kai
 type: faction
 status: active
-aliases: ["Shadow Kai", "Shadow Elves"]
+aliases:
+- Shadow Kai
+- Shadow Elves
+- Shadar-kai
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Shadar-Kai

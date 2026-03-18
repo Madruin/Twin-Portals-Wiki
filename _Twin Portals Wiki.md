@@ -36,6 +36,8 @@ A searchable archive of all **78 episodes** of the [Twin Portals](https://twinpo
 - [[_Characters|Characters]] — PCs, NPCs, and guest characters
 - [[_Locations|Locations]] — Cities, districts, dungeons, and taverns
 - [[_Factions|Factions]] — Organizations, guilds, and groups
+- [[_Items|Items]] — Artifacts, weapons, and magical objects
+- [[_Lore|Lore]] — Story arcs and campaign history
 
 ## All Episodes
 

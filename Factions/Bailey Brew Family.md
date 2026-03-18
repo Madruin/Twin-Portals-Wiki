@@ -12,7 +12,7 @@ tags:
 
 The Bailey Brew Family is a dwarf family living in prehistoric [[Waterdeep]], encountered by [[Silver Waves Of Justice|SWOJ]] during the holiday special episode. The family -- father [[Gorge Bailey Brew]], and daughters [[Navi]] and [[Zuzu]] -- ran a homestead near [[Zedford Falls]] until the vampire wizard [[Hans Von Gruber]] seized [[Zaka's Tome Tower]] and captured Zuzu. SWOJ rescued the family and defeated Von Gruber through combat and an act of kindness involving the [[Fleece Of Navi-Dad]].
 
-**First appearance:** [[S01E14 - Episode Fourteen]]
+**First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
 ---

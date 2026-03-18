@@ -14,7 +14,7 @@ tags:
 
 Wizard and illusionist of the Hare Company. A former Waterdeep soldier who deserted with Jonas's unit after the defeat at Red Larch.
 
-**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)|S02E06]]
 **Total appearances:** 1 episode
 
 ## Description

@@ -1,13 +1,14 @@
 ---
-title: "Silver Waves of Justice"
+title: Silver Waves of Justice
 type: faction
 status: active
 aliases:
-  - "SWOJ"
+- SWOJ
+- Silver Waves of Justice
 tags:
-  - twin-portals
-  - faction
-  - party
+- twin-portals
+- faction
+- party
 ---
 
 # Silver Waves of Justice (SWOJ)

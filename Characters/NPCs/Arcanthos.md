@@ -14,7 +14,7 @@ tags:
 
 An ancient red dragon dwelling beneath the Neverwinter chasm. The stepping stones across the river of fire are his shed scales. He is impressed by SWOJ's courage and gives them one of his teeth, which functions as a dagger capable of casting burning hands.
 
-**First appearance:** [[S02E16 - Episode Forty Six LIVE (S02E16)]]
+**First appearance:** [[S02E16 - Episode Forty Six LIVE (S02E16)|S02E16]]
 **Total appearances:** 3 episodes
 
 ## Description

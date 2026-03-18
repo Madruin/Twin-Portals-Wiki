@@ -13,7 +13,7 @@ tags:
 The fourth-floor attic of [[Cassalanter Villa]], a dark and dusty space with a 10-foot ceiling and scattered old furniture. At its center lies a 24-foot diameter red chalk pentagram circle used to imprison [[Osvaldo Cassalanter]], the Cassalanters' eldest son transformed into a chain devil as a consequence of [[Victoro Cassalanter|Victoro]] and [[Amalia Cassalanter|Amalia]]'s deal with [[Asmodeus]].
 
 **Type:** room
-**First appearance:** [[S01E09 - Episode Nine]]
+**First appearance:** [[S01E09 - Episode Nine|S01E09]]
 **Total appearances:** 3 episodes
 
 ## Description
@@ -22,9 +22,9 @@ A large fourth-floor attic space with a 10-foot ceiling, cluttered with scattere
 
 ## Notable Events
 
-- **[[S01E09 - Episode Nine]]:** During the Cassalanter party, [[Zylka|Zilka]]'s cultist attack drives [[SWOJ]] up to the rooftop and into the attic, where they discover [[Osvaldo Cassalanter|Osvaldo]] -- a nine-foot-tall demonic chain-bound humanoid imprisoned within the pentagram circle. His chains animate with barbed spikes, he bleeds black ichor, and his aura suppresses healing magic. SWOJ fights Osvaldo alongside [[Zylka|Zilka]], and [[Malark Wavesilver|Lark]] repairs the damaged pentagram circle to re-seal him. [[Victoro Cassalanter|Victoro]] and [[Amalia Cassalanter|Amalia]] burst in to restrain their son.
-- **[[S01E10 - Episode Ten]]:** In the aftermath of the party, the Cassalanters discuss their guilt over Osvaldo's transformation, revealing it was a consequence of their deal with [[Asmodeus]]. Osvaldo remains bound in the attic pentagram.
-- **[[S01E29 - Episode Twenty Nine]]:** Following the events of the Season 1 finale, Osvaldo is noted as still being on record in the attic of the villa, haunting the space even after his parents' arrest and sentencing.
+- **[[S01E09 - Episode Nine|S01E09]]:** During the Cassalanter party, [[Zylka|Zilka]]'s cultist attack drives [[SWOJ]] up to the rooftop and into the attic, where they discover [[Osvaldo Cassalanter|Osvaldo]] -- a nine-foot-tall demonic chain-bound humanoid imprisoned within the pentagram circle. His chains animate with barbed spikes, he bleeds black ichor, and his aura suppresses healing magic. SWOJ fights Osvaldo alongside [[Zylka|Zilka]], and [[Malark Wavesilver|Lark]] repairs the damaged pentagram circle to re-seal him. [[Victoro Cassalanter|Victoro]] and [[Amalia Cassalanter|Amalia]] burst in to restrain their son.
+- **[[S01E10 - Episode Ten|S01E10]]:** In the aftermath of the party, the Cassalanters discuss their guilt over Osvaldo's transformation, revealing it was a consequence of their deal with [[Asmodeus]]. Osvaldo remains bound in the attic pentagram.
+- **[[S01E29 - Episode Twenty Nine|S01E29]]:** Following the events of the Season 1 finale, Osvaldo is noted as still being on record in the attic of the villa, haunting the space even after his parents' arrest and sentencing.
 
 ## Connected Characters
 

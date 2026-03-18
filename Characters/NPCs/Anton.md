@@ -15,7 +15,7 @@ tags:
 
 **Anton** is [[Grinda Garloth|Grinda Garloss]]'s mouse (or rat) familiar who lives on her shoulder at the [[Mist Shore]] lighthouse.
 
-**First appearance:** [[S01E06 - Episode Six]]
+**First appearance:** [[S01E06 - Episode Six|S01E06]]
 **Total appearances:** 2 episodes
 
 ## Description
@@ -24,8 +24,8 @@ Anton is a small rodent familiar -- described variously as a mouse and a rat -- 
 
 ## Role in the Story
 
-- **[[S01E06 - Episode Six]]:** When [[SWOJ]] arrives at Grinda's lighthouse to borrow the [[Apparatus of Kwalish]] for investigating the sunken [[Sea Plum]], Grinda calls out to Anton to pull the lever that opens the lighthouse's hidden floor mechanism. Anton appears on her shoulder, triggers the lever, and the floor opens to reveal the submersible docked below the waterline, allowing the party to use it for their underwater expedition into [[Deepwater Harbor]].
-- **[[S01E08 - Episode Eight]]:** After SWOJ returns the [[Apparatus of Kwalish]] to Grinda's lighthouse following their adventure inside the [[God Catcher]], Grinda instructs Anton to check the ship. The rat familiar appears on her shoulder and scurries inside the Apparatus to inspect it, confirming the submersible's condition after its eventful journey through the underwater tunnels and the God Catcher cavern.
+- **[[S01E06 - Episode Six|S01E06]]:** When [[SWOJ]] arrives at Grinda's lighthouse to borrow the [[Apparatus of Kwalish]] for investigating the sunken [[Sea Plum]], Grinda calls out to Anton to pull the lever that opens the lighthouse's hidden floor mechanism. Anton appears on her shoulder, triggers the lever, and the floor opens to reveal the submersible docked below the waterline, allowing the party to use it for their underwater expedition into [[Deepwater Harbor]].
+- **[[S01E08 - Episode Eight|S01E08]]:** After SWOJ returns the [[Apparatus of Kwalish]] to Grinda's lighthouse following their adventure inside the [[God Catcher]], Grinda instructs Anton to check the ship. The rat familiar appears on her shoulder and scurries inside the Apparatus to inspect it, confirming the submersible's condition after its eventful journey through the underwater tunnels and the God Catcher cavern.
 
 ## Relationships
 

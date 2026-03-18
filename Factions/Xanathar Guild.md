@@ -12,9 +12,9 @@ tags:
 
 A powerful criminal organization operating from the sewers and underground tunnels beneath Waterdeep. Led by [[The Xanathar]] — a paranoid beholder — the guild is one of the two major criminal factions (alongside the [[Zhentarim]]) whose escalating gang war threatens the city throughout Season 1. The guild's operations include kidnapping civilians, breeding [[intellect devourers]] via a mind flayer's spawning pool, running gladiatorial death matches, and controlling the subterranean fortress of Skullport. Unbeknownst to most, the Xanathar itself was secretly being controlled by the mind flayer [[Nihiloor]], who was the true power behind the guild.
 
-**First appearance:** [[S01E01 - Episode One]]
+**First appearance:** [[S01E01 - Episode One|S01E01]]
 **Total appearances:** 11 episodes
-**Status:** Defeated — The Xanathar was killed by SWOJ in [[S01E26 - Episode Twenty Six]], and Nihiloor was defeated in [[S01E17 - Episode Seventeen]]. The lair was destroyed by smoke powder explosions.
+**Status:** Defeated — The Xanathar was killed by SWOJ in [[S01E26 - Episode Twenty Six|S01E26]], and Nihiloor was defeated in [[S01E17 - Episode Seventeen|S01E17]]. The lair was destroyed by smoke powder explosions.
 
 ## Overview
 
@@ -26,7 +26,7 @@ The guild's true power, however, lay with [[Nihiloor]] — a mind flayer operati
 
 The guild's operations are wide-ranging: kidnapping surface dwellers, deploying grell and intellect devourers as enforcers, running the Arena of Blood and Fortune for gladiatorial entertainment, and controlling Skullport — a hive of criminal activity deep beneath the city. Their territory in the sewers is marked with the Xanathar's symbol: a circle with ten radiating spokes, and yellow signs direct agents through the tunnels to the lair.
 
-The guild's conflict with the [[Zhentarim]] escalated dramatically when the [[Stone of Golorr]] — a sentient artifact key to locating Lord [[Lord Dagult Neverember|Dagult Neverember]]'s hidden gold hoard — was stolen from the guild's possession by [[Dalekar|Dalcar]], a gnome spy. This theft triggered a cascading power struggle involving multiple factions across Waterdeep.
+The guild's conflict with the [[Zhentarim]] escalated dramatically when the [[The Stone of Golorr]] — a sentient artifact key to locating Lord [[Lord Dagult Neverember|Dagult Neverember]]'s hidden gold hoard — was stolen from the guild's possession by [[Dalekar|Dalcar]], a gnome spy. This theft triggered a cascading power struggle involving multiple factions across Waterdeep.
 
 ## Known Members
 
@@ -39,7 +39,7 @@ The guild's conflict with the [[Zhentarim]] escalated dramatically when the [[St
 - [[Thorvin Twinbeard]] — Dwarf chief engineer. Maintains a workshop in the lair where he builds machines, including a crushing device for Skullport. Secretly a [[Harpers]] informant who provided intelligence about the Eye of the Stone hidden in [[Sylgar]]'s tank.
 
 ### Guild Personnel
-- [[Ott Steeltoes]] — Dwarf fish keeper who tends to [[Sylgar]] the goldfish in the Xanathar's private sanctum. Compelled by [[Thaelin]]'s Suggestion spell to retrieve the Eye of the [[Stone of Golorr]] from a locked chest.
+- [[Ott Steeltoes]] — Dwarf fish keeper who tends to [[Sylgar]] the goldfish in the Xanathar's private sanctum. Compelled by [[Thaelin]]'s Suggestion spell to retrieve the Eye of the [[The Stone of Golorr]] from a locked chest.
 - [[Flutterfoot Zipswiggle]] — Gnome jester enslaved by the Xanathar as an entertainer. Wears a jester hat with golden eyes. Gave SWOJ dust of disappearance and warned them of the lair's dangers. Found dead after the lair collapse — his brain eaten by Nihiloor ([[S01E17 - Episode Seventeen|S01E17]]).
 - [[Pinker]] — Kenku agent who wore a distinctive pink hat and bore the Xanathar symbol tattooed on his hand. Captured and released by SWOJ ([[S01E02 - Episode Two|S01E02]]). Later defected and rescued [[Tagga]] from the guild's retaliation ([[S01E05 - Episode Five|S01E05]]). Imprisoned again in the arena cells but freed by [[Scoot Sparkles|Scoot]] ([[S01E17 - Episode Seventeen|S01E17]]).
 - Zemk — Duergar (gray dwarf) operative stationed in the sewers. Ash-white skin, white hair, red eyes. Could magically enlarge himself. Fought SWOJ with a greataxe and shield, refusing to surrender ([[S01E02 - Episode Two|S01E02]]).
@@ -60,7 +60,7 @@ The guild's conflict with the [[Zhentarim]] escalated dramatically when the [[St
 - **S01E04:** SWOJ discovers Xanathar Guild symbols carved into the sewer walls beneath the Dock Ward while investigating missing persons at the [[Spouting Fish]]. Three grell — floating brain-like creatures deployed by the guild — are fought and defeated. Approximately fifteen kidnapped civilians are rescued.
 - **S01E05:** The guild retaliates against SWOJ by ransacking [[Tagga]]'s apartment (Scoot's mother), leaving crow feathers as a calling card. However, [[Pinker]] — the kenku SWOJ previously released — has defected and rescues Tagga before the guild agents can harm her, hiding her in the Honorable Knight statue tenements.
 - **S01E07:** The guild is mentioned as a growing threat by [[Alcoria Stonemarrow]], who warns about the connection between the guild, intellect devourers, and mind flayers.
-- **S01E11:** [[Jarlaxle]] (as Zardos Zord) identifies [[Nihiloor]] by name as the guild's mind flayer, responsible for creating intellect devourers. He reveals that the [[Stone of Golorr]] was stolen from the guild's possession, triggering the escalating street violence between the Xanathar Guild and [[Zhentarim]].
+- **S01E11:** [[Jarlaxle]] (as Zardos Zord) identifies [[Nihiloor]] by name as the guild's mind flayer, responsible for creating intellect devourers. He reveals that the [[The Stone of Golorr]] was stolen from the guild's possession, triggering the escalating street violence between the Xanathar Guild and [[Zhentarim]].
 - **S01E12:** SWOJ traces the Stone of Golorr's chain of possession: it was held by the Xanathar Guild, stolen by [[Dalekar|Dalcar]] (a gnome spy working for [[Lord Dagult Neverember]]), taken by a Zhentarim agent after the fireball explosion at Trollskull Alley, and brought to [[Gralhund Villa]] where [[Yala Gralhund]] now keeps it.
 - **S01E15:** Intellect devourers — Xanathar creations planted as sleeper agents inside kidnapped civilians — attack the courthouse during SWOJ's trial, bursting out of spectators including [[Harold]]. A grell crashes through the courthouse window. [[Laeral Silverhand]] crushes the grell with telekinetic power, frees SWOJ, and provides extensive intelligence about the guild: the Xanathar's paranoid personality, the lair's location beneath the Castle Ward, the spawning pool, key personnel ([[Thorvin Twinbeard]], [[Xibrinidas|Nar'l Xibrindas]]), and the Eye of the Stone hidden in [[Sylgar]]'s fish tank. She commissions SWOJ to infiltrate the lair.
 - **S01E16:** SWOJ infiltrates the Xanathar's lair with [[Remallia Haventree]] guiding them through the sewers and [[Thaelin]] (a former guild employee) navigating the interior. They encounter [[Flutterfoot Zipswiggle]] the enslaved gnome jester, pass through [[Thorvin Twinbeard|Thorvin]]'s workshop, and reach the private sanctum where [[Ott Steeltoes]] tends to [[Sylgar]]. Thaelin uses Suggestion to have Ott retrieve the Eye. [[The Xanathar]] arrives and attacks — firing a death ray at Thaelin (49 necrotic damage), a paralysis ray at Ylka, and a fear ray at Lark. SWOJ is captured and sent to the Arena of Blood and Fortune.

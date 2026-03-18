@@ -62,7 +62,7 @@ The Order maintains a registry of all known magic users in Waterdeep. When SWOJ 
 - **[[S01E07]]:** [[Alcoria Stonemarrow]] visits [[Trollskull Manor]] with her shield guardian [[Winston]]. Carves a glyph of warding on the front door. Registers [[Xaerine Rumblestride|Xae]] and [[Ylka Gralhund|Ylka]] as magic users. Discusses threats: doppelgangers, intellect devourers, mind flayers, and the [[Xanathar Guild]].
 - **[[S01E11]]:** Alcoria arrives as the magistrate investigating the fireball explosion at Trollskull Alley. Takes depositions from witnesses and SWOJ. Cold and stern but cooperative.
 - **[[S02E05]]:** [[Grinda Garloff]] visits the Short Rest to discuss portal instability across the Sword Coast and offers to establish a teleportation circle.
-- **[[S02E38 - God's Night|S02E38]]:** Alcoria has completed the teleportation circle in the basement of Trollskull Manor during SWOJ's absence.
+- **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** Alcoria has completed the teleportation circle in the basement of Trollskull Manor during SWOJ's absence.
 
 ## Episode Appearances
 

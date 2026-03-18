@@ -14,7 +14,7 @@ tags:
 
 A mute half-elven orphan who grew from a fearless street urchin into a griffin rider. Leader of the [[Trollskull Alley Irregulars]] and one of [[SWOJ]]'s most loyal allies.
 
-**First appearance:** [[S01E05 - Episode Five]]
+**First appearance:** [[S01E05 - Episode Five|S01E05]]
 **Total appearances:** 7 episodes
 **Faction affiliations:** [[Trollskull Alley Irregulars]], [[Griffin Riders of Waterdeep]]
 

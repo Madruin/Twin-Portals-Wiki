@@ -2,7 +2,8 @@
 title: "The Breathless Elder"
 type: location
 subtype: ""
-aliases: []
+aliases:
+  - "Breathless Elder"
 tags:
   - twin-portals
   - location

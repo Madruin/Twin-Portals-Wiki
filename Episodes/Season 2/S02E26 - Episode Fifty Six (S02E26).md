@@ -8,8 +8,8 @@ duration: "01:31:37"
 type: episode
 format: gameplay
 live: false
-prev: "[[S02E25 - Episode Fifty Five LIVE (S02E25)]]"
-next: "[[S02E27 - Episode Fifty Seven (S02E27)]]"
+prev: "[[S02E25 - Episode Fifty Five LIVE (S02E25)|S02E25]]"
+next: "[[S02E27 - Episode Fifty Seven (S02E27)|S02E27]]"
 tags:
   - twin-portals
   - season-2

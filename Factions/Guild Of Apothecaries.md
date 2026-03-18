@@ -1,13 +1,14 @@
 ---
-title: "Guild Of Apothecaries"
+title: Guild Of Apothecaries
 type: faction
 status: active
-aliases: []
+aliases:
+- Guild of Apothecaries
 tags:
-  - twin-portals
-  - faction
-  - waterdeep
-  - guild
+- twin-portals
+- faction
+- waterdeep
+- guild
 ---
 
 # Guild Of Apothecaries

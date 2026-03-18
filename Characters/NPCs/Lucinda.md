@@ -14,7 +14,7 @@ tags:
 
 **Lucinda** is a winged and horned tiefling or demon who frequents the [[Dark Market]] in the [[Shadowfell (Deep)|Shadowfell]], and one third of an inseparable trio alongside [[Mikael]] and [[Santorini]]. The three are gregarious social operators who single out newcomers, befriend them immediately, and steer them toward local establishments like [[The Nest]]. Though their exact motives remain unclear, they appear genuinely friendly rather than malicious -- the angel [[Ryloren|Rylerin]] describes them as having "been here for a long time" and considers them "okay," while cautioning visitors not to get too comfortable with them.
 
-**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)|S02E21]]
 **Total appearances:** 1 episode
 
 ## Description

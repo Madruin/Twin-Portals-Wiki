@@ -17,7 +17,7 @@ tags:
 
 **Broxley Fairkettle** is a representative of the [[Fellowship of Innkeepers]] in [[Waterdeep]]. He visits [[Trollskull Manor]] as one of several guild representatives to discuss tavern licensing requirements with [[SWOJ]] as they prepare to reopen the manor as a functioning tavern.
 
-**First appearance:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Fellowship of Innkeepers]]
 

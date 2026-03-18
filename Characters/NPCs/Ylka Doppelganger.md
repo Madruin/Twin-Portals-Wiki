@@ -14,7 +14,7 @@ tags:
 
 A mysterious woman who looks exactly like Ylka, found performing a blood ritual on the palm of the God Catcher. Fights the party and escapes by leaping off the hand.
 
-**First appearance:** [[S01E06 - Episode Six]]
+**First appearance:** [[S01E06 - Episode Six|S01E06]]
 **Total appearances:** 2 episodes
 
 ## Description

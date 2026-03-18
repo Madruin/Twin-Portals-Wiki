@@ -12,7 +12,7 @@ tags:
 
 Blackstaff Tower is the wizards' guild and tower in [[Waterdeep]], a longstanding institution of arcane power on the [[Sword Coast]]. In the Twin Portals campaign, the tower is referenced as both a location and an organization that SWOJ's allies sought to recruit for the war effort against [[Manshoon]]'s forces.
 
-**First appearance:** [[S01E15 - Episode Fifteen]]
+**First appearance:** [[S01E15 - Episode Fifteen|S01E15]]
 **Total appearances:** 2 episodes (S01E15, S02E31)
 
 ---

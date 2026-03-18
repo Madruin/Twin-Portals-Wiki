@@ -14,7 +14,7 @@ tags:
 
 **Green Imsa** was a patron of [[The Way Inn]] in the borderlands between the [[Feywild]] and [[The Shadowfell]]. She was one of several people replicated by [[podlings]] -- plant-based creatures made of a grayish, tofu-like spongy substance -- when [[SWOJ]] entered the [[Shadow Way Inn]], a dark mirror of the real inn located in the Shadowfell. The real Green Imsa was later found deceased inside a pod on the [[Beast Of Erua]], the colossal creature used by the [[Strigoi]] to harvest wish stones and imprison people.
 
-**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)]]
+**First appearance:** [[S02E02 - Episode Thirty Two (S02E02)|S02E02]]
 **Total appearances:** 1 episode
 
 ## Description

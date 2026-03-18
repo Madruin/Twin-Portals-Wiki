@@ -13,7 +13,7 @@ tags:
 **Skull Rock Dungeon** is an underground dungeon that [[SWOJ]] previously explored during Season 1, memorable for its deadly traps. The party was involuntarily returned to a version of this location during the Season 2 finale when the [[Planar Console]] was damaged.
 
 **Type:** Dungeon
-**First appearance:** Referenced in [[S02E37 - Episode Sixty Seven LIVE|Episode 67]]
+**First appearance:** Referenced in [[S02E37 - Episode Sixty Seven LIVE (S02E37)|Episode 67]]
 **Total appearances:** 1 episode (referenced)
 
 ## Description
@@ -22,7 +22,7 @@ Skull Rock Dungeon features stone brick walls, dimly lit corridors, and a gauntl
 
 ## Notable Events
 
-- **Console Malfunction Return** ([[S02E37 - Episode Sixty Seven LIVE|Episode 67]]): During the live episode, the party was battling frog-like creatures when one of them smashed the [[Planar Console]], causing reality to twist and warp the party into the Skull Rock Dungeon hallway. The party recognized it immediately, with [[Scoot Sparkles|Scoot]] recalling it as the place where [[Lark]] fell into every single trap. [[Ylka]] used Dimension Door to teleport herself and [[Xae|Zay]] past the traps to reach the console, while Lark used his extendable weapon to probe forward, triggering pressure plates and spinning saw blades. Scoot noticed a mechanism on one of the torch sconces and pulled it, unleashing a torrent of flaming oil down the corridor -- which Lark dodged but which caught the pursuing frog creatures, scourging them with fire and saw blades as they barreled through.
+- **Console Malfunction Return** ([[S02E37 - Episode Sixty Seven LIVE (S02E37)|Episode 67]]): During the live episode, the party was battling frog-like creatures when one of them smashed the [[Planar Console]], causing reality to twist and warp the party into the Skull Rock Dungeon hallway. The party recognized it immediately, with [[Scoot Sparkles|Scoot]] recalling it as the place where [[Lark]] fell into every single trap. [[Ylka]] used Dimension Door to teleport herself and [[Xae|Zay]] past the traps to reach the console, while Lark used his extendable weapon to probe forward, triggering pressure plates and spinning saw blades. Scoot noticed a mechanism on one of the torch sconces and pulled it, unleashing a torrent of flaming oil down the corridor -- which Lark dodged but which caught the pursuing frog creatures, scourging them with fire and saw blades as they barreled through.
 
 ## Connected Characters
 

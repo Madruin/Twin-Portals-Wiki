@@ -14,7 +14,7 @@ tags:
 
 A Jolly Gents sentry partnered with Rambling Bill on chain guard duty. More suspicious than Bill but ultimately lets SWOJ pass. Described as tall and stern.
 
-**First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)]]
+**First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]
 **Total appearances:** 1 episode
 
 ## Description

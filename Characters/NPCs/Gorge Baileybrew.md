@@ -14,7 +14,7 @@ tags:
 
 Dwarf father in prehistoric Waterdeep. His daughter Zuzu has been taken by Hans Von Gruber to Zaka's Tome Tower. Runs a family homestead near Zedford Falls. Eventually helps deliver toys via magical sleigh.
 
-**First appearance:** [[S01E14 - Episode Fourteen]]
+**First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
 ## Description

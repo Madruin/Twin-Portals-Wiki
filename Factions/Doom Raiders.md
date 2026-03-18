@@ -13,7 +13,7 @@ tags:
 
 The Doom Raiders are a moderate subfaction within the [[Zhentarim|Zhentarim (Black Network)]], led by the half-elf [[Davil Starsong]]. Operating as both an adventuring band and a political faction, the Doom Raiders opposed [[Manshoon]]'s extremist leadership of the Zhentarim and eventually allied with [[Scoot Sparkles|SWOJ]] to resist the Necromancer's grip on the organization. After Manshoon's destruction in S02E36, the Doom Raiders filled the resulting power vacuum and became the new Zhentarim leadership in Waterdeep.
 
-**First appearance:** [[S01E11 - Episode Eleven]]
+**First appearance:** [[S01E11 - Episode Eleven|S01E11]]
 **Total appearances:** 8+ episodes across both seasons
 **Affiliated with:** [[Zhentarim]]
 
@@ -41,7 +41,7 @@ Their aesthetic is described as "adventurers" -- they dress the part rather than
 
 ### Notes on Members
 
-- **Davil Starsong** is the face of the organization. [[Bonnie]], the doppelganger bartender at the [[Yawning Portal]], telepathically confirmed he was searching for the [[Stone of Golorr]] when SWOJ first encountered him. He later explained the Zhentarim's internal power struggle directly to SWOJ and requested their financial backing.
+- **Davil Starsong** is the face of the organization. [[Bonnie]], the doppelganger bartender at the [[Yawning Portal]], telepathically confirmed he was searching for the [[The Stone of Golorr]] when SWOJ first encountered him. He later explained the Zhentarim's internal power struggle directly to SWOJ and requested their financial backing.
 - **Yagra** first appeared in S01E01, brawling with tattooed thugs at the Yawning Portal. She sent the mysterious "Y" note to SWOJ in S01E07, connecting them to the Zhentarim's moderate wing. She is described as sober and serious compared to the other bandmates.
 - **Ziraj** served as Davil's crew member and was offered by Davil alongside Skeemo when negotiating the 5,000gp deal. He later guided SWOJ north from Waterdeep to Amphail in S02E05-S02E06.
 - **Skeemo** operates the **Doom Network**, the Doom Raiders' job-assignment operation in Waterdeep. At the Doom Network headquarters, Skeemo assigned SWOJ the quest to find the missing noblewoman [[Anya Irmbrusk]] (the Staglass) in Amphail.
@@ -55,7 +55,7 @@ The relationship between the Doom Raiders and SWOJ is one of the campaign's most
 
 ### First Contact (S01E11)
 
-SWOJ first encountered Davil Starsong at the [[Yawning Portal]] during their investigation of the [[Stone of Golorr]]. Davil introduced himself and his band, boasting about the Doom Raiders' reputation across the Sword Coast. Bonnie's telepathic read confirmed he was also searching for the Stone. Davil attended the grand opening of The Short Rest tavern but fled when a griffin cavalry rider appeared overhead -- a sign of his faction's precarious position within the Zhentarim power structure.
+SWOJ first encountered Davil Starsong at the [[Yawning Portal]] during their investigation of the [[The Stone of Golorr]]. Davil introduced himself and his band, boasting about the Doom Raiders' reputation across the Sword Coast. Bonnie's telepathic read confirmed he was also searching for the Stone. Davil attended the grand opening of The Short Rest tavern but fled when a griffin cavalry rider appeared overhead -- a sign of his faction's precarious position within the Zhentarim power structure.
 
 ### The Cassalanter Feast Infiltration (S01E27)
 

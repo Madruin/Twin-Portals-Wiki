@@ -1,14 +1,15 @@
 ---
-title: "Way Of The Balanced Scale"
+title: Way Of The Balanced Scale
 type: faction
 status: active
 aliases:
-  - "Way Of The Balanced Scales"
-  - "Balanced Scale"
-  - "Balanced Scales"
+- Way Of The Balanced Scales
+- Balanced Scale
+- Balanced Scales
+- Way of the Balanced Scale
 tags:
-  - twin-portals
-  - faction
+- twin-portals
+- faction
 ---
 
 # Way Of The Balanced Scale

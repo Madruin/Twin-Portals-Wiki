@@ -14,7 +14,7 @@ tags:
 
 Lord of the Gralhund household. Plump, richly dressed nobleman. Cornered in a guest room by the Zhentarim leader. Throat slashed by the Zhentarim agent but stabilized by Ylka's medicine. Yala seems disappointed he survived.
 
-**First appearance:** [[S01E12 - Episode Twelve]]
+**First appearance:** [[S01E12 - Episode Twelve|S01E12]]
 **Total appearances:** 2 episodes
 **Faction affiliations:** [[Zhentarim]]
 

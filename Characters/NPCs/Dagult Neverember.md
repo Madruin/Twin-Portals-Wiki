@@ -14,7 +14,7 @@ tags:
 
 Former Open Lord of Waterdeep, originally from Neverwinter. Had conservative spending policies and drove the city into the ground with disruptive tariffs. Deposed and replaced by Laeral Silverhand. Father of Renaer Neverember.
 
-**First appearance:** [[S01E01 - Episode One]]
+**First appearance:** [[S01E01 - Episode One|S01E01]]
 **Total appearances:** 12 episodes
 
 ## Description

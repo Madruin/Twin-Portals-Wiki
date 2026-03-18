@@ -9,7 +9,7 @@ type: episode
 format: gameplay
 live: false
 prev: ""
-next: "[[S01E02 - Episode Two]]"
+next: "[[S01E02 - Episode Two|S01E02]]"
 tags:
   - twin-portals
   - season-1

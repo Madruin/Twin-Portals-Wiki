@@ -14,7 +14,7 @@ tags:
 
 Dwarf chief engineer of the Xanathar Guild. Secret Harper informant who provided intelligence about the eye in Sylgar's tank.
 
-**First appearance:** [[S01E15 - Episode Fifteen]]
+**First appearance:** [[S01E15 - Episode Fifteen|S01E15]]
 **Total appearances:** 2 episodes
 **Faction affiliations:** [[Harpers]]
 

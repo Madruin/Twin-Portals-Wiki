@@ -14,7 +14,7 @@ tags:
 
 One of the Trollskull Trio (street urchins). Found with Urstul Floxin near the tower. Reveals he pickpocketed the second Eye of the Stone of Golorr from Urstul. Rejoins SWOJ.
 
-**First appearance:** [[S01E23 - Episode Twenty Three]]
+**First appearance:** [[S01E23 - Episode Twenty Three|S01E23]]
 **Total appearances:** 2 episodes
 
 ## Description

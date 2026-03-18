@@ -4,6 +4,7 @@ type: character
 subtype: npc
 status: deceased
 aliases:
+  - "Vaniol"
   - "Voniel"
   - "Bonneul"
 tags:
@@ -44,7 +45,7 @@ Vaniel attends the grand opening of [[Trollskull Manor  The Short Rest|The Short
 
 Shortly after, a catastrophic **fireball explosion** rocks Trollskull Alley, killing ten or more people. Vaniel is among the dead. In the aftermath, SWOJ recognizes his body among the fallen, along with broken violins nearby. The transcript captures the moment: "You recognize Bonneul. And the other three you don't recognize." [[Xaerine Rumblestride|Xae]] tells [[Malark Wavesilver|Lark]], "Don't look."
 
-Vaniel's death is one of the personal costs of the fireball -- transforming what should have been a celebration into a crime scene that launches the [[Stone of Golorr]] investigation arc. His death makes the attack feel immediate and personal to SWOJ, as he was not a stranger but a friend from the neighborhood.
+Vaniel's death is one of the personal costs of the fireball -- transforming what should have been a celebration into a crime scene that launches the [[The Stone of Golorr]] investigation arc. His death makes the attack feel immediate and personal to SWOJ, as he was not a stranger but a friend from the neighborhood.
 
 ---
 

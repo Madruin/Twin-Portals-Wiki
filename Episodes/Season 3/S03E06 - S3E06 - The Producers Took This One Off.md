@@ -8,8 +8,8 @@ duration: "01:25:01"
 type: episode
 format: meta
 live: false
-prev: "[[S03E05 - S3E05 - LIVE at Studio 4]]"
-next: "[[S03E07 - S3E07 - Femmes, Thems, and Searching for Gems]]"
+prev: "[[S03E05 - S3E05 - LIVE at Studio 4|S03E05]]"
+next: "[[S03E07 - S3E07 - Femmes, Thems, and Searching for Gems|S03E07]]"
 tags:
   - twin-portals
   - season-3

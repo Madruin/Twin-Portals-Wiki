@@ -1,11 +1,12 @@
 ---
-title: "Dynamo Of Possibility"
+title: Dynamo Of Possibility
 type: location
-subtype: ""
-aliases: []
+subtype: ''
+aliases:
+- Dynamo of Possibility
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Dynamo Of Possibility

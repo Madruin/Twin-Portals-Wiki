@@ -1,11 +1,12 @@
 ---
-title: "Arena Of Blood And Fortune"
+title: Arena Of Blood And Fortune
 type: location
-subtype: ""
-aliases: []
+subtype: ''
+aliases:
+- Arena of Blood and Fortune
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Arena Of Blood And Fortune

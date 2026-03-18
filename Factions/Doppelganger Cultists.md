@@ -12,7 +12,7 @@ tags:
 
 The Doppelganger Cultists are a group of masked attackers led by [[Zilka]] who violently crashed the [[Cassalanter Family|Cassalanter]] party in Season 1. Wearing golden grinning masks and red leather armor and robes, the cultists swung through the ballroom windows, attacked nobles, painted blood patterns on the walls, and performed occult rituals. Their assault marked a dramatic escalation in the Waterdeep power struggles and introduced Zilka -- [[Ylka Gralhund|Ylka]]'s doppelganger double -- as a recurring figure in the campaign.
 
-**First appearance:** [[S01E09 - Episode Nine]]
+**First appearance:** [[S01E09 - Episode Nine|S01E09]]
 **Total appearances:** 1 episode
 
 ---

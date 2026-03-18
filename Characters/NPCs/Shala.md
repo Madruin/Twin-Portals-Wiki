@@ -14,7 +14,7 @@ tags:
 
 Leader of the Circle of Dusk druids. Lived in the Cryptwood for a long time and knew all about the forest. Has gone missing along with the rest of the circle.
 
-**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)|S02E06]]
 **Total appearances:** 3 episodes
 **Faction affiliations:** [[Circle Of Dusk]]
 

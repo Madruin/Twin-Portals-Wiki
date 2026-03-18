@@ -8,8 +8,8 @@ duration: "38:58"
 type: episode
 format: meta
 live: true
-prev: "[[S03E03 - S3E03 - Parenthood, ft. Beth and Justin]]"
-next: "[[S03E05 - S3E05 - LIVE at Studio 4]]"
+prev: "[[S03E03 - S3E03 - Parenthood, ft. Beth and Justin|S03E03]]"
+next: "[[S03E05 - S3E05 - LIVE at Studio 4|S03E05]]"
 tags:
   - twin-portals
   - season-3

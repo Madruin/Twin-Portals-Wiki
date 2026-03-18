@@ -1,11 +1,12 @@
 ---
-title: "Sepulchre Of The Raven Queen"
+title: Sepulchre Of The Raven Queen
 type: location
-subtype: "temple"
-aliases: []
+subtype: temple
+aliases:
+- Sepulchre of the Raven Queen
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Sepulchre Of The Raven Queen

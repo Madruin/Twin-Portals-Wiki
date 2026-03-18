@@ -14,7 +14,7 @@ tags:
 
 **Mortimer Quill** is a skeletal clerk who serves as [[Jergal]]'s bureaucratic representative in the [[Trial Of Jergal]], deep within [[The Shrouded Citadel]]. Immaculately dressed despite his undead nature, he presides over an afterlife courtroom where the fates of recently deceased souls are adjudicated. Dry, officious, and thoroughly procedural, Mortimer runs his court with the weary patience of an overworked civil servant who has been processing the dead for far too long.
 
-**First appearance:** [[S02E29 - Episode Fifty Nine LIVE (S02E29)]]
+**First appearance:** [[S02E29 - Episode Fifty Nine LIVE (S02E29)|S02E29]]
 **Total appearances:** 1 episode
 
 ## Description

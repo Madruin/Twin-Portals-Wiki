@@ -14,7 +14,7 @@ tags:
 
 A silver dragon from the Way of the Balanced Scales flight. One of the dragons SWOJ rides to Amphail. Helps carry the party back to Neverwinter with the crystals.
 
-**First appearance:** [[S02E19 - Episode Forty Nine (S02E19)]]
+**First appearance:** [[S02E19 - Episode Forty Nine (S02E19)|S02E19]]
 **Total appearances:** 5 episodes
 
 ## Description

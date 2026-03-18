@@ -1,11 +1,12 @@
 ---
-title: "Fields Of Glory"
+title: Fields Of Glory
 type: location
-subtype: "landmark"
-aliases: []
+subtype: landmark
+aliases:
+- Fields of Glory
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Fields Of Glory

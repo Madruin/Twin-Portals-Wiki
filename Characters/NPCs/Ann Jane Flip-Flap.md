@@ -95,14 +95,14 @@ At the God's Night celebration in [[Waterdeep]], Ann Jane and [[Antediluvian Jak
 
 | Episode | Event |
 |---------|-------|
-| **[[S02E01 - Episode Thirty One (S02E01)\|S02E01]]** | Travels with SWOJ through the Feywild alongside Jake and Lyrian. Scouts the rear, provides survival guidance. Helps lock the door at the Shadow Way Inn. |
-| **[[S02E02 - Episode Thirty Two (S02E02)\|S02E02]]** | Captured and replaced by a podling outside the Shadow Way Inn. The podling guards the door while the real Ann Jane is taken prisoner. |
-| **[[S02E03 - Episode Thirty Three (S02E03)\|S02E03]]** | Rescued from a glowing pod inside the Beast of Erua. Checks on freed prisoners after liberation. |
-| **[[S02E04 - Episode Thirty Four (S02E04)\|S02E04]]** | Her podling double is spotted in the Shadowfell forest, mechanically setting tripwire and net traps among the trees. |
-| **[[S02E05 - Episode Thirty Five (S02E05)\|S02E05]]** | Coordinates healing of rescued prisoners. Cares for Dorvina. Tells Crooks to let SWOJ rest. Present for the teleportation to Waterdeep. |
-| **[[S02E22 - Episode Fifty Two LIVE (S02E22)\|S02E22]]** | Leads sparring exercises in the Bailey of Zentil Keep. Passes intelligence to Lark during a Bridge of Destiny staff match. Covers SWOJ's movement into the keep. |
-| **[[S02E24 - Episode Fifty Four (S02E24)\|S02E24]]** | Stands beside Crooks during his address. Exchanges glances with Little Joan. Sides with SWOJ when civil war erupts (~20-30 Gents defect). |
-| **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)\|S02E38]]** | Performs Mordecai Gralhund's soul-binding ritual on the rooftop during God's Night, binding her soul to a knife. Transitions from undead to half-life state alongside Jake. |
+| **[[S02E01 - Episode Thirty One (S02E01)|S02E01]]** | Travels with SWOJ through the Feywild alongside Jake and Lyrian. Scouts the rear, provides survival guidance. Helps lock the door at the Shadow Way Inn. |
+| **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]** | Captured and replaced by a podling outside the Shadow Way Inn. The podling guards the door while the real Ann Jane is taken prisoner. |
+| **[[S02E03 - Episode Thirty Three (S02E03)|S02E03]]** | Rescued from a glowing pod inside the Beast of Erua. Checks on freed prisoners after liberation. |
+| **[[S02E04 - Episode Thirty Four (S02E04)|S02E04]]** | Her podling double is spotted in the Shadowfell forest, mechanically setting tripwire and net traps among the trees. |
+| **[[S02E05 - Episode Thirty Five (S02E05)|S02E05]]** | Coordinates healing of rescued prisoners. Cares for Dorvina. Tells Crooks to let SWOJ rest. Present for the teleportation to Waterdeep. |
+| **[[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]** | Leads sparring exercises in the Bailey of Zentil Keep. Passes intelligence to Lark during a Bridge of Destiny staff match. Covers SWOJ's movement into the keep. |
+| **[[S02E24 - Episode Fifty Four (S02E24)|S02E24]]** | Stands beside Crooks during his address. Exchanges glances with Little Joan. Sides with SWOJ when civil war erupts (~20-30 Gents defect). |
+| **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]** | Performs Mordecai Gralhund's soul-binding ritual on the rooftop during God's Night, binding her soul to a knife. Transitions from undead to half-life state alongside Jake. |
 
 ```dataview
 TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"

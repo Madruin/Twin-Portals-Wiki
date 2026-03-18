@@ -21,7 +21,7 @@ tags:
 
 Lord Dagult Neverember is the former Open Lord of [[Waterdeep]] and the Lord Protector of [[Neverwinter]] -- a powerful, morally ambiguous political figure whose shadow looms over both seasons of the campaign. In Season 1, he is an unseen presence: the deposed ruler whose embezzled gold hoard drives the entire Stone of Golorr plotline, the father from whom [[Renaer Neverember|Renaer]] is estranged, and the man who sent spies to track his own son. In Season 2, he finally appears in person as the ruler of Neverwinter, where he has rebuilt the city after Mount Hotenow's eruption and sealed the demonic rift in the chasm. He arrests SWOJ, interrogates them, hires them to retrieve the [[Crown of Neverwinter]], and ultimately cooperates with his estranged son Renaer to seal the chasm and save the city. Dagult is pragmatic, authoritarian, and complicated -- a leader who has done genuine good for Neverwinter while also imposing harsh taxes, employing spies, and maintaining a fractured relationship with his only son.
 
-**First appearance:** [[S01E01 - Episode One]] (mentioned); [[S02E16 - Episode Forty Six LIVE (S02E16)]] (in person)
+**First appearance:** [[S01E01 - Episode One|S01E01]] (mentioned); [[S02E16 - Episode Forty Six LIVE (S02E16)|S02E16]] (in person)
 **Total appearances:** 10 episodes
 **Faction affiliations:** [[Neverwinter]] (ruler)
 
@@ -38,8 +38,8 @@ When encountered in person, Dagult is commanding and pragmatic. He does not hesi
 ### Season 1 (Mentioned / Background Figure)
 
 - **S01E01:** Dagult Neverember is introduced as the former Open Lord of Waterdeep who was deposed and replaced by [[Laeral Silverhand]]. He is described as having had conservative spending policies and disruptive tariffs that drove the city into economic decline. He is originally from Neverwinter and is the father of [[Renaer Neverember]].
-- **S01E02:** Renaer Neverember reveals that his father Dagult allegedly embezzled a large sum of gold (dragons) and hid it somewhere in Waterdeep. Renaer is estranged from his father. The existence of this hidden hoard and the [[Stone of Golorr]] that can locate it becomes the central mystery of Season 1.
-- **S01E08:** Renaer mentions that a spy named [[Dalekar|Dalakhar]] has been following him, seeking the [[Stone of Golorr]] on behalf of Dagult. This reveals Dagult is actively trying to recover his hidden gold from afar, using agents to track both the Stone and his own son.
+- **S01E02:** Renaer Neverember reveals that his father Dagult allegedly embezzled a large sum of gold (dragons) and hid it somewhere in Waterdeep. Renaer is estranged from his father. The existence of this hidden hoard and the [[The Stone of Golorr]] that can locate it becomes the central mystery of Season 1.
+- **S01E08:** Renaer mentions that a spy named [[Dalekar|Dalakhar]] has been following him, seeking the [[The Stone of Golorr]] on behalf of Dagult. This reveals Dagult is actively trying to recover his hidden gold from afar, using agents to track both the Stone and his own son.
 - **S01E12:** After the fireball explosion at Trollskull Alley, Renaer identifies the dead gnome found at the blast center as [[Dalekar|Dalcar]], a spy his father Dagult hired to keep tabs on him. Dalcar had sewage-stained boots (suggesting he came from the sewers) and a Neverember-branded pouch containing five gemstones. According to Renaer, Dagult had no connection to the [[Xanathar Guild]].
 
 ### Season 2 (In Person)

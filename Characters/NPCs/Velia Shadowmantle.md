@@ -14,7 +14,7 @@ tags:
 
 The leader of the Cult of the Dragon cell operating out of Castle Nehri Tar. Described by Bronch as a Waterdeep noble seeking revenge. She oversees the dracolich creation rituals and is responsible for draining Jack the silver dragon's soul. Later revealed to be Amalia Cassalanter in disguise.
 
-**First appearance:** [[S02E28 - Episode Fifty Eight (S02E28)]]
+**First appearance:** [[S02E28 - Episode Fifty Eight (S02E28)|S02E28]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Cult Of The Dragon]]
 

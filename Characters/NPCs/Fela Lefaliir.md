@@ -4,6 +4,7 @@ type: character
 subtype: npc
 status: alive
 aliases:
+  - "Fala Lefaliir"
   - "Fela Lefaliir"
   - "Fala Lephalier"
 tags:
@@ -33,9 +34,9 @@ Fala is warm and community-minded, expressing genuine excitement when SWOJ moved
 - **[[S01E09 - Episode Nine|S01E09]]:** Fala has provided flower planters for the windows of [[Trollskull Manor]] as the tavern nears its grand opening, contributing to the building's improved appearance.
 - **[[S01E10 - Episode Ten|S01E10]]:** [[Malark Wavesilver|Lark]] visits [[Corellon's Crown]] early in the morning about his lycanthropy condition -- he began turning into a silver ferret under the moonlight. Fala has not heard of were-ferrets but suggests he see a cleric of Selune for treatment.
 - **[[S01E11 - Episode Eleven|S01E11]]:** One of the party members mentions returning an apothecary mug containing tea to Fala's shop, suggesting ongoing neighborly exchanges.
-- **[[S02E05 - Episode Thirty Five|S02E05]]:** When SWOJ returns to [[Waterdeep]] after three years displaced in time, they discover that [[Corellon's Crown]] is dark and closed. A City Watch officer reveals that something large broke into the shop from the back, punching a ten-foot-wide tunnel through the wall heading north. Fala is gone. Xae casts Speak with Plants on the moss beds inside the shop and learns that something enormous -- possibly flying, as there was no rumbling until it arrived -- stomped through and took Fala away during the night. The party speculates that a dragon or similar creature may have been responsible and that Fala's druidic abilities may have made them a target.
-- **[[S02E07 - Episode Thirty Seven|S02E07]]:** SWOJ finds Fala alive deeper in the [[Spiral Cavern]] beneath the [[Sword Mountains]], in areas the party did not fully explore during their confrontation with [[Arcturia]]. Fala's memories are described as "all over the place," scrambled by [[Arcturia]]'s transmutation magic and the memory-altering mist. The party speculates that Fala's herbalism expertise or druidic nature may have been why [[Arcturia]] targeted them specifically.
-- **[[S02E08 - Episode Thirty Eight|S02E08]]:** The party discusses bringing Fala back to [[Waterdeep]] along with [[Leah]] and other rescued captives after the events in the [[Spiral Cavern]]. Fala's memories remain scrambled.
+- **[[S02E05 - Episode Thirty Five (S02E05)|S02E05]]:** When SWOJ returns to [[Waterdeep]] after three years displaced in time, they discover that [[Corellon's Crown]] is dark and closed. A City Watch officer reveals that something large broke into the shop from the back, punching a ten-foot-wide tunnel through the wall heading north. Fala is gone. Xae casts Speak with Plants on the moss beds inside the shop and learns that something enormous -- possibly flying, as there was no rumbling until it arrived -- stomped through and took Fala away during the night. The party speculates that a dragon or similar creature may have been responsible and that Fala's druidic abilities may have made them a target.
+- **[[S02E07 - Episode Thirty Seven (S02E07)|S02E07]]:** SWOJ finds Fala alive deeper in the [[Spiral Cavern]] beneath the [[Sword Mountains]], in areas the party did not fully explore during their confrontation with [[Arcturia]]. Fala's memories are described as "all over the place," scrambled by [[Arcturia]]'s transmutation magic and the memory-altering mist. The party speculates that Fala's herbalism expertise or druidic nature may have been why [[Arcturia]] targeted them specifically.
+- **[[S02E08 - Episode Thirty Eight (S02E08)|S02E08]]:** The party discusses bringing Fala back to [[Waterdeep]] along with [[Leah]] and other rescued captives after the events in the [[Spiral Cavern]]. Fala's memories remain scrambled.
 
 ## Relationships
 

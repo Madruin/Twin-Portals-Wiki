@@ -15,7 +15,7 @@ tags:
 
 An older tiefling woman employed as the nanny to the [[Cassalanter Villa|Cassalanter]] children, [[Elzerina Cassalanter|Elzerina]] and [[Terenzio Cassalanter|Terenzio]]. She is a no-nonsense caretaker who scolds the children for playing instead of studying, unwittingly providing cover for [[SWOJ]]'s infiltration of the villa.
 
-**First appearance:** [[S01E24 - Episode Twenty Four]]
+**First appearance:** [[S01E24 - Episode Twenty Four|S01E24]]
 **Total appearances:** 1 episode
 
 ## Description

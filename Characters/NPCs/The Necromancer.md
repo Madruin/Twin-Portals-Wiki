@@ -14,7 +14,7 @@ tags:
 
 An inscrutable wizard contacted by Ylka via scrying pool in the Short Rest cellar. Offered to create a copy of Lark's body and send Scoot and Ylka into the afterlife using Lark's hat as a vessel to bring them home. Mentioned in the recap.
 
-**First appearance:** [[S01E21 - Episode Twenty One]]
+**First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 7 episodes
 
 ## Description

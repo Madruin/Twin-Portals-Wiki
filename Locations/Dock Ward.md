@@ -2,7 +2,8 @@
 title: "Dock Ward"
 type: location
 subtype: "district"
-aliases: []
+aliases:
+  - "Docks Ward"
 tags:
   - twin-portals
   - location
@@ -23,7 +24,7 @@ The Dock Ward sits along Waterdeep's waterfront, its narrow streets reeking of s
 ## Notable Events
 
 - **[[S01E01 - Episode One|S01E01]]:** SWOJ travels to the Dock Ward to investigate [[Floon Blagmaar]]'s disappearance, visiting the [[Skewered Dragon]] tavern where Floon was last seen. [[Malark Wavesilver|Lark]] meets [[Jalaster]], a [[Harpers|Harper]] agent, who directs them to [[Candle Lane]] where the [[Zhentarim]] have been operating. The party discovers a warehouse marked with the Zhentarim winged-snake symbol containing three fresh corpses.
-- **[[S01E03 - Episode Three|S01E03]]:** After blacking out in the sewers, SWOJ falls through a green portal into a psychic illusion of the Dock Ward where the air smells of cherry instead of refuse, zombie-like citizens shuffle through the streets chanting "lovely day," and green portals flicker across the sky. The party encounters [[Zardoz Zord]] of the [[Sea Maiden's Fair]], who recognizes them as outsiders in this twisted version of Waterdeep.
+- **[[S01E03 - Episode Three|S01E03]]:** After blacking out in the sewers, SWOJ falls through a green portal into a psychic illusion of the Dock Ward where the air smells of cherry instead of refuse, zombie-like citizens shuffle through the streets chanting "lovely day," and green portals flicker across the sky. The party encounters [[Zardoz Zord]] of the [[Sea Maiden's Faire]], who recognizes them as outsiders in this twisted version of Waterdeep.
 - **[[S01E04 - Episode Four|S01E04]]:** The party wakes in [[Scoot Sparkles|Scoot]] and Lark's apartment at [[The Splintered Stair]]. [[Tagga]], Scoot's mother, arrives with a pie. The party receives a threatening letter from [[House Cassalanter]] demanding 500% interest on a loan to [[House Wavesilver]], setting up a key antagonist thread.
 
 ## Connected Characters
@@ -33,7 +34,7 @@ The Dock Ward sits along Waterdeep's waterfront, its narrow streets reeking of s
 - [[Tagga]] — Scoot's mother, an elderly orc woman who lives in the ward
 - [[Jalaster]] — [[Harpers|Harper]] agent stationed at the [[Skewered Dragon]]
 - [[Captain Hyustus Stagget]] — City Watch captain in charge of the Dock Ward
-- [[Zardoz Zord]] — ringmaster of the [[Sea Maiden's Fair]], encountered in the psychic Dock Ward
+- [[Zardoz Zord]] — ringmaster of the [[Sea Maiden's Faire]], encountered in the psychic Dock Ward
 - [[Floon Blagmaar]] — kidnapped after leaving the [[Skewered Dragon]]
 - [[Renaer Neverember]] — kidnapped alongside Floon from [[Fillet Lane]]
 - [[Volothamp Geddarm]] — hired SWOJ to search the ward for Floon

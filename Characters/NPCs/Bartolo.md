@@ -16,7 +16,7 @@ tags:
 
 **Bartolo** is a [[City Watch]] guard in [[Waterdeep]] who serves in the [[Docks Ward Guardhouse|Docks Ward]]. A secret fan of [[SWOJ]], he nonetheless carries out his duties faithfully, including reading the formal charges against the party at their trial before [[Laeral Silverhand]].
 
-**First appearance:** [[S01E13 - Episode Thirteen]]
+**First appearance:** [[S01E13 - Episode Thirteen|S01E13]]
 **Total appearances:** 2 episodes
 **Faction affiliations:** [[City Watch]]
 

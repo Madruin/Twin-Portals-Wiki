@@ -1,13 +1,14 @@
 ---
-title: "Anya Ermbrusk"
+title: Anya Ermbrusk
 type: character
 subtype: npc
 status: unknown
-aliases: []
+aliases:
+- Anya Irmbrusk
 tags:
-  - twin-portals
-  - character
-  - npc
+- twin-portals
+- character
+- npc
 ---
 
 # Anya Ermbrusk

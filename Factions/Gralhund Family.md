@@ -15,7 +15,7 @@ tags:
 
 The Gralhund Family is a noble house of [[Waterdeep]] whose tangled web of alliances, betrayals, and dark magic made them one of the most consequential factions in the Twin Portals campaign. Outwardly a respectable noble house -- their guards wearing **purple and silver livery** -- the Gralhunds were secretly bankrolling the [[Zhentarim]], allied with the [[Cult of Asmodeus]] through the [[Cassalanter Family]], and conducting arcane experiments involving clones, golems, and soul-binding rituals. The family's legacy is most deeply felt through [[Ylka Gralhund]], the bard of [[Silver Waves Of Justice|SWOJ]], who discovered over the course of the campaign that she was not truly a Gralhund by birth but a **clone** created by her grandfather [[Mordecai Gralhund]] to protect the soul of the original [[Zylka]].
 
-**First appearance:** [[S01E05 - Episode Five]] (Mordecai's initials on the Song Sword) / [[S01E09 - Episode Nine]] (House Gralhund announced at party)
+**First appearance:** [[S01E05 - Episode Five|S01E05]] (Mordecai's initials on the Song Sword) / [[S01E09 - Episode Nine|S01E09]] (House Gralhund announced at party)
 **Total appearances:** 14+ episodes across both seasons
 **Also known as:** House Gralhund, the Gralhunds
 
@@ -27,7 +27,7 @@ The Gralhund Family occupied a prominent position among the Waterdavian nobility
 
 The family operated on multiple levels of intrigue simultaneously:
 
-- **Noble patrons of the Zhentarim** -- The Gralhunds bankrolled the Black Network for months before Lady [[Yalah Gralhund]] double-crossed them and seized the [[Stone of Golorr]].
+- **Noble patrons of the Zhentarim** -- The Gralhunds bankrolled the Black Network for months before Lady [[Yalah Gralhund]] double-crossed them and seized the [[The Stone of Golorr]].
 - **Allies of the Cassalanters and the Cult of Asmodeus** -- A threatening letter from [[Victoro Cassalanter]] found in Lord [[Orond Gralhund]]'s study confirmed a formal alliance between the two houses under the banner of Asmodeus, Lord of the Nine Hells.
 - **Practitioners of forbidden magic** -- Patriarch [[Mordecai Gralhund]] was a wizard who invented a soul-binding ritual, created clones, and built the golem [[Nim]], blurring the line between arcane research and necromancy.
 
@@ -71,7 +71,7 @@ This letter confirmed three critical facts: the Gralhund-Cassalanter alliance un
 
 In the villa's upper floors, the burned Zhentarim leader corners Lord [[Orond Gralhund]] in a guest room and **slashes his throat**. Ylka stabilizes Orond with medicine, but notably, Lady [[Yalah Gralhund]] appears **disappointed that he survived**. [[Scoot Sparkles|Scoot]] battles [[Hrabbaz]] in the master bedroom while [[Mr. E]] steals a **silver key** from Yalah's neck and escapes through a window with the locked book from the library as the city watch floods the villa.
 
-Charmed by Ylka, the Zhentarim leader reveals the **chain of possession** of the [[Stone of Golorr]]:
+Charmed by Ylka, the Zhentarim leader reveals the **chain of possession** of the [[The Stone of Golorr]]:
 
 > **[[Xanathar Guild]]** -> stolen by **Dalcar** -> taken by the **Zhentarim** -> double-crossed by **Yalah Gralhund**
 
@@ -79,7 +79,7 @@ A **teleportation circle** carved into the guest room floor is discovered, descr
 
 ### The Nimblewright and the Gralhund Crypt (S01E13)
 
-While the city watch investigates the villa bloodbath, [[Yalah Gralhund]] secretly dispatches a **[[Nimblewright]]** -- a mechanical construct -- carrying the [[Stone of Golorr|Stone of Galore]] and a handwritten note. The note turns out to be a **map of the [[City of the Dead]]** pointing to the **[[Gralhund Crypt]]**.
+While the city watch investigates the villa bloodbath, [[Yalah Gralhund]] secretly dispatches a **[[Nimblewright]]** -- a mechanical construct -- carrying the [[The Stone of Golorr|Stone of Galore]] and a handwritten note. The note turns out to be a **map of the [[City of the Dead]]** pointing to the **[[Gralhund Crypt]]**.
 
 SWOJ pursues the nimblewright to the crypt during the Feast of the Moon festival. In the lower level, they find:
 
@@ -154,7 +154,7 @@ Ylka performs her grandfather's music at the God's Night fire, completing a chap
 
 ### The Zhentarim
 
-The Gralhunds bankrolled the [[Zhentarim]] (Black Network) for months, with a teleportation circle in their guest room built explicitly "for the master" -- [[Manshoon]], the Zhentarim's founder. Lord [[Orond Gralhund]] served as a financial patron while the Zhentarim provided muscle and connections. This alliance collapsed when Lady [[Yalah Gralhund]] **double-crossed the Zhentarim** by seizing the [[Stone of Golorr]] for herself, triggering the brutal battle at the villa that left dead servants in the pantry and Zhentarim and Gralhund agents at each other's throats.
+The Gralhunds bankrolled the [[Zhentarim]] (Black Network) for months, with a teleportation circle in their guest room built explicitly "for the master" -- [[Manshoon]], the Zhentarim's founder. Lord [[Orond Gralhund]] served as a financial patron while the Zhentarim provided muscle and connections. This alliance collapsed when Lady [[Yalah Gralhund]] **double-crossed the Zhentarim** by seizing the [[The Stone of Golorr]] for herself, triggering the brutal battle at the villa that left dead servants in the pantry and Zhentarim and Gralhund agents at each other's throats.
 
 ### The Cassalanters and the Cult of Asmodeus
 

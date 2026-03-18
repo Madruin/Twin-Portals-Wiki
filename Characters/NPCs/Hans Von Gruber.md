@@ -14,7 +14,7 @@ tags:
 
 Vampire wizard who has taken over Zaka's Tome Tower and captured the Bailey Brew family. Defeated by SWOJ through combat and an act of kindness with the Fleece of Navi-dad. Commands Pain Deer constructs.
 
-**First appearance:** [[S01E14 - Episode Fourteen]]
+**First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
 ## Description

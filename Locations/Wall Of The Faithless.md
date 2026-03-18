@@ -2,7 +2,8 @@
 title: "Wall Of The Faithless"
 type: location
 subtype: "planar domain, planar structure"
-aliases: []
+aliases:
+  - "Wall of the Faithless"
 tags:
   - twin-portals
   - location

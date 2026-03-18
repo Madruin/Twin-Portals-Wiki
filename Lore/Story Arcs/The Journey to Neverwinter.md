@@ -47,7 +47,7 @@ In Neverwinter, SWOJ navigated a web of political intrigue: [[Dagult Neverember]
 - [[Arcturia]] / Arcturia -- Xae's sister; transmutation witch serving [[Halaster]]
 - [[Zelifarn]] -- Bronze dragon disguised as Farron; freed from enchantment
 - [[Melifarn]] -- Bronze dragon at the Deep Dragon Temple
-- [[Jarlaxle]] -- Drow captain of the [[Sea Maiden's Fair]]; key ally throughout
+- [[Jarlaxle]] -- Drow captain of the [[Sea Maiden's Faire]]; key ally throughout
 - [[Renaer Neverember]] -- Led the underground resistance in Neverwinter
 - [[Dagult Neverember]] -- Lord of Neverwinter; hired SWOJ to find the Crown
 - [[Fioleth]] -- Ragamuffin creature from the Bag Dimension

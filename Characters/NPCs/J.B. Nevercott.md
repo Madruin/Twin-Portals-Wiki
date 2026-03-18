@@ -23,8 +23,8 @@ tags:
 
 ## Appearances
 
-- **[[S01E09 - Episode Nine]]** -- Delivers a lead-foil-lined hat (blocks Detect Thoughts) and three pistols loaded with true sight rounds to SWOJ at [[Trollskull Manor (Short Rest Tavern)|Trollskull Manor]], equipping them for the [[Cassalanter]] party.
-- **[[S01E17 - Episode Seventeen]]** -- Appears in the audience of the [[Arena Of Blood And Fortune|Xanathar's Arena of Blood and Fortune]]. Winks at [[Malark Wavesilver|Lark]] and [[Xae|Xae]], then uses the Message spell to warn SWOJ that the lair is rigged with smoke powder and reveals a secret exit -- the south wall, marked with a flaming eye symbol. This intelligence saves the party's lives.
+- **[[S01E09 - Episode Nine|S01E09]]** -- Delivers a lead-foil-lined hat (blocks Detect Thoughts) and three pistols loaded with true sight rounds to SWOJ at [[Trollskull Manor (Short Rest Tavern)|Trollskull Manor]], equipping them for the [[Cassalanter]] party.
+- **[[S01E17 - Episode Seventeen|S01E17]]** -- Appears in the audience of the [[Arena Of Blood And Fortune|Xanathar's Arena of Blood and Fortune]]. Winks at [[Malark Wavesilver|Lark]] and [[Xae|Xae]], then uses the Message spell to warn SWOJ that the lair is rigged with smoke powder and reveals a secret exit -- the south wall, marked with a flaming eye symbol. This intelligence saves the party's lives.
 
 ---
 

@@ -53,7 +53,7 @@ The Wavesilver shipping business was in crisis through much of Season 1:
 - **[[S01E09]]:** Lark's parents arrive at the Cassalanter party. Grim is cold and disapproving. The shipping business is "almost completely underwater." Grim charges Lark 500% interest per tenday.
 - **[[S01E23]]:** The Necromancer's private study contains a ledger bookmarked with Grim Wavesilver's name, alongside other notable Waterdhavians.
 - **[[S01E27]]:** Loan documents to House Wavesilver's shipping business are found in [[Victoro Cassalanter]]'s locked drawer, confirming the Cassalanters' financial stranglehold.
-- **[[S01E29 - The Summer Solstice|S01E29]]:** The Wavesilver shipping business is now prospering. Lark reconnects with his family and trains in vigilantism with Isvel. A new ship, the [[Silver Plum]], is commissioned in honor of SWOJ.
+- **[[S01E29 - Episode Twenty Nine|S01E29]]:** The Wavesilver shipping business is now prospering. Lark reconnects with his family and trains in vigilantism with Isvel. A new ship, the [[Silver Plum]], is commissioned in honor of SWOJ.
 
 ## The Wavesilver Household
 
@@ -72,8 +72,8 @@ The family home is described in the S01E29 downtime: Lark's parents were waiting
 - **[[S01E15]]:** [[Laeral Silverhand]] offers to try to recruit the Black Viper for the Xanathar's Lair mission.
 - **[[S01E23]]:** Grim Wavesilver's name is found bookmarked in the Necromancer's ledger.
 - **[[S01E27]]:** [[Isabelle Wavesilver|The Black Viper]] breaks SWOJ out of prison. Loan documents to the Wavesilver shipping business are found in Victoro's drawer.
-- **[[S01E29 - The Summer Solstice|S01E29]]:** The Wavesilver shipping business prospers. Lark trains with Isvel. The [[Silver Plum]] is commissioned.
-- **[[S02E38 - God's Night|S02E38]]:** Grim and Aspell Wavesilver wait at Trollskull Manor for SWOJ's return.
+- **[[S01E29 - Episode Twenty Nine|S01E29]]:** The Wavesilver shipping business prospers. Lark trains with Isvel. The [[Silver Plum]] is commissioned.
+- **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** Grim and Aspell Wavesilver wait at Trollskull Manor for SWOJ's return.
 
 ## Episode Appearances
 

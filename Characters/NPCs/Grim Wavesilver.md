@@ -14,7 +14,7 @@ tags:
 
 Lark's father. Cold, disappointed, and disapproving. House Wavesilver is in financial trouble with the shipping business 'almost completely underwater.' Charges Lark 500% interest per tenday.
 
-**First appearance:** [[S01E09 - Episode Nine]]
+**First appearance:** [[S01E09 - Episode Nine|S01E09]]
 **Total appearances:** 3 episodes
 
 ## Description

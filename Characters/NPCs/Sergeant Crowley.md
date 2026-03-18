@@ -14,7 +14,7 @@ tags:
 
 Sergeant Crowley is a [[City Watch]] sergeant who assists [[Ulkoria Stonemarrow]] in investigating the devastating fireball explosion on [[Trollskull Alley]]. He coordinates the guards on the ground while Ulkoria handles the magical and forensic analysis of the crime scene.
 
-**First appearance:** [[S01E11 - Episode Eleven]]
+**First appearance:** [[S01E11 - Episode Eleven|S01E11]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[City Watch]]
 

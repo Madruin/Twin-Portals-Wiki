@@ -3,7 +3,8 @@ title: ""Shoonie""
 type: character
 subtype: npc
 status: unknown
-aliases: []
+aliases:
+  - "Shuni"
 tags:
   - twin-portals
   - character

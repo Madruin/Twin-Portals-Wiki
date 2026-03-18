@@ -14,7 +14,7 @@ tags:
 
 Harper ally, high elf wizard. Hosts SWOJ at her house while they assemble the Stone of Golorr. Gets ensorcelled by the Stone along with her guards.
 
-**First appearance:** [[S01E25 - Episode Twenty Five]]
+**First appearance:** [[S01E25 - Episode Twenty Five|S01E25]]
 **Total appearances:** 5 episodes
 **Faction affiliations:** [[Harpers]]
 

@@ -16,7 +16,7 @@ tags:
 
 **Mikael** is a winged and horned tiefling or demon who frequents the [[Dark Market]] in the [[Shadowfell (Deep)|Shadowfell]], and one third of an inseparable trio alongside [[Lucinda]] and [[Santorini]]. Described as "very personable," Mikael is the most prominently named of the three when the group introduces themselves to newcomers. The trio hails from [[Avernus]] and operates as social greeters in the market, befriending new arrivals and directing them toward local establishments. The angel [[Ryloren|Rylerin]] considers them harmless but advises caution: "Just don't get too comfortable with them."
 
-**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)|S02E21]]
 **Total appearances:** 1 episode
 
 ## Description

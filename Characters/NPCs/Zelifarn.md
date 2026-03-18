@@ -21,7 +21,7 @@ tags:
 **Race:** Ancient Bronze Dragon
 **Also known as:** Zellopharn, Zellophane, Zelopharne, Farron, Ferrin
 **Affiliations:** [[Way Of The Balanced Scales]], [[Silver Waves Of Justice|SWOJ]] (ally), [[Bregan D'Aerthe]] (through [[Jarlaxle]])
-**First appearance:** [[S01E06 - Episode Six]]
+**First appearance:** [[S01E06 - Episode Six|S01E06]]
 **Total appearances:** 22+ episodes across Seasons 1 and 2
 
 ---

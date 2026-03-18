@@ -8,8 +8,8 @@ duration: "02:05:51"
 type: episode
 format: gameplay
 live: false
-prev: "[[S02E19 - Episode Forty Nine (S02E19)]]"
-next: "[[S02E21 - Episode Fifty One (S02E21)]]"
+prev: "[[S02E19 - Episode Forty Nine (S02E19)|S02E19]]"
+next: "[[S02E21 - Episode Fifty One (S02E21)|S02E21]]"
 tags:
   - twin-portals
   - season-2

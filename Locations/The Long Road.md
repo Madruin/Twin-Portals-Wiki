@@ -2,7 +2,8 @@
 title: "The Long Road"
 type: location
 subtype: ""
-aliases: []
+aliases:
+  - "Long Road"
 tags:
   - twin-portals
   - location

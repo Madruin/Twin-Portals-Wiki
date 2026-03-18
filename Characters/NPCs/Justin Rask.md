@@ -17,7 +17,7 @@ tags:
 
 **Justin Rask** is a representative of the [[Guild of Butchers]] in [[Waterdeep]]. A distinctive and somewhat unsettling figure, he visits [[Trollskull Manor]] alongside other guild representatives to discuss tavern licensing with [[SWOJ]].
 
-**First appearance:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Guild of Butchers]]
 

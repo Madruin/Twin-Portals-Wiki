@@ -14,7 +14,7 @@ tags:
 
 A dragon from the Way of the Balanced Scales flight used as a diversion during the Amphail infiltration. Captured alongside Chip by barbarians and periton riders near the Spiral Cavern entrance.
 
-**First appearance:** [[S02E19 - Episode Forty Nine (S02E19)]]
+**First appearance:** [[S02E19 - Episode Forty Nine (S02E19)|S02E19]]
 **Total appearances:** 3 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 A small dragon-shaped crystal creature the size of a dog, made of many pieces of rose quartz fitted together magically. An incarnate -- a form created when many ancestral spirits from a similar origin come together. Communes telepathically with Zelifarn about draconic lineage.
 
-**First appearance:** [[S02E08 - Episode Thirty Eight (S02E08)]]
+**First appearance:** [[S02E08 - Episode Thirty Eight (S02E08)|S02E08]]
 **Total appearances:** 2 episodes
 
 ## Description

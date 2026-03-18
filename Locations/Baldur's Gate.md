@@ -23,9 +23,9 @@ Baldur's Gate is one of the major cities along the Sword Coast, frequently menti
 ## Notable Events
 
 - **Volo's Comparison** ([[S01E01 - Episode One|Episode 1]]): When [[Volothamp Geddarm|Volo]] first meets the party at the [[Yawning Portal]], he remarks on the violence plaguing Waterdeep, noting he has not seen so much blood since his last visit to Baldur's Gate -- establishing the city's reputation as a dangerous place.
-- **The Sword Coast War** ([[S02E05 - Episode Thirty Five|Episode 35]]): During Season 2, as war escalates between Waterdeep and [[Neverwinter]], it is noted that Baldur's Gate and Luskan have surprisingly stayed out of the conflict so far, though their involvement could turn the tide.
-- **Falling Out of Communication** ([[S02E30 - Episode Sixty|Episode 60]]): When [[Renaer Neverember|Renaer]] describes the Pact of the Coast -- an alliance of Sword Coast cities -- he reveals that both Baldur's Gate and Luskan have fallen out of communication, each dealing with their own unspecified crises and unable to contribute to the alliance.
-- **Representatives at the Council** ([[S02E38 - Episode Sixty Eight - Season Two Finale|Episode 68]]): By the Season 2 finale, representatives from Baldur's Gate attend the Council of the Masked Lords alongside [[Jarlaxle]], [[Renaer Neverember]], and other Sword Coast Alliance leaders, indicating the city eventually re-established contact and joined the coalition.
+- **The Sword Coast War** ([[S02E05 - Episode Thirty Five (S02E05)|Episode 35]]): During Season 2, as war escalates between Waterdeep and [[Neverwinter]], it is noted that Baldur's Gate and Luskan have surprisingly stayed out of the conflict so far, though their involvement could turn the tide.
+- **Falling Out of Communication** ([[S02E30 - Episode Sixty (S02E30)|Episode 60]]): When [[Renaer Neverember|Renaer]] describes the Pact of the Coast -- an alliance of Sword Coast cities -- he reveals that both Baldur's Gate and Luskan have fallen out of communication, each dealing with their own unspecified crises and unable to contribute to the alliance.
+- **Representatives at the Council** ([[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|Episode 68]]): By the Season 2 finale, representatives from Baldur's Gate attend the Council of the Masked Lords alongside [[Jarlaxle]], [[Renaer Neverember]], and other Sword Coast Alliance leaders, indicating the city eventually re-established contact and joined the coalition.
 
 ## Connected Characters
 

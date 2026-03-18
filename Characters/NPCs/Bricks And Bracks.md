@@ -30,7 +30,7 @@ Bricks and Bracks are a pair of guards who wear gray armor and long cloaks. They
 
 ### Ensorcelled by the Stone of Golorr ([[S01E25 - Episode Twenty Five|S01E25]])
 
-When SWOJ assembled the three pieces of the [[Stone of Golorr]] at [[Remallia Haventree|Remalia]]'s house, the Stone activated and ensorcelled Remalia along with Bricks and Bracks. Their eyes turned "opaque and blood red" as the Stone took hold. The ensorcellement rendered them catatonic while SWOJ's consciousness was transported 500 years into the past to 992 DR Waterdeep.
+When SWOJ assembled the three pieces of the [[The Stone of Golorr]] at [[Remallia Haventree|Remalia]]'s house, the Stone activated and ensorcelled Remalia along with Bricks and Bracks. Their eyes turned "opaque and blood red" as the Stone took hold. The ensorcellement rendered them catatonic while SWOJ's consciousness was transported 500 years into the past to 992 DR Waterdeep.
 
 ### The Vault of Dragons and Theater Battle ([[S01E26 - Episode Twenty Six|S01E26]])
 

@@ -75,12 +75,12 @@ At the massive God's Night celebration at [[Trollskull Manor]] during the festiv
 
 | Episode | Event |
 |---|---|
-| [[S01E02 - Episode Two\|S01E02]] | Captured by SWOJ at the Candle Lane warehouse; released with a gold coin and misleading phrases |
-| [[S01E05 - Episode Five\|S01E05]] | Rescues Tagga from Xanathar retaliation; hides her in the Honorable Knight Statue smuggler's closet |
-| [[S01E11 - Episode Eleven\|S01E11]] | Mentioned in passing as SWOJ recalls the Candle Lane warehouse raid |
-| [[S01E17 - Episode Seventeen\|S01E17]] | Imprisoned in arena cells; trades his pink hat for Scoot's durag; lockpicks the cells and leads kenku in staged arena fight |
-| [[S01E29 - Episode Twenty Nine\|S01E29]] | Mentioned as SWOJ recalls meeting him at the Candle Lane warehouse |
-| [[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)\|S02E38]] | Attends God's Night celebration at Trollskull Manor; buys drinks for everyone; wears Scoot's durag |
+| [[S01E02 - Episode Two|S01E02]] | Captured by SWOJ at the Candle Lane warehouse; released with a gold coin and misleading phrases |
+| [[S01E05 - Episode Five|S01E05]] | Rescues Tagga from Xanathar retaliation; hides her in the Honorable Knight Statue smuggler's closet |
+| [[S01E11 - Episode Eleven|S01E11]] | Mentioned in passing as SWOJ recalls the Candle Lane warehouse raid |
+| [[S01E17 - Episode Seventeen|S01E17]] | Imprisoned in arena cells; trades his pink hat for Scoot's durag; lockpicks the cells and leads kenku in staged arena fight |
+| [[S01E29 - Episode Twenty Nine|S01E29]] | Mentioned as SWOJ recalls meeting him at the Candle Lane warehouse |
+| [[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]] | Attends God's Night celebration at Trollskull Manor; buys drinks for everyone; wears Scoot's durag |
 
 ```dataview
 TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"

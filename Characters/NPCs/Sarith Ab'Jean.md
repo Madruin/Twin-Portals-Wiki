@@ -14,9 +14,9 @@ tags:
 
 # Sarith Ab'Jean
 
-Captain of the [[Hell Razor]], one of [[Jarlaxle]]'s three ships in the [[Sea Maiden's Fair]] fleet. A swashbuckling fellow with a neatly trimmed mustache, Sarith runs a tight ship and transported [[SWOJ]] from [[Driftwood]] to [[Devil's' Rock|Devil's Rock]] across the [[Nameless Seas]].
+Captain of the [[Hell Razor]], one of [[Jarlaxle]]'s three ships in the [[Sea Maiden's Faire]] fleet. A swashbuckling fellow with a neatly trimmed mustache, Sarith runs a tight ship and transported [[SWOJ]] from [[Driftwood]] to [[Devil's' Rock|Devil's Rock]] across the [[Nameless Seas]].
 
-**First appearance:** [[S02E09 - Episode Thirty Nine (S02E09)]]
+**First appearance:** [[S02E09 - Episode Thirty Nine (S02E09)|S02E09]]
 **Total appearances:** 1 episode
 
 ## Description

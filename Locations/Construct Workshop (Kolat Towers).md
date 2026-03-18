@@ -13,7 +13,7 @@ tags:
 A workshop occupying an entire floor of the [[Kolat Towers]], hidden behind an illusory wall and used by [[The Necromancer]] (later revealed to be [[Manshoon]]) for constructing magical automatons and other arcane projects. This is where [[Zylka]] was held captive and forced to work on [[Nim]], the [[Gralhund Villa|Gralhund]] family golem.
 
 **Type:** room
-**First appearance:** [[S01E23 - Episode Twenty Three]]
+**First appearance:** [[S01E23 - Episode Twenty Three|S01E23]]
 **Total appearances:** 1 episodes
 
 ## Description
@@ -22,7 +22,7 @@ A large workshop spanning an entire floor of the Kolat Towers, concealed behind 
 
 ## Notable Events
 
-- **[[S01E23 - Episode Twenty Three]]:** While exploring the [[Kolat Towers]] after [[The Necromancer]] dismisses them, [[SWOJ]] encounters a flesh golem standing on a pressure plate at the base of a staircase. The Necromancer's simulacrum passes through an illusory wall nearby. [[Scoot Sparkles|Scoot]] discovers that the wall is an illusion and peers through, finding a wizard (later identified as [[Zylka]]) shackled to a workbench inside. SWOJ enters the workshop and discovers that the captive is working on the remnants of [[Nim]], the small golem belonging to the [[Gralhund Villa|Gralhund]] family. This is the pivotal revelation that [[Ylka Gralhund|Ylka]] is actually a clone -- [[Zylka]] is the original person from whom Ylka was created by her grandfather [[Mordecai Gralhund|Mordecai]] to protect her soul. SWOJ frees Zylka from her shackles, and she reveals the presence of explosives in the adjoining tower. They fight animated armor constructs before escaping as the towers ultimately explode.
+- **[[S01E23 - Episode Twenty Three|S01E23]]:** While exploring the [[Kolat Towers]] after [[The Necromancer]] dismisses them, [[SWOJ]] encounters a flesh golem standing on a pressure plate at the base of a staircase. The Necromancer's simulacrum passes through an illusory wall nearby. [[Scoot Sparkles|Scoot]] discovers that the wall is an illusion and peers through, finding a wizard (later identified as [[Zylka]]) shackled to a workbench inside. SWOJ enters the workshop and discovers that the captive is working on the remnants of [[Nim]], the small golem belonging to the [[Gralhund Villa|Gralhund]] family. This is the pivotal revelation that [[Ylka Gralhund|Ylka]] is actually a clone -- [[Zylka]] is the original person from whom Ylka was created by her grandfather [[Mordecai Gralhund|Mordecai]] to protect her soul. SWOJ frees Zylka from her shackles, and she reveals the presence of explosives in the adjoining tower. They fight animated armor constructs before escaping as the towers ultimately explode.
 
 ## Connected Characters
 

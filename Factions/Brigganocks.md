@@ -13,7 +13,7 @@ tags:
 
 The Brigganocks are tiny mouse-like fey creatures that live in underground tunnels in the borderlands between the [[Feywild]] and the [[Shadowfell]]. They appear on the surface as dancing lights and their society centers on collecting and preserving [[Wish Stones]] -- crystallized unfulfilled wishes. The [[Strigoi]] steal their wish stones, which are then embedded into the [[Beast Of Erua]]'s scales to fuel its movement, making the Brigganocks indirect victims of the Season 2 opening arc's central conflict.
 
-**First appearance:** [[S02E01 - Episode Thirty-One]]
+**First appearance:** [[S02E01 - Episode Thirty One (S02E01)|S02E01]]
 **Total appearances:** 3 episodes (S02E01, S02E02, S02E05)
 
 ---

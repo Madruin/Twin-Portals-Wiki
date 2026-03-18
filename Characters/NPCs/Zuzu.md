@@ -14,7 +14,7 @@ tags:
 
 Gorge Bailey Brew's missing daughter, taken to Zaka's Tome Tower by Hans Von Gruber. Rescued by SWOJ.
 
-**First appearance:** [[S01E14 - Episode Fourteen]]
+**First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
 ## Description

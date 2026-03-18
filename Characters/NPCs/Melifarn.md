@@ -4,6 +4,7 @@ type: character
 subtype: npc
 status: alive
 aliases:
+  - "Mellafarne"
   - "Melifarn"
   - "Mellifarne"
   - "Melopharn"

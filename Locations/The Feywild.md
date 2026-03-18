@@ -2,7 +2,8 @@
 title: "The Feywild"
 type: location
 subtype: "plane"
-aliases: []
+aliases:
+  - "Feywild"
 tags:
   - twin-portals
   - location

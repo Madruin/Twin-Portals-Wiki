@@ -1,11 +1,12 @@
 ---
-title: "Shard Of Moonlight"
+title: Shard Of Moonlight
 type: location
-subtype: "tower"
-aliases: []
+subtype: tower
+aliases:
+- Shard of Moonlight
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Shard Of Moonlight

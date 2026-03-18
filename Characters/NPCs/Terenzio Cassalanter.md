@@ -14,7 +14,7 @@ tags:
 
 One of the Cassalanter children. Plays with Terry (the golden retriever) outside the villa.
 
-**First appearance:** [[S01E09 - Episode Nine]]
+**First appearance:** [[S01E09 - Episode Nine|S01E09]]
 **Total appearances:** 4 episodes
 
 ## Description

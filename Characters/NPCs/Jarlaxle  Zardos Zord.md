@@ -14,7 +14,7 @@ tags:
 
 Leader of Bregan D'aerthe, a drow mercenary organization. Poses as the human sea captain Zardos Zord aboard the Eyecatcher. Reveals his true drow identity to SWOJ. Interested in establishing legitimate drow presence in Waterdeep and seeks the Stone of Golorr.
 
-**First appearance:** [[S01E10 - Episode Ten]]
+**First appearance:** [[S01E10 - Episode Ten|S01E10]]
 **Total appearances:** 3 episodes
 
 ## Description

@@ -14,7 +14,7 @@ tags:
 
 Skilled tracker who agrees to guide SWOJ north to Amphail. Joins the party as a companion for the journey.
 
-**First appearance:** [[S02E05 - Episode Thirty Five (S02E05)]]
+**First appearance:** [[S02E05 - Episode Thirty Five (S02E05)|S02E05]]
 **Total appearances:** 2 episodes
 
 ## Description

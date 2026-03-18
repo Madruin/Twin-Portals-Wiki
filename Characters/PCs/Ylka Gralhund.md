@@ -7,6 +7,7 @@ race: "Human"
 class: "Bard"
 status: alive
 aliases:
+  - "Ylka"
   - "Ilka"
   - "Ilco"
 tags:

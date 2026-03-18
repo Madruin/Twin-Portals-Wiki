@@ -86,12 +86,12 @@ In the aftermath, Lark restrained the defeated Victoro and stripped him of his R
 
 | Episode | Role |
 |---|---|
-| [[S01E09 - Episode Nine\|S01E09]] | Gambles with Scoot (loses 160gp); fights cultists with Ruby-Tipped Staff; rushes to restrain Osvaldo in the attic |
-| [[S01E10 - Episode Ten\|S01E10]] | Discusses guilt over the Asmodeus deal with Amalia and SWOJ |
-| [[S01E12 - Episode Twelve\|S01E12]] | Referenced via threatening letter signed "V" found in Orond Gralhund's study |
-| [[S01E24 - Episode Twenty Four\|S01E24]] | Mentioned but not present; his locked office is infiltrated by Lark; portrait in the library |
-| [[S01E27 - Episode Twenty Seven\|S01E27]] | Commands city watch army to arrest SWOJ; uses Charming Cane and mirror image at Founder's Day feast; defeated and kicked through his own portal by Mr. E |
-| [[S01E29 - Episode Twenty Nine\|S01E29]] | Stripped of Ring of Protection and Rod of Rulership; healed for interrogation; sentenced to life in prison |
+| [[S01E09 - Episode Nine|S01E09]] | Gambles with Scoot (loses 160gp); fights cultists with Ruby-Tipped Staff; rushes to restrain Osvaldo in the attic |
+| [[S01E10 - Episode Ten|S01E10]] | Discusses guilt over the Asmodeus deal with Amalia and SWOJ |
+| [[S01E12 - Episode Twelve|S01E12]] | Referenced via threatening letter signed "V" found in Orond Gralhund's study |
+| [[S01E24 - Episode Twenty Four|S01E24]] | Mentioned but not present; his locked office is infiltrated by Lark; portrait in the library |
+| [[S01E27 - Episode Twenty Seven|S01E27]] | Commands city watch army to arrest SWOJ; uses Charming Cane and mirror image at Founder's Day feast; defeated and kicked through his own portal by Mr. E |
+| [[S01E29 - Episode Twenty Nine|S01E29]] | Stripped of Ring of Protection and Rod of Rulership; healed for interrogation; sentenced to life in prison |
 
 ```dataview
 TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"

@@ -14,7 +14,7 @@ tags:
 
 A dryad captured by the hag and bound inside the shack. One of three dryad sisters. Freed by Xae.
 
-**First appearance:** [[S01E21 - Episode Twenty One]]
+**First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 1 episode
 
 ## Description

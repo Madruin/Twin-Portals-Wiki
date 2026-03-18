@@ -14,7 +14,7 @@ tags:
 
 An amnesiac former soldier found sleeping at the base of a great tree in the Circle of Dusk's glade. Was being cared for by the druids after a head injury. Has a pipe flute taught to him by the druids. Joins SWOJ with Ylka's explosive sword. Has an intuitive bond with Craw.
 
-**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)]]
+**First appearance:** [[S02E06 - Episode Thirty Six (S02E06)|S02E06]]
 **Total appearances:** 2 episodes
 
 ## Description

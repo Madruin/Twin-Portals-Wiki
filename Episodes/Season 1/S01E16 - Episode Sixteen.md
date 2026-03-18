@@ -8,8 +8,8 @@ duration: "02:41:37"
 type: episode
 format: gameplay
 live: false
-prev: "[[S01E15 - Episode Fifteen]]"
-next: "[[S01E17 - Episode Seventeen]]"
+prev: "[[S01E15 - Episode Fifteen|S01E15]]"
+next: "[[S01E17 - Episode Seventeen|S01E17]]"
 tags:
   - twin-portals
   - season-1

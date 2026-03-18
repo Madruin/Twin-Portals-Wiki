@@ -14,7 +14,7 @@ tags:
 
 The City Watch is [[Waterdeep]]'s official law enforcement body, responsible for maintaining order across the city's wards. Throughout Season 1, the Watch served as both ally and obstacle to [[SWOJ]], with individual officers ranging from genuinely sympathetic to deeply corrupt -- reflecting the wider political rot caused by the [[Cassalanters]]' influence over Waterdeep's institutions.
 
-**First appearance:** [[S01E01 - Episode One]]
+**First appearance:** [[S01E01 - Episode One|S01E01]]
 **Total appearances:** 12+ episodes
 
 ---
@@ -49,7 +49,7 @@ A dwarf magister from the [[Watchful Order of Magists and Protectors]] who also 
 A Watch member mentioned in Season 2 in the context of Waterdeep's wartime state ([[S02E05 - Episode Thirty Five (S02E05)|S02E05]]).
 
 ### [[Bricks And Bracks]]
-Guardsmen who served as [[Remalia Haventree]]'s personal guards and were affiliated with both the [[Harpers]] and the City Watch. They were ensorcelled by the [[Stone of Golorr]] ([[S01E26 - Episode Twenty Six|S01E26]]) and later ensorcelled again by the Cassalanters, betraying Remalia by turning her over to the Watch after the theater battle ([[S01E27 - Episode Twenty Seven|S01E27]]). After the Cassalanter downfall, they were exposed as traitors on the Cassalanter payroll and went on the run ([[S01E29 - Episode Twenty Nine|S01E29]]).
+Guardsmen who served as [[Remalia Haventree]]'s personal guards and were affiliated with both the [[Harpers]] and the City Watch. They were ensorcelled by the [[The Stone of Golorr]] ([[S01E26 - Episode Twenty Six|S01E26]]) and later ensorcelled again by the Cassalanters, betraying Remalia by turning her over to the Watch after the theater battle ([[S01E27 - Episode Twenty Seven|S01E27]]). After the Cassalanter downfall, they were exposed as traitors on the Cassalanter payroll and went on the run ([[S01E29 - Episode Twenty Nine|S01E29]]).
 
 ### [[Victoro Cassalanter]]
 The Cassalanter matriarch who wielded political influence over the Watch. After the battle against the [[The Xanathar (Beholder)|Xanathar]] at the [[Zadio City Music Hall]], she personally led a city watch army to arrest SWOJ ([[S01E27 - Episode Twenty Seven|S01E27]]).
@@ -73,7 +73,7 @@ The corruption was finally purged after SWOJ exposed the Cassalanters' deal with
 
 The City Watch's most dramatic involvement with SWOJ came in the arc spanning [[S01E13 - Episode Thirteen|S01E13]] through [[S01E15 - Episode Fifteen|S01E15]]:
 
-1. **The High Road Chase** ([[S01E13 - Episode Thirteen|S01E13]]): After SWOJ pursued [[Willifort Crowell]] and a spined devil carrying the [[Stone of Golorr]] in a cart chase down the [[High Road]] during the Feast of the Moon parade, [[Captain Hyustus Stagget]] arrested the entire party. He took them to the [[Docks Ward Guardhouse]] and privately warned them the presiding magistrate was a Cassalanter puppet.
+1. **The High Road Chase** ([[S01E13 - Episode Thirteen|S01E13]]): After SWOJ pursued [[Willifort Crowell]] and a spined devil carrying the [[The Stone of Golorr]] in a cart chase down the [[High Road]] during the Feast of the Moon parade, [[Captain Hyustus Stagget]] arrested the entire party. He took them to the [[Docks Ward Guardhouse]] and privately warned them the presiding magistrate was a Cassalanter puppet.
 
 2. **The Prison Break** ([[S01E15 - Episode Fifteen|S01E15]]): Overnight, [[Malark Wavesilver|Lark]] picked the cell lock using [[Ylka Gralhund|Ylka]]'s concertina repair kit. In the prison basement, they discovered two dead city watchmen -- bludgeoned to death -- and the doppelganger Willaford Crowell posing as Captain Stagget. [[Ylka Gralhund|Ylka]] used Shatter to blow through a locked door, but the guards overwhelmed and re-arrested the party.
 
@@ -85,20 +85,20 @@ The City Watch's most dramatic involvement with SWOJ came in the arc spanning [[
 
 | Episode | Event |
 |---------|-------|
-| [[S01E01 - Episode One\|S01E01]] | Gang violence between the Zhentarim and Xanathar Guild strains the Watch across the Dock Ward and Trade Ward |
-| [[S01E02 - Episode Two\|S01E02]] | [[Captain Hyustus Stagget]] arrives at the [[Zhentarim Warehouse]] on [[Candle Lane]] with thirteen men; recognizes [[Renaer Neverember]] and lets the party go |
-| [[S01E05 - Episode Five\|S01E05]] | Captain Stagget advises the party to register magic users with the [[Watchful Order of Magists and Protectors]] |
-| [[S01E10 - Episode Ten\|S01E10]] | [[Zylka]] escapes City Watch custody at the Seaward watch post; her two rings remain with SWOJ |
-| [[S01E11 - Episode Eleven\|S01E11]] | Magistrate [[Ulkoria Stonemarrow]] and [[Sergeant Crowley]] investigate the fireball crime scene at [[Trollskull Alley]] |
-| [[S01E12 - Episode Twelve\|S01E12]] | City Watch arrives and floods [[Gralhund Villa]] at the end of the episode, securing the scene after the Zhentarim-Gralhund battle |
-| [[S01E13 - Episode Thirteen\|S01E13]] | Watch investigates the Gralhund Villa bloodbath; Captain Stagget arrests SWOJ after the High Road chase and privately warns them about the corrupt magistrate |
-| [[S01E15 - Episode Fifteen\|S01E15]] | Two dead watchmen discovered bludgeoned in the prison basement; Willaford Crowell exposed as a doppelganger impersonating Stagget; courtroom chaos as intellect devourers attack the Watch; [[Laeral Silverhand]] intervenes |
-| [[S01E22 - Episode Twenty Two\|S01E22]] | City Watch raids the [[Kolat Towers]]; the [[The Necromancer\|Necromancer]]'s simulacrum (iron mask) rushes to defend against the raid |
-| [[S01E23 - Episode Twenty Three\|S01E23]] | SWOJ explores the Necromancer's sanctum while he fights the City Watch outside |
-| [[S01E26 - Episode Twenty Six\|S01E26]] | City Watch and griffin cavalry gathered outside the [[Zadio City Music Hall]] with captured bugbears after the Xanathar battle |
-| [[S01E27 - Episode Twenty Seven\|S01E27]] | [[Victoro Cassalanter]] leads a Watch army to arrest SWOJ outside the theater; [[Bricks And Bracks]] betray [[Remalia Haventree]] to the Watch; SWOJ imprisoned for approximately one week |
-| [[S01E29 - Episode Twenty Nine\|S01E29]] | [[Ulkoria Stonemarrow]] coordinates the Watch cleanup at [[Cassalanter Villa]]; Cassalanter ledgers reveal many Watch members were on the payroll; Stonemarrow promises a full internal sweep |
-| [[S02E05 - Episode Thirty Five (S02E05)\|S02E05]] | [[Gorg Fallowfoot]] mentioned as a Watch member during Waterdeep's wartime state |
+| [[S01E01 - Episode One|S01E01]] | Gang violence between the Zhentarim and Xanathar Guild strains the Watch across the Dock Ward and Trade Ward |
+| [[S01E02 - Episode Two|S01E02]] | [[Captain Hyustus Stagget]] arrives at the [[Zhentarim Warehouse]] on [[Candle Lane]] with thirteen men; recognizes [[Renaer Neverember]] and lets the party go |
+| [[S01E05 - Episode Five|S01E05]] | Captain Stagget advises the party to register magic users with the [[Watchful Order of Magists and Protectors]] |
+| [[S01E10 - Episode Ten|S01E10]] | [[Zylka]] escapes City Watch custody at the Seaward watch post; her two rings remain with SWOJ |
+| [[S01E11 - Episode Eleven|S01E11]] | Magistrate [[Ulkoria Stonemarrow]] and [[Sergeant Crowley]] investigate the fireball crime scene at [[Trollskull Alley]] |
+| [[S01E12 - Episode Twelve|S01E12]] | City Watch arrives and floods [[Gralhund Villa]] at the end of the episode, securing the scene after the Zhentarim-Gralhund battle |
+| [[S01E13 - Episode Thirteen|S01E13]] | Watch investigates the Gralhund Villa bloodbath; Captain Stagget arrests SWOJ after the High Road chase and privately warns them about the corrupt magistrate |
+| [[S01E15 - Episode Fifteen|S01E15]] | Two dead watchmen discovered bludgeoned in the prison basement; Willaford Crowell exposed as a doppelganger impersonating Stagget; courtroom chaos as intellect devourers attack the Watch; [[Laeral Silverhand]] intervenes |
+| [[S01E22 - Episode Twenty Two|S01E22]] | City Watch raids the [[Kolat Towers]]; the [[The Necromancer\|Necromancer]]'s simulacrum (iron mask) rushes to defend against the raid |
+| [[S01E23 - Episode Twenty Three|S01E23]] | SWOJ explores the Necromancer's sanctum while he fights the City Watch outside |
+| [[S01E26 - Episode Twenty Six|S01E26]] | City Watch and griffin cavalry gathered outside the [[Zadio City Music Hall]] with captured bugbears after the Xanathar battle |
+| [[S01E27 - Episode Twenty Seven|S01E27]] | [[Victoro Cassalanter]] leads a Watch army to arrest SWOJ outside the theater; [[Bricks And Bracks]] betray [[Remalia Haventree]] to the Watch; SWOJ imprisoned for approximately one week |
+| [[S01E29 - Episode Twenty Nine|S01E29]] | [[Ulkoria Stonemarrow]] coordinates the Watch cleanup at [[Cassalanter Villa]]; Cassalanter ledgers reveal many Watch members were on the payroll; Stonemarrow promises a full internal sweep |
+| [[S02E05 - Episode Thirty Five (S02E05)|S02E05]] | [[Gorg Fallowfoot]] mentioned as a Watch member during Waterdeep's wartime state |
 
 ---
 

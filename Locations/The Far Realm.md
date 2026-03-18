@@ -1,11 +1,12 @@
 ---
-title: "The Far Realm"
+title: The Far Realm
 type: location
-subtype: ""
-aliases: []
+subtype: ''
+aliases:
+- Far Realm
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # The Far Realm

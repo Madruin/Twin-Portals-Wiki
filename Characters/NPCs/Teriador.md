@@ -19,8 +19,8 @@ tags:
 
 **Teriador**, known as **the Rose Knight**, is a legendary hero who originally slew the [[Beast Of Erua]]. Once a half-elf knight, Teriador's story spans centuries -- from his original heroic deeds, through death and ghostly existence, soul absorption, corruption as the Blight Knight, and ultimately resurrection in a drow body as a member of [[Bregan D'Aerthe]].
 
-**First appearance:** [[S02E01 - Episode Thirty One (S02E01)]] (mentioned)
-**First physical appearance:** [[S02E03 - Episode Thirty Three (S02E03)]] (ghost)
+**First appearance:** [[S02E01 - Episode Thirty One (S02E01)|S02E01]] (mentioned)
+**First physical appearance:** [[S02E03 - Episode Thirty Three (S02E03)|S02E03]] (ghost)
 **Total appearances:** 8 episodes
 
 ## Description

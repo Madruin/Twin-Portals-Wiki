@@ -14,7 +14,7 @@ tags:
 
 **Tula** is a bartender who works at [[Zuber Farm]], the halfling farmstead outside [[Waterdeep]]. She is a coworker and confidante of [[Dasher Zuber]], the missing son of [[Blossom Zuber]].
 
-**First appearance:** [[S01E08 - Episode Eight]]
+**First appearance:** [[S01E08 - Episode Eight|S01E08]]
 **Total appearances:** 2 episodes
 
 ## Description
@@ -23,8 +23,8 @@ Tula works behind the bar at [[Zuber Farm]]. She is personable and observant, ke
 
 ## Role in the Story
 
-- **[[S01E08 - Episode Eight]]:** After [[SWOJ]] deals with the scarecrow threat, [[Scoot Sparkles|Scoot]] and [[Malark Wavesilver|Lark]] approach Tula at [[Zuber Farm]] to ask about [[Dasher Zuber]]'s whereabouts. Scoot introduces himself and Lark, and with a strong persuasion check, Tula opens up. She reveals that Dasher -- despite not telling his mother -- would frequently visit a place in the city called the [[Hole in the Wall]], a halfling tavern at the base of the [[God Catcher]]. She says Dasher would go there to hang out with his halfling friends, and that she herself has never been there, usually staying out at the farm or in the [[North Ward|Northward]]. This lead directs SWOJ to the Hole in the Wall, advancing their search for Dasher.
-- **[[S01E08 - Episode Eight]]:** Later, at the [[Hole in the Wall]], [[Xaerine Rumblestride|Xae]] tries to track down a halfling she met earlier by mentioning Tula as a mutual acquaintance. The bartender [[Bonnie Hilltopple]] asks the other patrons if anyone knows someone named Tula, but no one at the tavern recognizes the name.
+- **[[S01E08 - Episode Eight|S01E08]]:** After [[SWOJ]] deals with the scarecrow threat, [[Scoot Sparkles|Scoot]] and [[Malark Wavesilver|Lark]] approach Tula at [[Zuber Farm]] to ask about [[Dasher Zuber]]'s whereabouts. Scoot introduces himself and Lark, and with a strong persuasion check, Tula opens up. She reveals that Dasher -- despite not telling his mother -- would frequently visit a place in the city called the [[Hole in the Wall]], a halfling tavern at the base of the [[God Catcher]]. She says Dasher would go there to hang out with his halfling friends, and that she herself has never been there, usually staying out at the farm or in the [[North Ward|Northward]]. This lead directs SWOJ to the Hole in the Wall, advancing their search for Dasher.
+- **[[S01E08 - Episode Eight|S01E08]]:** Later, at the [[Hole in the Wall]], [[Xaerine Rumblestride|Xae]] tries to track down a halfling she met earlier by mentioning Tula as a mutual acquaintance. The bartender [[Bonnie Hilltopple]] asks the other patrons if anyone knows someone named Tula, but no one at the tavern recognizes the name.
 
 ## Relationships
 

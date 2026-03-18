@@ -1,11 +1,12 @@
 ---
-title: "Hall Of Justice"
+title: Hall Of Justice
 type: location
-subtype: "building, government building"
-aliases: []
+subtype: building, government building
+aliases:
+- Hall of Justice
 tags:
-  - twin-portals
-  - location
+- twin-portals
+- location
 ---
 
 # Hall Of Justice

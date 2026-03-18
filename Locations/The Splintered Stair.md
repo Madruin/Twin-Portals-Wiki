@@ -26,7 +26,7 @@ The Splintered Stair is a humble dwelling in one of Waterdeep's rougher neighbor
 - **[[S01E02 - Episode Two|S01E02]]:** After the party's first adventure, [[Scoot Sparkles|Scoot]] identifies the manhole near the Splintered Stair as home -- "That's my place... that's where we stay"
 - **[[S01E03 - Episode Three|S01E03]]:** The party is transported back to the Splintered Stair where [[Floon Blagmaar]] and [[Renaer Neverember]] await them; [[Xaerine Rumblestride|Xae]] maps lightning convergences to near [[Candle Lane]] and the Splintered Stair, discovering a magical portal archway where the apartment should be
 - **[[S01E26 - Episode Twenty Six|S01E26]]:** [[Malark Wavesilver|Lark]] tells [[Aurinax]] he lives with his friend [[Scoot Sparkles|Scoot]] at the Splintered Stair, emphasizing he chose a humble life in the Docks Ward over his noble family's wealth
-- **[[S02E38 - Episode Sixty Eight - Season Two Finale|S02E38]]:** In the Season 2 finale reflections, [[Malark Wavesilver|Lark]]'s journey is recalled as starting as a runaway living in a "crappy apartment above the Splintered Stair, dreaming about broadsheets and fantasy stories"
+- **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** In the Season 2 finale reflections, [[Malark Wavesilver|Lark]]'s journey is recalled as starting as a runaway living in a "crappy apartment above the Splintered Stair, dreaming about broadsheets and fantasy stories"
 
 ## Connected Characters
 

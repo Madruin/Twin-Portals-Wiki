@@ -15,7 +15,7 @@ tags:
 
 **Santorini** is a winged and horned tiefling or demon who frequents the [[Dark Market]] in the [[Shadowfell (Deep)|Shadowfell]], and one third of an inseparable trio alongside [[Mikael]] and [[Lucinda]]. Named after a Greek island -- a fact that amuses the players when they hear it -- Santorini shares the group's extremely sociable, laid-back demeanor as they befriend newcomers to the market. The trio hails from [[Avernus]] and has been in the [[Dark Market]] for roughly twenty days by the time [[Silver Waves of Justice|SWOJ]] arrives. The angel [[Ryloren|Rylerin]] considers them harmless but warns against getting too comfortable with them.
 
-**First appearance:** [[S02E21 - Episode Fifty One (S02E21)]]
+**First appearance:** [[S02E21 - Episode Fifty One (S02E21)|S02E21]]
 **Total appearances:** 1 episode
 
 ## Description

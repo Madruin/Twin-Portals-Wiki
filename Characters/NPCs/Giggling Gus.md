@@ -67,9 +67,9 @@ After [[SWOJ]] defeats [[Rowan Crooks]] atop Zhentil Keep and the fortress colla
 
 | Episode | Role |
 |---------|------|
-| **[[S02E22 - Episode Fifty Two LIVE (S02E22)\|S02E22]]** | Spotted mopping with [[Quick Quill Quincy]] inside Zhentil Keep's hollowed-out tower while SWOJ infiltrates the fortress. Not directly encountered. |
-| **[[S02E23 - Episode Fifty Three (S02E23)\|S02E23]]** | Referenced indirectly -- a phylactery in [[Friar Truck]]'s laboratory emits his signature giggling sound when knocked from the altar, implying his soul is bound within it. |
-| **[[S02E25 - Episode Fifty Five LIVE (S02E25)\|S02E25]]** | Appears in the [[The Raven Queen|Raven Queen]]'s dream sequence, leading the Jolly Gents' legendary assault on [[Xanathar's Lair|the Xanathar's lair]] alongside [[Antediluvian Jake]]. |
+| **[[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]** | Spotted mopping with [[Quick Quill Quincy]] inside Zhentil Keep's hollowed-out tower while SWOJ infiltrates the fortress. Not directly encountered. |
+| **[[S02E23 - Episode Fifty Three (S02E23)|S02E23]]** | Referenced indirectly -- a phylactery in [[Friar Truck]]'s laboratory emits his signature giggling sound when knocked from the altar, implying his soul is bound within it. |
+| **[[S02E25 - Episode Fifty Five LIVE (S02E25)|S02E25]]** | Appears in the [[The Raven Queen|Raven Queen]]'s dream sequence, leading the Jolly Gents' legendary assault on [[Xanathar's Lair|the Xanathar's lair]] alongside [[Antediluvian Jake]]. |
 
 ```dataview
 TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"

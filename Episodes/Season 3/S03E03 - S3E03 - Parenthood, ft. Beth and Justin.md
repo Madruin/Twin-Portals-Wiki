@@ -8,8 +8,8 @@ duration: "01:21:08"
 type: episode
 format: meta
 live: false
-prev: "[[S03E02 - S3E02 - How We've Funded Our Projects]]"
-next: "[[S03E04 - S3E04 - Twin Portals Live at ExcaliburCon]]"
+prev: "[[S03E02 - S3E02 - How We've Funded Our Projects|S03E02]]"
+next: "[[S03E04 - S3E04 - Twin Portals Live at ExcaliburCon|S03E04]]"
 tags:
   - twin-portals
   - season-3

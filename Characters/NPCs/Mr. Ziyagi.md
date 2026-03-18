@@ -14,7 +14,7 @@ tags:
 
 Mr. Ziyagi was [[Mr. E]]'s sensei, a figure of profound personal significance whose mysterious death became a driving force in Mr. E's story. Originally invented as an offhand joke by Mr. E's player Robert Lee during character creation, Mr. Ziyagi grew into a plot-essential narrative thread that shaped Mr. E's motivations across both seasons of the campaign.
 
-**First appearance:** [[S01E26 - Episode Twenty Six]]
+**First appearance:** [[S01E26 - Episode Twenty Six|S01E26]]
 **Total appearances:** 4 episodes
 
 ## Description
@@ -25,10 +25,10 @@ As a sensei, Mr. Ziyagi served as Mr. E's mentor in the monastic and martial dis
 
 ## Role in the Story
 
-- **[[S01E26 - Episode Twenty Six]]:** [[Mr. E]] returns to [[Silver Waves Of Justice|SWOJ]] at [[Remalia Haventree]]'s house carrying a [[Book of Shadows]]. He reveals that his sensei Mr. Ziyagi had gone missing, and that he used the Book of Shadows -- obtained from a house the party had previously visited -- to track Ziyagi down through "mischievous channels." He found Ziyagi dead. Mr. E tells the party, "He was everything to me. When he went missing, I was, you know, I didn't have a direction in the world." Mr. E asks SWOJ for help finding who killed Ziyagi, offering his services in return. The Book of Shadows is wrapped in butcher paper and stored in [[Scoot Sparkles|Scoot]]'s bag of holding to keep it from falling into the wrong hands.
-- **[[S01E29 - Episode Twenty Nine]]:** During the Season 1 finale, while examining statues in the God Catcher chamber beneath [[Waterdeep]], Mr. E asks whether one of the statues is a likeness of Mr. Ziyagi, showing that the sensei remains on his mind. The statue turns out to depict someone else entirely.
-- **[[S01E30 - Episode Thirty]]:** During the "Twin Portals Con 2021" talkback panel, Robert Lee reveals that he made up Mr. Ziyagi as a joke during character creation, but the character ended up on the DM's quest list and became integral to Mr. E's arc. The cast jokes that "Ziyagi" is probably an elevator name standing for something longer like "Zialith Gianor."
-- **[[S02E05 - Episode Thirty Five (S02E05)]]:** After SWOJ returns to [[Waterdeep]] following a three-year time displacement, the party learns that Mr. E left to search for Mr. Ziyagi, possibly traveling to a place called "Serbia" (likely another plane of existence). [[Rowan Crooks]] was reportedly not very helpful with information about Mr. E's quest. Mr. E's absence pursuing this lead is noted as a reason he has not been in [[Waterdeep]] during the intervening years.
+- **[[S01E26 - Episode Twenty Six|S01E26]]:** [[Mr. E]] returns to [[Silver Waves Of Justice|SWOJ]] at [[Remalia Haventree]]'s house carrying a [[Book of Shadows]]. He reveals that his sensei Mr. Ziyagi had gone missing, and that he used the Book of Shadows -- obtained from a house the party had previously visited -- to track Ziyagi down through "mischievous channels." He found Ziyagi dead. Mr. E tells the party, "He was everything to me. When he went missing, I was, you know, I didn't have a direction in the world." Mr. E asks SWOJ for help finding who killed Ziyagi, offering his services in return. The Book of Shadows is wrapped in butcher paper and stored in [[Scoot Sparkles|Scoot]]'s bag of holding to keep it from falling into the wrong hands.
+- **[[S01E29 - Episode Twenty Nine|S01E29]]:** During the Season 1 finale, while examining statues in the God Catcher chamber beneath [[Waterdeep]], Mr. E asks whether one of the statues is a likeness of Mr. Ziyagi, showing that the sensei remains on his mind. The statue turns out to depict someone else entirely.
+- **[[S01E30 - Episode Thirty|S01E30]]:** During the "Twin Portals Con 2021" talkback panel, Robert Lee reveals that he made up Mr. Ziyagi as a joke during character creation, but the character ended up on the DM's quest list and became integral to Mr. E's arc. The cast jokes that "Ziyagi" is probably an elevator name standing for something longer like "Zialith Gianor."
+- **[[S02E05 - Episode Thirty Five (S02E05)|S02E05]]:** After SWOJ returns to [[Waterdeep]] following a three-year time displacement, the party learns that Mr. E left to search for Mr. Ziyagi, possibly traveling to a place called "Serbia" (likely another plane of existence). [[Rowan Crooks]] was reportedly not very helpful with information about Mr. E's quest. Mr. E's absence pursuing this lead is noted as a reason he has not been in [[Waterdeep]] during the intervening years.
 
 ## Relationships
 

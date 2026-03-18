@@ -14,17 +14,17 @@ tags:
 
 The Trollskull Alley Irregulars are a group of three orphan street urchins -- [[Nat]], [[Jenks]], and [[Squidly]] -- who were taken in by [[SWOJ]] and hired to help around [[Trollskull Manor]] for 10 gold pieces per tenday. What began as a simple employment arrangement grew into a genuine family bond, with [[Taga]] taking over their education and the children eventually calling her "mom." Over time the Irregulars expanded to include the [[Cassalanter Family|Cassalanter]] children, [[Terenzio Cassalanter|Terenzio]] and [[Elga Cassalanter|Elga]], who were placed under city protection after their parents' sentencing.
 
-**First appearance:** [[S01E05 - Episode Five]]
-**Named and hired:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E05 - Episode Five|S01E05]]
+**Named and hired:** [[S01E07 - Episode Seven|S01E07]]
 **Also known as:** The Irregulars, the Trollskull Trio
 
 ## Overview
 
 The three urchins were first encountered by SWOJ during [[S01E05 - Episode Five|Episode 5]] at [[Taga]]'s ransacked apartment in the Dock Ward, where they had been sheltering. Nat, the fearless mute leader, found a hag's talisman hidden under the tower floorboards while Squidly was captured by [[Esther]] the hag and nearly cooked in a cauldron. After this harrowing introduction, SWOJ brought the children to [[Trollskull Manor]] where they were formally hired in [[S01E07 - Episode Seven|Episode 7]] as helpers around the tavern at 10 gold pieces per tenday.
 
-The Irregulars quickly proved their worth as more than just tavern hands. They became SWOJ's eyes and ears on the streets of [[Waterdeep]], gathering intelligence and reporting on suspicious activity in the neighborhood. Their most dangerous assignment came during the [[Stone of Golorr]] investigation, when they tracked a burned [[Zhentarim]] agent to the [[Gralhund Villa]], resulting in [[Squidly]] being wounded by [[Hrabbaz]].
+The Irregulars quickly proved their worth as more than just tavern hands. They became SWOJ's eyes and ears on the streets of [[Waterdeep]], gathering intelligence and reporting on suspicious activity in the neighborhood. Their most dangerous assignment came during the [[The Stone of Golorr]] investigation, when they tracked a burned [[Zhentarim]] agent to the [[Gralhund Villa]], resulting in [[Squidly]] being wounded by [[Hrabbaz]].
 
-Under [[Taga]]'s care, the Irregulars received an education and a stable home life. By [[S01E29 - Episode Twenty-Nine|Episode 29]], Taga had become their surrogate mother, and the Cassalanter children -- whose souls had been forfeit in their parents' [[Cult of Asmodeus|devil contract]] -- joined the group after being placed under city protection.
+Under [[Taga]]'s care, the Irregulars received an education and a stable home life. By [[S01E29 - Episode Twenty Nine|Episode 29]], Taga had become their surrogate mother, and the Cassalanter children -- whose souls had been forfeit in their parents' [[Cult of Asmodeus|devil contract]] -- joined the group after being placed under city protection.
 
 During the three-year gap between Seasons 1 and 2, the Irregulars grew into teenagers and took on serious responsibilities. [[Nat]] and [[Jenks]] helped manage the [[Short Rest]] tavern alongside [[Leaf]], while [[Squidly]] became a [[Harpers|Harper]] agent operating out of the [[House of a Thousand Faces]] in [[Neverwinter]]. By Season 2, each had forged their own path: Nat became a griffin rider leading aerial forces, Squidly served as a scout and crew member aboard the [[Ethereal Galleon]], and Jenks continued supporting operations at the tavern.
 

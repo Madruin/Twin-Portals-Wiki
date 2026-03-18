@@ -8,8 +8,8 @@ duration: "01:37:50"
 type: episode
 format: gameplay
 live: true
-prev: "[[S02E33 - Episode Sixty Three (S02E33)]]"
-next: "[[S02E35 - Episode Sixty Five (S02E35)]]"
+prev: "[[S02E33 - Episode Sixty Three (S02E33)|S02E33]]"
+next: "[[S02E35 - Episode Sixty Five (S02E35)|S02E35]]"
 tags:
   - twin-portals
   - season-2

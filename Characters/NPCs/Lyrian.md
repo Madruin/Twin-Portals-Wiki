@@ -14,7 +14,7 @@ tags:
 
 The unicorn companion of Xae. Found in a trance with red glowing eyes, approaching the werewolf to eat corrupted ash berries. Gets struck by lightning and corrupted into a black-furred unicorn with a black horn radiating red energy. After being pushed into the pool by Xae (as a giant goat) and doused with purified water, she is struck by white moonlight and restored to her true form. She tells the party 'I'll find you. Be safe. Thank you.' before they are pulled back to the material plane.
 
-**First appearance:** [[S01E21 - Episode Twenty One]]
+**First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 2 episodes
 
 ## Description

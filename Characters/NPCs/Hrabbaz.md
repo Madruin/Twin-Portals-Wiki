@@ -14,7 +14,7 @@ tags:
 
 Half-orc bodyguard employed by the Gralhund family. Known for being violent and cruel, especially toward children. Janks suggests him as a potential body for Terry.
 
-**First appearance:** [[S01E11 - Episode Eleven]]
+**First appearance:** [[S01E11 - Episode Eleven|S01E11]]
 **Total appearances:** 2 episodes
 **Faction affiliations:** [[Gralhund Family]], [[Zhentarim]]
 

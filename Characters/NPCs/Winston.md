@@ -14,7 +14,7 @@ tags:
 
 Winston is a shield guardian -- a ten-foot-tall magical construct -- who serves as the loyal companion and protector of [[Ulkoria Stonemarrow]], the dwarf magister of the [[Watchful Order Of Magisters|Watchful Order of Magists and Protectors]]. He accompanies Ulkoria wherever she goes, standing silent watch with his arms crossed.
 
-**First appearance:** [[S01E07 - Episode Seven]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 1 episode
 
 ## Description

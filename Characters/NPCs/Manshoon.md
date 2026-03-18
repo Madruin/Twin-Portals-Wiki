@@ -14,7 +14,7 @@ tags:
 
 Zhentarim leader (or his simulacrum). Appears on the theater balcony during the battle with Zhentarim lieutenants. Casts Bigby's Hand against Scoot. Retreats after Remalia's fireball blasts the balcony.
 
-**First appearance:** [[S01E26 - Episode Twenty Six]]
+**First appearance:** [[S01E26 - Episode Twenty Six|S01E26]]
 **Total appearances:** 19 episodes
 **Faction affiliations:** [[Zhentarim]]
 

@@ -1,15 +1,16 @@
 ---
-title: "Vintners', Distillers', And Brewers' Guild"
+title: Vintners', Distillers', And Brewers' Guild
 type: faction
 status: active
 aliases:
-  - Vintners Guild
-  - Brewers Guild
+- Vintners Guild
+- Brewers Guild
+- Vintners', Distillers', and Brewers' Guild
 tags:
-  - twin-portals
-  - faction
-  - waterdeep
-  - guild
+- twin-portals
+- faction
+- waterdeep
+- guild
 ---
 
 # Vintners', Distillers', And Brewers' Guild
