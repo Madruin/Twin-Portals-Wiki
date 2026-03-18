@@ -1,8 +1,9 @@
 ---
 title: "Saradune Street"
 type: location
-subtype: ""
-aliases: []
+subtype: "street"
+aliases:
+  - "Saradune"
 tags:
   - twin-portals
   - location
@@ -10,44 +11,24 @@ tags:
 
 # Saradune Street
 
-Street in the North Ward connecting to Trollskull Alley. SWOJ encounters Renaer on this street.
+Saradune Street is a street in the [[North Ward]] of [[Waterdeep]] that connects to [[Trollskull Alley]], where [[SWOJ]]'s home base, [[Trollskull Manor]], is located.
 
-**Type:** 
-**First appearance:** Episode S01E12
-**Total appearances:** 1 episodes
+**Type:** Street
+**Ward:** [[North Ward]], [[Waterdeep]]
+**First appearance:** [[S01E12 - Episode Twelve|Episode S01E12]]
 
 ## Description
 
-Street in the North Ward connecting to Trollskull Alley. SWOJ encounters Renaer on this street.
+Saradune Street runs through the [[North Ward]] of [[Waterdeep]] and serves as the main access route to [[Trollskull Alley]]. As a North Ward street, it sits in one of Waterdeep's more residential noble neighborhoods.
 
 ## Notable Events
 
-
-
-
-*No notable events recorded in transcripts.*
+- **[[S01E12 - Episode Twelve|S01E12]]:** [[SWOJ]] encounters [[Renaer Neverember]] on Saradune Street near the entrance to [[Trollskull Alley]].
 
 ## Connected Characters
 
-
-
-
-- [[Dagult Neverember]]
-- [[Dalekar]]
-- [[Fel'Rekt Lafeen]]
-- [[Flo]]
-- [[Hrabbaz]]
-- [[Jarlaxle]]
-- [[Jenks]]
-- [[Lif]]
-- [[Nat]]
-- [[Orond Gralhund]]
-- [[Pog Waggletop]]
-- [[Renaer Neverember]]
-- [[Sally]]
-- [[Squidly]]
-- [[Victoro Cassalanter]]
-- [[Yalah Gralhund]]
+- [[Renaer Neverember]] — encountered by SWOJ on this street
+- [[SWOJ]] — regularly traveled this street to reach Trollskull Alley
 
 ## Episode Appearances
 

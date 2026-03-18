@@ -2,7 +2,7 @@
 title: "Zhentil Keep (Dark Sun)"
 type: location
 subtype: "fortress"
-aliases: []
+aliases: ["Dark Sun"]
 tags:
   - twin-portals
   - location
@@ -10,29 +10,14 @@ tags:
 
 # Zhentil Keep (Dark Sun)
 
-Rowan Crooks' floating fortress visible as a dark sun in the Shadowfell sky. Absorbs the souls of the dead. Has wyvern patrols circling it. A library fell from it to the ground. SWOJ's destination -- they fly toward it on their improvised spell jamming carpet at the end of the episode.
+> [!note] Redirect
+> "Dark Sun" is the colloquial name for [[Zhentil Keep]] as seen from outside -- a massive sphere of darkness hanging in the [[Shadowfell]] sky. For full details on the fortress, its history, and events, see **[[Zhentil Keep]]**.
 
-**Type:** fortress
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
+The dark sun is the external appearance of [[Rowan Crooks]]' floating fortress as observed from the ground level of the [[Shadowfell]]. It appears as an enormous sphere of impenetrable darkness suspended high in the sky, absorbing the souls of the dead in visible swirling currents. [[Wyvern]] patrols circle it constantly. A library fell from it to the ground some days before SWOJ's arrival. [[Shaleheart]] guided the party toward it, and SWOJ ultimately reached it by flying on an improvised spell-jammer carpet fashioned from a flying trash rug.
 
-## Description
-
-Rowan Crooks' floating fortress visible as a dark sun in the Shadowfell sky. Absorbs the souls of the dead. Has wyvern patrols circling it. A library fell from it to the ground. SWOJ's destination -- they fly toward it on their improvised spell jamming carpet at the end of the episode.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-*No connected characters identified from transcripts.*
+**Type:** fortress (external view)
+**Region:** [[Shadowfell]]
+**See:** [[Zhentil Keep]]
 
 ## Episode Appearances
 

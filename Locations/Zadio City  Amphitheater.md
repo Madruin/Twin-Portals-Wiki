@@ -1,44 +1,17 @@
 ---
-title: "Zadio City  Amphitheater"
+title: "Zadio City Amphitheater"
 type: location
-subtype: ""
-aliases: []
+subtype: "redirect"
+aliases:
+  - "Zadio's Amphitheater"
 tags:
   - twin-portals
   - location
 ---
 
-# Zadio City  Amphitheater
+# Zadio City Amphitheater
 
-Ancient open-air theater in 992 DR Waterdeep owned by Zadio Neverember. The Vault of Dragons is located beneath it.
+> [!tip] Redirect
+> This location is covered under **[[Zadio City Music Hall]]**.
 
-**Type:** 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-Ancient open-air theater in 992 DR Waterdeep owned by Zadio Neverember. The Vault of Dragons is located beneath it.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-*No connected characters identified from transcripts.*
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+The amphitheater was the original open-air theater built by [[Zadio Neverember]] approximately 500 years before the campaign (in 992 DR Waterdeep). It was later rebuilt as the [[Zadio City Music Hall]], which stands on the same site on Copper Street near [[Delzorn Way]]. The [[Vault of Dragons]] lies beneath the structure's foundations, within ancient Malarkan dwarven ruins. SWOJ glimpsed the amphitheater in its original form during a vision of the past in [[S01E25 - Episode Twenty Five|S01E25]].

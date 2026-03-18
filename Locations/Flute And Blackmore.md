@@ -2,7 +2,8 @@
 title: "Flute And Blackmore"
 type: location
 subtype: "tavern"
-aliases: []
+aliases:
+  - "The Flute and Blackmore"
 tags:
   - twin-portals
   - location
@@ -10,53 +11,23 @@ tags:
 
 # Flute And Blackmore
 
-An establishment associated with Pinker, who attends the Trollskull party.
+An establishment in [[Waterdeep]] associated with [[Pinker]], the [[kenku]] former [[Xanathar Guild]] member turned ally of [[SWOJ]]. The Flute and Blackmore is mentioned by name during the Season 2 finale celebration, when Pinker and other patrons attend the God's Night party at [[Trollskull Manor]].
 
-**Type:** tavern
-**First appearance:** Episode S02E38
-**Total appearances:** 1 episodes
+**Type:** Tavern / Establishment
+**Region:** [[Waterdeep]]
+**First Appearance:** [[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]
 
 ## Description
 
-An establishment associated with Pinker, who attends the Trollskull party.
+Little is known about the Flute and Blackmore's interior or exact location within [[Waterdeep]], as it appears only briefly in the narrative. What is clear is that [[Pinker]] -- the kenku who defected from the [[Xanathar Guild]] to become one of SWOJ's most loyal allies -- has become a regular there by the time of the Season 2 finale. The establishment's name suggests a music-themed tavern, fitting given Pinker's kenku nature and his mimicry of sounds and voices.
 
 ## Notable Events
 
-
-
-
-*No notable events recorded in transcripts.*
+- **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** During the God's Night celebration at [[Trollskull Manor]] in the festival of [[Marpenoth]], attendees from the Flute and Blackmore show up to the party. [[Pinker]] buys a round of drinks for everyone and salutes the party "in his pinkery way," wearing [[Scoot Sparkles|Scoot]]'s durag -- the memento from their trade in the [[Arena Of Blood And Fortune|arena cells]] -- as a badge of honor.
 
 ## Connected Characters
 
-
-
-
-- [[Bonnie]]
-- [[Durnan]]
-- [[Fai Chen]]
-- [[Grim Wavesilver]]
-- [[Jarlaxle]]
-- [[Jenks]]
-- [[Laeral Silverhand]]
-- [[Lif]]
-- [[Lyrian]]
-- [[Melifarn]]
-- [[Mordecai Gralhund]]
-- [[Pinker]]
-- [[Remalia Haventree]]
-- [[Renaer Neverember]]
-- [[Sally]]
-- [[Shaleheart]]
-- [[Sid Squid]]
-- [[Simon]]
-- [[Squidley]]
-- [[Tagga]]
-- [[Terry]]
-- [[Three Strings]]
-- [[Ulkoria Stonemarrow]]
-- [[Vincent Trench]]
-- [[Volo]]
+- [[Pinker]] -- Kenku patron and SWOJ ally, associated with the establishment by the Season 2 finale
 
 ## Episode Appearances
 

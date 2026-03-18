@@ -2,7 +2,8 @@
 title: "Docks Ward Guardhouse (Jail Cell)"
 type: location
 subtype: ""
-aliases: []
+aliases:
+  - "Jail Cell (Docks Ward)"
 tags:
   - twin-portals
   - location
@@ -10,36 +11,9 @@ tags:
 
 # Docks Ward Guardhouse (Jail Cell)
 
-Where SWOJ is imprisoned. The Stone of Galore activates here during the night, triggering visions and time travel. They wake up here at the end of the episode.
+> **This location is part of the [[Docks Ward Guardhouse]].** See that page for full details on SWOJ's imprisonment, the Stone of Golorr visions, and the trial presided over by [[Laeral Silverhand]].
 
-**Type:** 
-**First appearance:** Episode S01E14
-**Total appearances:** 1 episodes
-
-## Description
-
-Where SWOJ is imprisoned. The Stone of Galore activates here during the night, triggering visions and time travel. They wake up here at the end of the episode.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-- [[Ghosts Of Solstice Past]]
-- [[Gorge Baileybrew]]
-- [[Grandfather Niklas]]
-- [[Hans Von Gruber]]
-- [[Navi]]
-- [[Xae (Prehistoric)]]
-- [[Zaka]]
-- [[Zuzu]]
+The jail cells are located in the basement of the [[Docks Ward Guardhouse]] in [[Waterdeep]]'s [[Dock Ward]]. [[SWOJ]] was held here after their arrest by [[Captain Hyustus Stagget]]. While imprisoned overnight, the [[Stone of Golorr]] activated, sending [[Scoot Sparkles|Scoot]], [[Ylka Gralhund|Ylka]], and [[Lark]] on a shared vision journey through the prehistory of Waterdeep, while [[Xae]] remained asleep.
 
 ## Episode Appearances
 

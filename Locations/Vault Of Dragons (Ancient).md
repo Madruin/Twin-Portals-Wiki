@@ -2,7 +2,8 @@
 title: "Vault Of Dragons (Ancient)"
 type: location
 subtype: ""
-aliases: []
+aliases:
+  - "Ancient Vault of Dragons"
 tags:
   - twin-portals
   - location
@@ -10,40 +11,6 @@ tags:
 
 # Vault Of Dragons (Ancient)
 
-Underground vault beneath Zadio's amphitheater in 992 DR. Contains the dragon horde and is guarded by various creatures.
+> **Redirect:** This location is covered under [[Vault Of Dragons]].
 
-**Type:** 
-**First appearance:** Episode S01E25
-**Total appearances:** 1 episodes
-
-## Description
-
-Underground vault beneath Zadio's amphitheater in 992 DR. Contains the dragon horde and is guarded by various creatures.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-- [[Laeral Silverhand]]
-- [[Melifarn]]
-- [[Remalia Haventree]]
-- [[Rosetta Stonemarrow]]
-- [[Terry]]
-- [[Zadio Neverember]]
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+The ancient version of the Vault of Dragons in 992 DR, accessed during SWOJ's time-travel journey in [[S01E25 - Episode Twenty Five|S01E25]], is described on the main Vault of Dragons page. The 992 DR setting of the vault is also covered on [[Ancient Waterdeep (992 D.R.)]].

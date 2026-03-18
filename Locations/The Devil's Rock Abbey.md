@@ -2,7 +2,8 @@
 title: "The Devil's Rock Abbey"
 type: location
 subtype: ""
-aliases: []
+aliases:
+  - "Devil's Rock Abbey"
 tags:
   - twin-portals
   - location
@@ -10,35 +11,6 @@ tags:
 
 # The Devil's Rock Abbey
 
-A ruined temple atop Devil's Rock featuring aboleth shrine motifs -- deep-sea creature murals, octopus imagery, and disturbing carvings. Contains a hidden tunnel entrance behind its altar.
+> **Redirect:** This location is covered under [[Devil's' Rock|Devil's Rock]].
 
-**Type:** 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-A ruined temple atop Devil's Rock featuring aboleth shrine motifs -- deep-sea creature murals, octopus imagery, and disturbing carvings. Contains a hidden tunnel entrance behind its altar.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-*No connected characters identified from transcripts.*
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+The ruined abbey atop [[Devil's' Rock|Devil's Rock]] is described in detail on the main island page, including its aboleth shrine, destruction from above, and SWOJ's exploration during [[S02E10 - Episode Forty (S02E10)|S02E10]].

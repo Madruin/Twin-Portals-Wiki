@@ -1,8 +1,9 @@
 ---
 title: "Palace Of Waterdeep"
 type: location
-subtype: ""
-aliases: []
+subtype: "government building"
+aliases:
+  - "Palace of Waterdeep"
 tags:
   - twin-portals
   - location
@@ -10,42 +11,10 @@ tags:
 
 # Palace Of Waterdeep
 
-Seat of government on the western shore atop the mountain. Laeral initially claims she is taking SWOJ here for appearances.
+> [!note] Redirect
+> This location is the same as the **[[Masked Lords' Palace]]**. See that page for full details.
 
-**Type:** 
-**First appearance:** Episode S01E15
-**Total appearances:** 1 episodes
-
-## Description
-
-Seat of government on the western shore atop the mountain. Laeral initially claims she is taking SWOJ here for appearances.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-- [[Bartolo]]
-- [[Captain Hyustus Stagget]]
-- [[Flo]]
-- [[Floon Blagmaar]]
-- [[Harold]]
-- [[Laeral Silverhand]]
-- [[Remalia Haventree]]
-- [[Sylgar]]
-- [[Tagga]]
-- [[Terry]]
-- [[The Black Viper]]
-- [[Thorvin Twinbeard]]
-- [[Xibrinidas]]
-- [[Zardoz Zord]]
+The Palace of Waterdeep is the seat of government in [[Waterdeep]], where the [[Masked Lords]] convene. [[Laeral Silverhand]] claims she is taking SWOJ here for appearances after their trial in [[S01E15 - Episode Fifteen|S01E15]], though she ultimately diverts them before reaching the palace.
 
 ## Episode Appearances
 

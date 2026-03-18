@@ -1,7 +1,7 @@
 ---
 title: "Zadio City Music Hall (Exterior)"
 type: location
-subtype: ""
+subtype: "redirect"
 aliases: []
 tags:
   - twin-portals
@@ -10,50 +10,7 @@ tags:
 
 # Zadio City Music Hall (Exterior)
 
-Outside the theater after the Xanathar battle. City watch army, griffin cavalry, and Victoria Cassalanter are gathered here.
+> [!tip] Redirect
+> This location is covered under **[[Zadio City Music Hall]]**.
 
-**Type:** 
-**First appearance:** Episode S01E27
-**Total appearances:** 1 episodes
-
-## Description
-
-Outside the theater after the Xanathar battle. City watch army, griffin cavalry, and Victoria Cassalanter are gathered here.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-- [[Amalia Cassalanter]]
-- [[Asmodeus]]
-- [[Aurinax]]
-- [[Bracks]]
-- [[Bricks]]
-- [[Davil Starsong]]
-- [[Elzerina Cassalanter]]
-- [[Esvelle Wavesilver]]
-- [[Melifarn]]
-- [[Remalia Haventree]]
-- [[Renaer Neverember]]
-- [[Terenzio Cassalanter]]
-- [[Terry]]
-- [[Victoro Cassalanter]]
-- [[Vincent Trench]]
-- [[Yagra]]
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+The exterior of the Zadio City Music Hall is the setting for the aftermath of the Season 1 climactic battle in [[S01E27 - Episode Twenty Seven|S01E27]]. After SWOJ killed [[The Xanathar]] and fled the burning theater, they emerged onto the streets to find a city watch army, griffin cavalry overhead, and barricades lining the streets. [[Bricks]] and [[Bracks]] dragged [[Remalia Haventree]] out at knifepoint, accusing her of responsibility. [[Victoro Cassalanter]] was among the assembled forces. SWOJ was ultimately arrested by city watch outside the Music Hall. See [[Zadio City Music Hall]] for full details of these events.

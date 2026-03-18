@@ -1,54 +1,16 @@
 ---
 title: "Cellar/Laboratory"
 type: location
-subtype: "room"
-aliases: []
+aliases:
+  - "Cellar Laboratory"
+  - "Short Rest Cellar"
+  - "Trollskull Cellar"
 tags:
   - twin-portals
-  - location
+  - redirect
 ---
 
-# Cellar/Laboratory
+> [!note] Redirect
+> This page has been consolidated. See **[[Trollskull Manor]]** (Key Areas section, "Cellar" entry).
 
-The basement below the Short Rest containing a scrying pool where they previously communicated with the Necromancer.
-
-**Type:** room
-**First appearance:** Episode S01E22
-**Total appearances:** 1 episodes
-
-## Description
-
-The basement below the Short Rest containing a scrying pool where they previously communicated with the Necromancer.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-- [[Jenks]]
-- [[Lif]]
-- [[Mookie]]
-- [[Nat]]
-- [[Remalia Haventree]]
-- [[Renaer Neverember]]
-- [[Tagga]]
-- [[Terry]]
-- [[The Necromancer]]
-- [[Urstul Floxxin]]
-- [[Zelifarn]]
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+The cellar beneath [[Trollskull Manor]] contains a scrying pool through which [[Ylka Gralhund|Ylka]] contacted [[The Necromancer]], [[Mordecai Gralhund]]'s secret laboratory in a walled-off section, and [[Lif Lindgren|Lif]]'s hidden workshop where the [[Song Sword]] was discovered. See the main [[Trollskull Manor]] page for full details.

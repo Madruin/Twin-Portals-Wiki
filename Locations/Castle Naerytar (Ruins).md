@@ -1,52 +1,17 @@
 ---
 title: "Castle Naerytar (Ruins)"
 type: location
-subtype: "ruins"
+subtype: "redirect"
 aliases: []
 tags:
   - twin-portals
   - location
+  - redirect
 ---
 
 # Castle Naerytar (Ruins)
 
-The now-ruined swamp castle in the Mere of Dead Men. A chasm has split open the swamp from east to west. SWOJ briefly returns to speak with Little Joan before departing eastward.
+> [!note] Redirect
+> This page has been consolidated into [[Castle Naerytar (Surface)]]. The "ruins" designation refers to the same above-ground level of [[Castle Naerytar]] after the chasm collapsed the underground structure during [[S02E29 - Episode Fifty Nine LIVE (S02E29)|Episode S02E29]].
 
-**Type:** ruins
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-The now-ruined swamp castle in the Mere of Dead Men. A chasm has split open the swamp from east to west. SWOJ briefly returns to speak with Little Joan before departing eastward.
-
-## Notable Events
-
-
-
-
-*No notable events recorded in transcripts.*
-
-## Connected Characters
-
-
-
-
-- [[Amalia Cassalanter]]
-- [[Argentis]]
-- [[Grayj]]
-- [[Jill (Ygglimar)]]
-- [[Kingfisher]]
-- [[Little Joan]]
-- [[Quorlith The Starweaver]]
-- [[Renaer Neverember]]
-- [[Zelifarn]]
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+See: [[Castle Naerytar (Surface)]]

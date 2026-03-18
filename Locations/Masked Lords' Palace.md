@@ -2,7 +2,9 @@
 title: "Masked Lords' Palace"
 type: location
 subtype: "government building"
-aliases: []
+aliases:
+  - "Palace of Waterdeep"
+  - "Palace Of Waterdeep"
 tags:
   - twin-portals
   - location
@@ -21,6 +23,7 @@ The Masked Lords' Palace is the political heart of [[Waterdeep]], where the city
 
 ## Notable Events
 
+- **[[S01E15 - Episode Fifteen|S01E15]]:** After SWOJ's trial, [[Laeral Silverhand]] announces she is taking the party to the Palace of Waterdeep for security and further questioning, putting the investigation under the control of [[Force Grey]] and the Masked Lords. She privately tells SWOJ she wants to keep up appearances. The carriage ultimately diverts before reaching the palace, as Laeral has other plans for them.
 - **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** SWOJ is summoned to the palace to meet with the leadership of the [[Sword Coast]] Alliance. [[Terry]] races them across the rooftops of Waterdeep, arriving roughly twenty minutes late. The assembled dignitaries include the Masked Lords, [[Renaer Neverember]], [[Jarlaxle Baenre|Jarlaxle]] (appearing as himself), [[Remalia Haventree]] of the [[Harpers]], and representatives from [[Baldur's Gate]].
 - **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** SWOJ performs a musical recap of their Season 2 adventures for the assembled leadership. [[Remalia Haventree]] presents them with the Letters of Charter, officially recognizing the Guild of the Silver Waves of Justice. The charter grants recruitment rights, petitioning privileges, safe passage, limited judicial immunity, and franchising rights across the Sword Coast Alliance. [[Terry]] is invited as the guild's first official member.
 - **[[S02E38 - Episode Sixty Eight - Season Two Finale (S02E38)|S02E38]]:** [[Durnan]] mentions that several Masked Lords have recently gone missing, and there has been no sign of [[Laeral Silverhand]], hinting at instability in the city's leadership heading into Season 3.
