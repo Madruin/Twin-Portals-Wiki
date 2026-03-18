@@ -1,38 +1,15 @@
 ---
 title: "Mookie"
-type: character
-subtype: npc
-status: unknown
+type: redirect
+redirect: "[[Mookie Plush]]"
 aliases: []
 tags:
   - twin-portals
-  - character
-  - npc
+  - redirect
 ---
 
 # Mookie
 
-Urstul Floxin's associate at the Kolat Towers.
+See [[Mookie Plush]].
 
-**First appearance:** [[S01E22 - Episode Twenty Two]]
-**Total appearances:** 3 episodes
-
-## Description
-
-Urstul Floxin's associate at the Kolat Towers.
-
-Zentarim associate, present in the tower.
-
-
-## Role in the Story
-
-- **S01E22:** Encounter Urstul Floxin and Mookie inside the Zentarim tower
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+Mookie and Mookie Plush are the same character -- a [[Zhentarim]] lieutenant who operates from the [[Kolat Towers]] and fights alongside [[Manshoon]] at the [[Zadio City Music Hall]] battle. "Mookie" is the informal name used in [[S01E22 - Episode Twenty Two|S01E22]] and [[S01E23 - Episode Twenty Three|S01E23]], while "Mookie Plush" is the full name given in [[S01E26 - Episode Twenty Six|S01E26]].
