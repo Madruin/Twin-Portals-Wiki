@@ -75,15 +75,7 @@ The Manshoon clone replicated the real Crooks' appearance convincingly: mustachi
 
 In his final battle atop [[Zhentil Keep]], the facade dropped. He muttered villain monologues under his breath ("nobody ever loved me," "this world is meaningless"), revealing the bitterness underneath the stolen persona ([[S02E24 - Episode Fifty Four (S02E24)|S02E24]]).
 
-### Abilities and Combat
-
-The imposter Crooks was a powerful combatant with legendary actions:
-
-- **Spellcasting:** Finger of death, cone of cold, hold person, misty step, disintegrate (attempted)
-- **Weapons:** Rapier, wrist-mounted throwing daggers
-- **Special abilities:** Legendary actions (multiple attacks per round), apparent immunity or high resistance to explosive damage (survived the Breathless Elder explosion unscathed), flight/hovering capability, teleportation circle carving
-- **Equipment:** Feathered hat (magically adhered), cloak, the [[Hungering Shard]] (backpack-mounted), soul stones for capturing spirits
-- **Undead nature:** [[Ylka Gralhund|Ylka]]'s chill touch gave him disadvantage as undead ([[S02E24 - Episode Fifty Four (S02E24)|S02E24]])
+The imposter was a devastatingly powerful combatant. He wielded necromantic magic with ease -- finger of death, cone of cold, hold person, and misty step among his arsenal -- while fighting in melee with his rapier and wrist-mounted throwing daggers. His undead nature granted him supernatural resilience; he survived the catastrophic explosion of the [[The Breathless Elder|Breathless Elder]] completely unscathed, could fly and hover above the battlefield, and acted with a speed that let him strike multiple times before his enemies could react. [[Ylka Gralhund|Ylka]] exploited his undead nature with chill touch during the final battle at [[Zhentil Keep]], giving him disadvantage ([[S02E24 - Episode Fifty Four (S02E24)|S02E24]]). He carried the [[Hungering Shard]] strapped to his back and used soul stones to capture spirits, including [[Fetch]]'s soul and [[Shoonie|Shuni]]'s ghost.
 
 ### The Plan
 

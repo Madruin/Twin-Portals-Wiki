@@ -1,47 +1,13 @@
 ---
-title: SWOJ (Silver Waves Of Justice)
+title: "SWOJ (Silver Waves Of Justice)"
 type: faction
 status: active
-aliases:
-- SWOJ (Silver Waves of Justice)
+aliases: []
 tags:
-- twin-portals
-- faction
+  - twin-portals
+  - faction
 ---
 
 # SWOJ (Silver Waves Of Justice)
 
-The adventuring party of Twin Portals, discussed in the context of getting back together to play after quarantine.
-
-**First appearance:** Episode S01E19
-**Total appearances:** 11 episodes
-
-## Overview
-
-The adventuring party of Twin Portals, discussed in the context of getting back together to play after quarantine.
-
-## Known Members
-
-
-
-
-
-
-
-*No known members identified from transcripts.*
-
-## Activities
-
-
-
-
-*No specific activities recorded in transcripts.*
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+See [[Silver Waves Of Justice]]. This was an alternate page title for the main adventuring party of the Twin Portals campaign.

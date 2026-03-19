@@ -10,37 +10,4 @@ tags:
 
 # SWOJ
 
-Silver Waves of Justice -- the main party of adventurers. Scoot, Ylka, Lark, and Xae.
-
-**First appearance:** Episode S02E01
-**Total appearances:** 16 episodes
-
-## Overview
-
-Silver Waves of Justice -- the main party of adventurers. Scoot, Ylka, Lark, and Xae.
-
-## Known Members
-
-
-
-
-
-
-
-*No known members identified from transcripts.*
-
-## Activities
-
-
-
-
-*No specific activities recorded in transcripts.*
-
-## Episode Appearances
-
-```dataview
-TABLE date as "Air Date", "S" + season + "E" + episode as "Episode"
-FROM "Twin Portals/Episodes"
-WHERE contains(file.outlinks, this.file.link)
-SORT overall ASC
-```
+See [[Silver Waves Of Justice]]. SWOJ is the common abbreviation for the Silver Waves of Justice, the main adventuring party of the Twin Portals campaign.
