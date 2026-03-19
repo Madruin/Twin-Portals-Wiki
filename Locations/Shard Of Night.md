@@ -16,10 +16,6 @@ A portal location connecting the Shadowfell to the Material Plane. SWOJ uses it 
 **First appearance:** Episode S02E26
 **Total appearances:** 1 episodes
 
-## Description
-
-A portal location connecting the Shadowfell to the Material Plane. SWOJ uses it to exit the Shadowfell and arrive in Neverwinter.
-
 ## Notable Events
 
 

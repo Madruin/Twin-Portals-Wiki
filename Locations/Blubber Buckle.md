@@ -16,10 +16,6 @@ A rowdy four-story pirate tavern in Driftwood with competing musicians on each f
 **First appearance:** Episode S02E09
 **Total appearances:** 1 episodes
 
-## Description
-
-A rowdy four-story pirate tavern in Driftwood with competing musicians on each floor, quality food and drink, and a neon-style flashing sign of a dolphin with a golden belt buckle. Where SWOJ finds Jarlaxle conducting business.
-
 ## Notable Events
 
 

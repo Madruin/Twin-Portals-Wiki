@@ -17,10 +17,6 @@ An otherworldly plane connected to the material world. Rowan Crooks and the Joll
 **First appearance:** Episode S01E29
 **Total appearances:** 3 episodes
 
-## Description
-
-An otherworldly plane connected to the material world. Rowan Crooks and the Jolly Gents arrived through a Feywild portal. SWOJ stepped through twin portals into the Feywild to pursue Manshoon at the episode's end.
-
 ## Notable Events
 
 

@@ -17,10 +17,6 @@ A dragon from the Way of the Balanced Scales flight used as a diversion during t
 **First appearance:** [[S02E19 - Episode Forty Nine (S02E19)|S02E19]]
 **Total appearances:** 1 episode
 
-## Description
-
-A dragon from the Way of the Balanced Scales flight used as a diversion during the Amphail infiltration. Captured by barbarians and periton riders near the Spiral Cavern entrance. Mr. E promises to return and rescue them.
-
 ## Role in the Story
 
 - **S02E19:** Mr. E arrives with Melifarn and a flight of dragons (Jack, Jill, Chip, Dale)

@@ -33,7 +33,7 @@ The episode opens at the foot of Kelemvor's massive skeleton on the Wall of the 
 
 The necrotic energy from the battle animates a portion of Kelemvor's skeleton into a massive bone colossus that attacks the party. Scoot is hurled at the construct and uses thunderwave to blast it apart. Despite the chaos, Arcturia's ritual completes successfully: an army of ancient souls rises from the Wall of the Faithless -- blue and white spectres wearing old armor from civilizations long forgotten. They are led by an orc woman warrior ghost bearing a crescent moon earring and a dolphin tattoo on her arm. This army of the dead marches up the crystal spire toward the Radiant Citadel to confront Manshoon's forces.
 
-At the bottom of the Citadel, the situation is dire. Sholeh is protecting civilian survivors, the hammerhead ship has crashed, and Zellopharn circles overhead with carrier pigeons. Lark infiltrates the area and frees Squidly, Urstal Flocks, and the Doom Raiders from magical restraints. The party then confronts Manshoon directly -- he is an undead clone wearing a half-mask over his face and sporting a metal arm. Manshoon teleports around the battlefield, casting synaptic static and inflicting exhaustion on the party members. Ylka polymorphs Scoot into a giant ape to fight Manshoon on more even footing.
+At the bottom of the Citadel, the situation is dire. Sholeh is protecting civilian survivors, the hammerhead ship has crashed, and Zelifarn circles overhead with carrier pigeons. Lark infiltrates the area and frees Squidly, Urstul Floxxin, and the Doom Raiders from magical restraints. The party then confronts Manshoon directly -- he is an undead clone wearing a half-mask over his face and sporting a metal arm. Manshoon teleports around the battlefield, casting synaptic static and inflicting exhaustion on the party members. Ylka polymorphs Scoot into a giant ape to fight Manshoon on more even footing.
 
 The hammerhead ship's detachable hammer section is launched as a battering ram into the massive combined soul pylon, toppling it. Manshoon, desperate, searches through Arcturia's portable hole for the soul stone of Rowan Crooks. In the climactic moment, Kelemvor himself manifests -- a fifty-foot robed figure with silver scales -- and the party is given a choice: break the Wall of the Faithless and free all trapped souls, or leave it standing. SWOJ votes unanimously to break the Wall. Silver waves of energy cascade into the Wall, shattering it and freeing countless souls. Manshoon's soul is sent to the Raven Queen. Peace is achieved as the Radiant Citadel is finally liberated.
 
@@ -48,7 +48,7 @@ The hammerhead ship's detachable hammer section is launched as a battering ram i
 - Army is led by an orc woman warrior ghost with crescent moon earring and dolphin tattoo
 - Army of the dead marches up the crystal spire to the Radiant Citadel
 - At the Citadel bottom: Sholeh protects survivors, hammerhead crashed, Zellopharn circles with pigeons
-- Lark frees Squidly, Urstal Flocks, and the Doom Raiders from magical restraints
+- Lark frees Squidly, Urstul Floxxin, and the Doom Raiders from magical restraints
 
 ### Featured Characters
 

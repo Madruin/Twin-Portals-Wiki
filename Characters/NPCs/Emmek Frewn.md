@@ -17,10 +17,6 @@ Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visi
 **First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 2 episodes
 
-## Description
-
-Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visits to offer 150gp to buy the manor. Hostile and antagonistic toward SWOJ.
-
 ## Role in the Story
 
 - **[[S01E07 - Episode Seven|S01E07]]:** Visits [[Trollskull Manor]] and offers 150gp to buy it from [[SWOJ]]; they refuse.

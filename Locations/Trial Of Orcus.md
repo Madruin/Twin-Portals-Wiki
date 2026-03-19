@@ -17,10 +17,6 @@ A demonic gauntlet within the Shrouded Citadel featuring a bone colosseum, rapid
 **First appearance:** Episode S02E29
 **Total appearances:** 1 episodes
 
-## Description
-
-A demonic gauntlet within the Shrouded Citadel featuring a bone colosseum, rapid-fire riddle challenges, a bone bridge obstacle course over a vast chasm, and a hallway filled with the overwhelming stench of death. Presided over by the demon lord Orcus.
-
 ## Notable Events
 
 

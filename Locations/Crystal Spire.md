@@ -16,10 +16,6 @@ The structure connecting the Wall of the Faithless to the Radiant Citadel above.
 **First appearance:** Episode S02E36
 **Total appearances:** 1 episodes
 
-## Description
-
-The structure connecting the Wall of the Faithless to the Radiant Citadel above. The army of ancient souls marches up the spire to reach the Citadel and engage Manshoon's forces.
-
 ## Notable Events
 
 

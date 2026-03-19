@@ -16,10 +16,6 @@ The region that will become Waterdeep, visited through time travel during the Wi
 **First appearance:** Episode S01E14
 **Total appearances:** 1 episodes
 
-## Description
-
-The region that will become Waterdeep, visited through time travel during the Winter Solstice. A snowy wilderness with scattered dwarf settlements.
-
 ## Notable Events
 
 

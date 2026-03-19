@@ -31,9 +31,9 @@ Air Date: 2022-03-27 | Duration: 02:30:33
 
 SWOJ continued through the Brighanox tunnels deep underground in the borderlands between the Feywild and the Shadowfell. The Brighanox elders, including one named Rackjack, taught the party about wish stones -- crystallized unfulfilled wishes that the creatures collected and preserved. The ghost of Thail demonstrated his ability to possess living bodies by entering Lark. Through Thail, SWOJ learned that his brother Squidly's wish stone had been stolen by the Strigoi, who embedded wish stones into the scales of the Beast of Erua to fuel its movement. The Brighanox dug a tunnel to the Shadowfell border for the party.
 
-Emerging into the Shadowfell's windswept darkness and black fog, the group encountered three Shadar-kai -- shadow elves named Blish, Mari, and Iday -- who served the Raven Mother. The Shadar-kai warned the party about the Beast of Erua, explained that the Rose Knight's mausoleum sat atop the creature's back, and ominously cautioned them to 'beware the bag man.' They pointed SWOJ toward the Shadow version of The Way Inn for shelter.
+Emerging into the Shadowfell's windswept darkness and black fog, the group encountered three Shadar-kai -- shadow elves named Blish, Mari, and Idae -- who served the Raven Mother. The Shadar-kai warned the party about the Beast of Erua, explained that the Rose Knight's mausoleum sat atop the creature's back, and ominously cautioned them to 'beware the bag man.' They pointed SWOJ toward the Shadow version of The Way Inn for shelter.
 
-Inside the Shadow Way Inn, the party found plant-based replicas of the people they had met at the real Way Inn -- Volo, Radissera, Dorvina, and others -- all made of a tofu-like spongy substance called podlings. Ann Jane Flip-Flap and Antidiluvian Jake locked the door to guard outside, but were captured and replaced by podlings themselves. When the deception was discovered, a chaotic battle erupted inside the inn. SWOJ fought swarms of hairless cats with glowing eyes and dislocating jaws, along with the podling replicas. Scoot used his great axe's fission ability twice, unleashing devastating lightning and ice attacks. Ylka cast shatter spells and hellish rebuke, Lark (with Thail inside) channeled witch bolt, Xae summoned moonbeam and conjured fey badgers, and the party systematically destroyed the podlings and cat swarms. Scoot was knocked unconscious but invoked his half-orc relentless endurance to stand back up with one hit point.
+Inside the Shadow Way Inn, the party found plant-based replicas of the people they had met at the real Way Inn -- Volo, Radecere, Dorvina, and others -- all made of a tofu-like spongy substance called podlings. Ann Jane Flip-Flap and Antediluvian Jake locked the door to guard outside, but were captured and replaced by podlings themselves. When the deception was discovered, a chaotic battle erupted inside the inn. SWOJ fought swarms of hairless cats with glowing eyes and dislocating jaws, along with the podling replicas. Scoot used his great axe's fission ability twice, unleashing devastating lightning and ice attacks. Ylka cast shatter spells and hellish rebuke, Lark (with Thail inside) channeled witch bolt, Xae summoned moonbeam and conjured fey badgers, and the party systematically destroyed the podlings and cat swarms. Scoot was knocked unconscious but invoked his half-orc relentless endurance to stand back up with one hit point.
 
 After the battle, real staff members emerged from the cellar, led by Fritz, who explained the podlings had invaded the inn a day earlier. Fritz revealed that Strigoi and podlings worked together, stealing wish stones and taking prisoners who returned 'not as themselves.' Fritz offered the party transportation in the form of two giant scarab beetles named Ga and Kra, fitted with two-person saddles. Xae cast pass without trace and Thail (in Ylka) cast major image to create fog cover. They rode the scarabs toward the Beast of Erua, climbing up one of its massive legs as the hundred-foot-tall creature lurched through the mist. Atop the beast, Ylka touched a glowing red wish stone that contained Squidly's unfulfilled wish ('I wish my brother came home'). Thail entered the stone and was able to see and reach out to Squidly in a vision, touching his brother's shoulder in a moment of peace before saying goodbye. The episode ended with SWOJ on scarab-back, approaching the fortress lashed to the beast's spine.
 
@@ -45,7 +45,7 @@ After the battle, real staff members emerged from the cellar, led by Fritz, who 
 - Brighanox dig a tunnel to the Shadowfell border for the party
 - SWOJ meets three Shadar-kai (Blish, Mari, Iday) who warn about the Beast of Erua and the bag man
 - The party enters the Shadow Way Inn, filled with podling replicas of real people
-- Ann Jane Flip-Flap and Antidiluvian Jake are captured and replaced by podlings outside
+- Ann Jane Flip-Flap and Antediluvian Jake are captured and replaced by podlings outside
 - Major battle erupts against podlings and hairless cat swarms inside the inn
 - Scoot uses his great axe's fission ability (lightning) then gets knocked to 1 HP via relentless endurance
 - Scoot uses fusion (ice) to wipe out remaining podlings
@@ -79,7 +79,7 @@ After the battle, real staff members emerged from the cellar, led by Fritz, who 
 ## Transcript
 
 **[00:00]** Previously, on Twin Portals.
-**[00:03]** The silver waves of justice, along with their jolly gents, companions, Antidiluvian Jake
+**[00:03]** The silver waves of justice, along with their jolly gents, companions, Antediluvian Jake
 **[00:08]** and Anne Jane, flip-flap, traversed the deep wilds of the fae in search of the wizard
 **[00:13]** man's shoe.
 **[00:15]** Near the border dividing the fae wild and the shadow fill, our heroes met their old
@@ -773,7 +773,7 @@ After the battle, real staff members emerged from the cellar, led by Fritz, who 
 **[28:11]** But they have great power, these stories.
 **[28:15]** These stories are the stunts themselves, that is the question.
 **[28:21]** They get all of them smug and cryptic about it.
-**[28:28]** Antidiluvian Jake, have you ever heard of anything like this?
+**[28:28]** Antediluvian Jake, have you ever heard of anything like this?
 **[28:31]** No, I have not.
 **[28:34]** Well that's surprising.
 **[28:35]** I feel like you've heard of so many things that this is a new one, but ungranted wishes

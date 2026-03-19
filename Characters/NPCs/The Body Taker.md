@@ -12,21 +12,20 @@ tags:
 
 # The Body Taker
 
-A clone of Manchun made of dense, stringy plant material. Controls vine tentacles and plant-based podlings. More emotionally sensitive than other Manchun clones, particularly enraged by mentions of Rowan Crooks. Defeated atop the tower inside the Dynamo of Possibility.
+A clone of Manshoon made of dense, stringy plant material. Controls vine tentacles and plant-based podlings. More emotionally sensitive than other Manshoon clones, particularly enraged by mentions of Rowan Crooks. Defeated atop the tower inside the Dynamo of Possibility.
 
 **First appearance:** [[S02E04 - Episode Thirty Four (S02E04)|S02E04]]
 **Total appearances:** 2 episodes
 
 ## Description
 
-A clone of Manchun made of dense, stringy plant material. Controls vine tentacles and plant-based podlings. More emotionally sensitive than other Manchun clones, particularly enraged by mentions of Rowan Crooks. Defeated atop the tower inside the Dynamo of Possibility.
 
 An entity that has merged with Teriador's soul, creating a dual personality. Takes control periodically, making Teriador's arms brambly with thorns and changing his voice. Part of the reason Teriador fights as the Blight Knight.
 
 
 ## Role in the Story
 
-- **S02E04:** Fetch warns them about the Body Taker, a plant-based Manchun clone hunting him
+- **S02E04:** Fetch warns them about the Body Taker, a plant-based Manshoon clone hunting him
 - **S02E04:** SWOJ rides Craw and Gaw up the tower to confront the Body Taker
 - **S02E04:** Climactic battle atop the vine-covered tower against the Body Taker
 - **S02E04:** Ylka uses Vicious Mockery with Rowan Crooks ballads, exploiting the Body Taker's sensitivity

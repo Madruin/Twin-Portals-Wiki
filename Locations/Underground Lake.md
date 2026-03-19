@@ -16,10 +16,6 @@ A subterranean lake beneath Neverwinter where Melifarn discovered a green portal
 **First appearance:** Episode S02E20
 **Total appearances:** 1 episodes
 
-## Description
-
-A subterranean lake beneath Neverwinter where Melifarn discovered a green portal stone belonging to the Jolly Gents.
-
 ## Notable Events
 
 

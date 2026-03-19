@@ -16,10 +16,6 @@ The enormous physical remains of an avatar of Kelemvor at the base of the Wall o
 **First appearance:** Episode S02E35
 **Total appearances:** 2 episodes
 
-## Description
-
-The enormous physical remains of an avatar of Kelemvor at the base of the Wall of the Faithless. Arcturia leads the party here to perform a ritual to summon souls trapped within the Wall.
-
 ## Notable Events
 
 

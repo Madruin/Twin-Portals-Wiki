@@ -16,10 +16,6 @@ An extensive sewer system beneath the Radiant Citadel. Contains large cisterns w
 **First appearance:** Episode S02E34
 **Total appearances:** 1 episodes
 
-## Description
-
-An extensive sewer system beneath the Radiant Citadel. Contains large cisterns where refugees and resistance fighters are hiding. Home to the giant crawfish Old Salty. A water elemental inhabits the system and helps SWOJ travel upward to the top of the Citadel.
-
 ## Notable Events
 
 

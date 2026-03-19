@@ -17,10 +17,6 @@ A black dragon with mottled silvery scales, one of the rescued dragons of the Wa
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-A black dragon with mottled silvery scales, one of the rescued dragons of the Way of the Balanced Scale. Carries Scoot during the flight from Castle Nehri Tar. The silver mottling suggests mixed heritage.
-
 ## Role in the Story
 
 

@@ -42,7 +42,7 @@ By the time SWOJ returned to [[Neverwinter]] after their adventures in [[Amphail
 
 ### The Egg Theft (S02E31)
 
-During the attack on [[Castle Never]] by agents of the [[Zentarim]], a man in black set fire to the [[Ethereal Galleon]] at the docks and stole Quorlith's eggs. [[Ylka Gralhund|Ylka]] discovered Quorlith in distress at the [[Neverwinter Docks|cliff-side docks]], and SWOJ pursued the thief -- an agent named [[Krom]] -- through tunnels into [[Quorlith's Cave]]. The party cleared a cave-in so Quorlith could follow, and [[Ylka Gralhund|Ylka]] polymorphed the thief into a cicada before he could harm the eggs. Quorlith scooped up her brood safely.
+During the attack on [[Castle Never]] by agents of the [[Zhentarim]], a man in black set fire to the [[Ethereal Galleon]] at the docks and stole Quorlith's eggs. [[Ylka Gralhund|Ylka]] discovered Quorlith in distress at the [[Neverwinter Docks|cliff-side docks]], and SWOJ pursued the thief -- an agent named [[Krom]] -- through tunnels into [[Quorlith's Cave]]. The party cleared a cave-in so Quorlith could follow, and [[Ylka Gralhund|Ylka]] polymorphed the thief into a cicada before he could harm the eggs. Quorlith scooped up her brood safely.
 
 After her eggs were recovered, Quorlith helped patch the damaged [[Ethereal Galleon]] with her spider silk, making the ship even more maneuverable than before. She then remained with her main brood at the docks as SWOJ departed with the fleet toward the [[Sword Mountains]].
 
@@ -52,7 +52,7 @@ After her eggs were recovered, Quorlith helped patch the damaged [[Ethereal Gall
 - **[[Renaer Neverember]]** — Works alongside Renaer in service of [[Neverwinter]], providing her silk and engineering skills for the airship construction effort.
 - **[[Xaerine Rumblestride]]** — Primary translator, communicating with Quorlith via Speak with Animals.
 - **[[Malark Wavesilver]]** — Won Quorlith's trust by offering his constellation watch, one of his personal treasures.
-- **[[Krom]]** — The [[Zentarim]] agent who stole her eggs; captured by SWOJ.
+- **[[Krom]]** — The [[Zhentarim]] agent who stole her eggs; captured by SWOJ.
 
 ## Episode Appearances
 

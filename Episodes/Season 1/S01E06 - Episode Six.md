@@ -29,7 +29,7 @@ Air Date: 2019-04-27 | Duration: 01:53:35
 
 ## Summary
 
-This is a live episode. The morning begins at Trollskull Manor with the ghost Lif cooking eggs for the party. A pigeon arrives from Pog Wageltop, a goblin ex-captain of the ship Sea Plum, reporting that his ship has sunk in Deepwater Harbor under mysterious circumstances. The party travels to the Sea Maiden's Faire on the docks to find Pog, where they meet Zardos Zord, the enigmatic carnival master. Zardos gives them a handkerchief to deliver to Grinda Garloss, an elderly woman living in a lighthouse at Mist Shore, in exchange for help with the investigation.
+This is a live episode. The morning begins at Trollskull Manor with the ghost Lif cooking eggs for the party. A pigeon arrives from Pog Waggletop, a goblin ex-captain of the ship Sea Plum, reporting that his ship has sunk in Deepwater Harbor under mysterious circumstances. The party travels to the Sea Maiden's Faire on the docks to find Pog, where they meet Zardos Zord, the enigmatic carnival master. Zardos gives them a handkerchief to deliver to Grinda Garloth, an elderly woman living in a lighthouse at Mistshore, in exchange for help with the investigation.
 
 At the lighthouse, Grinda reveals something troubling: Ylka apparently visited her the previous night and borrowed the Apparatus of Kwalish (a lobster-shaped submersible barrel), but Ylka has no memory of this. Despite the mystery, Grinda allows the party to use the Apparatus to investigate the wreck. The party takes potions of water breathing and descends into Deepwater Harbor, where they encounter a great white shark and then Zelifarn, a bronze dragon who serves as the self-appointed guardian of the harbor.
 
@@ -42,7 +42,7 @@ The party ascends to the palm of the God Catcher's outstretched hand, where they
 - Morning at Trollskull Manor with ghost Lif cooking eggs for the party
 - Pigeon message arrives from Pog Wageltop about the Sea Plum sinking in Deepwater Harbor
 - Party travels to Sea Maiden's Faire and meets Pog and Zardos Zord
-- Zardos gives them a handkerchief to deliver to Grinda Garloss at Mist Shore
+- Zardos gives them a handkerchief to deliver to [[Grinda Garloth]] at [[Mistshore]]
 - At the lighthouse, Grinda reveals Ylka apparently visited the previous night and borrowed the Apparatus of Kwalish -- but Ylka has no memory of this
 - Party uses the Apparatus of Kwalish to explore Deepwater Harbor underwater
 - Encounter a great white shark in the harbor
@@ -61,7 +61,7 @@ The party ascends to the palm of the God Catcher's outstretched hand, where they
 - [[Lif Lindgren]] — Ghost bartender at Trollskull Manor. Now friendly, cooking eggs for the party in the morning.
 - [[Pog Waggletop]] — A goblin and former captain of the ship Sea Plum. Sends a pigeon message asking for help investigating his sunken ship.
 - [[Gildis]] — First mate of the Sea Plum, a human.
-- [[Zardoz Zord]] — Enigmatic carnival master of the Sea Maiden's Faire. Gives the party a handkerchief to deliver to Grinda Garloss.
+- [[Zardoz Zord]] — Enigmatic carnival master of the Sea Maiden's Faire. Gives the party a handkerchief to deliver to [[Grinda Garloth]].
 - [[Terry]] — The party's regular Zuber driver. Found murdered at the base of the God Catcher at the end of the episode, run through with a blade.
 - [[Grinda Garloth]] — An elderly woman living in a lighthouse at Mist Shore. Owner of the Apparatus of Kwalish. Claims Ylka visited her the previous night and borrowed the Apparatus, though Ylka has no memory of this.
 - [[Anton]] — Grinda's mouse familiar.

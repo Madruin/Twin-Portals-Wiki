@@ -10,7 +10,7 @@ tags:
 
 # Shadow Way Inn
 
-The Shadow Way Inn is the [[Shadowfell]] counterpart of [[The Way Inn]], a travelers' rest stop located in the borderlands between the [[Feywild]] and the Shadowfell. When SWOJ arrived during their pursuit of [[Manshoon]], they found the inn eerily occupied by podling replicas of familiar faces -- plant-based duplicates that mimicked real people but behaved with uncanny wrongness. The real staff had been hiding in the cellar for days, surviving on fungus while the podlings and [[Strigoy]] took over.
+The Shadow Way Inn is the [[Shadowfell]] counterpart of [[The Way Inn]], a travelers' rest stop located in the borderlands between the [[Feywild]] and the Shadowfell. When SWOJ arrived during their pursuit of [[Manshoon]], they found the inn eerily occupied by podling replicas of familiar faces -- plant-based duplicates that mimicked real people but behaved with uncanny wrongness. The real staff had been hiding in the cellar for days, surviving on fungus while the podlings and [[Strigoi]] took over.
 
 **Type:** tavern
 **Region:** Feywild-Shadowfell borderlands
@@ -24,9 +24,9 @@ The cellar beneath the inn served as a refuge for [[Fritz]] and the surviving st
 
 ## Notable Events
 
-- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** SWOJ arrives at the Shadow Way Inn during their trek through the Shadowfell borderlands. The inn appears occupied by familiar faces including podling replicas of [[Volo]], [[Green Imsa]], [[Radisair]], and others -- all behaving unnaturally, staring blankly and giving hollow responses. [[Lark]] notices Volo is lying through his teeth; [[Scoot]] finds "Radisair" fixated on a moldy potato instead of his usual gadgets.
-- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** When [[Ilka]] moves to leave, the podling versions of [[Ann Jane Flip-Flap]] and [[Antediluvian Jake]] lock the doors behind the party. All twenty-plus podlings rise in unison and attack, triggering a major battle inside the tavern. Ilka opens with a Shatter spell into the crowd; the hairless cats outside go silent during the ambush.
-- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** After defeating the podlings, SWOJ discovers [[Fritz]] and the real inn staff hiding in the cellar. Fritz explains the podlings have been multiplying, made by a wizard, and work alongside the Strigoy to kidnap people and steal wish stones. The staff had been hiding for about a day by shadow reckoning. Fritz also shares legends of the [[Rosenite]] and his exploding sword, and warns that the roaring of the [[Beast of Erua]] has been growing louder.
+- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** SWOJ arrives at the Shadow Way Inn during their trek through the Shadowfell borderlands. The inn appears occupied by familiar faces including podling replicas of [[Volo]], [[Green Imsa]], [[Radecere]], and others -- all behaving unnaturally, staring blankly and giving hollow responses. [[Malark Wavesilver|Lark]] notices Volo is lying through his teeth; [[Scoot Sparkles|Scoot]] finds "Radisair" fixated on a moldy potato instead of his usual gadgets.
+- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** When [[Ylka Gralhund|Ylka]] moves to leave, the podling versions of [[Ann Jane Flip-Flap]] and [[Antediluvian Jake]] lock the doors behind the party. All twenty-plus podlings rise in unison and attack, triggering a major battle inside the tavern. Ilka opens with a Shatter spell into the crowd; the hairless cats outside go silent during the ambush.
+- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** After defeating the podlings, SWOJ discovers [[Fritz]] and the real inn staff hiding in the cellar. Fritz explains the podlings have been multiplying, made by a wizard, and work alongside the Strigoy to kidnap people and steal wish stones. The staff had been hiding for about a day by shadow reckoning. Fritz also shares legends of the Rose Knight and his exploding sword, and warns that the roaring of the [[Beast of Erua]] has been growing louder.
 
 ## Connected Characters
 
@@ -38,7 +38,7 @@ The cellar beneath the inn served as a refuge for [[Fritz]] and the surviving st
 - [[Idae]]
 - [[Mari]]
 - [[Rackjack]]
-- [[Radisair]] - podling replica encountered here (fixated on a moldy potato)
+- [[Radecere]] - podling replica encountered here (fixated on a moldy potato)
 - [[Squidly]]
 - [[Thail]]
 - [[Volo]] - podling replica encountered here

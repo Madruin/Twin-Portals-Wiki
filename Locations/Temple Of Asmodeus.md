@@ -16,10 +16,6 @@ Hidden temple beneath the Cassalanter Villa. Contains an altar bowl of fire fill
 **First appearance:** Episode S01E27
 **Total appearances:** 1 episodes
 
-## Description
-
-Hidden temple beneath the Cassalanter Villa. Contains an altar bowl of fire filled with golden coins and a repaired ceremonial bowl (fixed with silver kintsugi). Where Amalia pleads with Asmodeus and Xae signs the devil contract.
-
 ## Notable Events
 
 

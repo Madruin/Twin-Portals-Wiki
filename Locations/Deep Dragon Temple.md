@@ -16,10 +16,6 @@ An underwater temple northeast of Lantan where dragons convene. Accessible via a
 **First appearance:** Episode S02E09
 **Total appearances:** 3 episodes
 
-## Description
-
-An underwater temple northeast of Lantan where dragons convene. Accessible via a secret tunnel (requiring a dragon guide) or through a whirlpool in the Nameless Seas. Home to Melifarn. Previously had to fight off aboleth hundreds of years ago. SWOJ's destination.
-
 ## Notable Events
 
 

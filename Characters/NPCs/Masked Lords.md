@@ -17,10 +17,6 @@ Four anonymous figures in purple robes who govern Waterdeep alongside the Open L
 **First appearance:** [[S01E29 - Episode Twenty Nine|S01E29]]
 **Total appearances:** 3 episodes
 
-## Description
-
-Four anonymous figures in purple robes who govern Waterdeep alongside the Open Lord. Met SWOJ at Castle Waterdeep to accept the returned gold and arrange the finder's fee.
-
 ## Role in the Story
 
 - **S01E29:** SWOJ trades the Mask of the Lords to Jarlaxle for information about the Necromancer

@@ -18,10 +18,6 @@ A halfling spy master and undead Jolly Gents operative. Spots SWOJ during a patr
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Jolly Gents]], [[The Jolly Gents]]
 
-## Description
-
-A halfling spy master and undead Jolly Gents operative. Spots SWOJ during a patrol in the underground caverns. Chased and killed by the party. His body is fed to the mushrooms to dispose of evidence.
-
 ## Role in the Story
 
 - **S02E23:** Party overhears Jolly Gents patrol: Pill Garlic and Slim Curly on wyverns

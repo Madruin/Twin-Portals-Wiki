@@ -16,10 +16,6 @@ A swampy area on the west coast of Waterdeep below the city walls, near the nort
 **First appearance:** Episode S01E24
 **Total appearances:** 1 episodes
 
-## Description
-
-A swampy area on the west coast of Waterdeep below the city walls, near the northwestern corner. SWOJ washes out here through an underground river after escaping the shrine.
-
 ## Notable Events
 
 

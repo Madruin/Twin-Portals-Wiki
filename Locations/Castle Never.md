@@ -16,10 +16,6 @@ The largest building in Neverwinter, a massive towering castle on the north side
 **First appearance:** Episode S02E14
 **Total appearances:** 5 episodes
 
-## Description
-
-The largest building in Neverwinter, a massive towering castle on the north side of the river. Dark and abandoned, filled with ghosts. Lower levels are undergoing renovation/construction. Lord Neverember does not use it as his seat of power.
-
 ## Notable Events
 
 

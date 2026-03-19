@@ -16,10 +16,6 @@ A pirate ship captained by One-Eyed Wilhelmina. Appears offshore of Devil's Rock
 **First appearance:** Episode S02E10
 **Total appearances:** 1 episodes
 
-## Description
-
-A pirate ship captained by One-Eyed Wilhelmina. Appears offshore of Devil's Rock and fires cannons during the skeleton battle.
-
 ## Notable Events
 
 

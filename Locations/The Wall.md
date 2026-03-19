@@ -16,10 +16,6 @@ The opalescent boundary of the entire multiverse. An immense, seemingly infinite
 **First appearance:** Episode S02E11
 **Total appearances:** 2 episodes
 
-## Description
-
-The opalescent boundary of the entire multiverse. An immense, seemingly infinite barrier that separates the known multiverse from the Far Realm beyond. Dragon spirits pass through it upon death.
-
 ## Notable Events
 
 

@@ -16,10 +16,6 @@ A mountain range whose foothills border the Cryptwood. The mysterious mists orig
 **First appearance:** Episode S02E06
 **Total appearances:** 5 episodes
 
-## Description
-
-A mountain range whose foothills border the Cryptwood. The mysterious mists originate from a cave in these foothills. SWOJ's next destination.
-
 ## Notable Events
 
 

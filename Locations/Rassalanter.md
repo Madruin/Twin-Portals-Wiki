@@ -16,10 +16,6 @@ A small hamlet along the road between Waterdeep and Amphail that SWOJ passes thr
 **First appearance:** Episode S02E06
 **Total appearances:** 1 episodes
 
-## Description
-
-A small hamlet along the road between Waterdeep and Amphail that SWOJ passes through.
-
 ## Notable Events
 
 

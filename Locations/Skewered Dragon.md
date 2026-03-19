@@ -1,47 +1,33 @@
 ---
 title: "Skewered Dragon"
 type: location
-subtype: ""
+subtype: "tavern"
 aliases: []
 tags:
   - twin-portals
   - location
+  - dock-ward
 ---
 
 # Skewered Dragon
 
-Grim tavern in the Dock Ward near the waterfront. Named because a dragon was impaled near the building four years ago during the dragon wars. Where Floon was last seen, and where Jelaster the Harper was stationed.
+A grim tavern in [[Waterdeep]]'s [[Dock Ward]] near the waterfront. Named because a dragon was impaled near the building four years ago during the dragon wars. This is the last place [[Floon Blagmaar]] and [[Renaer Neverember]] were seen before their kidnapping, and where [[Jalaster]] the [[Harpers|Harper]] agent was stationed undercover.
 
-**Type:** 
-**First appearance:** Episode S01E01
-**Total appearances:** 1 episodes
-
-## Description
-
-Grim tavern in the Dock Ward near the waterfront. Named because a dragon was impaled near the building four years ago during the dragon wars. Where Floon was last seen, and where Jelaster the Harper was stationed.
+**Type:** Tavern
+**Ward:** [[Dock Ward]]
+**First appearance:** [[S01E01 - Episode One|S01E01]]
+**Total appearances:** 1 episode
 
 ## Notable Events
 
-
-
-
-- **S01E01:** Party travels to the Dock Ward and visits the Skewered Dragon tavern
+- **[[S01E01 - Episode One|S01E01]]:** [[SWOJ]] travels to the [[Dock Ward]] and visits the Skewered Dragon looking for information about the kidnapped [[Floon Blagmaar]]. [[Malark Wavesilver|Lark]] and [[Ylka Gralhund|Ylka]] strike up music and dancing. [[Jalaster]], a [[Harpers|Harper]] agent, reveals information about the [[Zhentarim]] and directs Lark to [[Candle Lane]] and to seek out [[Remallia Haventree]].
 
 ## Connected Characters
 
-
-
-
-- [[Bonnie]]
-- [[Dagult Neverember]]
-- [[Durnan]]
-- [[Floon Blagmaar]]
-- [[Jalaster]]
-- [[Laeral Silverhand]]
-- [[Leah]]
-- [[Remalia Haventree]]
-- [[Volothamp Geddarm]]
-- [[Yagra]]
+- [[Floon Blagmaar]] — Last seen here before his kidnapping
+- [[Renaer Neverember]] — Was at the tavern with Floon the night they were kidnapped
+- [[Jalaster]] — Harper agent stationed here undercover
+- [[Remallia Haventree]] — Mentioned by Jalaster as a senior Harper contact
 
 ## Episode Appearances
 

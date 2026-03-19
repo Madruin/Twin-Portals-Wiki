@@ -16,10 +16,6 @@ A ring of dancing mushroom creatures in the Feywild. Xae entered and received en
 **First appearance:** Episode S02E01
 **Total appearances:** 1 episodes
 
-## Description
-
-A ring of dancing mushroom creatures in the Feywild. Xae entered and received enhanced vision.
-
 ## Notable Events
 
 

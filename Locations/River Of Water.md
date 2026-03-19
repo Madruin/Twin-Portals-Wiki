@@ -16,10 +16,6 @@ An underground river within the chasm that SWOJ rides downstream to reach the su
 **First appearance:** Episode S02E16
 **Total appearances:** 1 episodes
 
-## Description
-
-An underground river within the chasm that SWOJ rides downstream to reach the subterranean lake where the Hungry Elder resides.
-
 ## Notable Events
 
 

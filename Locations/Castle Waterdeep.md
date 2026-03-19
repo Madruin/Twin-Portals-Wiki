@@ -16,10 +16,6 @@ The tallest tower overlooking the sea with a dragon-landing balcony near the top
 **First appearance:** Episode S01E29
 **Total appearances:** 1 episodes
 
-## Description
-
-The tallest tower overlooking the sea with a dragon-landing balcony near the top. Houses the Masked Lords' council chamber. Mr. E took up residence here as dragon administrator.
-
 ## Notable Events
 
 

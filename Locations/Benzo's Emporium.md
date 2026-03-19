@@ -16,10 +16,6 @@ A shop on the Radiant Citadel staffed by kobolds. One of its kobolds spots SWOJ'
 **First appearance:** Episode S02E33
 **Total appearances:** 1 episodes
 
-## Description
-
-A shop on the Radiant Citadel staffed by kobolds. One of its kobolds spots SWOJ's approaching ships and leads Xae to Vincent Trench's back door.
-
 ## Notable Events
 
 

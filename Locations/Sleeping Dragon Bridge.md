@@ -16,10 +16,6 @@ One of three major bridges crossing the Neverwinter River. Features a large ston
 **First appearance:** Episode S02E14
 **Total appearances:** 2 episodes
 
-## Description
-
-One of three major bridges crossing the Neverwinter River. Features a large stone dragon curling around its side with dragon claws and legs as architectural motifs. Warm due to the geothermally heated river below.
-
 ## Notable Events
 
 

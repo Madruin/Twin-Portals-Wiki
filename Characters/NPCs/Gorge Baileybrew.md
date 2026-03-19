@@ -17,10 +17,6 @@ Dwarf father in prehistoric Waterdeep. His daughter Zuzu has been taken by Hans 
 **First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
-## Description
-
-Dwarf father in prehistoric Waterdeep. His daughter Zuzu has been taken by Hans Von Gruber to Zaka's Tome Tower. Runs a family homestead near Zedford Falls. Eventually helps deliver toys via magical sleigh.
-
 ## Role in the Story
 
 - **S01E14:** Party meets Gorge Bailey Brew whose daughter Zuzu is missing

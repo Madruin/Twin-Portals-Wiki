@@ -16,10 +16,6 @@ A bustling bazaar in the Shadowfell where various beings trade exotic goods. Fea
 **First appearance:** Episode S02E21
 **Total appearances:** 1 episodes
 
-## Description
-
-A bustling bazaar in the Shadowfell where various beings trade exotic goods. Features numerous stalls including a spider silk merchant, owlbear-run inn (the Nest), Rylerin's angel cabinet, and Curio's mimic stall. Considered a safe haven -- violence against merchants is punished. Bags of holding are cheap (500 gold) because they've stopped working properly. Also sells funnel cakes, exotic spices, goggles of night, potions of spider climb, and other adventuring supplies.
-
 ## Notable Events
 
 

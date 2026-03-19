@@ -31,13 +31,13 @@ Air Date: 2021-05-26 | Duration: 02:23:08
 
 Picking up from the cliffhanger, SWOJ explores the Necromancer's extra-dimensional sanctum while he deals with the city watch raid below. They find an audience chamber with masks on the wall, each of which zaps them with damage when removed. They discover a reading room with a green flame brazier (enchanted and watching them) and a spell book disguised behind a cover titled 'Flumph Mating Rituals.'
 
-Returning through the portal to the Kolat Towers, they find the magical shield is down (rain is getting in). They descend through the floors and encounter the flesh golem again. The Necromancer's simulacrum passes through an illusory wall. Behind that wall, they discover Zilka -- the original body that Ylka was cloned from -- shackled in a construct workshop, working on Nim (the Gralhund family golem). This is a massive revelation: Ylka is actually a clone, created by her grandfather to protect Zilka's soul.
+Returning through the portal to the Kolat Towers, they find the magical shield is down (rain is getting in). They descend through the floors and encounter the flesh golem again. The Necromancer's simulacrum passes through an illusory wall. Behind that wall, they discover Zylka -- the original body that Ylka was cloned from -- shackled in a construct workshop, working on Nim (the Gralhund family golem). This is a massive revelation: Ylka is actually a clone, created by her grandfather to protect Zylka's soul.
 
-They free Zilka and fight animated armor constructs. Zilka reveals there are explosives in the adjoining tower. They contact Ramalia via the sending stone for backup. Ylka uses the Necromancer's disguise ring to impersonate him and tricks the shield wizard into leaving. They then cast Shatter to destroy the shield rune.
+They free Zylka and fight animated armor constructs. Zylka reveals there are explosives in the adjoining tower. They contact Remalia via the sending stone for backup. Ylka uses the Necromancer's disguise ring to impersonate him and tricks the shield wizard into leaving. They then cast Shatter to destroy the shield rune.
 
 In the Necromancer's private study, they find a vault containing a ledger with bookmarked names: Mirt, Coralus Thann, Tharduke Starbuckler, Jelen Irmbrusk, and Grim Wavesilver (Lark's father). They also find the Mask of the Cultivator, which transforms Lark when he puts it on, giving him silver-tipped hair.
 
-A confrontation with the Necromancer follows. He reveals that Ylka is a clone of Zilka, created by her grandfather Mordecai to protect her soul. He also tells them the Cassalanters have the third Eye of the Stone of Golorr. He sends them away. They find Urstul Floxin and discover Squiddly is with him. After intimidation and persuasion, Squiddly rejoins SWOJ and reveals he pickpocketed the second Eye from Urstul. They escape as the Kolat Towers explode behind them.
+A confrontation with the Necromancer follows. He reveals that Ylka is a clone of Zylka, created by her grandfather Mordecai to protect her soul. He also tells them the Cassalanters have the third Eye of the Stone of Golorr. He sends them away. They find Urstul Floxxin and discover Squiddly is with him. After intimidation and persuasion, Squiddly rejoins SWOJ and reveals he pickpocketed the second Eye from Urstul. They escape as the Kolat Towers explode behind them.
 
 ### Key Events
 
@@ -46,10 +46,10 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 - Discovery of a reading room with enchanted green flame brazier and spell book disguised as 'Flumph Mating Rituals'
 - Return through portal to Kolat Towers; find the shield is down (rain getting in)
 - Necromancer's simulacrum passes through an illusory wall
-- Major revelation: Zilka (original Ylka) found shackled in construct workshop, forced to work on Nim the golem
-- SWOJ frees Zilka and fights animated armor constructs
-- Zilka reveals explosives in the adjoining tower
-- Contact Ramalia Haventree via sending stone for backup
+- Major revelation: Zylka (original Ylka) found shackled in construct workshop, forced to work on Nim the golem
+- SWOJ frees Zylka and fights animated armor constructs
+- Zylka reveals explosives in the adjoining tower
+- Contact Remalia Haventree via sending stone for backup
 - Ylka uses disguise ring to impersonate the Necromancer, tricks shield wizard into leaving
 
 ### Featured Characters
@@ -60,13 +60,13 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 - [[Malark Wavesilver]]
 
 **NPCs:**
-- [[The Necromancer]] — The wizard operating from the Kolat Towers and the extra-dimensional sanctum. Confronts SWOJ and reveals that Ylka is a clone of Zilka, created by her grandfather Mordecai Gralhund. Tells them the Cassalanters have the third Eye. His simulacrum (iron mask) fights the city watch.
+- [[The Necromancer]] — The wizard operating from the Kolat Towers and the extra-dimensional sanctum. Confronts SWOJ and reveals that Ylka is a clone of Zylka, created by her grandfather Mordecai Gralhund. Tells them the Cassalanters have the third Eye. His simulacrum (iron mask) fights the city watch.
 - [[Zylka]] — The original person from whom Ylka was cloned. Found shackled in the Necromancer's construct workshop, forced to work on Nim (the Gralhund golem). She has been held captive and is the 'original' Ylka.
 - [[Urstul Floxxin]] — Zentarim operative found near the tower exit. Squiddly was with him, having infiltrated his operation and pickpocketed the second Eye.
-- [[Squiddly]] — One of the Trollskull Trio (street urchins). Found with Urstul Floxin near the tower. Reveals he pickpocketed the second Eye of the Stone of Golorr from Urstul. Rejoins SWOJ.
+- [[Squiddly]] — One of the Trollskull Trio (street urchins). Found with Urstul Floxxin near the tower. Reveals he pickpocketed the second Eye of the Stone of Golorr from Urstul. Rejoins SWOJ.
 - [[Remalia Haventree]] — Harper agent contacted via sending stone for backup during the tower infiltration.
 - [[Mookie]] — Zentarim associate, present in the tower.
-- [[Nim]] — The Gralhund family golem being repaired/constructed by Zilka in the workshop.
+- [[Nim]] — The Gralhund family golem being repaired/constructed by Zylka in the workshop.
 
 ### Locations
 
@@ -1060,8 +1060,8 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[34:25]** It's still me.
 **[34:27]** Then who's that?
 **[34:28]** Probably the person we were chasing for like 12 episodes.
-**[34:32]** Does it look like Zilka?
-**[34:33]** Does she have like healthy Zilka glow?
+**[34:32]** Does it look like Zylka?
+**[34:33]** Does she have like healthy Zylka glow?
 **[34:37]** Actually, as you look at her, she looks like extra, extra dead.
 **[34:40]** Like her hair is like clumpy and missing.
 **[34:43]** And her skin is gray.
@@ -1251,7 +1251,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[41:28]** Please tell me you just picked up a broom of flying.
 **[41:32]** It's like a one foot broom.
 **[41:33]** You've got to keep balance on it.
-**[41:37]** OK, Zilka moves next.
+**[41:37]** OK, Zylka moves next.
 **[41:38]** And she leaps over the table where
 **[41:40]** Nim's remains are located and tries
 **[41:42]** to clip the armor with her chain and armament on her wrist
@@ -1344,15 +1344,15 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[45:07]** Like immigrant song.
 **[45:08]** Yeah, on an accordion.
 **[45:11]** Strangely works for me too.
-**[45:16]** At this, the armor whirls towards Zilka
+**[45:16]** At this, the armor whirls towards Zylka
 **[45:18]** and takes a swing at her.
 **[45:19]** Two swings and hits her once.
 **[45:27]** It kind of hits her with a flat end of the sword
 **[45:28]** and does eight damage to her.
-**[45:32]** Is that Zilka?
-**[45:32]** Zilka.
+**[45:32]** Is that Zylka?
+**[45:32]** Zylka.
 **[45:33]** Does it say Ilka?
-**[45:33]** I meant Zilka.
+**[45:33]** I meant Zylka.
 **[45:34]** OK.
 **[45:36]** OK, I'm still pretty far away.
 **[45:37]** Yeah.
@@ -1451,7 +1451,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[48:48]** So that would be one point boom.
 **[48:50]** Bam.
 **[48:52]** It seems more surprised than damaged.
-**[48:54]** That takes us to Zilka.
+**[48:54]** That takes us to Zylka.
 **[48:59]** She's going to try to snack it again.
 **[49:05]** And she misses.
 **[49:06]** She clanks against it one more time.
@@ -1479,7 +1479,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[50:05]** I'll always mid-battle searches really.
 **[50:08]** OK, yeah, you don't see any weapons or useful things
 **[50:12]** for the fight.
-**[50:13]** But near you, on the workbench closest to Zilka's,
+**[50:13]** But near you, on the workbench closest to Zylka's,
 **[50:16]** you see what looks like a small feathered
 **[50:18]** circulate of unclear origin or use.
 **[50:22]** But again, it's got some kind of a magical aura
@@ -1496,7 +1496,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[50:49]** Can it take what we're going to try?
 **[50:51]** We're going to try Vish's mockery.
 **[50:54]** Yes.
-**[50:56]** Yeah, so I'm going to call it a cheap Zilka knockoff.
+**[50:56]** Yeah, so I'm going to call it a cheap Zylka knockoff.
 **[51:02]** And nobody wants a machine that falls apart when someone
 **[51:09]** hits it with a little dinky stick.
 **[51:12]** And just talking about your stick, dude.
@@ -1695,7 +1695,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[57:53]** to backlight her.
 **[57:56]** I put one foot up on the nearest piece of armor
 **[57:59]** that's like not by itself.
-**[58:00]** Zilka pops in five more dancing lights
+**[58:00]** Zylka pops in five more dancing lights
 **[58:03]** of like the obstacle in the spectrum.
 **[58:04]** So it's just like, that's fine.
 **[58:07]** Yeah.
@@ -1758,8 +1758,8 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:00:21]** And see, I was worried that fingering the circuit
 **[01:00:24]** was going to be the dirty thing that Kat said.
 **[01:00:27]** I didn't even think of the stuff.
-**[01:00:28]** What's Zilka doing?
-**[01:00:29]** Zilka is collecting the pieces of nymph
+**[01:00:28]** What's Zylka doing?
+**[01:00:29]** Zylka is collecting the pieces of nymph
 **[01:00:32]** and kind of like putting them into like a pack
 **[01:00:33]** to store on her back, like Chubaka style
 **[01:00:36]** and Empire Strikes Back with Rupio,
@@ -1768,7 +1768,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:00:44]** And she's just kind of watching the part of you again.
 **[01:00:45]** She's not speaking.
 **[01:00:46]** So she's kind of waiting to see what you do.
-**[01:00:49]** Zilka, do you have a plan of escape
+**[01:00:49]** Zylka, do you have a plan of escape
 **[01:00:51]** or do you want to come with us?
 **[01:00:55]** She like raps and then pauses and looks around
 **[01:01:00]** for like a writing implement and finds one
@@ -1782,7 +1782,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:01:33]** Payback for your imprisonment?
 **[01:01:35]** She knows.
 **[01:01:37]** She wants us to blow up the tower, guys.
-**[01:01:42]** Zilka, before we blow it up, there's a really specific object
+**[01:01:42]** Zylka, before we blow it up, there's a really specific object
 **[01:01:46]** we have to find and we're concerned
 **[01:01:48]** that if we blow it up, we'll never find it.
 **[01:01:51]** Have you seen, I don't even know what the thing looks like?
@@ -1879,7 +1879,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:05:07]** OK.
 **[01:05:08]** That's what the setting's so bad in my mouth.
 **[01:05:13]** And when she doesn't say a thing, I go, just close it off.
-**[01:05:17]** Meanwhile, Zilka has been grabbing a hammer
+**[01:05:17]** Meanwhile, Zylka has been grabbing a hammer
 **[01:05:20]** to break the chain off of her wrist.
 **[01:05:22]** Oh, I was busy doing that.
 **[01:05:23]** I could have done that.
@@ -1906,8 +1906,8 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:06:14]** And the master's masks.
 **[01:06:17]** Ilka actually writes a note.
 **[01:06:19]** She finishes breaking this manacle from her wrist.
-**[01:06:21]** Zilka?
-**[01:06:21]** Zilka, sorry.
+**[01:06:21]** Zylka?
+**[01:06:21]** Zylka, sorry.
 **[01:06:22]** Other Ilka.
 **[01:06:23]** Yeah.
 **[01:06:25]** And writes you a note, Ilka.
@@ -1958,19 +1958,19 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:07:54]** I was trying to say reassuringly.
 **[01:07:55]** I didn't react to that.
 **[01:07:56]** Her shoulder feels weirdly mushy.
-**[01:08:02]** Sorry, Zilka, I don't know how I upset you,
+**[01:08:02]** Sorry, Zylka, I don't know how I upset you,
 **[01:08:04]** but I feel bad about it.
 **[01:08:06]** She dust herself off and picks up the war hammer
 **[01:08:08]** and the backpack with Niminut.
 **[01:08:11]** OK, we're going up.
-**[01:08:12]** If you want to help us open up the shield, Zilka.
+**[01:08:12]** If you want to help us open up the shield, Zylka.
 **[01:08:17]** She nods.
 **[01:08:18]** Did you talk about the other ring at all or no?
 **[01:08:22]** Yeah, I bring it up to these guys.
 **[01:08:25]** Yeah, I think we should disguise ourselves as Nancy
 **[01:08:27]** and tell the wizard to join the fight.
 **[01:08:31]** Oh, your disguise self-ring that you got from somewhere else?
-**[01:08:36]** Oh no, this is Zilka's ring.
+**[01:08:36]** Oh no, this is Zylka's ring.
 **[01:08:38]** Oh, oh cool.
 **[01:08:39]** I wasn't sure if that because she was asking about the rings.
 **[01:08:41]** She passed Ilka a note.
@@ -2062,7 +2062,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:11:36]** Nope.
 **[01:11:36]** You roll stuff.
 **[01:11:38]** Oh, right.
-**[01:11:39]** As you're going, Zilka takes the manacle that
+**[01:11:39]** As you're going, Zylka takes the manacle that
 **[01:11:41]** was on her wrist that she just broke
 **[01:11:43]** and gives it to you.
 **[01:11:45]** Ilka, with a face saying, please take this raised eyebrows.
@@ -2222,7 +2222,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:17:01]** She's still with you.
 **[01:17:02]** OK, put on ring too.
 **[01:17:03]** All right.
-**[01:17:04]** Zilka, the safe you mentioned,
+**[01:17:04]** Zylka, the safe you mentioned,
 **[01:17:08]** do you think it's in his lab?
 **[01:17:10]** She shrugs.
 **[01:17:11]** She looks around like she's never been here before.
@@ -2286,7 +2286,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:19:25]** Masters.
 **[01:19:27]** He's at the scrying pool.
 **[01:19:29]** Sorry.
-**[01:19:31]** Zilka told us that the master keeps a safe in his chambers.
+**[01:19:31]** Zylka told us that the master keeps a safe in his chambers.
 **[01:19:39]** Are we 100% this is who she's referring to?
 **[01:19:41]** And she says the master.
 **[01:19:42]** Now that we're already up here.
@@ -2294,8 +2294,8 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:19:46]** Yes.
 **[01:19:46]** And she did point up.
 **[01:19:48]** True, yeah.
-**[01:19:54]** Do you think that these are as private chambers, Zilka, the lab?
-**[01:19:56]** Or do you think this would be someplace else, Zilka?
+**[01:19:54]** Do you think that these are as private chambers, Zylka, the lab?
+**[01:19:56]** Or do you think this would be someplace else, Zylka?
 **[01:19:59]** She shrugs and shakes her head.
 **[01:20:01]** Say whisper it in our cone of silence here.
 **[01:20:05]** Yeah.
@@ -2573,15 +2573,15 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:30:13]** Or am I waiting for initiative?
 **[01:30:15]** Pernicious, yep.
 **[01:30:17]** Which, let's see where we were.
-**[01:30:19]** Thanks, Zilka.
-**[01:30:23]** So, Zilka comes swinging with her war hammer alongside you.
-**[01:30:26]** Zilka, and clangs against the armor and doesn't even leave a dent.
+**[01:30:19]** Thanks, Zylka.
+**[01:30:23]** So, Zylka comes swinging with her war hammer alongside you.
+**[01:30:26]** Zylka, and clangs against the armor and doesn't even leave a dent.
 **[01:30:33]** So, yep, that takes us to Zay.
 **[01:30:42]** I reach out and offer guidance to Lark, and I stand in between him and the suit of armor.
 **[01:30:57]** The Helmed Horde?
 **[01:30:58]** The Helmed Horde.
 **[01:30:59]** Oh my.
-**[01:31:00]** Zilka, thanks you.
+**[01:31:00]** Zylka, thanks you.
 **[01:31:03]** I'm going to dissonant whispers at that thing, and so I'm whispering an evil discordant melody.
 **[01:31:11]** If it works, it needs a wisdom saving throw.
 **[01:31:17]** So, what kind of damage is that?
@@ -2596,7 +2596,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:31:41]** Okay.
 **[01:31:42]** So, it just picks up its grade acts and like shuffles past you guys as fast as it can towards
 **[01:31:48]** the corner.
-**[01:31:49]** And Zilka takes a swing at it with her war hammer as an attack of opportunity and misses
+**[01:31:49]** And Zylka takes a swing at it with her war hammer as an attack of opportunity and misses
 **[01:31:54]** again.
 **[01:31:55]** She hits it, but it just doesn't leave a dent.
 **[01:31:56]** It's like adamantine or something, similarly dense.
@@ -2755,7 +2755,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:38:36]** We're still in combat.
 **[01:38:37]** You are still in combat.
 **[01:38:38]** Yeah.
-**[01:38:39]** So next would be, uh, Zilka.
+**[01:38:39]** So next would be, uh, Zylka.
 **[01:38:40]** If we're not, that's fine, because then I won't get hit with this, whatever he's going
 **[01:38:43]** to hit me with.
 **[01:38:44]** Yeah.
@@ -2779,7 +2779,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:39:14]** Um, and I, uh, yeah, I guess for the distance, I, is there anyone in between me and the horror
 **[01:39:25]** horror?
 **[01:39:27]** Could I use the sickle of windiness in my estimation?
-**[01:39:30]** Scoot and Zilka are both kind of there up next to it.
+**[01:39:30]** Scoot and Zylka are both kind of there up next to it.
 **[01:39:33]** You can still hit it though.
 **[01:39:34]** It's not like it's obscured.
 **[01:39:35]** It's a big piece of armor for one thing and almost touches the ceiling.
@@ -3104,7 +3104,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:51:54]** You're welcome.
 **[01:51:55]** You're welcome.
 **[01:51:56]** Also, I owe your grandfather for his help in the past.
-**[01:52:00]** I mean, looks at Zilka and he says, what do you intend to do with that?
+**[01:52:00]** I mean, looks at Zylka and he says, what do you intend to do with that?
 **[01:52:05]** What do you intend to do?
 **[01:52:06]** What do you mean that?
 **[01:52:07]** I think he means NEM.
@@ -3113,11 +3113,11 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 **[01:52:12]** Oh.
 **[01:52:13]** Wait, what?
 **[01:52:15]** He says most people don't keep around their old selves after they make a clone of themselves.
-**[01:52:19]** Zilka is your, wait.
+**[01:52:19]** Zylka is your, wait.
 **[01:52:24]** I'm super confused.
-**[01:52:26]** Ilka, you're the clone of Zilka.
+**[01:52:26]** Ilka, you're the clone of Zylka.
 **[01:52:28]** Did my grandfather make me out of her?
-**[01:52:32]** Or Zilka is the clone of Ilka?
+**[01:52:32]** Or Zylka is the clone of Ilka?
 **[01:52:34]** We're confused, Nancy.
 **[01:52:36]** You got to understand.
 **[01:52:37]** I woke up in a crypt with very little explanation.

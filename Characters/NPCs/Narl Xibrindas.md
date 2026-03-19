@@ -17,10 +17,6 @@ White-haired elf (drow) lost in the Xanathar's lair. The carny asks SWOJ to find
 **First appearance:** [[S01E16 - Episode Sixteen|S01E16]]
 **Total appearances:** 1 episode
 
-## Description
-
-White-haired elf (drow) lost in the Xanathar's lair. The carny asks SWOJ to find him. Thorvin also mentions him. A spy or double agent within the Xanathar Guild.
-
 ## Role in the Story
 
 - **S01E16:** The carny gives Scoot a pistol and asks SWOJ to find Nar'l Xibrindas in the lair

@@ -16,10 +16,6 @@ Workshop in the Xanathar's lair where dwarf engineer Thorvin Twinbeard builds ma
 **First appearance:** Episode S01E16
 **Total appearances:** 1 episodes
 
-## Description
-
-Workshop in the Xanathar's lair where dwarf engineer Thorvin Twinbeard builds machines, including a crushing device for Skullport.
-
 ## Notable Events
 
 

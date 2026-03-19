@@ -31,7 +31,7 @@ Air Date: 2023-06-28 | Duration: 01:55:00
 
 SWOJ descends into the Neverwinter chasm with the Manshoon clone ('Man-two') in search of the seal that keeps the chasm stable. The party finds three sets of Jolly Gents camouflage clothing and uses them to pass through the underground areas. They encounter a guard post of five soldiers, which the Manshoon clone neutralizes with hypnotic pattern while Scoot knocks them unconscious.
 
-The group discovers an anti-magic rune trap that destroys the Manshoon clone -- his ice-and-water body disintegrates upon contact. Pressing deeper, SWOJ meets Shailheart, a friendly bulette (landshark) mother with three children. Shailheart gives them one of her fire-resistant scales for protection and directions through the underground: cross the river of fire, then ride the river of water. While crossing the lava river, they discover the stepping stones are actually shed scales of Arcanthos, an ancient red dragon living beneath the chasm. Arcanthos, impressed by their bravery, gives them one of his teeth -- a dagger-like weapon that can cast burning hands.
+The group discovers an anti-magic rune trap that destroys the Manshoon clone -- his ice-and-water body disintegrates upon contact. Pressing deeper, SWOJ meets Shaleheart, a friendly bulette (landshark) mother with three children. Shaleheart gives them one of her fire-resistant scales for protection and directions through the underground: cross the river of fire, then ride the river of water. While crossing the lava river, they discover the stepping stones are actually shed scales of Arcanthos, an ancient red dragon living beneath the chasm. Arcanthos, impressed by their bravery, gives them one of his teeth -- a dagger-like weapon that can cast burning hands.
 
 Riding the underground river of water, they reach a vast subterranean lake where they meet the Hungry Elder, an aboleth-like viper fish creature who maintains the chasm's seal in exchange for stones of power. The Jolly Gents -- Little Joan, Sixteen String Jack, and Antediluvian Jake -- ambush the party. Joan severs the Hungry Elder's dangling power source while Jack fights with his lute. Ylka shatters Jack's stolen loot and recovers her concertina. Jake drops an obsidian tablet to Lark, whispering 'we're all prisoners of Crooks,' before teleporting away with Jack and the stolen green power stones. Joan falls into the water. Lord Dagult Neverember arrives with guards and orders SWOJ to surrender.
 
@@ -41,8 +41,8 @@ Riding the underground river of water, they reach a vast subterranean lake where
 - They find three sets of Jolly Gents camouflage clothing
 - Manshoon clone uses hypnotic pattern on five guards at a checkpoint; Scoot knocks them out
 - The Manshoon clone is destroyed by an anti-magic rune trap, his ice-and-water body disintegrating
-- SWOJ meets Shailheart, a friendly bulette mother with three children
-- Shailheart gives them a fire-resistant scale and directions: cross the river of fire, ride the river of water
+- SWOJ meets Shaleheart, a friendly bulette mother with three children
+- Shaleheart gives them a fire-resistant scale and directions: cross the river of fire, ride the river of water
 - The stepping stones across the lava river are revealed to be scales of Arcanthos, an ancient red dragon
 - Arcanthos gives them a dragon tooth dagger that can cast burning hands
 - They ride the underground river to a subterranean lake

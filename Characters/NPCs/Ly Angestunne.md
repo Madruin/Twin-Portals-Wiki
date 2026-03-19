@@ -12,21 +12,17 @@ tags:
 
 # Ly Angestunne
 
-Dwarf from Sigil encountered at The Way Inn. Traveling companion of Tigit Sketch.
+Dwarf from Sigil encountered at [[The Way Inn]]. Traveling companion of [[Tyjit Skesh]].
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-Dwarf from Sigil encountered at The Way Inn. Traveling companion of Tigit Sketch.
+**First appearance:** [[S02E01 - Episode Thirty One (S02E01)|S02E01]]
+**Total appearances:** 1 episode
 
 ## Role in the Story
 
 
 
 
-- **S02E01:** They meet Volo, Radissera, Lai Angustune, Tigit Sketch, and bartender Dorvina
+- **S02E01:** The party meets Ly Angestunne at [[The Way Inn]] alongside Volo, Radecere, Tyjit Skesh, and bartender Dorvina
 
 ## Episode Appearances
 

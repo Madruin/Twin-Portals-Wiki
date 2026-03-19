@@ -31,11 +31,11 @@ Air Date: 2023-03-26 | Duration: 01:40:39
 
 SWOJ tumbles into a bag of holding after escaping the museum of the multiverse, landing in a small bag containing four curious objects: a wooden dolphin boomerang, a pack of Rowan Crooks trading cards, a marching marimba, and a kippered herring sandwich. The party is joined by Teriador, now inhabiting a drow body and in rough shape. They notice glowing eyes watching them from the far side of the bag -- an entity that disappears when spotted.
 
-After failing to open the bag's cinched rope through brute strength and dispel magic, a grumbling creature on the other side opens the way, revealing the bag dimension: an infinite demiplane of astral space with a lattice of floating bags connected by thick ropes. They meet Phylith, a ragamuffin creature with a raven-beak mask and wheel-like feet, who lives in the bag dimension and travels along the ropes. Phylith takes SWOJ to their junkyard hideout, where they also meet Oobledoop, a yellowish healing gelatinous cube/fungus. Scoot and Teriador wade into Oobledoop for healing.
+After failing to open the bag's cinched rope through brute strength and dispel magic, a grumbling creature on the other side opens the way, revealing the bag dimension: an infinite demiplane of astral space with a lattice of floating bags connected by thick ropes. They meet Fioleth, a ragamuffin creature with a raven-beak mask and wheel-like feet, who lives in the bag dimension and travels along the ropes. Fioleth takes SWOJ to their junkyard hideout, where they also meet Oobledoop, a yellowish healing gelatinous cube/fungus. Scoot and Teriador wade into Oobledoop for healing.
 
-Phylith equips SWOJ from bags of weapons and armor: Scoot receives a steampunk anchor pipe maul, Lark gets a double-ended silver-plated dagger, Xae receives matching red-stained hand crossbows with 40 bolts, and Ylka gets a long whip with 15-foot reach and a heater shield bearing the Gralhund family crest. Additional trinkets include a bag of 42 nectarines, a glowing color-changing orb, tuning forks, and a constellation pocket watch. In exchange, Phylith asks them to retrieve a golden turtle amulet from a nearby bag -- a memento important to the Bag Man.
+Fioleth equips SWOJ from bags of weapons and armor: Scoot receives a steampunk anchor pipe maul, Lark gets a double-ended silver-plated dagger, Xae receives matching red-stained hand crossbows with 40 bolts, and Ylka gets a long whip with 15-foot reach and a heater shield bearing the Gralhund family crest. Additional trinkets include a bag of 42 nectarines, a glowing color-changing orb, tuning forks, and a constellation pocket watch. In exchange, Fioleth asks them to retrieve a golden turtle amulet from a nearby bag -- a memento important to the Bag Man.
 
-The party enters the target bag and finds a platform above a pool of acid, connected by a web of ropes with junk sculptures and constructs throughout. When they locate the golden turtle amulet on a pedestal, animated armor and weapon constructs attack. Scoot falls into the acid pool during the fight but is rescued. After defeating the constructs and retrieving the amulet, they return it to Phylith, who opens it to reveal a locket containing a music box. The Bag Man senses the disturbance, goes berserk, and tears through the bag dimension, capturing Teriador and Phylith. SWOJ locates the Bag Man's lair and finds his ledger, which contains a section on twin portal bags. They identify Jarlaxle's bag as a route to the outside world, rescue Phylith and Teriador from smaller bags in the lair, and make their escape through Jarlaxle's twin portal bag.
+The party enters the target bag and finds a platform above a pool of acid, connected by a web of ropes with junk sculptures and constructs throughout. When they locate the golden turtle amulet on a pedestal, animated armor and weapon constructs attack. Scoot falls into the acid pool during the fight but is rescued. After defeating the constructs and retrieving the amulet, they return it to Fioleth, who opens it to reveal a locket containing a music box. The Bag Man senses the disturbance, goes berserk, and tears through the bag dimension, capturing Teriador and Fioleth. SWOJ locates the Bag Man's lair and finds his ledger, which contains a section on twin portal bags. They identify Jarlaxle's bag as a route to the outside world, rescue Fioleth and Teriador from smaller bags in the lair, and make their escape through Jarlaxle's twin portal bag.
 
 ### Key Events
 
@@ -44,11 +44,11 @@ The party enters the target bag and finds a platform above a pool of acid, conne
 - SWOJ encounters glowing eyes watching them -- an unknown entity that disappears
 - The party fails to open the cinched rope exit through strength and dispel magic
 - Xae calls out to the entity, which opens the bag, revealing the infinite bag dimension
-- SWOJ meets Phylith, a ragamuffin creature with wheel feet and a raven mask who lives in the bag dimension
-- Phylith takes them to their junkyard hideout, warning about the Bag Man
+- SWOJ meets Fioleth, a ragamuffin creature with wheel feet and a raven mask who lives in the bag dimension
+- Fioleth takes them to their junkyard hideout, warning about the Bag Man
 - Scoot and Teriador heal in Oobledoop, the healing gelatinous fungus
-- Phylith equips SWOJ with weapons and armor from stored bags: anchor pipe maul, double-ended dagger, hand crossbows, whip, shield, and various trinkets
-- Phylith asks SWOJ to retrieve a golden turtle amulet from another bag in exchange for teaching them to navigate
+- Fioleth equips SWOJ with weapons and armor from stored bags: anchor pipe maul, double-ended dagger, hand crossbows, whip, shield, and various trinkets
+- Fioleth asks SWOJ to retrieve a golden turtle amulet from another bag in exchange for teaching them to navigate
 
 ### Featured Characters
 
@@ -61,7 +61,7 @@ The party enters the target bag and finds a platform above a pool of acid, conne
 - [[Fioleth]] — A ragamuffin creature who lives in the bag dimension. Humanoid-sized, made up of mismatching clothing and many layers, with a raven-beak wooden mask covering their face and wheel-like prosthetic feet that allow them to travel along the ropes connecting bags. Collects and sorts items that fall through bags of holding. Asks SWOJ to retrieve the golden turtle amulet in exchange for teaching them to navigate the bag dimension.
 - [[Teriador]] — The Rose Knight, now inhabiting a drow body after the events at the museum of the multiverse. In very rough shape due to having two pieces of souls and a brand new body. Contains the Body Taker soul fragment as well. Barely able to stay conscious. Later captured by the Bag Man and rescued by SWOJ.
 - [[The Bag Man]] — The core entity of the bag dimension demiplane. Was present when the first bag of holding was made; every subsequent bag has anchored itself to his soul. He keeps the dimension together and can never leave. Can open bags to the outside world. Appears as a shadowy figure with two searchlight-like eyes. Goes berserk when the golden turtle amulet locket is opened. Keeps ledgers tracking all bags of holding.
-- [[Oobledoop]] — A yellowish gelatinous cube-like creature living in Phylith's junkyard bag. A special healing fungus rather than the acidic kind. Provides restorative healing when creatures wade into it -- described as feeling like an exfoliating back massage.
+- [[Oobledoop]] — A yellowish gelatinous cube-like creature living in Fioleth's junkyard bag. A special healing fungus rather than the acidic kind. Provides restorative healing when creatures wade into it -- described as feeling like an exfoliating back massage.
 
 ### Locations
 

@@ -16,10 +16,6 @@ Coastline to the west of the continent, full of massive port cities. Waterdeep i
 **First appearance:** Episode S01E01
 **Total appearances:** 1 episodes
 
-## Description
-
-Coastline to the west of the continent, full of massive port cities. Waterdeep is the crown jewel.
-
 ## Notable Events
 
 

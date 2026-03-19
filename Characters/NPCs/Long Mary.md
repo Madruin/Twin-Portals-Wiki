@@ -17,10 +17,6 @@ A Jolly Gents sentry partnered with Rambling Bill on chain guard duty. More susp
 **First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]
 **Total appearances:** 1 episode
 
-## Description
-
-A Jolly Gents sentry partnered with Rambling Bill on chain guard duty. More suspicious than Bill but ultimately lets SWOJ pass. Described as tall and stern.
-
 ## Role in the Story
 
 - **S02E22:** Party lands on a chain and encounters sentries Rambling Bill and Long Mary

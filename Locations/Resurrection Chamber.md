@@ -16,10 +16,6 @@ The central cylinder within the Stadium of Souls containing all the stored bodie
 **First appearance:** Episode S02E12
 **Total appearances:** 1 episodes
 
-## Description
-
-The central cylinder within the Stadium of Souls containing all the stored bodies of captured souls. Bodies are mummified and preserved in stasis pods. A control console allows looking up bodies, returning souls, and an override button that unlocks all cells.
-
 ## Notable Events
 
 

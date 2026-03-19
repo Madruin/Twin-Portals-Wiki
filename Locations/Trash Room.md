@@ -16,10 +16,6 @@ A refuse-filled chamber in the underground tunnels inhabited by an otyugh. SWOJ 
 **First appearance:** Episode S02E23
 **Total appearances:** 1 episodes
 
-## Description
-
-A refuse-filled chamber in the underground tunnels inhabited by an otyugh. SWOJ collects stench from here in a broken bag of holding.
-
 ## Notable Events
 
 

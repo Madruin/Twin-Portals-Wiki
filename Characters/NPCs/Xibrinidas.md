@@ -17,10 +17,6 @@ Drow advisor who has risen to the upper echelons of the Xanathar Guild despite d
 **First appearance:** [[S01E15 - Episode Fifteen|S01E15]]
 **Total appearances:** 1 episode
 
-## Description
-
-Drow advisor who has risen to the upper echelons of the Xanathar Guild despite drow normally being excluded. Personal advisor to the Xanathar beholder. Name spelled with an X.
-
 ## Role in the Story
 
 - **S01E15:** Laeral provides intel: Xanathar is paranoid beholder, mind flayer breeds intellect devourers, Thorvin Twinbeard is Harper informant, Xibrinidas is drow advisor

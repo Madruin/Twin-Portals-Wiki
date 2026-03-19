@@ -72,13 +72,13 @@ At the Staghorn Flagon (Stag and Flag) tavern, they meet Gundarkson, the bartend
 ### Locations
 
 - [[Waterdeep]]
-- [[Frewn's  Brews]]
+- [[Frewn's Brews]]
 - [[The Long Road]]
 - [[Rassalanter]]
 - [[Red Larch]]
 - [[Amphail]]
 - [[Hanna'S Music Shop]]
-- [[Staghorn Flagon (Stag And Flag)]]
+- [[Stag And Flag]]
 - [[Kryptwood]]
 - [[Circle Of Dusk Glade]]
 

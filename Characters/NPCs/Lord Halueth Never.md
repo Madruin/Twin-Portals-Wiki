@@ -17,10 +17,6 @@ The first king of Neverwinter and founder of the city. His ornate tomb lies behi
 **First appearance:** [[S02E18 - Episode Forty Eight LIVE (S02E18)|S02E18]]
 **Total appearances:** 1 episode
 
-## Description
-
-The first king of Neverwinter and founder of the city. His ornate tomb lies behind the gold-scaled door in the crypts, surrounded by nine silver swords in a circle. His inscription reads: 'Swear the oath of his knights and join him in rest.'
-
 ## Role in the Story
 
 - **S02E18:** Lord Dagult Neverember hires SWOJ to retrieve the Crown of Neverwinter from Castle Never for 5,000 gold each plus property

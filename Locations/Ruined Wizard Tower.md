@@ -16,10 +16,6 @@ A collapsed tower at Castle Naerytar with a broken observatory telescope stickin
 **First appearance:** Episode S02E27
 **Total appearances:** 1 episodes
 
-## Description
-
-A collapsed tower at Castle Naerytar with a broken observatory telescope sticking out. Largely unguarded by the cultists. SWOJ uses it as an entry point to infiltrate the castle. Contains a nest of otyugh eggs.
-
 ## Notable Events
 
 

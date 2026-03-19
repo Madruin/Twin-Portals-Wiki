@@ -12,23 +12,15 @@ tags:
 
 # Leah
 
-Friend of Xaerine staying at House Phaulkonmere under [[Mellinore]]'s care.
+Leah is a half-elf druid, [[Scoot Sparkles|Scoot]]'s former crewmate from the [[Sea Plum]], and an [[Emerald Enclave]] contact who becomes a key ally of [[SWOJ]] across both seasons of the campaign.
 
-**First appearance:** [[S01E01 - Episode One|S01E01]]
+**First appearance:** [[S01E07 - Episode Seven|S01E07]]
 **Total appearances:** 5 episodes
 **Faction affiliations:** [[Emerald Enclave]]
 
 ## Description
 
-Friend of Xaerine staying at House Phaulkonmere under [[Mellinore]]'s care.
-
-Half-elf, Scoot's former crewmate and first mate of the Sea Plum. Now an Emerald Enclave contact. Brings the scarecrow quest from Stout Fellow Farm. Offers to ward Trollskull against vermin and set up a pigeon rookery.
-
-Scoot's former shipmate and an elven woman. Was sent by the Emerald Enclave to help the Circle of Dusk druids near Amphale, where she was mentored by druid Shala. Transformed into a six-eyed beast by Arcturia's magic; freed when Lark applies moth weed.
-
-Scoot's former shipmate. Stays behind with the Circle of Dusk druids to help coordinate refugee transport to the Radiant Citadel and ensure the moth weed reaches those who need it.
-
-A druid of the Circle of Dusk who has been scouting the Amphail area. Rides a giant stag beetle named Craw. Helps SWOJ by providing intelligence about the Spiral Cavern and setting a diversionary fire.
+Leah is a half-elf and [[Scoot Sparkles|Scoot]]'s former crewmate from the [[Sea Plum]], who later became a druid of the [[Circle of Dusk]] and a contact for the [[Emerald Enclave]]. She first appears bringing a quest to SWOJ about scarecrows attacking [[Stoutfellow Farm]], and offers to ward [[Trollskull Manor]] against vermin and set up a pigeon rookery. In Season 2, she is found near [[Amphail]] where she was mentored by druid [[Shala]] and later transformed into a six-eyed beast by [[Arcturia]]'s magic. After being freed by [[Malark Wavesilver|Lark]], she stays with the Circle of Dusk to coordinate refugee transport. She rides a giant stag beetle named [[Craw]] and provides critical intelligence about the [[Spiral Cavern]].
 
 
 ## Role in the Story

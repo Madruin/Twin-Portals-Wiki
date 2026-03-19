@@ -31,26 +31,26 @@ Air Date: 2025-05-11 | Duration: 01:08:45
 
 The Season 2 finale is an epilogue episode focused on SWOJ's homecoming to Waterdeep after breaking the Wall of the Faithless and surviving the Concord Jewel crash. The party travels by caravan from the Spiral Cavern alongside refugees, with Griffin riders soaring overhead. During the journey, messengers report mysterious portals opening across the Sword Coast, sometimes releasing strange monsters — a consequence of breaking the Wall. Scoot falls increasingly ill from festering wounds inflicted by the frog creatures, failing constitution saves and developing a magical curse with tadpole parasites growing inside his wounds.
 
-Upon arriving at Trollskull Manor, SWOJ is reunited with beloved NPCs: Lief the ghost attendant, Grim and Aspell Wavesilver (Lark's family), Tega and Simon (Scoot's parents), and Marie Polvich behind the bar. On the rooftop, Oranax the gold dragon (in dwarven form) removes four red tadpoles from Scoot's wounds using Remove Curse, explaining that if the curse progresses too far, victims might transform into frog creatures. The teleportation circle in the Trollskull basement has been completed by Alcoria Stonemarrow, and Tega's children Bennet and Janks have grown into teenagers — Bennet as a Griffin Rider recruit and Janks studying wizardry.
+Upon arriving at Trollskull Manor, SWOJ is reunited with beloved NPCs: Lif the ghost attendant, Grim and Aspell Wavesilver (Lark's family), Tagga and Simon (Scoot's parents), and Marie Polvich behind the bar. On the rooftop, Aurinax the gold dragon (in dwarven form) removes four red tadpoles from Scoot's wounds using Remove Curse, explaining that if the curse progresses too far, victims might transform into frog creatures. The teleportation circle in the Trollskull basement has been completed by Ulkoria Stonemarrow, and Tagga's children Bennet and Janks have grown into teenagers — Bennet as a Griffin Rider recruit and Janks studying wizardry.
 
-The party spends a day revisiting Waterdeep: visiting Froon's tavern (their competition across the street, now thriving with their startup investment), checking on Vincent Trench's detective office (locked and abandoned), getting unbanned from the Yawning Portal where Xae hears a mysterious voice from Undermountain saying 'come home,' and Ylka performs with [[Three Strings]] to a packed crowd. Terry the awakened horse arrives — now armored with daggers and glowing yellow eyes — and races them across rooftops to their meeting with the Masked Lords.
+The party spends a day revisiting Waterdeep: visiting Frewn's tavern (their competition across the street, now thriving with their startup investment), checking on Vincent Trench's detective office (locked and abandoned), getting unbanned from the Yawning Portal where Xae hears a mysterious voice from Undermountain saying 'come home,' and Ylka performs with [[Three Strings]] to a packed crowd. Terry the awakened horse arrives — now armored with daggers and glowing yellow eyes — and races them across rooftops to their meeting with the Masked Lords.
 
 At the palace, SWOJ performs a musical recap of Season 2 for the assembled leadership: the Masked Lords, Renaer Neverember, Jarlaxle (as himself), Ramalia Haventree of the Harpers, and representatives from the Sword Coast Alliance including Baldur's Gate. They are presented with a Letters of Charter officially recognizing the Guild of the Silver Waves of Justice, granting them recruitment rights, petitioning privileges, safe passage, limited judicial immunity, and franchising rights across the Sword Coast Alliance. Terry is invited as the first official guild member.
 
-The finale concludes with a massive celebration at Trollskull Manor on God's Night during the festival of Marpenoth. Attendees include Antediluvian Jake Morrison, Angie Fliplap, Pinker from the Flute and Blackmore, Sid Squid, Zardoz Zord, Volo, the Doom Raiders, and Ramalia. On the rooftop at dawn, beside a fire lit by Oranax's breath, each party member burns a meaningful item: Scoot burns Rowan Crooks trading cards, Lark burns his Jolly Gents outfit, and Xae throws in a Feywild mushroom, while Ylka plays her grandfather Mordecai's music. Antediluvian Jake and Angie perform Mordecai Gralhund's soul-binding ritual, binding their souls to objects to end their undead state. Each PC reflects on their future: Scoot wants to stay grounded at Trollskull and learn Tega's shadow skills; Ylka plans to investigate the Gralhund family demons and her grandfather's legacy; Xae intends to seek her siblings in Undermountain (having heard 'one sibling freed, five more and nine years remain' in a dream); and Lark wants to continue adventuring and recruiting for the guild. The episode ends with twin portals appearing on the rooftop — a green one releasing an aboleth tendril, and a rose-gold one through which Laeral Silverhand arrives riding the unicorn Lyrian, road-worn and armed, as the multiverse awaits.
+The finale concludes with a massive celebration at Trollskull Manor on God's Night during the festival of Marpenoth. Attendees include Antediluvian Jake Morrison, Ann Jane Flip-Flap, Pinker from the Flute and Blackmore, Sid Squid, Zardoz Zord, Volo, the Doom Raiders, and Ramalia. On the rooftop at dawn, beside a fire lit by Aurinax's breath, each party member burns a meaningful item: Scoot burns Rowan Crooks trading cards, Lark burns his Jolly Gents outfit, and Xae throws in a Feywild mushroom, while Ylka plays her grandfather Mordecai's music. Antediluvian Jake and Angie perform Mordecai Gralhund's soul-binding ritual, binding their souls to objects to end their undead state. Each PC reflects on their future: Scoot wants to stay grounded at Trollskull and learn Tagga's shadow skills; Ylka plans to investigate the Gralhund family demons and her grandfather's legacy; Xae intends to seek her siblings in Undermountain (having heard 'one sibling freed, five more and nine years remain' in a dream); and Lark wants to continue adventuring and recruiting for the guild. The episode ends with twin portals appearing on the rooftop — a green one releasing an aboleth tendril, and a rose-gold one through which Laeral Silverhand arrives riding the unicorn Lyrian, road-worn and armed, as the multiverse awaits.
 
 ### Key Events
 
 - SWOJ travels by caravan from the Spiral Cavern to Waterdeep alongside refugees, with reports of mysterious portals opening across the Sword Coast
 - Scoot falls gravely ill with a magical curse from the frog creature wounds — festering, fever, and reopening wounds
 - Refugees from the Radiant Citadel are given space to homestead in Amphail
-- SWOJ returns to Trollskull Manor and reunites with Lief, Grim, Aspell, Tega, Simon, Marie Polvich, and others
-- Oranax the gold dragon removes four red tadpoles from Scoot using Remove Curse — warns that if the curse progresses too far, victims might transform
-- The teleportation circle in Trollskull's basement has been completed by Alcoria Stonemarrow, connecting to the Shard of the Moon
-- Tega's children Bennet and Janks are now teenagers — a Griffin Rider recruit and wizard student respectively
+- SWOJ returns to Trollskull Manor and reunites with Lif, Grim, Aspell, Tagga, Simon, Marie Polvich, and others
+- Aurinax the gold dragon removes four red tadpoles from Scoot using Remove Curse — warns that if the curse progresses too far, victims might transform
+- The teleportation circle in Trollskull's basement has been completed by Ulkoria Stonemarrow, connecting to the Shard of the Moon
+- Tagga's children Bennet and Janks are now teenagers — a Griffin Rider recruit and wizard student respectively
 - Simon (Scoot's father) returns after years lost at sea, tells of being helped by Zhentarim-affiliated pirates and witnessing a divine tidal wave near Luskan
 - The Doom Raiders have filled the Zhentarim power vacuum in Waterdeep after Manshoon's defeat
-- SWOJ visits Froon's thriving tavern, finds Vincent Trench's office locked and abandoned
+- SWOJ visits Frewn's thriving tavern, finds Vincent Trench's office locked and abandoned
 
 ### Featured Characters
 
@@ -61,14 +61,14 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 
 **NPCs:**
 - [[Aurinax]] — An elder gold dragon who resides at Trollskull Manor. Can shapeshift into dwarven form. Removes Scoot's frog creature curse with Remove Curse spell. Previously watched over the Horde of Dragons for centuries. Lights the God's Night fire with flame breath.
-- [[Melifarn]] — A bronze dragon who perches on the rooftop of Trollskull Manor alongside Oranax. Present at the God's Night ceremony in human form.
-- [[Lif]] — A ghostly spectral attendant at Trollskull Manor who welcomes SWOJ home by opening the front door and waggling his eyebrows. Delivers a letter from the Masked Lords to Squidley.
+- [[Melifarn]] — A bronze dragon who perches on the rooftop of Trollskull Manor alongside Aurinax. Present at the God's Night ceremony in human form.
+- [[Lif]] — A ghostly spectral attendant at Trollskull Manor who welcomes SWOJ home by opening the front door and waggling his eyebrows. Delivers a letter from the Masked Lords to Squidly.
 - [[Tagga]] — Scoot's mother, waiting at Trollskull Manor. Has secret shadow skills/history she hints at. Organized the homecoming party. Her children Bennet and Janks are now teenagers. Winks when asked about the Zhentarim, suggesting she knows more than she lets on. Simon (Scoot's father) recently returned home.
 - [[Simon]] — Scoot's father, a sailor who was shipwrecked years ago and went on an odyssey around the ocean west of the Sword Coast. Was helped home by Zhentarim-affiliated pirates ('people sailing without official charters'). Witnessed a massive divine tidal wave near Luskan that suddenly dissipated.
 - [[Grim Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting at Trollskull Manor with a candle burned low.
-- [[Grim Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting alongside Grim at Trollskull Manor.
+- [[Aspell Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting alongside Grim at Trollskull Manor.
 - [[Mara]] — Pops out from behind the bar at Trollskull Manor when SWOJ returns.
-- [[Squidley]] — An ally who traveled with SWOJ. Moves into a room at Trollskull Manor and delivers the Masked Lords' letter to the party.
+- [[Squidly]] — An ally who traveled with SWOJ. Moves into a room at Trollskull Manor and delivers the Masked Lords' letter to the party.
 - [[Terry]] — An awakened horse ally of SWOJ, now upgraded with daggers, armor, a SWOJ hawberk, and faintly glowing yellow eyes. Can throw daggers from his hooves. Arrives dramatically with a lightning bolt, leaps across rooftops to transport the party to the Masked Lords. Invited as the first official member of the SWOJ guild.
 - [[Three Strings]] — Resident bard at the Yawning Portal. Plays one of Ylka's tunes to the packed crowd, who all sing along. When Ylka joins in, Three Strings jumps up on the table with her for a celebratory duet.
 
@@ -80,7 +80,7 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 - [[Amphail]]
 - [[Yawning Portal]]
 - [[Undermountain]]
-- [[Frewn's  Brews]]
+- [[Frewn's Brews]]
 - [[Vincent Trench's Office]]
 - [[Hole In The Wall]]
 - [[Masked Lords' Palace]]

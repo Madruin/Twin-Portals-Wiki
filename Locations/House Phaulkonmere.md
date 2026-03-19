@@ -16,10 +16,6 @@ Residence run by [[Mellinore]] where Xaerine stayed before having to flee due to
 **First appearance:** Episode S01E01
 **Total appearances:** 1 episodes
 
-## Description
-
-Residence run by [[Mellinore]] where Xaerine stayed before having to flee due to dangerous men. Also home to Leah.
-
 ## Notable Events
 
 

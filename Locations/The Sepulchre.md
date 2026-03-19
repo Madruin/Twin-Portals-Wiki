@@ -16,10 +16,6 @@ A memory-erasing tomb featured in one of the dream scenarios. SWOJ must resist f
 **First appearance:** Episode S02E25
 **Total appearances:** 1 episodes
 
-## Description
-
-A memory-erasing tomb featured in one of the dream scenarios. SWOJ must resist forgetting their identities while exploring it. Contains powerful scrolls.
-
 ## Notable Events
 
 

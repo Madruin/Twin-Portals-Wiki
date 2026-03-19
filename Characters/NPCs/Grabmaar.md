@@ -17,10 +17,6 @@ A ghost archivist working in the print shop beneath Zentil Keep. From House This
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-A ghost archivist working in the print shop beneath Zentil Keep. From House Thistlewhip. Forced to produce propaganda for Rowan Crooks. Provides SWOJ with information about the propaganda operation and gifts Lark a silver quill.
-
 ## Role in the Story
 
 

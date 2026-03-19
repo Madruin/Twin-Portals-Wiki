@@ -29,11 +29,11 @@ Air Date: 2024-01-31 | Duration: 02:09:38
 
 ## Summary
 
-SWOJ descends the spiral staircase from the throne room into the depths beneath Zentil Keep. They discover a trash room inhabited by an otyugh, which Xae communicates with via speak with animals. The party collects the otyugh's stench in a broken bag of holding for potential tactical use later. Continuing deeper, they find a vast underground cavern with bioluminescent mushrooms surrounding a subterranean lake. Xae speaks with the mushrooms, which warn of a 'corruption at the heart of the island' and describe the soul engine's damaging effect on the natural ecosystem.
+SWOJ descends the spiral staircase from the throne room into the depths beneath Zhentil Keep. They discover a trash room inhabited by an otyugh, which Xae communicates with via speak with animals. The party collects the otyugh's stench in a broken bag of holding for potential tactical use later. Continuing deeper, they find a vast underground cavern with bioluminescent mushrooms surrounding a subterranean lake. Xae speaks with the mushrooms, which warn of a 'corruption at the heart of the island' and describe the soul engine's damaging effect on the natural ecosystem.
 
 While exploring the cavern, the party overhears a wyvern rider patrol. They eavesdrop on two Jolly Gents -- Pill Garlic and Slim Curly -- discussing patrol routes and security measures. Slim Curly, a halfling spy master and undead operative, spots the party and a chase ensues through the cavern tunnels. SWOJ catches and fights Slim Curly, defeating him. They feed his remains to the mushrooms to dispose of the evidence.
 
-Deeper in the tunnels, SWOJ discovers a print shop staffed by ghost archivists, including Grabmar of House Thistlewhip, who is forced to produce propaganda for Rowan Crooks. Lark discovers Crooks' original journal -- the genuine diary entries of the real Rowan Crooks before he was replaced by a Manshoon clone. The journal details Crooks' original heroic ideals and his fight against Manshoon. A ghost archivist gifts Lark a silver quill in recognition of his respect for the written word.
+Deeper in the tunnels, SWOJ discovers a print shop staffed by ghost archivists, including Grabmaar of House Thistlewhip, who is forced to produce propaganda for Rowan Crooks. Lark discovers Crooks' original journal -- the genuine diary entries of the real Rowan Crooks before he was replaced by a Manshoon clone. The journal details Crooks' original heroic ideals and his fight against Manshoon. A ghost archivist gifts Lark a silver quill in recognition of his respect for the written word.
 
 Finally, SWOJ reaches the soul engine room, a massive chamber where magical chains feed soul energy into a central sphere keeping the island afloat. There they find Little Joan -- a powerful Jolly Gents warrior -- doing pull-ups on one of the chain supports. Scoot persuades Little Joan to join their cause through a show of strength and flexing, rolling a 22 on a strength-based persuasion check. Joan reveals she has doubts about Crooks and remembers why she originally joined the Gents -- to use strength for good. SWOJ begins sabotaging the soul engine by attacking the chains, while Joan goes to rally other Jolly Gents. Following the chains, SWOJ finds Friar Truck's phylactery laboratory containing over a hundred phylacteries. They confront Friar Truck, who proves resistant to fear effects and casts spirit guardians. A brutal battle ensues with Ylka shattering the altar, Scoot grappling Truck, and Lark attacking with his rapier. Friar Truck banishes Scoot briefly to an ocean, but Ylka's shatter destroys the altar's protective magic, bringing Scoot back. Friar Truck casts wall of fire as a last stand, but Xae finishes him with a moonbeam, killing the demonic cleric.
 
@@ -47,7 +47,7 @@ Finally, SWOJ reaches the soul engine room, a massive chamber where magical chai
 - Chase and fight with Slim Curly the halfling spy master; body fed to mushrooms
 - Discovery of print shop with ghost archivists forced to produce Crooks propaganda
 - Lark finds Rowan Crooks' original journal revealing the real Crooks' heroic ideals
-- Ghost archivist Grabmar gifts Lark a silver quill
+- Ghost archivist Grabmaar gifts Lark a silver quill
 - SWOJ reaches the soul engine room and finds Little Joan doing pull-ups
 
 ### Featured Characters
@@ -58,9 +58,9 @@ Finally, SWOJ reaches the soul engine room, a massive chamber where magical chai
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Pill Garlic]] — A Jolly Gents member overheard during a wyvern patrol in the underground caverns beneath Zentil Keep. Discusses patrol routes and security with Slim Curly.
+- [[Pill Garlic]] — A Jolly Gents member overheard during a wyvern patrol in the underground caverns beneath Zhentil Keep. Discusses patrol routes and security with Slim Curly.
 - [[Slim Curly]] — A halfling spy master and undead Jolly Gents operative. Spots SWOJ during a patrol in the underground caverns. Chased and killed by the party. His body is fed to the mushrooms to dispose of evidence.
-- [[Grabmaar]] — A ghost archivist working in the print shop beneath Zentil Keep. From House Thistlewhip. Forced to produce propaganda for Rowan Crooks. Provides SWOJ with information about the propaganda operation and gifts Lark a silver quill.
+- [[Grabmaar]] — A ghost archivist working in the print shop beneath Zhentil Keep. From House Thistlewhip. Forced to produce propaganda for Rowan Crooks. Provides SWOJ with information about the propaganda operation and gifts Lark a silver quill.
 - [[Little Joan]] — A powerful Jolly Gents warrior found doing pull-ups in the soul engine room. Despite her name, she is physically imposing and wields a dual-bladed axe. Has growing doubts about Crooks' leadership. Persuaded by Scoot to join SWOJ's cause through a show of strength. Helps attack the soul engine chains and goes to rally other Gents against Crooks.
 - [[Friar Truck]] — A demonic cleric serving Rowan Crooks, responsible for the phylactery laboratory containing over a hundred Jolly Gents phylacteries. Immune to fear effects. Wields a mace called 'the Truck' and a dark spellbook with blood magic and pentagrams. Casts spirit guardians (ghostly Jolly Gents), banishment, flame strike, and wall of fire. Serves Manshoon and considers him the 'better leader' over the original Crooks. Killed by Xae's moonbeam.
 - [[Sixteen String Jack]] — A Jolly Gent whose phylactery emits a twinging sound when knocked off the altar. Mentioned by name when the party hears music from one of the phylacteries.

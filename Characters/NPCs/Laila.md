@@ -18,10 +18,6 @@ A halfling knight wearing night regalia and a helmet that mostly obscures her fa
 **Total appearances:** 1 episode
 **Faction affiliations:** [[The Resistance]]
 
-## Description
-
-A halfling knight wearing night regalia and a helmet that mostly obscures her face. A member of the resistance who patrols the tunnels beneath Castle Never. Discovers SWOJ hiding in the excavation area and leads them to Renaer's underground base.
-
 ## Role in the Story
 
 - **S02E15:** Laila, a halfling knight of the resistance, discovers SWOJ and leads them to the underground base

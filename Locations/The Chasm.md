@@ -16,10 +16,6 @@ A great rift in the southeast part of Neverwinter that opened when Mount Hotenow
 **First appearance:** Episode S02E14
 **Total appearances:** 1 episodes
 
-## Description
-
-A great rift in the southeast part of Neverwinter that opened when Mount Hotenow erupted 30 years ago. Previously spawned demonic horrors before being sealed by Lord Neverember. Rumors of people performing arcane rituals or throwing things into it.
-
 ## Notable Events
 
 

@@ -16,10 +16,6 @@ The Zentarim base of operations -- a pair of towers with seven floors containing
 **First appearance:** Episode S01E22
 **Total appearances:** 2 episodes
 
-## Description
-
-The Zentarim base of operations -- a pair of towers with seven floors containing traps, a flesh golem, summoning circles, and a portal to the Necromancer's sanctum at the top.
-
 ## Notable Events
 
 

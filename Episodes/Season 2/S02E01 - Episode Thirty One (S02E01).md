@@ -29,20 +29,20 @@ Air Date: 2022-02-28 | Duration: 02:02:23
 
 ## Summary
 
-The season two premiere found SWOJ deep in the Feywild, traveling with the Jolly Gents -- the adventuring crew led by Rowan Crooks -- on a mission to hunt down clones of the wizard Manshoon. The party carried a compass crafted from Lark's gemstone and blood that pointed toward the Necromancer, their quarry. Rowan Crooks split off with part of his crew in a different direction, leaving SWOJ accompanied by three Jolly Gents members: Antidiluvian Jake, Ann Jane Flip-Flap, and Lerian the unicorn.
+The season two premiere found SWOJ deep in the Feywild, traveling with the Jolly Gents -- the adventuring crew led by Rowan Crooks -- on a mission to hunt down clones of the wizard Manshoon. The party carried a compass crafted from Lark's gemstone and blood that pointed toward the Necromancer, their quarry. Rowan Crooks split off with part of his crew in a different direction, leaving SWOJ accompanied by three Jolly Gents members: Antediluvian Jake, Ann Jane Flip-Flap, and Lyrian the unicorn.
 
-While traversing the Feywild, the group encountered a fairy ring of dancing mushroom creatures. Xae entered the ring and received enhanced vision, and the mushrooms gifted the party a magical toadstool. They arrived at The Way Inn, a tavern on the border between the Feywild and the Shadowfell, where they met several colorful patrons: Volothamp Geddarm (Volo) the famous chronicler, Radissera the rock gnome inventor, and Lai Angustune and Tigit Sketch, two dwarves from Sigil. Ylka performed music at the inn to earn room and board for the group. An earth-shaking roar sounded from the direction of the Shadowfell, and the compass aligned with it. The innkeeper Dorvina and the patrons spoke of the Beast of Erua, a legendary creature said to have been slain by the Rose Knight, a heroic figure named Teriador.
+While traversing the Feywild, the group encountered a fairy ring of dancing mushroom creatures. Xae entered the ring and received enhanced vision, and the mushrooms gifted the party a magical toadstool. They arrived at The Way Inn, a tavern on the border between the Feywild and the Shadowfell, where they met several colorful patrons: Volothamp Geddarm (Volo) the famous chronicler, Radecere the rock gnome inventor, and Ly Angestunne and Tyjit Skesh, two dwarves from Sigil. Ylka performed music at the inn to earn room and board for the group. An earth-shaking roar sounded from the direction of the Shadowfell, and the compass aligned with it. The innkeeper Dorvina and the patrons spoke of the Beast of Erua, a legendary creature said to have been slain by the Rose Knight, a heroic figure named Teriador.
 
-The party ate the magical mushroom, which granted them a blessed effect, and charged through the stone border wall into the Shadowfell. They found themselves in a dark, rain-soaked landscape where they spotted Brighanox -- dancing lights that turned out to be tiny mouse-like creatures. They were attacked by Strigoi, bat-like creatures with proboscis tongues that swooped from the sky. During the fight, Scoot unveiled his new great axe, a gift from Nat'n Jenkson (also known as Squidly). The ghost of Thail, their deceased tiefling companion, appeared to the party. The Brighanox led them into underground tunnels beneath the borderlands to safety.
+The party ate the magical mushroom, which granted them a blessed effect, and charged through the stone border wall into the Shadowfell. They found themselves in a dark, rain-soaked landscape where they spotted Brigganocks -- dancing lights that turned out to be tiny mouse-like creatures. They were attacked by Strigoi, bat-like creatures with proboscis tongues that swooped from the sky. During the fight, Scoot unveiled his new great axe, a gift from Nat'n Jenkson (also known as Squidly). The ghost of Thail, their deceased tiefling companion, appeared to the party. The Brigganocks led them into underground tunnels beneath the borderlands to safety.
 
 ### Key Events
 
 - Season 2 begins with SWOJ in the Feywild, hunting Manshoon clones with the Jolly Gents
-- Rowan Crooks splits off with part of his crew, leaving SWOJ with Antidiluvian Jake, Ann Jane Flip-Flap, and Lerian
+- Rowan Crooks splits off with part of his crew, leaving SWOJ with Antediluvian Jake, Ann Jane Flip-Flap, and Lyrian
 - Xae enters a fairy ring of dancing mushrooms and receives enhanced vision
 - The party receives a magical mushroom gift from the mushroom creatures
 - SWOJ arrives at The Way Inn on the Feywild-Shadowfell border
-- They meet Volo, Radissera, Lai Angustune, Tigit Sketch, and bartender Dorvina
+- They meet Volo, Radecere, Ly Angestunne, Tyjit Skesh, and bartender Dorvina
 - Ylka performs music at the inn for room and board
 - An earth-shaking roar from the Shadowfell direction aligns with the compass
 - They learn about the Beast of Erua and the Rose Knight (Teriador) who slew it
@@ -62,8 +62,8 @@ The party ate the magical mushroom, which granted them a blessed effect, and cha
 - [[Lyrian]] — A unicorn companion traveling with SWOJ and the Jolly Gents through the Feywild.
 - [[Volothamp Geddarm]] — Famous chronicler and author encountered at The Way Inn. Was later captured and replaced by a podling in the Shadowfell.
 - [[Radecere]] — Rock gnome inventor at The Way Inn. Creator of the Dynamo of Possibility, a device that imbues the suggestion of a soul onto inanimate objects.
-- [[Ly Angestunne]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Tigit Sketch.
-- [[Tyjit Skesh]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Lai Angustune.
+- [[Ly Angestunne]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Tyjit Skesh.
+- [[Tyjit Skesh]] — Dwarf from Sigil encountered at The Way Inn. Traveling companion of Ly Angestunne.
 - [[Dorvina]] — Bartender at The Way Inn. Told tales of the Beast of Erua and the Rose Knight.
 - [[Thail]] — Ghost of a tiefling, former companion of SWOJ who died previously. Brother of Squidly (Nat'n Jenkson). Appeared to the party in the Shadowfell. Can possess living bodies.
 

@@ -16,10 +16,6 @@ A roiling, churning maelstrom of darkness that extends in all directions near th
 **First appearance:** Episode S02E34
 **Total appearances:** 2 episodes
 
-## Description
-
-A roiling, churning maelstrom of darkness that extends in all directions near the Radiant Citadel. Some scholars believe it is slowly moving closer. Silent at a distance but noisy up close.
-
 ## Notable Events
 
 

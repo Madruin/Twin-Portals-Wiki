@@ -16,10 +16,6 @@ An afterlife realm or sanctuary for dragon souls. SWOJ wins the case during the 
 **First appearance:** Episode S02E29
 **Total appearances:** 1 episodes
 
-## Description
-
-An afterlife realm or sanctuary for dragon souls. SWOJ wins the case during the Trial of Jergal for the captured dragon souls to be sent here rather than being consumed by the dracolich ritual.
-
 ## Notable Events
 
 

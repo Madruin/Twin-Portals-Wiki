@@ -16,10 +16,6 @@ Inner chamber containing Sylgar's fish tank and a locked chest holding the Eye o
 **First appearance:** Episode S01E16
 **Total appearances:** 1 episodes
 
-## Description
-
-Inner chamber containing Sylgar's fish tank and a locked chest holding the Eye of the Stone of Golorr. Where the Xanathar catches the party.
-
 ## Notable Events
 
 

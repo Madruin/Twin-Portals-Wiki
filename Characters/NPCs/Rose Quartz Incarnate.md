@@ -19,7 +19,6 @@ A small dragon-shaped crystal creature the size of a dog, made of many pieces of
 
 ## Description
 
-A small dragon-shaped crystal creature the size of a dog, made of many pieces of rose quartz fitted together magically. An incarnate -- a form created when many ancestral spirits from a similar origin come together. Communes telepathically with Zelifarn about draconic lineage.
 
 The dragon-shaped crystal creature in the Preserve of the Ancestors. Settles down and merges with the unconscious Zelifarn to protect and restore him. Leaves a white crystal with him. Confirms knowledge of the Deep Dragon Temple.
 

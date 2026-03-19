@@ -29,7 +29,7 @@ Air Date: 2026-02-28 | Duration: 01:28:23
 
 ## Summary
 
-Matias and Scott return for another casual mini-painting session, discussing the current state and future plans for Twin Portals. The episode opens with acknowledgment that Twin Portals is no longer funded by the Minnesota State Arts Board, giving them more freedom with content. They paint various miniatures including a shale heart, a periton, and an abelith, discussing painting techniques like dry brushing, washes, and base coating.
+Matias and Scott return for another casual mini-painting session, discussing the current state and future plans for Twin Portals. The episode opens with acknowledgment that Twin Portals is no longer funded by the Minnesota State Arts Board, giving them more freedom with content. They paint various miniatures including a shale heart, a periton, and an aboleth, discussing painting techniques like dry brushing, washes, and base coating.
 
 The conversation covers a wide range of planning topics: upcoming episodes including a session zero discussion episode and a potential FTG (Femmes, Thems, and Gems) follow-up, getting back to regular story content, and the possibility of 'spicy' adult-themed D&D content using alternative game systems like Vices and Violence. Matias discusses plans for a West Marches collaborative campaign that would connect Discord community games with recorded studio episodes, creating a shared universe where player actions in online games affect the recorded show.
 

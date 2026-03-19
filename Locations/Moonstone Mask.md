@@ -16,10 +16,6 @@ A famous fest hall and inn located on a floating island chained above Neverwinte
 **First appearance:** Episode S02E14
 **Total appearances:** 2 episodes
 
-## Description
-
-A famous fest hall and inn located on a floating island chained above Neverwinter's harbor. Multiple stories with bars on each level. Staff wear moon and sun masks and use sending stones to share information. The ground floor is for the wealthy, upper floors for commoners. Connected to the city by a chain bridge.
-
 ## Notable Events
 
 

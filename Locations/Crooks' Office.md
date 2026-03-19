@@ -16,10 +16,6 @@ Rowan Crooks' personal office on the sixth floor of Zhentil Keep. Contains Anted
 **First appearance:** Episode S02E22
 **Total appearances:** 1 episodes
 
-## Description
-
-Rowan Crooks' personal office on the sixth floor of Zhentil Keep. Contains Antediluvian Jake's phylactery (copper orb) and various documents about the Jolly Gents operations. Accessed after navigating the trapped fifth floor.
-
 ## Notable Events
 
 

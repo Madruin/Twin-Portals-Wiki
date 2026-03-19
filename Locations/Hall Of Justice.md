@@ -17,10 +17,6 @@ A large colosseum-like fortress on the south side of the river where Lord Nevere
 **First appearance:** Episode S02E14
 **Total appearances:** 4 episodes
 
-## Description
-
-A large colosseum-like fortress on the south side of the river where Lord Neverember keeps his court. Also contains a dungeon on the northern side. Heavily guarded with at least six guards outside the dungeon entrance.
-
 ## Notable Events
 
 

@@ -16,10 +16,6 @@ A bustling marketplace in the trade district of the Radiant Citadel, near the en
 **First appearance:** Episode S02E08
 **Total appearances:** 3 episodes
 
-## Description
-
-A bustling marketplace in the trade district of the Radiant Citadel, near the entrance to the Preserve of the Ancestors. Features food vendors (nachos, kimchi, curries), Sid Squid's Battle Prawns tent, and Benzo's Weapon Emporium.
-
 ## Notable Events
 
 

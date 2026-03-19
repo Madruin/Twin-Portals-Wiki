@@ -17,10 +17,6 @@ A halfling scientist and member of the Radiant Citadel's welcoming committee. Kn
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-A halfling scientist and member of the Radiant Citadel's welcoming committee. Knowledgeable about the concord jewels, the ethereal plane, and the citadel's history. Explains that the citadel was resettled 250 years ago with 12 of at least 15 known concord jewels.
-
 ## Role in the Story
 
 

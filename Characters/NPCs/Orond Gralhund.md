@@ -20,7 +20,6 @@ Lord of the Gralhund household. Plump, richly dressed nobleman. Cornered in a gu
 
 ## Description
 
-Lord of the Gralhund household. Plump, richly dressed nobleman. Cornered in a guest room by the Zhentarim leader. Throat slashed by the Zhentarim agent but stabilized by Ylka's medicine. Yala seems disappointed he survived.
 
 Noble lord of Gralhund Villa. Present during the city watch questioning after the villa break-in.
 

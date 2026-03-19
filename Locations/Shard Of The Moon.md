@@ -17,16 +17,12 @@ SWOJ's citadel, now connected to Trollskull Manor via the new teleportation circ
 **First appearance:** Episode S02E38
 **Total appearances:** 1 episodes
 
-## Description
-
-SWOJ's citadel, now connected to Trollskull Manor via the new teleportation circle in the basement.
-
 ## Notable Events
 
 
 
 
-- **S02E38:** The teleportation circle in Trollskull's basement has been completed by Alcoria Stonemarrow, connecting to the Shard of the Moon
+- **S02E38:** The teleportation circle in Trollskull's basement has been completed by Ulkoria Stonemarrow, connecting to the Shard of the Moon
 
 ## Connected Characters
 

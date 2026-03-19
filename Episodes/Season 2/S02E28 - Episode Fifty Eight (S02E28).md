@@ -29,9 +29,9 @@ Air Date: 2024-06-30 | Duration: 01:49:57
 
 ## Summary
 
-SWOJ begins their assault on Castle Nehri Tar in the heart of the Mere of Dead Men, where the Cult of the Dragon is excavating something deep underground. Xae leads twenty baby otyughs as a distraction, stampeding them into the castle courtyard while the rest of the party sneaks past the cultist guards. Scoot hurls cultists into the otyugh pit, and the party descends through a 'quiet hole' using feather fall, bypassing the heavily guarded main shaft.
+SWOJ begins their assault on Castle Naerytar in the heart of the Mere of Dead Men, where the Cult of the Dragon is excavating something deep underground. Xae leads twenty baby otyughs as a distraction, stampeding them into the castle courtyard while the rest of the party sneaks past the cultist guards. Scoot hurls cultists into the otyugh pit, and the party descends through a 'quiet hole' using feather fall, bypassing the heavily guarded main shaft.
 
-Deep underground, they encounter a white-masked cultist named Bronch who reveals himself as disillusioned with the cult's leadership. Bronch provides critical intelligence: the cult leader is a woman named Velia Shadowmantle, a Waterdeep noble seeking revenge, and the cult is performing dracolich creation rituals using the captured dragons of the Way of the Balanced Scale. He also mentions that the cult keeps a Mask of Dragon Kind in their underground fortress. SWOJ convinces Bronch to aid them as they push deeper.
+Deep underground, they encounter a white-masked cultist named Bronk who reveals himself as disillusioned with the cult's leadership. Bronch provides critical intelligence: the cult leader is a woman named Velia Shadowmantle, a Waterdeep noble seeking revenge, and the cult is performing dracolich creation rituals using the captured dragons of the Way of the Balanced Scale. He also mentions that the cult keeps a Mask of Dragon Kind in their underground fortress. SWOJ convinces Bronk to aid them as they push deeper.
 
 The party navigates past a hazardous mud pond filled with mud mummies -- Ylka contracts mud rot during the crossing. They reach an underground obsidian fortress that serves as the cult's headquarters. Xae scouts ahead in bat form into the dragon keep but triggers a sonic screech trap and acid mist. Lark and Scoot climb in through the dragon mouth spouts, discovering a dragon hoard, a cauldron of dragon tea used in the rituals, and the Mask of Dragon Kind displayed in a glass case.
 
@@ -39,11 +39,11 @@ SWOJ steals the black dragon mask and dumps the dragon tea through the dragon mo
 
 ### Key Events
 
-- SWOJ uses twenty baby otyughs as a distraction to infiltrate Castle Nehri Tar
+- SWOJ uses twenty baby otyughs as a distraction to infiltrate Castle Naerytar
 - Scoot hurls cultists into the otyugh pit during the chaos
 - Party descends through the 'quiet hole' using feather fall, bypassing the main shaft
-- They meet Bronch, a disillusioned white-masked cultist who provides intel on Velia Shadowmantle and the dracolich rituals
-- Bronch reveals the cult keeps a Mask of Dragon Kind in the underground fortress
+- They meet Bronk, a disillusioned white-masked cultist who provides intel on Velia Shadowmantle and the dracolich rituals
+- Bronk reveals the cult keeps a Mask of Dragon Kind in the underground fortress
 - SWOJ navigates past a mud pond with mud mummies; Ylka contracts mud rot
 - Xae scouts the dragon keep in bat form but triggers a sonic screech trap and acid mist
 - Lark and Scoot discover the dragon hoard, dragon tea cauldron, and the Mask of Dragon Kind
@@ -58,8 +58,8 @@ SWOJ steals the black dragon mask and dumps the dragon tea through the dragon mo
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Bronk]] — A disillusioned white-masked cultist stationed at Castle Nehri Tar. He provides SWOJ with critical intelligence about the cult's leadership, their dracolich creation rituals, and the Mask of Dragon Kind. He agrees to help SWOJ from the inside. Appears shaken but willing to take risks against Velia's operation.
-- [[Velia Shadowmantle]] — The leader of the Cult of the Dragon cell operating out of Castle Nehri Tar. Described by Bronch as a Waterdeep noble seeking revenge. She oversees the dracolich creation rituals and is responsible for draining Jack the silver dragon's soul. Later revealed to be Amalia Cassalanter in disguise.
+- [[Bronk]] — A disillusioned white-masked cultist stationed at Castle Naerytar. He provides SWOJ with critical intelligence about the cult's leadership, their dracolich creation rituals, and the Mask of Dragon Kind. He agrees to help SWOJ from the inside. Appears shaken but willing to take risks against Velia's operation.
+- [[Velia Shadowmantle]] — The leader of the Cult of the Dragon cell operating out of Castle Naerytar. Described by Bronk as a Waterdeep noble seeking revenge. She oversees the dracolich creation rituals and is responsible for draining Jack the silver dragon's soul. Later revealed to be Amalia Cassalanter in disguise.
 - [[Jill (Ygglimar)]] — A young white dragon of the Way of the Balanced Scale, held in a trance by the Cult of the Dragon in the underground fortress. SWOJ breaks her free by reminding her of balance, and she freezes the pursuing cultists to aid their escape. One of the missing friendly dragons they were sent to rescue.
 - [[Jack]] — A silver dragon of the Way of the Balanced Scale. His soul is drained into a bronze phylactery by Velia Shadowmantle in the Sunken City as part of the dracolich creation ritual. One of the missing friendly dragons SWOJ was sent to rescue.
 

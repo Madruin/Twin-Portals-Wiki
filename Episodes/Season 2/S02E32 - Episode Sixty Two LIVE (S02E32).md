@@ -29,9 +29,9 @@ Air Date: 2024-10-30 | Duration: 01:38:48
 
 ## Summary
 
-SWOJ's three-ship fleet -- the Ethereal Galleon ('Spider One'), the Hammerhead, and the Clockwork Kraken -- approaches the Sword Mountains at sunrise, heading toward the massive thunderstorm swirling around the moonhole. The crew assembles on the Ethereal Galleon's deck for a last-minute strategy session, communicating with the other ships via sending stones. Below, Zellopharn reaches out to Xae through the bronze dragon soul pendant, urgently conveying that the Preserve of Ancestors in the Radiant Citadel is under attack. This intelligence prompts SWOJ to consider flying ahead without waiting for the ground army.
+SWOJ's three-ship fleet -- the Ethereal Galleon ('Spider One'), the Hammerhead, and the Clockwork Kraken -- approaches the Sword Mountains at sunrise, heading toward the massive thunderstorm swirling around the moonhole. The crew assembles on the Ethereal Galleon's deck for a last-minute strategy session, communicating with the other ships via sending stones. Below, Zelifarn reaches out to Xae through the bronze dragon soul pendant, urgently conveying that the Preserve of Ancestors in the Radiant Citadel is under attack. This intelligence prompts SWOJ to consider flying ahead without waiting for the ground army.
 
-As the ships enter the storm, they are ambushed by peritons with barbarian riders connected to Malar the Beast Lord. The riders throw weighted nets and dive-attack the ships while chanting a discordant minor seventh melody that coordinates their movements. Xae casts faerie fire on two peritons, Scoot mans the ballista with Thelrect Lafina, Ylka disrupts their coordination with shatter attacks that complete their chord dissonantly, and Lark cuts grappling ropes at the stern. Barbarian riders board the Ethereal Galleon and Scoot intimidates them with a deception about shifting to the ethereal plane. The Hammerhead takes heavy damage and disappears from view -- when Xae transforms into a giant bat to search, there is no sign of it.
+As the ships enter the storm, they are ambushed by peritons with barbarian riders connected to Malar the Beast Lord. The riders throw weighted nets and dive-attack the ships while chanting a discordant minor seventh melody that coordinates their movements. Xae casts faerie fire on two peritons, Scoot mans the ballista with Fel'Rekt Lafeen, Ylka disrupts their coordination with shatter attacks that complete their chord dissonantly, and Lark cuts grappling ropes at the stern. Barbarian riders board the Ethereal Galleon and Scoot intimidates them with a deception about shifting to the ethereal plane. The Hammerhead takes heavy damage and disappears from view -- when Xae transforms into a giant bat to search, there is no sign of it.
 
 The two remaining ships clear the storm wall and enter the eye -- a cylinder of tranquility directly over the moonhole with the Concord Jewel glowing far below. As they descend, a blue dragon attacks, blasting the ships with lightning breath. The dragon rakes the Ethereal Galleon's deck, and SWOJ fights back with ballista fire, magic, and melee. Ylka uses the ethereal plane shift to dodge the dragon, but the shift barely works with the masts and spider silk sails damaged. The Clockwork Kraken takes a devastating hit and crash-lands in the spiral cavern near the jewel.
 
@@ -41,7 +41,7 @@ SWOJ descends into the cavern aboard the Ethereal Galleon and spots cultists loa
 
 - Three-ship fleet (Ethereal Galleon, Hammerhead, Clockwork Kraken) approaches the Sword Mountains at sunrise
 - Crew assembles for strategy session; ships communicate via sending stones with code names (Spider One)
-- Zellopharn contacts Xae through soul pendant -- the Preserve of Ancestors is under attack
+- Zelifarn contacts Xae through soul pendant -- the Preserve of Ancestors is under attack
 - SWOJ decides to fly ahead without waiting for the ground army
 - Peritons with barbarian riders ambush the fleet, throwing weighted nets and dive-attacking
 - Xae casts faerie fire; Ylka disrupts periton coordination with shatter; Scoot mans the ballista
@@ -60,7 +60,7 @@ SWOJ descends into the cavern aboard the Ethereal Galleon and spots cultists loa
 **NPCs:**
 - [[Fel'Rekt Lafeen]] — A Bregan D'aerthe ally who helps Scoot operate the main ballista on the Ethereal Galleon during the periton attack and subsequent battles. Efficiently reloads the weapon between shots.
 - [[Squidly]] — A tiefling crew member aboard the Ethereal Galleon. Part of the assembled crew during the approach to the Sword Mountains.
-- [[Urstul Floxxin]] — A former Zentarim member now allied with SWOJ. Aboard the Ethereal Galleon as part of the crew.
+- [[Urstul Floxxin]] — A former Zhentarim member now allied with SWOJ. Aboard the Ethereal Galleon as part of the crew.
 - [[Zelifarn]] — A bronze dragon whose soul is contained in a pendant worn by Xae. Contacts Xae psychically during the approach, conveying that the Preserve of Ancestors in the Radiant Citadel is under attack. His soul pendant glows when he communicates.
 - [[Concord Jewel]] — A dragon cultist piloting the Concord Jewel who is displaced by Ylka when SWOJ takes control of the jewel. Cowers in the back of the ship during the journey to the Radiant Citadel.
 

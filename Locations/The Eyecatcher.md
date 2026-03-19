@@ -16,10 +16,6 @@ Jarlaxle's large, ostentatious sailing ship docked in the harbor. Used as a fron
 **First appearance:** Episode S01E10
 **Total appearances:** 2 episodes
 
-## Description
-
-Jarlaxle's large, ostentatious sailing ship docked in the harbor. Used as a front for Bregan D'aerthe operations. Has a submersible (belonging to Grinda Garloth) docked beneath it.
-
 ## Notable Events
 
 

@@ -29,23 +29,23 @@ Air Date: 2022-11-29 | Duration: 02:13:28
 
 ## Summary
 
-The episode opens mid-combat at Trill's sugar mill in the Preserve of the Ancestors, where two 15-foot shadow creatures are draining workers' life force. Lark attacks with dual blades, scoring a critical hit with his off-hand. Scoot rages and engages, while Ylka uses Shatter to explode sugar kettles, coating the spectral creatures in molten sugar -- a brilliant tactic that makes them more corporeal and easier to hit. Zellopharn unleashes chain lightning for massive damage. A new party member, Mystery (Mr. E), arrives by literally falling from midair onto Zellopharn's back, teleported by unknown means. One shadow creature possesses Zellopharn by flowing into his mouth, causing him to go rigid and emit the same eerie whistling. Mystery uses spectral tentacles to reach into Zellopharn and rip the creature out, then throws its lifeless body at the remaining shadow creature. Xae's Moonbeam finishes off the last creature as it teleports toward her.
+The episode opens mid-combat at Trill's sugar mill in the Preserve of the Ancestors, where two 15-foot shadow creatures are draining workers' life force. Lark attacks with dual blades, scoring a critical hit with his off-hand. Scoot rages and engages, while Ylka uses Shatter to explode sugar kettles, coating the spectral creatures in molten sugar -- a brilliant tactic that makes them more corporeal and easier to hit. Zelifarn unleashes chain lightning for massive damage. A new party member, Mystery (Mr. E), arrives by literally falling from midair onto Zelifarn's back, teleported by unknown means. One shadow creature possesses Zelifarn by flowing into his mouth, causing him to go rigid and emit the same eerie whistling. Mystery uses spectral tentacles to reach into Zelifarn and rip the creature out, then throws its lifeless body at the remaining shadow creature. Xae's Moonbeam finishes off the last creature as it teleports toward her.
 
-In the aftermath, Zellopharn collapses unconscious -- not physically injured but under some psychic ensorcellement. Mystery explains he was living at the Deep Dragon Temple with a dragon named Mellafarne, who fell into a similar unconscious state and told him in their shared dreams to 'get help and find the temple again.' Xae meditates next to Zellopharn and has a vision of dark storm clouds with dragons floating adrift, being drawn toward a massive behemoth creature with an angler-fish jaw and a glowing sun-like orb on its forehead. The rose quartz incarnate settles over Zellopharn to protect him magically.
+In the aftermath, Zelifarn collapses unconscious -- not physically injured but under some psychic ensorcellement. Mystery explains he was living at the Deep Dragon Temple with a dragon named Melifarn, who fell into a similar unconscious state and told him in their shared dreams to 'get help and find the temple again.' Xae meditates next to Zelifarn and has a vision of dark storm clouds with dragons floating adrift, being drawn toward a massive behemoth creature with an angler-fish jaw and a glowing sun-like orb on its forehead. The rose quartz incarnate settles over Zelifarn to protect him magically.
 
-SWOJ learns from Saks Bandin that the Concord Jewel to Lantan -- the closest anchor point to the Deep Dragon Temple -- hasn't been used in decades due to pirates in the area. The party purchases healing potions and supplies before boarding a bismuth Concord Jewel piloted by a clavager. They arrive to find the anchor point is 50 feet underwater off the coast. Scoot's aquatic abilities and Xae's dolphin wild shape allow the party to communicate with local dolphins, who guide them to Driftwood -- a massive floating island made of shipwrecks, home to pirates and ruled from below by Kura Han, an enormous dragon turtle.
+SWOJ learns from Saks Bandin that the Concord Jewel to Lantan -- the closest anchor point to the Deep Dragon Temple -- hasn't been used in decades due to pirates in the area. The party purchases healing potions and supplies before boarding a bismuth Concord Jewel piloted by a clavager. They arrive to find the anchor point is 50 feet underwater off the coast. Scoot's aquatic abilities and Xae's dolphin wild shape allow the party to communicate with local dolphins, who guide them to Driftwood -- a massive floating island made of shipwrecks, home to pirates and ruled from below by Kurrihan, an enormous dragon turtle.
 
-At Driftwood, SWOJ reunites with Fel'reck Lafeen of the Bregan D'aerthe (disguised as a human sailor) and finds the three ships of the Sea Maiden's Fair docked there. They locate Jarlaxle (disguised as Zardos Zord) at the Blubber Buckle tavern, where Ylka performs a pirate shanty to win the crowd. Long John McRon, a pirate captain with a magical animated water hook, offers to take them to Devil's Rock for 500 gold, but SWOJ opts to ride with Jarlaxle instead. They borrow his submersible, the Scarlet Marpenoth, to visit Kura Han -- a dragon turtle so massive the entire Driftwood island sits on his shell. The party departs aboard the Hell Razor toward Devil's Rock (also called the Winged Rock), encountering glowing green spectral aboleth swimming in the waters, humming the same ominous seven-note melody. After three days of sailing, they arrive at Devil's Rock -- a wedge-shaped island with skull dunes, a burned-out temple, and somewhere within it, the whirlpool entrance to the Deep Dragon Temple.
+At Driftwood, SWOJ reunites with Fel'Rekt Lafeen of the Bregan D'aerthe (disguised as a human sailor) and finds the three ships of the Sea Maiden's Fair docked there. They locate Jarlaxle (disguised as Zardos Zord) at the Blubber Buckle tavern, where Ylka performs a pirate shanty to win the crowd. Long John McRon, a pirate captain with a magical animated water hook, offers to take them to Devil's Rock for 500 gold, but SWOJ opts to ride with Jarlaxle instead. They borrow his submersible, the Scarlet Marpenoth, to visit Kurrihan -- a dragon turtle so massive the entire Driftwood island sits on his shell. The party departs aboard the Hell Razor toward Devil's Rock (also called the Winged Rock), encountering glowing green spectral aboleth swimming in the waters, humming the same ominous seven-note melody. After three days of sailing, they arrive at Devil's Rock -- a wedge-shaped island with skull dunes, a burned-out temple, and somewhere within it, the whirlpool entrance to the Deep Dragon Temple.
 
 ### Key Events
 
 - SWOJ fights two shadow creatures at Trill's sugar mill; Ylka's molten sugar tactic makes them corporeal
-- Mystery arrives by falling from midair onto Zellopharn's back mid-combat
-- Shadow creature possesses Zellopharn by flowing into his mouth; Mystery rips it out with spectral tentacles
-- Zellopharn collapses into a psychic coma -- not physically hurt but ensorcelled
-- Mystery explains he was at the Deep Dragon Temple with Mellafarne who fell into a similar state
+- Mystery arrives by falling from midair onto Zelifarn's back mid-combat
+- Shadow creature possesses Zelifarn by flowing into his mouth; Mystery rips it out with spectral tentacles
+- Zelifarn collapses into a psychic coma -- not physically hurt but ensorcelled
+- Mystery explains he was at the Deep Dragon Temple with Melifarn who fell into a similar state
 - Xae has a vision of a massive behemoth creature with an angler-fish jaw luring dragon spirits in dark clouds
-- Rose quartz incarnate settles over Zellopharn to protect him; confirms knowledge of Deep Dragon Temple
+- Rose quartz incarnate settles over Zelifarn to protect him; confirms knowledge of Deep Dragon Temple
 - Incarnate reveals the closest Concord Jewel goes to Lantan; the Deep Dragon Temple is northeast of there
 - SWOJ boards a bismuth Concord Jewel to Lantan; arrives 50 feet underwater
 - Scoot bonds with dolphins using his tattoo and Deep Chalice pendant
@@ -56,19 +56,19 @@ At Driftwood, SWOJ reunites with Fel'reck Lafeen of the Bregan D'aerthe (disguis
 - [[Ylka Gralhund]]
 - [[Malark Wavesilver]]
 - [[Xaerine Rumblestride]]
-- [[Mystery]]
+- [[Mr. E|Mystery]]
 
 **NPCs:**
-- [[Melifarn]] — A dragon (likely deep/brown dragon) who lives in the Deep Dragon Temple. Saved Mystery from a shipwreck and befriended him. Fell into an unconscious state similar to Zellopharn's and communicated through dreams, saying 'get help, find the temple.' Known to have defeated aboleth at the temple hundreds of years ago.
+- [[Melifarn]] — A dragon (likely deep/brown dragon) who lives in the Deep Dragon Temple. Saved Mystery from a shipwreck and befriended him. Fell into an unconscious state similar to Zelifarn's and communicated through dreams, saying 'get help, find the temple.' Known to have defeated aboleth at the temple hundreds of years ago.
 - [[Zelifarn]] — SWOJ's bronze dragon ally. Possessed by a shadow creature during the sugar mill battle, then falls into a psychic coma. Left in the care of the rose quartz incarnate at the Radiant Citadel while SWOJ seeks help at the Deep Dragon Temple.
 - [[Trill]] — The sugar mill worker from Godsbreath who was killed by the shadow creatures in the previous episode. Confirmed dead; his body is set aside for burial in the Preserve of the Ancestors.
 - [[Sax Bandon]] — Halfling scientist from the Radiant Citadel welcoming committee. Reports that she has never seen creatures like the shadow figures. Mentions the Lantan Concord Jewel hasn't been used in decades due to pirates. Promises to report to Shole.
 - [[Jarlaxle]] — The infamous drow leader of the Bregan D'aerthe, disguised as the human Zardos Zord. Captain of the Sea Maiden's Fair fleet. Found at the Blubber Buckle tavern in Driftwood conducting business with halflings. Offers SWOJ passage to Devil's Rock as a detour on his way north to the Sword Coast. Previously introduced Mystery to SWOJ.
-- [[Fel'Rekt Lafeen]] — A drow lieutenant of the Bregan D'aerthe disguised as a human sailor with an eye patch hiding a glowing red drow eye. Has four pistols and is notably more armed than before. Greets SWOJ at the Eye Catcher and informs them about Driftwood and Kura Han.
+- [[Fel'Rekt Lafeen]] — A drow lieutenant of the Bregan D'aerthe disguised as a human sailor with an eye patch hiding a glowing red drow eye. Has four pistols and is notably more armed than before. Greets SWOJ at the Eye Catcher and informs them about Driftwood and Kurrihan.
 - [[Kurrihan]] — An enormous dragon turtle that lives beneath Driftwood. So massive that the entire floating island sits on his shell, anchored to him. The dolphins and sea creatures in the area work for him. Travelers must throw a coin in the water as tribute when arriving or departing.
 - [[Long John McRon]] — A pirate captain at the Blubber Buckle with a wooden peg leg on one side and an animated water hook on the other (a magical gift from a pirate queen). Captain of the Wyvern's Whale. Offers passage to Devil's Rock for 500 gold. Knows of the whirlpool legend but has never seen it.
 - [[Sarith Ab'Jean]] — Captain of the Hell Razor, one of Jarlaxle's three ships. A swashbuckling fellow with a clearly trimmed mustache who runs a tight ship.
-- [[Rose Quartz Incarnate]] — The dragon-shaped crystal creature in the Preserve of the Ancestors. Settles down and merges with the unconscious Zellopharn to protect and restore him. Leaves a white crystal with him. Confirms knowledge of the Deep Dragon Temple.
+- [[Rose Quartz Incarnate]] — The dragon-shaped crystal creature in the Preserve of the Ancestors. Settles down and merges with the unconscious Zelifarn to protect and restore him. Leaves a white crystal with him. Confirms knowledge of the Deep Dragon Temple.
 
 ### Locations
 
@@ -77,7 +77,7 @@ At Driftwood, SWOJ reunites with Fel'reck Lafeen of the Bregan D'aerthe (disguis
 - [[Lantan]]
 - [[Driftwood]]
 - [[Blubber Buckle]]
-- [[Devil's' Rock]]
+- [[Devil's Rock]]
 - [[Radiant Citadel]]
 - [[Nameless Seas]]
 - [[Eye Catcher]]
@@ -94,14 +94,14 @@ At Driftwood, SWOJ reunites with Fel'reck Lafeen of the Bregan D'aerthe (disguis
 **[00:16]** After a brief detour to clean up their quest backlog, Swoge followed strange visions
 **[00:21]** and an unsettling melody leading them to the preserve of the ancestors at the heart
 **[00:25]** of the Citadel.
-**[00:26]** In the preserve, Swoge member and bronze dragon Zellopharn met the spirit of his ancestors
+**[00:26]** In the preserve, Swoge member and bronze dragon Zelifarn met the spirit of his ancestors
 **[00:31]** who took the form of a Rose Quartz dragon known as an incarnate.
 **[00:36]** As the dragons were being acquainted, our heroes heard a crash and saw a gouts of smoke spewing
 **[00:41]** from Trill's mill up the hill.
 **[00:44]** Racing to help, they entered the ruin mill to find a pair of tall alien horrors already
 **[00:48]** draining the life from Trill.
 **[00:50]** As an eerie, whistled, seven note melody blew on the wind.
-**[00:54]** Gout, Ilka, Larkase and Zellopharn took up positions and prepared to protect Trill's
+**[00:54]** Gout, Ilka, Larkase and Zelifarn took up positions and prepared to protect Trill's
 **[01:00]** five remaining workers.
 **[01:10]** You get the first action in this big situation.
 **[01:13]** And the sinkhole is roughly how deep and is it continuing to get deeper?

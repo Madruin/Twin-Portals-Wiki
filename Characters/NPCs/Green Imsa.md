@@ -23,7 +23,7 @@ Green Imsa was a recognizable figure from [[The Way Inn]], known well enough tha
 
 ## Role in the Story
 
-- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** When [[SWOJ]] entered the [[Shadow Way Inn]] seeking shelter in the Shadowfell, they found a "somewhat familiar scene" -- podling replicas of people they had previously met at the real Way Inn, including Green Imsa, [[Ly Angestunne]], [[Radissera]], [[Volo]], [[Dorvina]], and others. The replicas sat eerily quiet, not talking to each other.
+- **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** When [[SWOJ]] entered the [[Shadow Way Inn]] seeking shelter in the Shadowfell, they found a "somewhat familiar scene" -- podling replicas of people they had previously met at the real Way Inn, including Green Imsa, [[Ly Angestunne]], [[Radecere]], [[Volo]], [[Dorvina]], and others. The replicas sat eerily quiet, not talking to each other.
 - **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** When the party realized the deception, a chaotic battle erupted. During the fight, [[Ylka Gralhund|Ylka]] struck the Green Imsa podling with a sustained witch bolt channeled through [[Thail]], delivering lightning damage that "shreds Green Imsa." The podling exploded, revealing its grayish tofu interior rather than blood -- confirming it was never the real person.
 - **[[S02E02 - Episode Thirty Two (S02E02)|S02E02]]:** After the battle, [[Fritz]] explained that the [[Strigoi]] and podlings worked together -- they stole wish stones from the [[Brigganock's Tunnels|Brighanox]], took people prisoner, and then the prisoners "wander back, but not normal, not as themselves." The real Green Imsa was found deceased in a pod inside the [[Beast Of Erua]], one of the creature's many victims whose identities were stolen to populate the Shadow Way Inn.
 
@@ -34,7 +34,7 @@ Green Imsa was a recognizable figure from [[The Way Inn]], known well enough tha
 - [[Fritz]] -- Staff member who survived the podling takeover by hiding in the cellar
 - [[Strigoi]] -- The faction responsible for her capture and replacement
 - [[Beast Of Erua]] -- Where her body was found imprisoned in a pod
-- [[Ly Angestunne]], [[Radissera]], [[Volo]], [[Dorvina]] -- Fellow Way Inn patrons who were also replicated as podlings
+- [[Ly Angestunne]], [[Radecere]], [[Volo]], [[Dorvina]] -- Fellow Way Inn patrons who were also replicated as podlings
 
 ## Episode Appearances
 

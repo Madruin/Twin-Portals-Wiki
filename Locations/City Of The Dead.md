@@ -17,10 +17,6 @@ Cemetery district of Waterdeep. Where Xaerine arrived through a portal and where
 **First appearance:** Episode S01E01
 **Total appearances:** 2 episodes
 
-## Description
-
-Cemetery district of Waterdeep. Where Xaerine arrived through a portal and where Ylka was found in a mausoleum by Scoot after being resurrected.
-
 ## Notable Events
 
 

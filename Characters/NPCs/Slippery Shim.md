@@ -17,10 +17,6 @@ A towering black-furred tabaxi smuggler and independent information broker weari
 **First appearance:** [[S02E14 - Episode Forty Four (S02E14)|S02E14]]
 **Total appearances:** 1 episode
 
-## Description
-
-A towering black-furred tabaxi smuggler and independent information broker wearing a trench coat. Met through Felrecht at the Moonstone Mask. Witnessed an assassin attack a Masks lieutenant on the road from the war front -- the lieutenant didn't bleed when stabbed. Provides intelligence about the Masks' monthly convoys and the assassin in the Hall of Justice dungeon.
-
 ## Role in the Story
 
 - **S02E14:** Felrecht introduces them to Slippery Shim, a tabaxi smuggler and information broker

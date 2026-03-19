@@ -16,10 +16,6 @@ Street where Renaer and Floon were jumped by five Zhentarim thugs after leaving 
 **First appearance:** Episode S01E02
 **Total appearances:** 1 episodes
 
-## Description
-
-Street where Renaer and Floon were jumped by five Zhentarim thugs after leaving the Skewered Dragon.
-
 ## Notable Events
 
 

@@ -17,10 +17,6 @@ A lizardfolk cleric of Semuanya who guides SWOJ through the Mere of Dead Men to 
 **First appearance:** [[S02E27 - Episode Fifty Seven (S02E27)|S02E27]]
 **Total appearances:** 1 episode
 
-## Description
-
-A lizardfolk cleric of Semuanya who guides SWOJ through the Mere of Dead Men to Castle Naerytar. Her people have suffered from the Cult of the Dragon's activities. She asks SWOJ to look for lizardfolk relics in the castle's refuse piles. Parts ways at the castle perimeter, unwilling to go closer.
-
 ## Role in the Story
 
 - **S02E27:** Semu the lizardfolk cleric explains the cult's operations at Castle Naerytar

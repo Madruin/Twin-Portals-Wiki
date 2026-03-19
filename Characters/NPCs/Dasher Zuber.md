@@ -17,10 +17,6 @@ Blossom Zuber's missing son, now a wererat living with the Shard Shunners gang i
 **First appearance:** [[S01E08 - Episode Eight|S01E08]]
 **Total appearances:** 1 episode
 
-## Description
-
-Blossom Zuber's missing son, now a wererat living with the Shard Shunners gang inside the God Catcher. Chose to become a wererat a couple weeks ago to join his 'real family.' Pays SWOJ 100gp and writes a farewell letter to his mother.
-
 ## Role in the Story
 
 - **S01E08:** Blossom Zuber confesses the scarecrows were summoned by a devil ring given by a tiefling from Cassalanter Villa

@@ -29,7 +29,7 @@ Air Date: 2024-08-29 | Duration: 01:36:18
 
 ## Summary
 
-SWOJ flies east from the ruined Castle Nehri Tar on three allied dragons: Ylka and Xae ride Jill the white dragon, Lark rides Argentis the gold dragon, and Scoot rides Grage, a black dragon with mottled silvery scales. They contact Zellophane via sending stone about reaching the Radiant Citadel through the Concord Jewel. They land near the castle to speak with Little Joan, giving her the spelljammer helm and sending the Ripples to Neverwinter to report to Renaer Neverember.
+SWOJ flies east from the ruined Castle Naerytar on three allied dragons: Ylka and Xae ride Jill the white dragon, Lark rides Argentis the gold dragon, and Scoot rides Grayj, a black dragon with mottled silvery scales. They contact Zelifarn via sending stone about reaching the Radiant Citadel through the Concord Jewel. They land near the castle to speak with Little Joan, giving her the spelljammer helm and sending the Ripples to Neverwinter to report to Renaer Neverember.
 
 Flying east toward the Moonhole -- the spiral cavern entrance near Amphail -- SWOJ discovers that Amphail has been devastated by dragonfire. The town is burned, farms and civilian buildings destroyed, and the Moonhole is heavily guarded with approximately twelve archers, magical runes, and spikes. They decide not to assault it directly. Landing in the forest outside the devastated town, they encounter Kingfisher, a druid of the Circle of Dusk, who reports that Neverwinter has been marshalling military forces in response to the dragon threat. SWOJ decides to fly to Neverwinter to request army support before attempting to enter the Moonhole.
 
@@ -39,15 +39,15 @@ While Ylka begins attuning to the black dragon mask, saboteurs strike Castle Nev
 
 ### Key Events
 
-- SWOJ flies east from Castle Nehri Tar on three allied dragons: Jill, Argentis, and Grage
-- They contact Zellophane about reaching the Radiant Citadel via the Concord Jewel
+- SWOJ flies east from Castle Naerytar on three allied dragons: Jill, Argentis, and Grayj
+- They contact Zelifarn about reaching the Radiant Citadel via the Concord Jewel
 - SWOJ gives the spelljammer helm to Little Joan and sends the Ripples to Neverwinter
 - Flying to the Moonhole near Amphail, they discover the town has been devastated by dragonfire
 - The Moonhole is heavily fortified with archers, runes, and spikes -- SWOJ decides not to assault directly
 - They meet Kingfisher, a Circle of Dusk druid, who reports Neverwinter has marshalled forces
 - SWOJ flies to Neverwinter and sees three airships under construction: Hammerhead Destroyer, Ethereal Galleon, and Clockwork Kraken
 - They meet Renaer Neverember at Castle Never and report on the dracolich, Amalia Cassalanter, and Amphail's destruction
-- Renaer reveals 500 soldiers, 30 spellcasters, and Corlith the Starweaver's role in building the ships
+- Renaer reveals 500 soldiers, 30 spellcasters, and Quorlith the Starweaver's role in building the ships
 - SWOJ chooses the Ethereal Galleon as their airship for the Moonhole assault
 
 ### Featured Characters
@@ -58,11 +58,11 @@ While Ylka begins attuning to the black dragon mask, saboteurs strike Castle Nev
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Grayj]] — A black dragon with mottled silvery scales, one of the rescued dragons of the Way of the Balanced Scale. Carries Scoot during the flight from Castle Nehri Tar. The silver mottling suggests mixed heritage.
-- [[Argentis]] — A gold dragon of the Way of the Balanced Scale who carries Lark during the flight from Castle Nehri Tar. Introduces himself by name when asked. One of the rescued friendly dragons.
+- [[Grayj]] — A black dragon with mottled silvery scales, one of the rescued dragons of the Way of the Balanced Scale. Carries Scoot during the flight from Castle Naerytar. The silver mottling suggests mixed heritage.
+- [[Argentis]] — A gold dragon of the Way of the Balanced Scale who carries Lark during the flight from Castle Naerytar. Introduces himself by name when asked. One of the rescued friendly dragons.
 - [[Kingfisher]] — A druid of the Circle of Dusk operating in the cryptwood forests near Amphail. Reports to SWOJ that Neverwinter has marshalled military forces in response to the dragon threat. Provides local intelligence about the situation around the Moonhole.
 - [[Renaer Neverember]] — SWOJ's ally and patron in Neverwinter. Meets them at Castle Never and receives their report on Amphail's destruction and the dracolich threat. Has overseen the construction of three airships and the marshalling of 500 soldiers and 30 spellcasters. Injured during the saboteur attack but stabilized by SWOJ.
-- [[Little Joan]] — Leader of the allied Jolly Gents contingent at Castle Nehri Tar. SWOJ lands to give her the spelljammer helm and sends the Ripples to Neverwinter with a report for Renaer.
+- [[Little Joan]] — Leader of the allied Jolly Gents contingent at Castle Naerytar. SWOJ lands to give her the spelljammer helm and sends the Ripples to Neverwinter with a report for Renaer.
 - [[Quorlith The Starweaver]] — The giant spider ally of SWOJ from Castle Never's throne room. Descended from the throne room to the docks and helped Neverwinter build three airships using her silk, which is stronger than steel cable. Renaer credits her as responsible for much of the construction, calling her a "surprisingly talented engineer."
 - [[Zelifarn]] — A dragon ally of SWOJ contacted via sending stone early in the episode. They discuss the possibility of reaching the Radiant Citadel through the Concord Jewel.
 - [[Amalia Cassalanter]] — The cult leader (formerly disguised as Velia Shadowmantle) who fled east atop the partial dracolich. SWOJ reports her identity to Renaer Neverember. A Waterdeep noble turned cult leader.

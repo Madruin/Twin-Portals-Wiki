@@ -17,10 +17,6 @@ A large spider operating a merchant stall in the Dark Market, selling spider sil
 **First appearance:** [[S02E21 - Episode Fifty One (S02E21)|S02E21]]
 **Total appearances:** 1 episode
 
-## Description
-
-A large spider operating a merchant stall in the Dark Market, selling spider silk armor, whisper web shawls, and other spider-silk goods. Appreciative of Ylka's music. Later webs the spell jamming helm rock to the rug free of charge as thanks for a previous performance. Communicates through clicks and spinnerets.
-
 ## Role in the Story
 
 - **S02E21:** Meeting Curio (mimic merchant) who offers the spell jamming helm for stealing from Rylerin

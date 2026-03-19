@@ -29,9 +29,9 @@ Air Date: 2023-09-28 | Duration: 02:01:33
 
 ## Summary
 
-SWOJ emerges from Castle Neverwinter with the Crown of Never and their captive, the Zhentarim assassin Erstel Fluxen. After receiving healing from halfling clerics brought by Renaer Neverember, they interrogate Erstel, who reveals that Manshoon (the masked figure known as 'Nancy') sent him to retrieve the crown. Erstel discloses that Manshoon operates from Amphail and commands an army including Zhentarim, barbarians, peritons, and dragon cultists mustered inside the Spiral Cavern beneath the mountain.
+SWOJ emerges from Castle Never with the Crown of Never and their captive, the Zhentarim assassin Urstul Floxxin. After receiving healing from halfling clerics brought by Renaer Neverember, they interrogate Floxxin, who reveals that Manshoon (the masked figure known as 'Nancy') sent him to retrieve the crown. Floxxin discloses that Manshoon operates from Amphail and commands an army including Zhentarim, barbarians, peritons, and dragon cultists mustered inside the Spiral Cavern beneath the mountain.
 
-Mr. E arrives dramatically with Mellafarne the bronze dragon and a flight of four other dragons -- Jack (silver), Jill (white), Chip, and Dale -- representing the Way of the Balanced Scales. A war council convenes with Dagult Neverember, Renaer Neverember, Zardoz Zord, and Ramalia Haventree to discuss the growing threats facing Neverwinter: barbarian armies massing near Luskan, the Zhentarim forces in Amphail, and the Cult of the Dragon. Mellafarne explains that she can seal the chasm threatening Neverwinter using the Crown of Never combined with crystals from the Amphail cavern, and she needs SWOJ to retrieve those crystals.
+Mr. E arrives dramatically with Mellafarne the bronze dragon and a flight of four other dragons -- Jack (silver), Jill (white), Chip, and Dale -- representing the Way of the Balanced Scales. A war council convenes with Dagult Neverember, Renaer Neverember, Zardoz Zord, and Remalia Haventree to discuss the growing threats facing Neverwinter: barbarian armies massing near Luskan, the Zhentarim forces in Amphail, and the Cult of the Dragon. Mellafarne explains that she can seal the chasm threatening Neverwinter using the Crown of Never combined with crystals from the Amphail cavern, and she needs SWOJ to retrieve those crystals.
 
 SWOJ flies to Amphail on dragonback and meets druids Leah and Shala of the Circle of Dusk, who are scouting the area with their giant stag beetle mount Craw. Using disguises and deception, the party infiltrates the Spiral Cavern posing as Zhentarim agents fleeing a staged distraction -- a fire set by the druids and a fight provoked between peritons and a molten volcanic dragon. Inside the cavern they witness a massive military staging operation with tents, summoning circles, and the crystal transport vessel (the Concord Jewel). At the crystal overlook, Scoot spots Manshoon conferring with a regal elf who then transforms into a colossal ancient black dragon and begins burning an exit hole through the top of the cavern.
 
@@ -39,11 +39,11 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 
 ### Key Events
 
-- SWOJ emerges from Castle Neverwinter with the Crown of Never and captive Erstel Fluxen
+- SWOJ emerges from Castle Never with the Crown of Never and captive Urstul Floxxin
 - Renaer Neverember brings halfling clerics to heal the party
-- Erstel Fluxen reveals Manshoon operates from Amphail and commands the Spiral Cavern forces
+- Urstul Floxxin reveals Manshoon operates from Amphail and commands the Spiral Cavern forces
 - Mr. E arrives with Mellafarne and a flight of dragons (Jack, Jill, Chip, Dale)
-- War council convenes with Dagult, Renaer, Zardoz Zord, and Ramalia Haventree
+- War council convenes with Dagult, Renaer, Zardoz Zord, and Remalia Haventree
 - Mellafarne explains she needs the Crown of Never plus crystals from Amphail to seal the chasm
 - SWOJ flies to Amphail on dragonback
 - Meeting with Circle of Dusk druids Leah and Shala who provide intel on the Spiral Cavern
@@ -58,8 +58,8 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Urstul Floxxin]] — A Zhentarim assassin who was sent by Manshoon to retrieve the Crown of Never from Castle Neverwinter. Captured by SWOJ after the castle run. Carries poison vials. Reveals under interrogation that Manshoon ('the boss with the mask') operates from Amphail and commands the forces mustered in the Spiral Cavern. Originally from Amphail himself.
-- [[Renaer Neverember]] — Son of Dagult Neverember. Brings halfling clerics to heal SWOJ after their emergence from Castle Neverwinter. Participates in the war council. Eventually agrees to share the Crown of Never ritual duty with his father Dagult to seal the chasm.
+- [[Urstul Floxxin]] — A Zhentarim assassin who was sent by Manshoon to retrieve the Crown of Never from Castle Never. Captured by SWOJ after the castle run. Carries poison vials. Reveals under interrogation that Manshoon ('the boss with the mask') operates from Amphail and commands the forces mustered in the Spiral Cavern. Originally from Amphail himself.
+- [[Renaer Neverember]] — Son of Dagult Neverember. Brings halfling clerics to heal SWOJ after their emergence from Castle Never. Participates in the war council. Eventually agrees to share the Crown of Never ritual duty with his father Dagult to seal the chasm.
 - [[Dagult Neverember]] — Former Open Lord of Waterdeep and ruler of Neverwinter. Father of Renaer. Participates in the war council and agrees to share the Crown of Never ritual with his son. Has a complicated relationship with Renaer but they cooperate for the city's sake.
 - [[Melifarn]] — An ancient bronze dragon and key ally. Arrives with Mr. E and a flight of four dragons. Explains she can seal the Neverwinter chasm using the Crown of Never combined with crystals from the Amphail cavern. Sends SWOJ to retrieve the crystals while she prepares the ritual.
 - [[Jack]] — A silver dragon from the Way of the Balanced Scales flight. One of the dragons SWOJ rides to Amphail. Helps carry the party back to Neverwinter with the crystals.
@@ -71,7 +71,7 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 
 ### Locations
 
-- [[Castle Neverwinter]]
+- [[Castle Never]]
 - [[Neverwinter]]
 - [[Amphail]]
 - [[Spiral Cavern]]

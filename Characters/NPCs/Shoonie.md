@@ -18,10 +18,6 @@ A Manshoon clone living inside the Breathless Elder's corpse. Surprisingly frien
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-A Manshoon clone living inside the Breathless Elder's corpse. Surprisingly friendly and cooperative with SWOJ. Explains the gem/lure mechanism controlling the dragon tethers. Murdered by Rowan Crooks and his allies, then his spirit is recaptured in a cracked soul stone.
-
 ## Role in the Story
 
 

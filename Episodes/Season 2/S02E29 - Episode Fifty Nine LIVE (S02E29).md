@@ -29,24 +29,24 @@ Air Date: 2024-07-27 | Duration: 01:52:49
 
 ## Summary
 
-In this live episode, SWOJ witnesses the dracolich creation ritual in the Sunken City plaza as the two black dragons close in from above. Bronch sacrifices himself as a distraction, buying Ylka time to run up and cast Shatter on the phylactery urn, dealing significant damage. The resulting magical explosion causes the entire plaza to collapse, and everyone -- SWOJ, cultists, and dragons alike -- plummets hundreds of feet deeper into the earth, arriving in the Shrouded Citadel, the deepest and most ancient layer beneath Castle Nehri Tar.
+In this live episode, SWOJ witnesses the dracolich creation ritual in the Sunken City plaza as the two black dragons close in from above. Bronk sacrifices himself as a distraction, buying Ylka time to run up and cast Shatter on the phylactery urn, dealing significant damage. The resulting magical explosion causes the entire plaza to collapse, and everyone -- SWOJ, cultists, and dragons alike -- plummets hundreds of feet deeper into the earth, arriving in the Shrouded Citadel, the deepest and most ancient layer beneath Castle Naerytar.
 
-In the Shrouded Citadel, SWOJ faces two divine trials. The Trial of Jergal takes the form of an afterlife bureaucratic court, presided over by a skeletal clerk named Mortimer Quill. SWOJ must argue the case for the captured dragon souls to be released rather than consumed by the dracolich ritual. With the help of Zellophane's testimony, they win the case and secure the dragon souls' passage to the Preserve of the Ancients. The Trial of Orcus follows -- a gauntlet through the demon lord's domain featuring rapid-fire riddle questions, a bone bridge obstacle course over a vast chasm, and a hallway of overwhelming death stench. Upon completing both trials, SWOJ receives a half-ring artifact (a nose ring that allows Ylka to smell the emotions and intentions of the dead).
+In the Shrouded Citadel, SWOJ faces two divine trials. The Trial of Jergal takes the form of an afterlife bureaucratic court, presided over by a skeletal clerk named Mortimer Quill. SWOJ must argue the case for the captured dragon souls to be released rather than consumed by the dracolich ritual. With the help of Zelifarn's testimony, they win the case and secure the dragon souls' passage to the Preserve of the Ancients. The Trial of Orcus follows -- a gauntlet through the demon lord's domain featuring rapid-fire riddle questions, a bone bridge obstacle course over a vast chasm, and a hallway of overwhelming death stench. Upon completing both trials, SWOJ receives a half-ring artifact (a nose ring that allows Ylka to smell the emotions and intentions of the dead).
 
-After the trials, the party steps into pure darkness and becomes incorporeal spirits, rising through the earth back to Castle Nehri Tar's surface. As spirits, they encounter Little Joan and the Ripples, observing the aftermath of the earlier battle. They return to their physical bodies in a hallway associated with the Raven Queen, now imbued with power over the dead. Following the hallway leads them to a grand cathedral containing Kelemvor's floating silver scales and the cracked phylactery. They help Kelemvor's scales divert trapped souls away from the phylactery.
+After the trials, the party steps into pure darkness and becomes incorporeal spirits, rising through the earth back to Castle Naerytar's surface. As spirits, they encounter Little Joan and the Ripples, observing the aftermath of the earlier battle. They return to their physical bodies in a hallway associated with the Raven Queen, now imbued with power over the dead. Following the hallway leads them to a grand cathedral containing Kelemvor's floating silver scales and the cracked phylactery. They help Kelemvor's scales divert trapped souls away from the phylactery.
 
 The two black dragons burst into the cathedral, seizing the phylactery. Ylka casts Shatter and Xae casts Daylight on it, but both are knocked unconscious by the dragons' acid breath. Velia's disguise is burned away by moonlight, revealing her true identity as Amalia Cassalanter. One black dragon kills its sibling to fuel the dracolich transformation, beginning to mutate. Scoot bags the phylactery in the bag of holding, but Amalia uses telekinesis to rip it away from Lark. Ylka uses the Mask of Dragon Kind to summon allied dragons -- Jill and two others arrive. The Ripples set off explosions above, opening a chasm to the surface. The allied dragons rescue SWOJ while Scoot spider-climbs to secure the phylactery. Amalia and the partially transformed dracolich flee eastward into the sunrise as SWOJ escapes on dragonback.
 
 ### Key Events
 
-- Bronch sacrifices himself as a distraction during the dracolich ritual
+- Bronk sacrifices himself as a distraction during the dracolich ritual
 - Ylka casts Shatter on the phylactery, dealing 20 damage and cracking it
 - The plaza explodes and everyone falls hundreds of feet into the Shrouded Citadel
 - SWOJ completes the Trial of Jergal -- arguing for dragon souls to be released in an afterlife court
-- With Zellophane's testimony, they win the case for souls to go to the Preserve of the Ancients
+- With Zelifarn's testimony, they win the case for souls to go to the Preserve of the Ancients
 - SWOJ completes the Trial of Orcus -- rapid-fire riddles, bone bridge obstacle course, and death stench hallway
 - Party receives the half-ring artifact (nose ring that lets Ylka smell dead emotions)
-- SWOJ becomes incorporeal spirits, rising through the earth to Castle Nehri Tar's surface
+- SWOJ becomes incorporeal spirits, rising through the earth to Castle Naerytar's surface
 - They encounter Little Joan and the Ripples as spirits before returning to their bodies
 - Party returns to physical form in the Raven Queen's hallway, imbued with power over the dead
 
@@ -66,7 +66,7 @@ The two black dragons burst into the cathedral, seizing the phylactery. Ylka cas
 - [[The Raven Queen]] — A powerful deity associated with death, fate, and the transition between worlds. Her presence is felt in the hallway where SWOJ's spirits return to their bodies. She imbues SWOJ with power over the dead.
 - [[Amalia Cassalanter]] — Revealed as the true identity of Velia Shadowmantle when moonbeam burns away her magical disguise. A Waterdeep noble and leader of the Cult of the Dragon operation. She uses telekinesis to fight for the phylactery and ultimately flees eastward atop the partially transformed dracolich.
 - [[Zelifarn]] — A dragon ally of SWOJ who provides testimony during the Trial of Jergal, helping win the case for the captured dragon souls to be sent to the Preserve of the Ancients rather than being consumed by the dracolich ritual.
-- [[Little Joan]] — Leader of the allied Jolly Gents contingent. SWOJ encounters her as spirits at the surface of Castle Nehri Tar, where she commands operations with the Ripples during the aftermath of the underground battle.
+- [[Little Joan]] — Leader of the allied Jolly Gents contingent. SWOJ encounters her as spirits at the surface of Castle Naerytar, where she commands operations with the Ripples during the aftermath of the underground battle.
 
 ### Locations
 

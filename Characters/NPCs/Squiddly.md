@@ -17,10 +17,6 @@ One of the Trollskull Trio (street urchins). Found with Urstul Floxin near the t
 **First appearance:** [[S01E23 - Episode Twenty Three|S01E23]]
 **Total appearances:** 2 episodes
 
-## Description
-
-One of the Trollskull Trio (street urchins). Found with Urstul Floxin near the tower. Reveals he pickpocketed the second Eye of the Stone of Golorr from Urstul. Rejoins SWOJ.
-
 ## Role in the Story
 
 - **S01E23:** Find Squiddly with Urstul Floxin near the tower exit

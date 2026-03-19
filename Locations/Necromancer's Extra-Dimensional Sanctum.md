@@ -16,10 +16,6 @@ An extra-dimensional space accessed via a portal at the top of the Kolat Towers 
 **First appearance:** Episode S01E22
 **Total appearances:** 2 episodes
 
-## Description
-
-An extra-dimensional space accessed via a portal at the top of the Kolat Towers using M-emblazoned rings. Where the Necromancer resides and performs the clone spell on Lark.
-
 ## Notable Events
 
 

@@ -16,10 +16,6 @@ A massive floating island made of shipwrecks, driftwood, and roped-together mate
 **First appearance:** Episode S02E09
 **Total appearances:** 2 episodes
 
-## Description
-
-A massive floating island made of shipwrecks, driftwood, and roped-together materials in the Nameless Seas. A lawless pirate city where the only law is your word and bond. Sits atop the shell of the dragon turtle [[Kurrihan]]. Features the Blubber Buckle tavern and various docks. Home to multiple pirate crews.
-
 ## Notable Events
 
 

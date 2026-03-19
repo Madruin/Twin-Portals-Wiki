@@ -16,10 +16,6 @@ The deepest and most ancient layer beneath Castle Nehri Tar, reached after the p
 **First appearance:** Episode S02E29
 **Total appearances:** 1 episodes
 
-## Description
-
-The deepest and most ancient layer beneath Castle Nehri Tar, reached after the plaza collapse. An otherworldly realm where the Trials of Jergal and Orcus take place. Connected to the domains of death gods and demon lords.
-
 ## Notable Events
 
 

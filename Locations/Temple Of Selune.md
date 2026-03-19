@@ -16,10 +16,6 @@ Temple in the Sea Ward where Agorna provides healing services. Lark receives Les
 **First appearance:** Episode S01E10
 **Total appearances:** 1 episodes
 
-## Description
-
-Temple in the Sea Ward where Agorna provides healing services. Lark receives Lesser Restoration here.
-
 ## Notable Events
 
 

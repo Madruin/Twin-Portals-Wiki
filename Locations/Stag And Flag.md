@@ -2,7 +2,9 @@
 title: "Stag And Flag"
 type: location
 subtype: "tavern"
-aliases: []
+aliases:
+  - "Staghorn Flagon"
+  - "Stag and Flag"
 tags:
   - twin-portals
   - location
@@ -10,15 +12,11 @@ tags:
 
 # Stag And Flag
 
-A tavern in Amphale where Craw has been hanging out and where festivities related to the Rite of the Stag Lass take place.
+A tavern in Amphail where Craw has been hanging out and where festivities related to the Rite of the Stag Lass take place.
 
 **Type:** tavern
 **First appearance:** Episode S02E07
 **Total appearances:** 1 episodes
-
-## Description
-
-A tavern in Amphale where Craw has been hanging out and where festivities related to the Rite of the Stag Lass take place.
 
 ## Notable Events
 

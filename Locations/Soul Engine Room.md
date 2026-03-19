@@ -17,10 +17,6 @@ A massive underground chamber housing the soul engine -- a central sphere fed by
 **First appearance:** Episode S02E23
 **Total appearances:** 1 episodes
 
-## Description
-
-A massive underground chamber housing the soul engine -- a central sphere fed by magical chains carrying soul energy from the three obelisks. The engine keeps Zentil Keep's island afloat. Contains chain supports used by Little Joan for exercise. Damaging the chains causes the island to shudder and threatens its stability.
-
 ## Notable Events
 
 

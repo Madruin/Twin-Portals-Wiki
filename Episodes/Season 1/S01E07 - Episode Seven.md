@@ -29,12 +29,12 @@ Air Date: 2019-06-01 | Duration: 02:21:53
 
 ## Summary
 
-SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry is revealed to be an intellect devourer inhabiting a dead body. They receive visits from Alcoria Stonemarrow of the Watchful Order (who wards their door and registers Xae and Ylka as magic users), the hostile neighbor Emmek Frewn (who tries to buy the manor), and Fel'rekt Lafeen of the Bregan D'aerthe (who reveals intelligence about doppelgangers, devil worship among nobles, and the Wavesilver crest connection). Scoot's mother Taga agrees to help run the tavern. The orphans Squidly, Nat, and Jenks are hired as the Trollskull Alley Irregulars. Leah, Scoot's former crewmate from the Sea Plum and Emerald Enclave contact, brings a quest: scarecrows are attacking Stout Fellow Farm in Undercliff. SWOJ travels south, meets Mary Stout Fellow and Blossom Zuber, camps at the farm, and fights three scarecrows at night using bioluminescent moss as bait.
+SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry is revealed to be an intellect devourer inhabiting a dead body. They receive visits from Ulkoria Stonemarrow of the Watchful Order (who wards their door and registers Xae and Ylka as magic users), the hostile neighbor Emmek Frewn (who tries to buy the manor), and Fel'rekt Lafeen of the Bregan D'aerthe (who reveals intelligence about doppelgangers, devil worship among nobles, and the Wavesilver crest connection). Scoot's mother Taga agrees to help run the tavern. The orphans Squidly, Nat, and Jenks are hired as the Trollskull Alley Irregulars. Leah, Scoot's former crewmate from the Sea Plum and Emerald Enclave contact, brings a quest: scarecrows are attacking Stout Fellow Farm in Undercliff. SWOJ travels south, meets Mary Stout Fellow and Blossom Zuber, camps at the farm, and fights three scarecrows at night using bioluminescent moss as bait.
 
 ### Key Events
 
 - Terry is revealed as an intellect devourer when his host body dies
-- Alcoria Stonemarrow wards Trollskull Manor and registers Xae and Ylka as magic users
+- Ulkoria Stonemarrow wards Trollskull Manor and registers Xae and Ylka as magic users
 - Emmek Frewn tries to buy Trollskull Manor for 150gp and is refused
 - Taga (Scoot's mom) agrees to help run the tavern
 - Trollskull Alley Irregulars (orphans) hired for 10gp per tenday
@@ -54,7 +54,7 @@ SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry
 **NPCs:**
 - [[Terry]] — Intellect devourer (brain with legs) formerly inhabiting their Zuber driver's body. Gets placed into a dead body temporarily, then given a SWOJ t-shirt. Communicates telepathically.
 - [[Ulkoria Stonemarrow]] — Dwarf magister from the Watchful Order of Magists and Protectors. Visits Trollskull Manor with her shield guardian Winston. Carves a glyph of warding on the front door, registers Xae and Ylka as magic users, and discusses the threats of doppelgangers, intellect devourers, mind flayers, and the Xanathar Guild.
-- [[Winston]] — Shield guardian companion of Alcoria Stonemarrow. A large magical construct.
+- [[Winston]] — Shield guardian companion of Ulkoria Stonemarrow. A large magical construct.
 - [[Emmek Frewn]] — Owner of Frewn's Brews, the tavern across the street from Trollskull Manor. Visits to offer 150gp to buy the manor. Hostile and antagonistic toward SWOJ.
 - [[Tagga]] — Scoot's mother. Agrees to help run Trollskull Manor as a tavern. Mentions that Simon (Scoot's father) works for the Waterdeep Navy.
 - [[Simon]] — Scoot's father. Works for the Waterdeep Navy. Mentioned but does not appear directly in this episode.
@@ -67,7 +67,7 @@ SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry
 
 - [[Trollskull Manor]]
 - [[Trollskull Alley]]
-- [[Frewn's  Brews]]
+- [[Frewn's Brews]]
 - [[Undercliff]]
 - [[Stoutfellow Farm]]
 - [[Zuber Farm]]

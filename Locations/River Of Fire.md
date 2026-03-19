@@ -16,10 +16,6 @@ An underground river of lava within the chasm. Crossed using stepping stones tha
 **First appearance:** Episode S02E16
 **Total appearances:** 1 episodes
 
-## Description
-
-An underground river of lava within the chasm. Crossed using stepping stones that are actually shed scales of the ancient red dragon Arcanthos.
-
 ## Notable Events
 
 

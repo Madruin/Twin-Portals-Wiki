@@ -16,10 +16,6 @@ An underwater cave beneath the city, accessible from Deepwater Harbor. Leads upw
 **First appearance:** Episode S01E06
 **Total appearances:** 1 episodes
 
-## Description
-
-An underwater cave beneath the city, accessible from Deepwater Harbor. Leads upward through tunnels to the God Catcher.
-
 ## Notable Events
 
 

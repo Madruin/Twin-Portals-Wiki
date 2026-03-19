@@ -18,10 +18,6 @@ Member of the Circle of Dusk druids. Has gone missing from the glade in the Cryp
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Circle Of Dusk]]
 
-## Description
-
-Member of the Circle of Dusk druids. Has gone missing from the glade in the Cryptwood.
-
 ## Role in the Story
 
 - **S02E06:** The druids Shala, Nuria, Ander, and Lea have all vanished, progressively losing memories with each mist

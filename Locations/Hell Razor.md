@@ -16,10 +16,6 @@ One of Jarlaxle's three ships of the Sea Maiden's Fair, captained by Sarith Ab'j
 **First appearance:** Episode S02E09
 **Total appearances:** 1 episodes
 
-## Description
-
-One of Jarlaxle's three ships of the Sea Maiden's Fair, captained by Sarith Ab'jean. SWOJ sails aboard this ship from Driftwood to Devil's Rock.
-
 ## Notable Events
 
 

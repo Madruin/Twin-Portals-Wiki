@@ -33,7 +33,7 @@ In the aftermath of the Cassalanter villa party, SWOJ deals with multiple loose 
 
 SWOJ visits the Seaward city watch post where they learn Zilka has escaped custody. They interrogate a captured cultist who reveals ties to the Cult of Asmodeus and mentions meetings in the Gralhund crypts. Terry gets a new human body from a dead cultist. At the Temple of Selune, Lark receives Lesser Restoration from Agorna. Voniel the halfling discusses lycanthropy concerns at the Hole in the Wall.
 
-At the docks, SWOJ meets Zelopharne the bronze dragon in human form, who points out a submersible beneath the Eyecatcher ship belonging to Grinda Garloth. They board the Eyecatcher and meet Zardos Zord, who is revealed to be Jarlaxle, leader of Bregan D'aerthe. Xae uses the Ring of Disguise Self to test a crew member, exposing him as a drow. Jarlaxle drops his disguise and reveals his true identity, explaining his interest in establishing drow presence in Waterdeep.
+At the docks, SWOJ meets Zelifarn the bronze dragon in human form, who points out a submersible beneath the Eyecatcher ship belonging to Grinda Garloth. They board the Eyecatcher and meet Zardos Zord, who is revealed to be Jarlaxle, leader of Bregan D'aerthe. Xae uses the Ring of Disguise Self to test a crew member, exposing him as a drow. Jarlaxle drops his disguise and reveals his true identity, explaining his interest in establishing drow presence in Waterdeep.
 
 ### Key Events
 
@@ -43,7 +43,7 @@ At the docks, SWOJ meets Zelopharne the bronze dragon in human form, who points 
 - Captured cultist reveals Cult of Asmodeus meetings in Gralhund crypts
 - Terry gets a new human body from a dead cultist
 - Lark receives Lesser Restoration at the Temple of Selune
-- Zelopharne reveals the submersible beneath the Eyecatcher
+- Zelifarn reveals the submersible beneath the Eyecatcher
 - SWOJ boards the Eyecatcher and meets Jarlaxle/Zardos Zord
 - Jarlaxle drops his Zardos disguise and reveals his true drow identity
 - Jarlaxle explains Bregan D'aerthe's goal to establish drow in Waterdeep
@@ -65,7 +65,7 @@ At the docks, SWOJ meets Zelopharne the bronze dragon in human form, who points 
 - [[Willifort Crowell]] — Majordomo of the Cassalanter household. Suspected of shady dealings. SWOJ considers him suspicious.
 - [[Max]] — Guard at the Cassalanter villa who provides information and assists SWOJ.
 - [[Agorna]] — Cleric at the Temple of Selune in the Sea Ward. Casts Lesser Restoration on Lark to cure his ailment.
-- [[Fela Lefaliir]] — Apothecary who runs Coralund's Crown, a shop neighboring Trollskull Alley. Friendly with SWOJ.
+- [[Fela Lefaliir]] — Apothecary who runs [[Corellon's Crown]], a shop neighboring Trollskull Alley. Friendly with SWOJ.
 - [[Vaniel]] — Halfling patron at the [[Hole In The Wall]] tavern. Discusses concerns about lycanthropy with SWOJ during their visit.
 
 ### Locations

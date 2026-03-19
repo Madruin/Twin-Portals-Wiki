@@ -16,10 +16,6 @@ A purple-themed curiosity shop where Xae previously hid a locket. The shopkeeper
 **First appearance:** Episode S01E29
 **Total appearances:** 1 episodes
 
-## Description
-
-A purple-themed curiosity shop where Xae previously hid a locket. The shopkeeper was nervous after the Xanathar's death. Xae retrieved the locket containing Halaster Blackcloak's portrait and took the stuffed beholder.
-
 ## Notable Events
 
 

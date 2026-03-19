@@ -33,7 +33,7 @@ SWOJ returns to Neverwinter with the crystals from Amphail. Mellafarne, Xae, and
 
 The chasm-sealing ritual is performed successfully, with Dagult and Renaer trading the crown back and forth while Mellafarne channels its power through the crystals. The chasm closes, saving Neverwinter. As a reward, Renaer offers SWOJ a choice of real estate: the Riverside Inn (a practical establishment) or the Shard of Moonlight (a floating wizard tower anchored above the city). The party chooses the Shard of Moonlight as their new base of operations.
 
-Exploring the Shard of Moonlight, Ylka discovers a star staircase that descends beneath the tower into a shrine of the Raven Queen. Meanwhile, Lark reads Antediluvian Jake's clay tablet, which reveals critical backstory: the Jolly Gents were killed by Manshoon, their souls are being harvested by Rowan Crooks, and their secret base is Zentil Keep -- a floating fortress above the Shadowfell. The party shops at the Mages Guild (buying scrolls of daylight, potions of protection from evil, and a sunblade) and visits Jarlaxle, who lets them speak to Arcanthos -- an ancient red dragon trapped inside a bag of holding.
+Exploring the Shard of Moonlight, Ylka discovers a star staircase that descends beneath the tower into a shrine of the Raven Queen. Meanwhile, Lark reads Antediluvian Jake's clay tablet, which reveals critical backstory: the Jolly Gents were killed by Manshoon, their souls are being harvested by Rowan Crooks, and their secret base is Zhentil Keep -- a floating fortress above the Shadowfell. The party shops at the Mages Guild (buying scrolls of daylight, potions of protection from evil, and a sunblade) and visits Jarlaxle, who lets them speak to Arcanthos -- an ancient red dragon trapped inside a bag of holding.
 
 SWOJ descends the star staircase into the Raven Queen shrine, finding crow tapestries and a portal. They are attacked by a giant skeletal raven beast and zombies in a fierce battle. After defeating the undead, they are launched through the portal and arrive in the Shadowfell, where they are immediately greeted by three familiar Shadar-kai: Idae, Mari, and Blish.
 
@@ -47,7 +47,7 @@ SWOJ descends the star staircase into the Raven Queen shrine, finding crow tapes
 - Renaer offers SWOJ a choice: Riverside Inn or Shard of Moonlight (floating wizard tower)
 - SWOJ chooses the Shard of Moonlight as their new base
 - Ylka discovers the star staircase descending to a Raven Queen shrine beneath the tower
-- Lark reads Antediluvian Jake's tablet: Jolly Gents killed by Manshoon, souls harvested by Rowan Crooks, secret base is Zentil Keep in the Shadowfell
+- Lark reads Antediluvian Jake's tablet: Jolly Gents killed by Manshoon, souls harvested by Rowan Crooks, secret base is Zhentil Keep in the Shadowfell
 - Shopping at the Mages Guild: scrolls of daylight, protection potions, sunblade
 
 ### Featured Characters
@@ -64,7 +64,7 @@ SWOJ descends the star staircase into the Raven Queen shrine, finding crow tapes
 - [[Renaer Neverember]] — Son of Dagult. Shares the crown ritual with his father. Afterward, offers SWOJ a choice of real estate as reward: the Riverside Inn or the Shard of Moonlight. Gives them the Shard of Moonlight floating wizard tower.
 - [[Zardoz Zord]] — Ally who participates in the final war council. Present for the discussions about threats facing the Sword Coast.
 - [[Remalia Haventree]] — Ally who participates in the final war council. Present for the discussions about the multi-front threats.
-- [[Antediluvian Jake]] — A historical figure connected to the Jolly Gents. His clay tablet reveals crucial backstory: the Jolly Gents were killed by Manshoon, Rowan Crooks harvests their souls, and the secret base is Zentil Keep floating above the Shadowfell.
+- [[Antediluvian Jake]] — A historical figure connected to the Jolly Gents. His clay tablet reveals crucial backstory: the Jolly Gents were killed by Manshoon, Rowan Crooks harvests their souls, and the secret base is Zhentil Keep floating above the Shadowfell.
 - [[Jarlaxle]] — The famous drow mercenary leader of Bregan D'aerthe. SWOJ visits him and he allows them to speak with Arcanthos, an ancient red dragon trapped in a bag of holding.
 - [[Arcanthos]] — An ancient red dragon trapped inside a bag of holding, held by Jarlaxle. SWOJ speaks to him through the bag. His presence in the bag dimension may be causing bags of holding to malfunction across the realms.
 - [[Idae]] — One of three Shadar-kai who greets SWOJ upon their arrival in the Shadowfell via the Raven Queen portal. The same three Shadar-kai the party met on their previous visit to the Shadowfell.

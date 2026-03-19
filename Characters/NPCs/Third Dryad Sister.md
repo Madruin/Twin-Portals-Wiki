@@ -17,10 +17,6 @@ The third dryad sister, found tied up and unconscious in a cage in the larger bu
 **First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 1 episode
 
-## Description
-
-The third dryad sister, found tied up and unconscious in a cage in the larger building with the animals. Describes herself as 'just a silver maple.' Revived by her sisters with magical berries.
-
 ## Role in the Story
 
 - **S01E21:** They discover the hag from Trollskull Manor (now one-armed) serving Malar with captured dryads and caged animals

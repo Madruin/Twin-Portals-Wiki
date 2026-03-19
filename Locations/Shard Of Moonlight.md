@@ -17,10 +17,6 @@ A floating wizard tower anchored above Neverwinter, awarded to SWOJ by Renaer as
 **First appearance:** Episode S02E20
 **Total appearances:** 1 episodes
 
-## Description
-
-A floating wizard tower anchored above Neverwinter, awarded to SWOJ by Renaer as their new base of operations. Contains a star staircase that descends beneath the tower into a Raven Queen shrine. The party chose this over the Riverside Inn.
-
 ## Notable Events
 
 

@@ -16,10 +16,6 @@ Family crypt of the Gralhunds in the City of the Dead. Lower level contains the 
 **First appearance:** Episode S01E13
 **Total appearances:** 1 episodes
 
-## Description
-
-Family crypt of the Gralhunds in the City of the Dead. Lower level contains the destroyed nimblewright and dying Zylka. Upper level has a pentagram, two cultists, and spined devils performing a handoff of the Stone of Galore.
-
 ## Notable Events
 
 

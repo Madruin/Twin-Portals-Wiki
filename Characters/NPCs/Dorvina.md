@@ -20,14 +20,13 @@ Bartender at The Way Inn. Told tales of the Beast of Erua and the Rose Knight.
 
 ## Description
 
-Bartender at The Way Inn. Told tales of the Beast of Erua and the Rose Knight.
 
 Member or associate of the Jolly Gents, present during the return to Waterdeep.
 
 
 ## Role in the Story
 
-- **S02E01:** They meet Volo, Radissera, Lai Angustune, Tigit Sketch, and bartender Dorvina
+- **S02E01:** The party meets Dorvina at [[The Way Inn]] alongside Volo, Radecere, Ly Angestunne, and Tyjit Skesh
 
 ## Episode Appearances
 

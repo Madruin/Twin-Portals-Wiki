@@ -16,10 +16,6 @@ A vast underground cavern with bioluminescent mushrooms surrounding a subterrane
 **First appearance:** Episode S02E23
 **Total appearances:** 1 episodes
 
-## Description
-
-A vast underground cavern with bioluminescent mushrooms surrounding a subterranean lake. The mushrooms can communicate via speak with animals and warn of corruption from the soul engine. Slim Curly's remains are fed to the mushrooms here.
-
 ## Notable Events
 
 

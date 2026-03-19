@@ -65,7 +65,7 @@ Investigating the sewers beneath the Spouting Fish, the party discovers Xanathar
 - [[Eunissa]] — Tavern owner of the Spouting Fish. Her husband Harold has gone missing along with other patrons.
 - [[Harold]] — Eunissa's husband and a former actor. Rescued from the sewers by the party. Gives them the Playwright's Dagger in gratitude.
 - [[The Black Viper]] — A masked vigilante woman who appears to help the party fight the grell in the sewers. Leaves a black onyx gemstone rose for Ylka.
-- [[Captain]] — City Watch officer at the Yawning Portal who enforces the party's ban.
+- [[City Watch Of Waterdeep|City Watch]] officer — Unnamed City Watch officer at the Yawning Portal who enforces the party's 20-day ban.
 
 ### Locations
 

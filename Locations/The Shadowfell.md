@@ -16,10 +16,6 @@ Dark, rain-soaked plane of existence on the other side of the stone border wall 
 **First appearance:** Episode S02E01
 **Total appearances:** 2 episodes
 
-## Description
-
-Dark, rain-soaked plane of existence on the other side of the stone border wall from the Feywild. Home of the Beast of Erua, Strigoi, and Brighanox.
-
 ## Notable Events
 
 

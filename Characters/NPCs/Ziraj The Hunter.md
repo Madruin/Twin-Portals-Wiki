@@ -19,7 +19,6 @@ Skilled tracker who agrees to guide SWOJ north to Amphail. Joins the party as a 
 
 ## Description
 
-Skilled tracker who agrees to guide SWOJ north to Amphail. Joins the party as a companion for the journey.
 
 Skilled tracker and guide who accompanies SWOJ from Waterdeep to Amphail. Parts ways with the party at Amphail's entrance, declining to enter the Cryptwood.
 

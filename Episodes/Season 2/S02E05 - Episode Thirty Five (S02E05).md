@@ -29,23 +29,23 @@ Air Date: 2022-07-24 | Duration: 02:04:32
 
 ## Summary
 
-SWOJ emerges from the Dynamo of Possibility back inside the skull of the Great Beast of Aeroa, where they find Fetch now controlling the vines. Rowan Crooks and the Jolly Gents arrive, and Rowan captures Fetch's soul in a crystal shard despite Ylka's attempts to protect the boy. Tensions rise as Ylka attacks Rowan, but Lark deflects the blow. Xae takes the shard briefly before surrendering it. Radisare the gnome inventor examines the Dynamo and casts Geas on Rowan as a safeguard. Antediluvian Jake activates a teleportation circle to return everyone to Waterdeep.
+SWOJ emerges from the Dynamo of Possibility back inside the skull of the Great Beast of Erua, where they find Fetch now controlling the vines. Rowan Crooks and the Jolly Gents arrive, and Rowan captures Fetch's soul in a crystal shard despite Ylka's attempts to protect the boy. Tensions rise as Ylka attacks Rowan, but Lark deflects the blow. Xae takes the shard briefly before surrendering it. Radecere the gnome inventor examines the Dynamo and casts Geas on Rowan as a safeguard. Antediluvian Jake activates a teleportation circle to return everyone to Waterdeep.
 
-Upon arriving in Waterdeep, SWOJ makes a devastating discovery: three years have passed during their time in the Shadowfell. The calendar now reads 1496 DR, not 1493. The Short Rest tavern on Trollskull Alley has changed dramatically. Taga, Scoot's mother, is bedridden with a spore illness that requires mothweed (purple moss) for treatment. Nat and Jenks have grown into teenagers helping manage the tavern. The ghost Leaf still runs the establishment, and dragon roosts have become operational with a silver dragon visiting. Craw, Volo, and Radisare arrive separately due to time displacement effects.
+Upon arriving in Waterdeep, SWOJ makes a devastating discovery: three years have passed during their time in the Shadowfell. The calendar now reads 1496 DR, not 1493. The Short Rest tavern on Trollskull Alley has changed dramatically. Tagga, Scoot's mother, is bedridden with a spore illness that requires mothweed (purple moss) for treatment. Nat and Jenks have grown into teenagers helping manage the tavern. The ghost Lif still runs the establishment, and dragon roosts have become operational with a silver dragon visiting. Craw, Volo, and Radecere arrive separately due to time displacement effects.
 
-The party levels up to 6 and discovers that Waterdeep has been at war with Neverwinter over the Cassalanter diamond mines. Renaer Neverember has gone missing. Grinda Garloff of the Watchful Order of Magists and Protectors visits to discuss portal instability and offers to establish a teleportation circle at the Short Rest. Fala Lefaliir, the herbalist, has been kidnapped from their shop by something large, with Froon confirming he heard crunching and thumping sounds heading north. SWOJ visits the Doom Network headquarters where Skemo gives them a job: find the missing noblewoman Anya Irmbrusk, known as the Staglass, before the Right of the Staglass ceremony in Amphail. Ziraj the Hunter agrees to guide them north.
+The party levels up to 6 and discovers that Waterdeep has been at war with Neverwinter over the Cassalanter diamond mines. Renaer Neverember has gone missing. Grinda Garloff of the Watchful Order of Magists and Protectors visits to discuss portal instability and offers to establish a teleportation circle at the Short Rest. Fela Lefaliir, the herbalist, has been kidnapped from their shop by something large, with Froon confirming he heard crunching and thumping sounds heading north. SWOJ visits the Doom Network headquarters where Skeemo gives them a job: find the missing noblewoman Anya Irmbrusk, known as the Staglass, before the Right of the Staglass ceremony in Amphail. Ziraj the Hunter agrees to guide them north.
 
-The episode establishes multiple quest threads: rescuing Fala, finding mothweed for Taga's illness, locating the Staglass in Amphail, and investigating the Brighanox (time-manipulating mouse people) who may explain the three-year time displacement. The party prepares to depart Waterdeep heading north with Ziraj and Craw.
+The episode establishes multiple quest threads: rescuing Fela, finding mothweed for Tagga's illness, locating the Staglass in Amphail, and investigating the Brighanox (time-manipulating mouse people) who may explain the three-year time displacement. The party prepares to depart Waterdeep heading north with Ziraj and Craw.
 
 ### Key Events
 
 - SWOJ exits the Dynamo back into the Great Beast's skull with Fetch now controlling the vines
 - Rowan Crooks and the Jolly Gents arrive and capture Fetch's soul in a crystal shard
 - Ylka attacks Rowan to protect Fetch but Lark deflects; Xae briefly takes the shard before surrendering it
-- Radisare examines the Dynamo and casts Geas on Rowan to safeguard Fetch
+- Radecere examines the Dynamo and casts Geas on Rowan to safeguard Fetch
 - Antediluvian Jake teleports everyone to Waterdeep via teleportation circle
 - SWOJ discovers three years have passed -- the year is now 1496 DR instead of 1493
-- Taga (Scoot's mother) is bedridden with spore illness needing mothweed treatment
+- Tagga (Scoot's mother) is bedridden with spore illness needing mothweed treatment
 - Nat and Jenks have grown into teenagers helping manage the Short Rest
 - The party levels up to level 6
 - Volo returns and explains the war between Waterdeep and Neverwinter over Cassalanter diamond mines
@@ -58,8 +58,8 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Rowan Crooks]] — Leader of the Jolly Gents. Captures Fetch's soul in a crystal shard inside the Great Beast. Subjected to Radisare's Geas spell as a safeguard for Fetch's safety.
-- [[Fetch]] — The nine-year-old fragment of Manchun's soul, now merged with Teriador. His soul is captured in a crystal shard by Rowan Crooks.
+- [[Rowan Crooks]] — Leader of the Jolly Gents. Captures Fetch's soul in a crystal shard inside the Great Beast. Subjected to Radecere's Geas spell as a safeguard for Fetch's safety.
+- [[Fetch]] — The nine-year-old fragment of Manshoon's soul, now merged with Teriador. His soul is captured in a crystal shard by Rowan Crooks.
 - [[Radecere]] — Rock gnome inventor allied with the Jolly Gents. Examines the Dynamo of Possibility and casts Geas on Rowan Crooks to ensure Fetch's safety. Arrives in Waterdeep separately due to time displacement.
 - [[Antediluvian Jake]] — Member of the Jolly Gents. Teleports the group back to Waterdeep using a teleportation circle.
 - [[Ann Jane Flip-Flap]] — Member of the Jolly Gents. Present during the extraction from the Great Beast.
@@ -75,7 +75,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 - [[The Great Beast of Erua]]
 - [[Trollskull Manor]]
 - [[Trollskull Alley]]
-- [[Frewn's  Brews]]
+- [[Frewn's Brews]]
 - [[Waterdeep]]
 - [[Corellon's Crown]]
 - [[Doom Network Headquarters]]
@@ -103,7 +103,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[00:51]** the shadow fell, where they awoke together, within the skull of the great beast and very
 **[00:56]** near the now quiet dynamo of possibility.
 **[00:59]** It's very, very, very quiet around you, as soon as you arrive.
-**[01:09]** The beast of Aeroa is still, what's your immediate take?
+**[01:09]** The beast of Erua is still, what's your immediate take?
 **[01:14]** Is Fetch here?
 **[01:15]** No.
 **[01:16]** How about like Antidelubian Jake?
@@ -150,7 +150,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[03:08]** We're not in the ribcage anymore.
 **[03:10]** That's right.
 **[03:11]** And you feel this faint buzzing in your head, like sort of similar to the telepathic connection
-**[03:15]** that Manchun had with you a moment ago when you were fighting him, when he was like talking
+**[03:15]** that Manshoon had with you a moment ago when you were fighting him, when he was like talking
 **[03:20]** through your minds, you feel that same kind of link still, but it's just kind of quiet
 **[03:24]** right now.
 **[03:25]** There's this tension in your minds.
@@ -198,8 +198,8 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[04:59]** Where are you?
 **[05:00]** Where are we?
 **[05:01]** So I'm pretty sure we are inside the massive skull of the animated, dead, great beast
-**[05:09]** of Aeroa.
-**[05:10]** Aeroa?
+**[05:09]** of Erua.
+**[05:10]** Erua?
 **[05:11]** Yeah.
 **[05:13]** Wait.
 **[05:14]** It's dead?
@@ -366,7 +366,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[10:35]** The bees are the vines.
 **[10:36]** He says, I've got to capture his soul before it gets away.
 **[10:38]** Whose soul?
-**[10:40]** Manchun.
+**[10:40]** Manshoon.
 **[10:41]** It's inside the dynamo possibilities.
 **[10:43]** He says, it's all around us.
 **[10:45]** No, that's fetch.
@@ -374,7 +374,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[10:47]** Talking about.
 **[10:48]** Yeah, he switched spots.
 **[10:51]** What?
-**[10:52]** He switched spots with Manchun and Manchun's in the dynamo.
+**[10:52]** He switched spots with Manshoon and Manshoon's in the dynamo.
 **[10:54]** Who is fetch?
 **[10:56]** We're not really clear on that.
 **[10:57]** He's a nine year old.
@@ -382,10 +382,10 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[10:59]** He was in the dynamo.
 **[11:00]** He lives in the vines?
 **[11:01]** Yeah.
-**[11:02]** Is this one of Manchun's clones or personalities or something?
+**[11:02]** Is this one of Manshoon's clones or personalities or something?
 **[11:06]** It's his inner child.
 **[11:08]** We're not quite sure.
-**[11:10]** Well, any piece of Manchun can't be trusted.
+**[11:10]** Well, any piece of Manshoon can't be trusted.
 **[11:13]** I think this is a piece that could definitely be trusted.
 **[11:15]** You all hear fetch in your minds being like, what is it?
 **[11:18]** It's cold.
@@ -513,7 +513,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[16:22]** And then I tuck it in one of my pouches.
 **[16:25]** Rowan looks at you and looks at all of you, one by one and says, I understand you may feel
 **[16:31]** some connection to whatever fetch is, whoever fetch is.
-**[16:36]** But Rowan, Manchun is false, he cannot be trusted.
+**[16:36]** But Rowan, Manshoon is false, he cannot be trusted.
 **[16:41]** This is the right thing.
 **[16:42]** If fetch is as innocent as you say, we will work it out.
 **[16:46]** We'll take him to our secret base and investigate this soul that you call fetch.
@@ -691,7 +691,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[23:21]** And we left some bad people in there.
 **[23:22]** And we're just curious.
 **[23:23]** Yeah.
-**[23:24]** Manchune the wizard.
+**[23:24]** Manshoone the wizard.
 **[23:25]** Present now.
 **[23:26]** Yeah.
 **[23:27]** Are they, are they, if we leave them in there?
@@ -861,7 +861,7 @@ The episode establishes multiple quest threads: rescuing Fala, finding mothweed 
 **[29:42]** That's all happening.
 **[29:43]** Yeah, we're not actually sure where we're supposed to be going.
 **[29:45]** So if you have some, I mean, as I recall, you brought us here.
-**[29:48]** So if this isn't where we're supposed to be looking for Manchun,
+**[29:48]** So if this isn't where we're supposed to be looking for Manshoon,
 **[29:51]** we can go wherever you think we should be going next.
 **[29:53]** He says, well, we need another lead, I think.
 **[29:55]** Yeah.

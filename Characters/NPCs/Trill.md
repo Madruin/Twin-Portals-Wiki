@@ -19,7 +19,6 @@ A farmer and sugar mill worker inside the Preserve of the Ancestors. Originally 
 
 ## Description
 
-A farmer and sugar mill worker inside the Preserve of the Ancestors. Originally from Godsbreath, one of the founding cultures of the Radiant Citadel. Killed by one of the alien shadow creatures that appear at his mill. Known as 'Trill from the Mill.'
 
 The sugar mill worker from Godsbreath who was killed by the shadow creatures in the previous episode. Confirmed dead; his body is set aside for burial in the Preserve of the Ancestors.
 

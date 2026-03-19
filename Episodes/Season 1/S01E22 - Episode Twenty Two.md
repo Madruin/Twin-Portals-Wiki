@@ -29,23 +29,23 @@ Air Date: 2021-04-24 | Duration: 01:56:52
 
 ## Summary
 
-SWOJ returns to the Short Rest tavern after their journey to the Feywild, carrying Lark's soul in a red hat. The previously-on recap establishes that the Necromancer (seen via scrying pool) told them they need three things to resurrect Lark: his soul, a diamond worth 1000 gold, and his remains (ashes from the beholder's disintegration). The party reunites with their allies Taga, Leaf, and Terry at the Short Rest.
+SWOJ returns to the Short Rest tavern after their journey to the Feywild, carrying Lark's soul in a red hat. The previously-on recap establishes that the Necromancer (seen via scrying pool) told them they need three things to resurrect Lark: his soul, a diamond worth 1000 gold, and his remains (ashes from the beholder's disintegration). The party reunites with their allies Tagga, Lif, and Terry at the Short Rest.
 
-They head to the Docksward to visit Zelapharn, the bronze dragon living underwater in the harbor. Scoot dives down to his lair and discovers a ledger from the Neverember family among the dragon's hoard. Returning to the surface, they meet Ramalia Haventree, a Harper agent, who informs them that the Zentarim possess the second Eye of the Stone of Golorr and that the Kolat Towers are the Zentarim's base of operations. She also gives them a sending stone.
+They head to the Docksward to visit Zelifarn, the bronze dragon living underwater in the harbor. Scoot dives down to his lair and discovers a ledger from the Neverember family among the dragon's hoard. Returning to the surface, they meet Remalia Haventree, a Harper agent, who informs them that the Zentarim possess the second Eye of the Stone of Golorr and that the Kolat Towers are the Zentarim's base of operations. She also gives them a sending stone.
 
 The party visits Renaer Neverember at his apartment, where he provides the diamond needed for Lark's resurrection. Outside, they encounter Nat and Jenks, street urchins who tell them Squiddly has gone missing. The party then plans an infiltration of Gralhund Villa to use the teleportation circle there. They scale the wall, use Ylka's hawk familiar as a diversion, enter through a window, and activate the teleportation circle using the passphrase 'Tuatha Erinji.'
 
-They arrive inside one of the Kolat Towers, encountering Urstul Floxin and his associate Mookie. They ascend seven floors of the tower, navigating traps, a flesh golem, and summoning circles. At the top, they pass through a portal using rings emblazoned with the letter 'M' into an extra-dimensional sanctum. There they meet the Necromancer, who reveals a connection to Ylka's grandfather Mordecai Gralhund. He is young-looking with a mechanical hand. He performs the clone spell to resurrect Lark using the diamond, ashes, and soul. The episode ends on a cliffhanger as the city watch raids the tower and the Necromancer's simulacrum (wearing an iron mask) rushes to defend.
+They arrive inside one of the Kolat Towers, encountering Urstul Floxxin and his associate Mookie. They ascend seven floors of the tower, navigating traps, a flesh golem, and summoning circles. At the top, they pass through a portal using rings emblazoned with the letter 'M' into an extra-dimensional sanctum. There they meet the Necromancer, who reveals a connection to Ylka's grandfather Mordecai Gralhund. He is young-looking with a mechanical hand. He performs the clone spell to resurrect Lark using the diamond, ashes, and soul. The episode ends on a cliffhanger as the city watch raids the tower and the Necromancer's simulacrum (wearing an iron mask) rushes to defend.
 
 ### Key Events
 
 - SWOJ returns from the Feywild to the Short Rest with Lark's soul in a red hat
 - Recap establishes the three components needed for resurrection: soul, diamond, and remains/ashes
-- Party reunites with Taga, Leaf, and Terry at the Short Rest
-- Scoot dives to visit Zelapharn the bronze dragon in the Docksward harbor
-- Neverember ledger discovered in Zelapharn's hoard
-- Ramalia Haventree (Harper agent) meets them at the dock with intel: Zentarim have the second Eye, Kolat Towers are the Zentarim base
-- Ramalia provides a sending stone to SWOJ
+- Party reunites with Tagga, Lif, and Terry at the Short Rest
+- Scoot dives to visit Zelifarn the bronze dragon in the Docksward harbor
+- Neverember ledger discovered in Zelifarn's hoard
+- Remalia Haventree (Harper agent) meets them at the dock with intel: Zentarim have the second Eye, Kolat Towers are the Zentarim base
+- Remalia provides a sending stone to SWOJ
 - Party visits Renaer Neverember who gives them the diamond for resurrection
 - Nat and Jenks report that Squiddly has gone missing
 - SWOJ infiltrates Gralhund Villa to use the teleportation circle
@@ -63,7 +63,7 @@ They arrive inside one of the Kolat Towers, encountering Urstul Floxin and his a
 - [[Lif]] — Ally of SWOJ, reunited with the party at the Short Rest tavern.
 - [[Terry]] — Ally of SWOJ (a horse), reunited with the party at the Short Rest tavern.
 - [[Zelifarn]] — A bronze dragon living underwater in the Docksward harbor. Scoot visits his lair and finds a Neverember ledger in his hoard.
-- [[Remalia Haventree]] — A Harper agent who meets the party at the dock after they visit Zelapharn. She informs them that the Zentarim have the second Eye of the Stone of Golorr and that the Kolat Towers are the Zentarim base. She provides a sending stone.
+- [[Remalia Haventree]] — A Harper agent who meets the party at the dock after they visit Zelifarn. She informs them that the Zentarim have the second Eye of the Stone of Golorr and that the Kolat Towers are the Zentarim base. She provides a sending stone.
 - [[Renaer Neverember]] — A nobleman and friend of SWOJ who provides the diamond (worth 1000 gold) needed for Lark's resurrection.
 - [[Nat]] — One of the street urchins (Trollskull Trio). Tells SWOJ that Squiddly has gone missing.
 - [[Jenks]] — One of the street urchins (Trollskull Trio). Present when they tell SWOJ about Squiddly's disappearance.

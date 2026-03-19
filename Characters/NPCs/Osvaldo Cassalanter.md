@@ -19,7 +19,6 @@ The Cassalanters' supposedly dead son. Actually a nine-foot-tall demonic chain-b
 
 ## Description
 
-The Cassalanters' supposedly dead son. Actually a nine-foot-tall demonic chain-bound humanoid trapped in a pentagram circle in the attic. Has chains that animate with barbed spikes, bleeds black ichor, emanates an aura dampening healing magic. Previously the source of the howling sounds.
 
 Son of Victoro and Amalia Cassalanter, transformed into a chain devil and kept chained in the attic of the Cassalanter villa. His parents believe the transformation was a consequence of their deal with Asmodeus.
 

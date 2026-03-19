@@ -17,10 +17,6 @@ The main road heading northeast from Waterdeep toward Amphail. The party is ambu
 **First appearance:** Episode S02E06
 **Total appearances:** 1 episodes
 
-## Description
-
-The main road heading northeast from Waterdeep toward Amphail. The party is ambushed along this road by the Hare Company.
-
 ## Notable Events
 
 

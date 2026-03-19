@@ -16,10 +16,6 @@ A vast underground lake deep beneath the chasm where the Hungry Elder maintains 
 **First appearance:** Episode S02E16
 **Total appearances:** 1 episodes
 
-## Description
-
-A vast underground lake deep beneath the chasm where the Hungry Elder maintains the seal. The site of the Jolly Gents' ambush and the final confrontation with Neverember's guards.
-
 ## Notable Events
 
 

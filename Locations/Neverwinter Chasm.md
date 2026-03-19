@@ -16,10 +16,6 @@ A massive chasm running through the city of Neverwinter. SWOJ descends into its 
 **First appearance:** Episode S02E16
 **Total appearances:** 1 episodes
 
-## Description
-
-A massive chasm running through the city of Neverwinter. SWOJ descends into its depths, which contain guard posts, rivers of fire and water, vast underground caverns, and the seal maintained by the Hungry Elder. The chasm intersects multiple planes of existence.
-
 ## Notable Events
 
 

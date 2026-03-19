@@ -17,10 +17,6 @@ A spectral hag who haunts Trollskull Manor. According to legend, she ran an orph
 **First appearance:** [[S01E05 - Episode Five|S01E05]]
 **Total appearances:** 1 episode
 
-## Description
-
-A spectral hag who haunts Trollskull Manor. According to legend, she ran an orphanage and ate children. Her power is anchored by a talisman hidden under the tower. When the talisman is destroyed in the cauldron, she becomes physical and is killed by the party.
-
 ## Role in the Story
 
 - **S01E05:** Lif's diary reveals the legend of Esther the hag who ate children from an orphanage is real and haunts the manor

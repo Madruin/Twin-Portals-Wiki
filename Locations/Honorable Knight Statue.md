@@ -16,10 +16,6 @@ A statue/tenement building in the Dock Ward area with smuggler's closets where P
 **First appearance:** Episode S01E05
 **Total appearances:** 1 episodes
 
-## Description
-
-A statue/tenement building in the Dock Ward area with smuggler's closets where Pinker hides Taga.
-
 ## Notable Events
 
 

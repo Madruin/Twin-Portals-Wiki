@@ -10,14 +10,14 @@ tags:
 
 # Watchful Order Of Magists And Protectors
 
-Magical authority in Waterdeep. Alcoria Stonemarrow is a magister who registers magic users and investigates magical threats.
+Magical authority in Waterdeep. Ulkoria Stonemarrow is a magister who registers magic users and investigates magical threats.
 
 **First appearance:** Episode S01E07
 **Total appearances:** 2 episodes
 
 ## Overview
 
-Magical authority in Waterdeep. Alcoria Stonemarrow is a magister who registers magic users and investigates magical threats.
+Magical authority in Waterdeep. Ulkoria Stonemarrow is a magister who registers magic users and investigates magical threats.
 
 ## Known Members
 

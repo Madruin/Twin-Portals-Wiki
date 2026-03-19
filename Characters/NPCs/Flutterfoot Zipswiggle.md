@@ -2,7 +2,7 @@
 title: "Flutterfoot Zipswiggle"
 type: character
 subtype: npc
-status: unknown
+status: deceased
 aliases: []
 tags:
   - twin-portals
@@ -19,10 +19,7 @@ Gnome jester enslaved by the Xanathar. Wears a jester hat with golden eyes on it
 
 ## Description
 
-Gnome jester enslaved by the Xanathar. Wears a jester hat with golden eyes on it. Gives SWOJ dust of disappearance and warns them about the lair's dangers. Seems resigned to his captivity.
-
-Gnome jester previously encountered in E16. Found dead on a throne in a chamber beyond the collapsed lair, his brain eaten by the mind flayer.
-
+A gnome jester enslaved by [[The Xanathar]], forced to serve as entertainment in the beholder's lair. He wears a jester hat with golden eyes on it and seems resigned to his captivity, though he covertly aids SWOJ by giving them dust of disappearance and warning them about the lair's dangers.
 
 ## Role in the Story
 

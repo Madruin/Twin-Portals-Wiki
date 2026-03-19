@@ -17,10 +17,6 @@ Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards 
 **First appearance:** [[S02E07 - Episode Thirty Seven (S02E07)|S02E07]]
 **Total appearances:** 1 episode
 
-## Description
-
-Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards from the town coffers.
-
 ## Role in the Story
 
 

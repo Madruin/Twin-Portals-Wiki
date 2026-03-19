@@ -16,10 +16,6 @@ The main harbor of Waterdeep. Location of the Sea Plum wreck and Zelifarn's doma
 **First appearance:** Episode S01E06
 **Total appearances:** 2 episodes
 
-## Description
-
-The main harbor of Waterdeep. Location of the Sea Plum wreck and Zelifarn's domain.
-
 ## Notable Events
 
 

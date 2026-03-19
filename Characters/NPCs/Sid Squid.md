@@ -19,7 +19,6 @@ A carnival barker and food vendor at the Night Market who runs 'Sid Squid's Batt
 
 ## Description
 
-A carnival barker and food vendor at the Night Market who runs 'Sid Squid's Battle Prawns: The Shrimpening.' A hustler-looking guy with a team of sous chefs in yellow aprons who challenges contestants to catch, kill, and cook giant prawns.
 
 A refugee ally who serves crab cakes at the Trollskull party. Was in the refugee group from the Radiant Citadel.
 

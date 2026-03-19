@@ -20,7 +20,6 @@ Owner of a music shop in Amphail. Her husband Juan, a half-elf fiddler, has gone
 
 ## Description
 
-Owner of a music shop in Amphail. Her husband Juan, a half-elf fiddler, has gone missing along with other townspeople. Repairs Ylka's concertina and sells her an orca-shaped ocarina.
 
 Runs the music shop associated with the Doom Network quest. Returns Ylka's concertina in perfect shape with all pegs restored.
 

@@ -16,10 +16,6 @@ Private investigator's office in Trollskull Alley. Janks found the Necklace of F
 **First appearance:** Episode S01E11
 **Total appearances:** 4 episodes
 
-## Description
-
-Private investigator's office in Trollskull Alley. Janks found the Necklace of Fireballs in a barrel near this location.
-
 ## Notable Events
 
 

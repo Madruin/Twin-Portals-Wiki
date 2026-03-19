@@ -16,10 +16,6 @@ The harbor district of Waterdeep where Zelapharn the dragon resides underwater.
 **First appearance:** Episode S01E22
 **Total appearances:** 1 episodes
 
-## Description
-
-The harbor district of Waterdeep where Zelapharn the dragon resides underwater.
-
 ## Notable Events
 
 

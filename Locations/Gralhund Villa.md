@@ -16,10 +16,6 @@ Noble estate at the end of Del Zorn Street, very close to Trollskull Alley. Two-
 **First appearance:** Episode S01E12
 **Total appearances:** 4 episodes
 
-## Description
-
-Noble estate at the end of Del Zorn Street, very close to Trollskull Alley. Two-story mansion with 20-foot walls, a carriage house, servants' entrance, kitchen/pantry, great hall, library, study/falcon room, master bedroom, guest room with teleportation circle, and second-floor balcony. Scene of a pitched battle between Gralhund guards and Zhentarim agents.
-
 ## Notable Events
 
 

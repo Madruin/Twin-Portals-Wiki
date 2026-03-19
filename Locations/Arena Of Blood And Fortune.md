@@ -17,10 +17,6 @@ Gladiatorial arena within the Xanathar's lair where captured prisoners are force
 **First appearance:** Episode S01E16
 **Total appearances:** 2 episodes
 
-## Description
-
-Gladiatorial arena within the Xanathar's lair where captured prisoners are forced to fight. SWOJ is sent here after being captured.
-
 ## Notable Events
 
 

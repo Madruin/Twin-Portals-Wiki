@@ -16,10 +16,6 @@ A town where Waterdeep's forces suffered a devastating defeat against Neverwinte
 **First appearance:** Episode S02E06
 **Total appearances:** 1 episodes
 
-## Description
-
-A town where Waterdeep's forces suffered a devastating defeat against Neverwinter. The Hare Company deserted after this battle.
-
 ## Notable Events
 
 

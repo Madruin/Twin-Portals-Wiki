@@ -16,10 +16,6 @@ The castle from which SWOJ emerges at the start of the episode, having retrieved
 **First appearance:** Episode S02E19
 **Total appearances:** 1 episodes
 
-## Description
-
-The castle from which SWOJ emerges at the start of the episode, having retrieved the Crown of Never. Located in Neverwinter.
-
 ## Notable Events
 
 

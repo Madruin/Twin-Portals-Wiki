@@ -16,10 +16,6 @@ The plane of shadow where the Great Beast of Aeroa resides. The broader setting 
 **First appearance:** Episode S02E04
 **Total appearances:** 4 episodes
 
-## Description
-
-The plane of shadow where the Great Beast of Aeroa resides. The broader setting for this episode's events.
-
 ## Notable Events
 
 

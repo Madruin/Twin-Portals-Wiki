@@ -17,10 +17,6 @@ A hat-maker aboard Jarlaxle's ship who crafted Lark's original hat and now creat
 **First appearance:** [[S02E14 - Episode Forty Four (S02E14)|S02E14]]
 **Total appearances:** 1 episode
 
-## Description
-
-A hat-maker aboard Jarlaxle's ship who crafted Lark's original hat and now creates a replacement. Goes solely by 'the Milliner' -- his craft is his entire personality. Creates Lark's new red hat with hidden compartments and a collapsible design.
-
 ## Role in the Story
 
 - **S02E14:** Lark commissions a new red hat from the Milliner with hidden compartments

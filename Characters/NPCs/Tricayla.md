@@ -17,10 +17,6 @@ A dryad captured by the hag and bound inside the shack. One of three dryad siste
 **First appearance:** [[S01E21 - Episode Twenty One|S01E21]]
 **Total appearances:** 1 episode
 
-## Description
-
-A dryad captured by the hag and bound inside the shack. One of three dryad sisters. Freed by Xae.
-
 ## Role in the Story
 
 - **S01E21:** Three dryads (Tricayla, Argentia, and sister) are freed; 18 caged animals released

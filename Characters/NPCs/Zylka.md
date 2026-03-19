@@ -2,8 +2,9 @@
 title: "Zylka"
 type: character
 subtype: npc
-status: unknown
-aliases: []
+status: deceased
+aliases:
+  - "Zilka"
 tags:
   - twin-portals
   - character
@@ -14,17 +15,10 @@ tags:
 
 Ylka's doppelganger. Crashes the Cassalanter party through the ballroom windows with cultists. Wields a magical rapier with an infinity symbol on the hilt. Fights Osvaldo alongside SWOJ but is knocked unconscious. Captured by SWOJ at the end.
 
-**First appearance:** Episode 
-**Total appearances:** 0 episodes
-
-## Description
-
-Ylka's doppelganger. Crashes the Cassalanter party through the ballroom windows with cultists. Wields a magical rapier with an infinity symbol on the hilt. Fights Osvaldo alongside SWOJ but is knocked unconscious. Captured by SWOJ at the end.
+**First appearance:** [[S01E09 - Episode Nine|S01E09]]
+**Total appearances:** 5 episodes
 
 ## Role in the Story
-
-
-
 
 - **S01E09:** Zilka and cultists crash through ballroom windows wearing golden masks and red leather armor
 - **S01E09:** SWOJ chases Zilka up the building via grappling hooks; multiple falls occur

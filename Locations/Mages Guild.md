@@ -16,10 +16,6 @@ A magical shop in Neverwinter where SWOJ purchases scrolls of daylight, potions 
 **First appearance:** Episode S02E20
 **Total appearances:** 1 episodes
 
-## Description
-
-A magical shop in Neverwinter where SWOJ purchases scrolls of daylight, potions of protection from evil and good, and a sunblade in preparation for their journey to the Shadowfell.
-
 ## Notable Events
 
 

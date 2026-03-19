@@ -33,7 +33,7 @@ SWOJ is arrested by Lord Dagult Neverember's guards at the subterranean lake. La
 
 The chasm erupts catastrophically, unleashing chaos across Neverwinter as demons and magical creatures pour into the streets. Neverember releases SWOJ, returns their gear, and tasks them with helping defend the city. The party fights chokers and a Hezrou-like frog demon in the streets, rescuing a trapped family in the process. Ylka creates shelter with Tiny Hut and heals the group with Aura of Vitality.
 
-SWOJ encounters members of Bregan D'aerthe -- Tari Dorr and Fel Wrect -- who are already fighting the invading creatures on Jarlaxle's orders. The party pushes toward the chasm district wall, where they witness an enormous magical kaiju creature rampaging through the area. In a dramatic moment, Lark persuades the kaiju to stop attacking with a natural 20 persuasion roll. Shailheart the bulette arrives and helps destroy shadows that were attacking Neverember. Ylka sings Song of Rest, soothing the kaiju with a performance roll of 22, and the city calms temporarily as the immediate crisis subsides.
+SWOJ encounters members of Bregan D'aerthe -- Teriador and Fel'Rekt -- who are already fighting the invading creatures on Jarlaxle's orders. The party pushes toward the chasm district wall, where they witness an enormous magical kaiju creature rampaging through the area. In a dramatic moment, Lark persuades the kaiju to stop attacking with a natural 20 persuasion roll. Shaleheart the bulette arrives and helps destroy shadows that were attacking Neverember. Ylka sings Song of Rest, soothing the kaiju with a performance roll of 22, and the city calms temporarily as the immediate crisis subsides.
 
 ### Key Events
 
@@ -46,7 +46,7 @@ SWOJ encounters members of Bregan D'aerthe -- Tari Dorr and Fel Wrect -- who are
 - Neverember releases SWOJ, returns their gear, and tasks them with defending the city
 - SWOJ fights chokers and a Hezrou-like frog demon in the streets, rescuing a trapped family
 - Ylka uses Tiny Hut and Aura of Vitality to shelter and heal the group
-- SWOJ encounters Bregan D'aerthe members Tari Dorr and Fel Wrect, already fighting on Jarlaxle's orders
+- SWOJ encounters Bregan D'aerthe members Teriador and Fel'Rekt, already fighting on Jarlaxle's orders
 
 ### Featured Characters
 
@@ -59,7 +59,7 @@ SWOJ encounters members of Bregan D'aerthe -- Tari Dorr and Fel Wrect -- who are
 - [[Lord Dagult Neverember]] — Lord Protector of Neverwinter. Arrests SWOJ and subjects them to Zone of Truth interrogation at the Hall of Justice. After they are cleared, he releases them and returns their gear to help defend the city when the chasm erupts. Attacked by shadows during the crisis.
 - [[Tressa]] — A guard captain in Neverember's forces. Escorts SWOJ during their arrest and interrogation.
 - [[Teriador]] — A member of Bregan D'aerthe encountered by SWOJ in the streets of Neverwinter during the chasm eruption. Already fighting the invading creatures on Jarlaxle's orders.
-- [[Fel'Rekt]] — A member of Bregan D'aerthe fighting alongside Tari Dorr in the streets during the chasm crisis. Acting on Jarlaxle's orders.
+- [[Fel'Rekt]] — A member of Bregan D'aerthe fighting alongside Teriador in the streets during the chasm crisis. Acting on Jarlaxle's orders.
 - [[Shaleheart]] — The friendly bulette from the chasm. Arrives during the crisis at the chasm district wall and helps destroy shadows that were attacking Neverember.
 
 ### Locations

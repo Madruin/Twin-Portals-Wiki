@@ -27,7 +27,7 @@ A once-rundown four-story estate on [[Trollskull Alley]] in [[Waterdeep]]'s [[No
 
 Trollskull Manor is a tall, narrow townhouse with a taproom on the ground floor, living quarters on the upper floors, a tower on the northwest corner, a dusty attic above the third floor, and a deep cellar below. When SWOJ first arrived, the building was dilapidated and haunted -- the ghost [[Lif Lindgren]] cooked eggs and slammed doors to communicate, and a hag named [[Esther]] lurked in the attic with her cauldron.
 
-After clearing out the hag and befriending Lif, the party spent several episodes renovating the manor with help from guilds including the [[Fellowship Of Innkeepers]], the [[Guild of Watermen]], and the [[Watchful Order Of Magisters]]. [[Alcoria Stonemarrow]] (also called [[Ulkoria Stonemarrow]]) warded the building and registered [[Xaerine Rumblestride|Xae]] and [[Ylka Gralhund|Ylka]] as magic users. [[Emmek Frewn]], a rival tavern owner, tried to buy the manor for 150gp and was refused.
+After clearing out the hag and befriending Lif, the party spent several episodes renovating the manor with help from guilds including the [[Fellowship Of Innkeepers]], the [[Guild of Watermen]], and the [[Watchful Order Of Magisters]]. [[Ulkoria Stonemarrow]] (also called [[Ulkoria Stonemarrow]]) warded the building and registered [[Xaerine Rumblestride|Xae]] and [[Ylka Gralhund|Ylka]] as magic users. [[Emmek Frewn]], a rival tavern owner, tried to buy the manor for 150gp and was refused.
 
 The tavern opened as **The Short Rest** in [[S01E11 - Episode Eleven|S01E11]], with a grand opening party attended by [[Jarlaxle|Zardoz Zord]], [[Fel'Rekt Lafeen|Fel'Rekt]], the [[Doom Raiders]], and much of the neighborhood. The celebration was cut short by a devastating fireball explosion on [[Trollskull Alley]] that killed ten or more people, including [[Voniel]], and badly injured [[Tagga]].
 
@@ -40,7 +40,7 @@ During SWOJ's three-year absence in the [[The Shadowfell|Shadowfell]], [[Lif Lin
 - **[[S01E04 - Episode Four|S01E04]]:** [[Volothamp Geddarm|Volo]] gives the party the deed to Trollskull Manor as payment for rescuing [[Floon Blagmaar|Floon]] and [[Renaer Neverember|Renaer]]
 - **[[S01E05 - Episode Five|S01E05]]:** Party arrives at Trollskull Manor for the first time to inspect their new property; explores the cellar, tower, and attic
 - **[[S01E06 - Episode Six|S01E06]]:** Morning at Trollskull Manor with ghost [[Lif Lindgren|Lif]] cooking eggs for the party
-- **[[S01E07 - Episode Seven|S01E07]]:** [[Alcoria Stonemarrow]] wards Trollskull Manor and registers [[Xaerine Rumblestride|Xae]] and [[Ylka Gralhund|Ylka]] as magic users; [[Emmek Frewn]] tries to buy the manor for 150gp and is refused
+- **[[S01E07 - Episode Seven|S01E07]]:** [[Ulkoria Stonemarrow]] wards Trollskull Manor and registers [[Xaerine Rumblestride|Xae]] and [[Ylka Gralhund|Ylka]] as magic users; [[Emmek Frewn]] tries to buy the manor for 150gp and is refused
 - **[[S01E10 - Episode Ten|S01E10]]:** Renovations underway; preparing for the grand opening of The Short Rest
 - **[[S01E11 - Episode Eleven|S01E11]]:** Grand opening of The Short Rest tavern; fireball explosion devastates [[Trollskull Alley]], killing 10+ people including [[Voniel]]
 - **[[S01E12 - Episode Twelve|S01E12]]:** Nine [[Gralhund]] servants rescued and sent to the Short Rest; [[Renaer Neverember|Renaer]] agrees to hide here for safety

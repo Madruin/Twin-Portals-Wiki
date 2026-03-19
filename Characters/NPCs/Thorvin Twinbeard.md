@@ -20,7 +20,6 @@ Dwarf chief engineer of the Xanathar Guild. Secret Harper informant who provided
 
 ## Description
 
-Dwarf chief engineer of the Xanathar Guild. Secret Harper informant who provided intelligence about the eye in Sylgar's tank.
 
 Dwarf engineer working in a workshop in the Xanathar's lair. Building a crushing device for Skullport. Asks the party to send Nar'l Xibrindas his way if they find him.
 

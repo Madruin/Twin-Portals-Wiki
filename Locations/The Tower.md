@@ -16,10 +16,6 @@ A tall stone structure at the center of the Dynamo's pocket dimension, covered i
 **First appearance:** Episode S02E04
 **Total appearances:** 1 episodes
 
-## Description
-
-A tall stone structure at the center of the Dynamo's pocket dimension, covered in vines controlled by the Body Taker. The climactic battle takes place at its summit. Surrounded by water at its base.
-
 ## Notable Events
 
 

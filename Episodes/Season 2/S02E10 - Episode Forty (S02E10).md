@@ -29,7 +29,7 @@ Air Date: 2022-12-22 | Duration: 02:08:34
 
 ## Summary
 
-SWOJ arrives at Devil's Rock, a volcanic island rising from the sea, surrounded by dangerous bladed coral reefs. They row in from the pirate citadel Driftwood aboard a small boat with their allies Zardo Zord and Mr. E. The island's beach, known as the Skull Dunes, is made of powdery white sand that conceals dozens of buried skeletons. As SWOJ traverses the dunes, skeletons burst from the sand, triggering a frantic combat. Long John McCron's pirate crew also lands on the island and is attacked by the undead, while the Crimson Cracken -- captained by One-Eyed Wilhelmina -- appears offshore and begins firing cannons at the beach, adding to the chaos.
+SWOJ arrives at Devil's Rock, a volcanic island rising from the sea, surrounded by dangerous bladed coral reefs. They row in from the pirate citadel Driftwood aboard a small boat with their allies Zardoz Zord and Mr. E. The island's beach, known as the Skull Dunes, is made of powdery white sand that conceals dozens of buried skeletons. As SWOJ traverses the dunes, skeletons burst from the sand, triggering a frantic combat. Long John McRon's pirate crew also lands on the island and is attacked by the undead, while the Crimson Cracken -- captained by One-Eyed Wilhelmina -- appears offshore and begins firing cannons at the beach, adding to the chaos.
 
 After surviving the Skull Dunes, SWOJ reaches the ruins of an old abbey atop the island. The abbey features aboleth shrine motifs -- murals of deep-sea creatures, octopus imagery, and disturbing carvings. They discover a campsite with jars of dragon piss (an alchemical solvent) and the skeleton of Father Fratelli, a priest wearing an ouroboros medallion. Through investigation, Lark uncovers a secret tunnel entrance behind the abbey's altar.
 
@@ -39,10 +39,10 @@ The tunnel leads to a cliff overlooking a massive underground cavern -- the Deep
 
 ### Key Events
 
-- SWOJ rows to Devil's Rock from Driftwood with Zardo Zord and Mr. E
+- SWOJ rows to Devil's Rock from Driftwood with Zardoz Zord and Mr. E
 - They navigate the bladed coral reef surrounding the island
 - Crossing the Skull Dunes triggers skeletons to burst from the sand
-- Long John McCron's pirate crew also lands and is attacked by skeletons
+- Long John McRon's pirate crew also lands and is attacked by skeletons
 - The Crimson Cracken (One-Eyed Wilhelmina's ship) fires cannons at the island
 - SWOJ reaches the ruined abbey with aboleth shrine motifs atop Devil's Rock
 - They discover Father Fratelli's skeleton with an ouroboros medallion and jars of dragon piss
@@ -66,7 +66,7 @@ The tunnel leads to a cliff overlooking a massive underground cavern -- the Deep
 
 ### Locations
 
-- [[Devil's' Rock]]
+- [[Devil's Rock]]
 - [[Skull Dunes]]
 - [[Bladed Coral]]
 - [[The Devil's Rock Abbey]]
@@ -86,11 +86,11 @@ The tunnel leads to a cliff overlooking a massive underground cavern -- the Deep
 **[00:26]** the ocean.
 **[00:28]** Swoge agreed and traveled far to the south of the sword coast via the Concord Jewel
 **[00:32]** to the ocean's near land tomb, traveling by dolphin and by half or to the floating pirate
-**[00:38]** citadel Driftwood, Swoge negotiated the aid of their sometimes ally Zardo Zord.
+**[00:38]** citadel Driftwood, Swoge negotiated the aid of their sometimes ally Zardoz Zord.
 **[00:46]** After some paratical antics, Swoge boarded the galleons of the sea maiden's fair on
 **[00:50]** route to the Devil's Rock, where they believe a hidden whirlpool will carry them down to
 **[00:55]** the mysterious temple below.
-**[01:04]** The echoing sound of Zardo Zord's hollow head, being plinked by a Q-line, echoes across
+**[01:04]** The echoing sound of Zardoz Zord's hollow head, being plinked by a Q-line, echoes across
 **[01:11]** the waves as you all, who's rowing, like who's doing the work on the boat, Scoot.
 **[01:17]** So Scoot's doing the work while y'all enjoy the warm weather and the wind that's picking
 **[01:22]** up.
@@ -607,7 +607,7 @@ The tunnel leads to a cliff overlooking a massive underground cavern -- the Deep
 **[18:38]** And you can see there are at least like eight to 10 pirates
 **[18:41]** on this smaller ship.
 **[18:42]** Is it long?
-**[18:43]** Long John McCron?
+**[18:43]** Long John McRon?
 **[18:43]** It is, in fact, long John McCron.
 **[18:45]** I weigh the salty sailors.
 **[18:47]** Hi, long John.

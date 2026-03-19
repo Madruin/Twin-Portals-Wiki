@@ -17,10 +17,6 @@ A clothing boutique in the middle of Neverwinter that serves as the base of the 
 **First appearance:** Episode S02E14
 **Total appearances:** 1 episodes
 
-## Description
-
-A clothing boutique in the middle of Neverwinter that serves as the base of the Harpers in the city. Where Squidly works as a teenage Harper agent. SWOJ obtains Masks uniforms and disguises here.
-
 ## Notable Events
 
 

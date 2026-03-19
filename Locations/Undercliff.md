@@ -16,10 +16,6 @@ Farming area south of Waterdeep where Stout Fellow Farm and Zuber Farm are locat
 **First appearance:** Episode S01E07
 **Total appearances:** 1 episodes
 
-## Description
-
-Farming area south of Waterdeep where Stout Fellow Farm and Zuber Farm are located.
-
 ## Notable Events
 
 

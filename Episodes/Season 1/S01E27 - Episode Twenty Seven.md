@@ -29,7 +29,7 @@ Air Date: 2021-09-27 | Duration: 03:22:20
 
 ## Summary
 
-In the aftermath of the Xanathar battle, SWOJ emerges from the theater to find a city watch army led by Victoria Cassalanter. Bricks and Bracks betray Remalia, having been ensorcelled again. Scoot throws gold to citizens and shatters the bag of holding, sending gold streaming over the crowd. SWOJ is arrested and imprisoned in a high-security anti-magic dungeon for about a week. Isabelle Wavesilver (the Black Viper, Lark's mother) rescues them by breaking into the prison. They escape through Vincent Trench's portal to Trollskull Alley and regroup at Trollskull Manor. Learning that the Cassalanters' Founders Day feast that evening is a front for a devil-soul harvest, they plan to infiltrate disguised as members of the Doom Raiders band. They recruit Davel Starsong, Yagra, and the rest of the Doom Raiders to help. At the Cassalanter Villa feast, Victoro Cassalanter uses a charming cane on the crowd. SWOJ fights spined devils, imps, and Victoro himself. Xae summons the unicorn Lerian through meditation while Lark protects her with Leomund's Tiny Hut. Terry brings reinforcements -- Mellafarne (bronze dragon) and Aurinax (gold dragon) arrive to destroy the remaining imps. SWOJ pursues Victoro into the basement temple of Asmodeus, where Amalia Cassalanter pleads with an avatar of Asmodeus to spare her children Terenzio and Elzerina. Asmodeus offers Xae a contract: free six 'brothers and sisters' (Jhesiyra, Rantantar, Mayrin, Trobriand, Muiral, and Arcturia) within 13 Founders Days in exchange for voiding the Cassalanter soul contract. Xae signs as 'Xaerine Rumblestride', setting up the campaign's next major quest arc.
+In the aftermath of the Xanathar battle, SWOJ emerges from the theater to find a city watch army led by Victoro Cassalanter. Bricks and Bracks betray Remalia, having been ensorcelled again. Scoot throws gold to citizens and shatters the bag of holding, sending gold streaming over the crowd. SWOJ is arrested and imprisoned in a high-security anti-magic dungeon for about a week. Esvelle Wavesilver (the Black Viper, Lark's mother) rescues them by breaking into the prison. They escape through Vincent Trench's portal to Trollskull Alley and regroup at Trollskull Manor. Learning that the Cassalanters' Founders Day feast that evening is a front for a devil-soul harvest, they plan to infiltrate disguised as members of the Doom Raiders band. They recruit Davil Starsong, Yagra, and the rest of the Doom Raiders to help. At the Cassalanter Villa feast, Victoro Cassalanter uses a charming cane on the crowd. SWOJ fights spined devils, imps, and Victoro himself. Xae summons the unicorn Lyrian through meditation while Lark protects her with Leomund's Tiny Hut. Terry brings reinforcements -- Mellafarne (bronze dragon) and Aurinax (gold dragon) arrive to destroy the remaining imps. SWOJ pursues Victoro into the basement temple of Asmodeus, where Amalia Cassalanter pleads with an avatar of Asmodeus to spare her children Terenzio and Elzerina. Asmodeus offers Xae a contract: free six 'brothers and sisters' (Jhesiyra, Rantantar, Mayrin, Trobriand, Muiral, and Arcturia) within 13 Founders Days in exchange for voiding the Cassalanter soul contract. Xae signs as 'Xaerine Rumblestride', setting up the campaign's next major quest arc.
 
 ### Key Events
 
@@ -38,11 +38,11 @@ In the aftermath of the Xanathar battle, SWOJ emerges from the theater to find a
 - Scoot throws gold to citizens and shatters the bag of holding, sending gold streaming
 - SWOJ is arrested and imprisoned in a high-security anti-magic dungeon
 - They spend about a week in prison
-- Isabelle Wavesilver (the Black Viper, Lark's mother) breaks them out of prison
+- Esvelle Wavesilver (the Black Viper, Lark's mother) breaks them out of prison
 - They escape through Vincent Trench's portal to Trollskull Alley
 - They learn the Cassalanters' Founders Day feast is a front for a devil-soul harvest
 - They plan to infiltrate disguised as members of the Doom Raiders band
-- Davel Starsong and the Doom Raiders agree to help SWOJ infiltrate
+- Davil Starsong and the Doom Raiders agree to help SWOJ infiltrate
 
 ### Featured Characters
 

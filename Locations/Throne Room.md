@@ -16,10 +16,6 @@ The former throne room of Castle Never. Contains a stone throne, a silver scale 
 **First appearance:** Episode S02E18
 **Total appearances:** 1 episodes
 
-## Description
-
-The former throne room of Castle Never. Contains a stone throne, a silver scale (inscription: 'What must a ruler balance?' with 'Power' on the weighted side), and Coralith the Starweaver with her thousands of spiders. Spider web constellations cover the ceiling. The throne conceals a hidden compartment with a key and map to the crypts.
-
 ## Notable Events
 
 

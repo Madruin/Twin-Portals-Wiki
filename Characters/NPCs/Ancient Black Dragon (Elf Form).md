@@ -17,10 +17,6 @@ An ancient black dragon allied with Manshoon who can shapeshift into a proud, ha
 **First appearance:** [[S02E19 - Episode Forty Nine (S02E19)|S02E19]]
 **Total appearances:** 1 episode
 
-## Description
-
-An ancient black dragon allied with Manshoon who can shapeshift into a proud, haughty elf form. Seen receiving orders from the Manshoon clone to open a hole in the top of the Spiral Cavern. Transforms and uses acid breath to burn through the mountain ceiling.
-
 ## Role in the Story
 
 - **S02E19:** Mr. E arrives with Melifarn and a flight of dragons (Jack, Jill, Chip, Dale)

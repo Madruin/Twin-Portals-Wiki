@@ -16,10 +16,6 @@ A miles-wide glowing diamond at the center of the Radiant Citadel. Shifts colors
 **First appearance:** Episode S02E08
 **Total appearances:** 1 episodes
 
-## Description
-
-A miles-wide glowing diamond at the center of the Radiant Citadel. Shifts colors on a cycle (red, green, blue, purple), amplifies healing energy, and contains the Preserve of the Ancestors within its interior. Illuminates the entire city.
-
 ## Notable Events
 
 

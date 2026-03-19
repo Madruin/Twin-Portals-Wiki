@@ -29,18 +29,18 @@ Air Date: 2024-03-24 | Duration: 01:44:22
 
 ## Summary
 
-SWOJ defeats Rowan Crooks atop Zentil Keep in the Shadowfell. The battle concludes with Crooks being trapped inside the Soul Stone after his phylactery is destroyed. As the fortress begins to collapse, the party escapes and finds themselves in a strange dream sequence orchestrated by the Raven Queen. The dream begins on the Sea Plum -- Scoot's beloved boat -- where the party relaxes and fishes before being pulled into a series of surreal scenarios.
+SWOJ defeats Rowan Crooks atop Zhentil Keep in the Shadowfell. The battle concludes with Crooks being trapped inside the Soul Stone after his phylactery is destroyed. As the fortress begins to collapse, the party escapes and finds themselves in a strange dream sequence orchestrated by the Raven Queen. The dream begins on the Sea Plum -- Scoot's beloved boat -- where the party relaxes and fishes before being pulled into a series of surreal scenarios.
 
 The dream unfolds in multiple chapters. First, SWOJ participates in a 'battle of the bands' in Waterdeep, performing as the Silver Waves of Justice against rival acts including Bregan D'aerthe. Then, they relive a chaotic assault on the Xanathar's lair alongside the Jolly Gents, where Antediluvian Jake and Giggling Gus lead the charge. Xae faces a solo challenge involving weather control and ley line manipulation, channeling storms and navigating magical energy nodes.
 
 The scenarios grow darker as SWOJ enters a memory-erasing sepulchre where they must resist forgetting their identities. They find powerful scrolls -- Scroll of Power Word Forget and Scroll of Power Word Chaos -- before facing the ultimate test: shadow versions of themselves. Each party member fights their own dark reflection in a climactic battle.
 
-After defeating their shadow selves, the Raven Queen herself appears, acknowledging SWOJ's worthiness. Zellopharn the dragon, who resides in Scoot's necklace, briefly manifests during the dream sequence. The episode ends with the Raven Queen preparing to address the party, setting up the events of the next episode.
+After defeating their shadow selves, the Raven Queen herself appears, acknowledging SWOJ's worthiness. Zelifarn the dragon, who resides in Scoot's necklace, briefly manifests during the dream sequence. The episode ends with the Raven Queen preparing to address the party, setting up the events of the next episode.
 
 ### Key Events
 
-- SWOJ defeats Rowan Crooks atop Zentil Keep and traps him in the Soul Stone
-- Crooks' phylactery is destroyed, causing Zentil Keep to begin collapsing
+- SWOJ defeats Rowan Crooks atop Zhentil Keep and traps him in the Soul Stone
+- Crooks' phylactery is destroyed, causing Zhentil Keep to begin collapsing
 - The party enters a dream sequence orchestrated by the Raven Queen
 - Dream scenario: relaxing and fishing on the Sea Plum
 - Dream scenario: battle of the bands in Waterdeep against Bregan D'aerthe and others
@@ -58,9 +58,9 @@ After defeating their shadow selves, the Raven Queen herself appears, acknowledg
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Rowan Crooks]] — The Manshoon clone and Jolly Gents leader. Defeated by SWOJ atop Zentil Keep and trapped inside the Soul Stone after his phylactery is destroyed. His defeat causes the floating fortress to begin collapsing.
+- [[Rowan Crooks]] — The Manshoon clone and Jolly Gents leader. Defeated by SWOJ atop Zhentil Keep and trapped inside the Soul Stone after his phylactery is destroyed. His defeat causes the floating fortress to begin collapsing.
 - [[Zelifarn]] — A dragon ally who resides within Scoot's necklace. Briefly manifests during the dream sequence. An important companion who has been with the party for some time.
-- [[Little Joan]] — Leader of a group of Jolly Gents who have allied with SWOJ. Present during the battle at Zentil Keep and continues to travel with the party.
+- [[Little Joan]] — Leader of a group of Jolly Gents who have allied with SWOJ. Present during the battle at Zhentil Keep and continues to travel with the party.
 - [[The Raven Queen]] — A powerful deity associated with death, fate, and the transition between life and death. Orchestrates the dream sequence as a test for SWOJ. Appears at the end of the episode after the party defeats their shadow selves, acknowledging their worthiness.
 - [[Antediluvian Jake]] — Legendary Jolly Gents figure who appears in the dream sequence during the assault on the Xanathar's lair. Leads the charge alongside Giggling Gus.
 - [[Giggling Gus]] — A top-ranking Jolly Gents member who appears in the dream sequence during the Xanathar assault. Known for his distinctive giggling laugh.

@@ -18,10 +18,6 @@ Missing noblewoman known as the Staglass. Was in Amphail preparing for the Right
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-Missing noblewoman known as the Staglass. Was in Amphail preparing for the Right of the Stag Lass ceremony before disappearing. The Doom Network hires SWOJ to find her.
-
 ## Role in the Story
 
 

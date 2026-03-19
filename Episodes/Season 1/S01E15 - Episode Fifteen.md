@@ -31,9 +31,9 @@ Air Date: 2020-01-19 | Duration: 02:10:19
 
 SWOJ wakes in the Docks Ward guardhouse jail cell, with Xae still asleep clutching her crystal unicorn. Captain Staggit has warned them about a corrupt magistrate, so Lark picks the cell lock using Ylka's concertina repair kit screwdrivers. They explore the prison basement and find the evidence storage room, but discover two dead city watchmen who have been bludgeoned to death. A figure appearing to be Captain Houston Staggit arrives, but reveals himself as Willaford Crowell -- a doppelganger. Ylka uses Shatter to blow through a locked door, but the guards overwhelm and re-arrest the party.
 
-The trial begins with a surprise: Open Lord Laeral Silverhand has replaced the corrupt judge as presiding magistrate. The charges are extensive -- crimes against nobles (the Gralhunds), crimes against the city (property destruction), crimes against the gods (tomb robbing in the City of the Dead), and crimes against citizens. SWOJ mounts their defense with testimony from multiple witnesses. Zarda Zord testifies in their support and secretly slips Ylka a tiny pistol. Flo and other Gralhund staff corroborate SWOJ's account. Taga (Scoot's mother) speaks as a character witness. The doppelganger posing as Houston Staggit is exposed when he cannot read the original Gralhund note -- because the real Staggit had already read it aloud earlier.
+The trial begins with a surprise: Open Lord Laeral Silverhand has replaced the corrupt judge as presiding magistrate. The charges are extensive -- crimes against nobles (the Gralhunds), crimes against the city (property destruction), crimes against the gods (tomb robbing in the City of the Dead), and crimes against citizens. SWOJ mounts their defense with testimony from multiple witnesses. Zardoz Zord testifies in their support and secretly slips Ylka a tiny pistol. Flo and other Gralhund staff corroborate SWOJ's account. Taga (Scoot's mother) speaks as a character witness. The doppelganger posing as Houston Staggit is exposed when he cannot read the original Gralhund note -- because the real Staggit had already read it aloud earlier.
 
-The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle creature) waiting outside. Scoot leaps after him and wraps manacles around the doppelganger's neck. Courtroom chaos erupts as mind-controlled spectators (harboring intellect devourers) attack the city watch. Laeral Silverhand demonstrates her immense power by telekinetically slamming the grell into the room and crushing it. Terry the horse bursts in and stomps an intellect devourer. Laeral frees SWOJ from their manacles and declares the investigation under her direct control. She takes SWOJ to a Harper safehouse belonging to Renaer Haventree's estate, where she reveals critical intelligence: the Stone of Galore's three eye sockets are keys to Dagult Neverember's dragon hoard vault, one eye has been located in the Xanathar's Lair inside his pet goldfish Sylgar's tank, and SWOJ's next mission is to infiltrate the Xanathar's Lair via a secret stair in the sewers. SWOJ entrusts the Stone of Galore to Laeral for safekeeping and leaves Xae (still sleeping) under Harper protection. Laeral provides intel on the Xanathar: its paranoid personality, the mind flayer breeding intellect devourers, the Harper informant Thorvin Twinbeard (chief engineer), and a drow advisor named Xibrinidas. SWOJ heads back to Trollskull Manor to prepare for the dungeon delve.
+The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle creature) waiting outside. Scoot leaps after him and wraps manacles around the doppelganger's neck. Courtroom chaos erupts as mind-controlled spectators (harboring intellect devourers) attack the city watch. Laeral Silverhand demonstrates her immense power by telekinetically slamming the grell into the room and crushing it. Terry the horse bursts in and stomps an intellect devourer. Laeral frees SWOJ from their manacles and declares the investigation under her direct control. She takes SWOJ to a Harper safehouse belonging to Renaer Haventree's estate, where she reveals critical intelligence: the Stone of Galore's three eye sockets are keys to Dagult Neverember's dragon hoard vault, one eye has been located in the Xanathar's Lair inside his pet goldfish Sylgar's tank, and SWOJ's next mission is to infiltrate the Xanathar's Lair via a secret stair in the sewers. SWOJ entrusts the Stone of Galore to Laeral for safekeeping and leaves Xae (still sleeping) under Harper protection. Laeral provides intel on the Xanathar: its paranoid personality, the mind flayer breeding intellect devourers, the Harper informant Thorvin Twinbeard (chief engineer), and a drow advisor named Nar'l Xibrindas. SWOJ heads back to Trollskull Manor to prepare for the dungeon delve.
 
 ### Key Events
 
@@ -45,8 +45,8 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 - Ylka uses Shatter to blow through a locked door; guards re-arrest SWOJ
 - Trial begins with surprise: Open Lord Laeral Silverhand replaces the corrupt judge
 - Extensive charges read: crimes against nobles, city, gods (tomb robbing), and citizens
-- Zarda Zord testifies in SWOJ's defense, secretly slips Ylka a tiny pistol
-- Flo and Gralhund staff corroborate SWOJ's story; Taga testifies as character witness
+- Zardoz Zord testifies in SWOJ's defense, secretly slips Ylka a tiny pistol
+- Flo and Gralhund staff corroborate SWOJ's story; Tagga testifies as character witness
 
 ### Featured Characters
 
@@ -58,7 +58,7 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 - [[Captain Hyustus Stagget]] — The real captain of the Docks Ward city watch. Warned SWOJ about the corrupt magistrate. Found dead (bludgeoned) in the prison basement. The doppelganger Willaford Crowell had been impersonating him.
 - [[Willifort Crowell]] — Cassalanter majordomo revealed to be a doppelganger. Impersonates Captain Staggit in the prison. Exposed during the trial when he cannot read the Gralhund note. Tries to flee through a window, caught by a grell and Scoot. Restrained with manacles and taken into custody.
 - [[Laeral Silverhand]] — Open Lord of Waterdeep. Replaces the corrupt magistrate to preside over SWOJ's trial. Daughter of the goddess Mystra. Demonstrates immense telekinetic power by crushing a grell. Frees SWOJ, takes custody of the Stone of Galore, and commissions them as her personal agents to infiltrate the Xanathar's Lair. Provides extensive intelligence on the Xanathar Guild.
-- [[Zardoz Zord]] — Ally who testifies in SWOJ's defense at the trial. Secretly slips Ylka a tiny pistol during his testimony. Guards the door to protect Taga and other witnesses during the courtroom chaos.
+- [[Zardoz Zord]] — Ally who testifies in SWOJ's defense at the trial. Secretly slips Ylka a tiny pistol during his testimony. Guards the door to protect Tagga and other witnesses during the courtroom chaos.
 - [[Bartolo]] — City watch guard who reads the formal charges against SWOJ at the trial.
 - [[Tagga]] — Scoot's mother. Testifies as a character witness at the trial. Evacuated to safety during the courtroom chaos.
 - [[Flo]] — Gralhund family servant who testifies at the trial, corroborating SWOJ's account of events at Gralhund Villa.
@@ -1244,7 +1244,7 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 **[43:20]** Oh no, that's the worst for me.
 **[43:22]** She looks just very worried.
 **[43:24]** She's not sure what's happening.
-**[43:28]** And you see Zarda Zord with his beautiful hat held tightly to his head, kind of grinning.
+**[43:28]** And you see Zardoz Zord with his beautiful hat held tightly to his head, kind of grinning.
 **[43:36]** Why don't wings set the three of you as you all walk in?
 **[43:40]** Each of you individually.
 **[43:43]** I instantly, the only thing I just like, please.
@@ -1698,7 +1698,7 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 **[01:01:46]** We certainly don't have a calligraphy set or parchment on us.
 **[01:01:49]** Mm.
 **[01:01:50]** Can anyone corroborate this?
-**[01:01:54]** She looks around the crowd at the witnesses and Zarda Zord steps up and boldly, flashly,
+**[01:01:54]** She looks around the crowd at the witnesses and Zardoz Zord steps up and boldly, flashly,
 **[01:02:01]** jauntily, Saunters his way to the center of the room and addresses the crowd circling
 **[01:02:05]** around, making eye contact with everyone grinning boldly, wildly.
 **[01:02:09]** I audibly grown.

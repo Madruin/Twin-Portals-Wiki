@@ -16,10 +16,6 @@ Underground lair of the Xanathar (beholder crime lord). Accessible via a secret 
 **First appearance:** Episode S01E15
 **Total appearances:** 3 episodes
 
-## Description
-
-Underground lair of the Xanathar (beholder crime lord). Accessible via a secret stair in the sewers below the Castle Ward, marked with the Xanathar's symbol (circle with 10 spokes). Contains Sylgar's tank with one of the Stone's eyes. SWOJ's next mission target.
-
 ## Notable Events
 
 

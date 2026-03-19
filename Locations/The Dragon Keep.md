@@ -16,10 +16,6 @@ A chamber within the obsidian fortress that houses the dragon hoard, the cauldro
 **First appearance:** Episode S02E28
 **Total appearances:** 1 episodes
 
-## Description
-
-A chamber within the obsidian fortress that houses the dragon hoard, the cauldron of dragon tea, and the Mask of Dragon Kind in a glass case. Protected by sonic screech traps and acid mist. Dragon mouth spouts on the walls can pour liquid into the chambers below.
-
 ## Notable Events
 
 

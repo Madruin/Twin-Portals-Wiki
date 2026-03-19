@@ -16,10 +16,6 @@ A city on the Sword Coast. Simon (Scoot's father) passed through here on his ret
 **First appearance:** Episode S02E38
 **Total appearances:** 1 episodes
 
-## Description
-
-A city on the Sword Coast. Simon (Scoot's father) passed through here on his return voyage, witnessing a divine tidal wave that nearly destroyed the city before dissipating.
-
 ## Notable Events
 
 

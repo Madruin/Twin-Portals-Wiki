@@ -16,10 +16,6 @@ A sparring platform in the Bailey where Jolly Gents fight with staffs. Anjane Fl
 **First appearance:** Episode S02E22
 **Total appearances:** 1 episodes
 
-## Description
-
-A sparring platform in the Bailey where Jolly Gents fight with staffs. Anjane Flip-Flap challenges Lark to a match here. Appears to be an important tradition among the Jolly Gents.
-
 ## Notable Events
 
 

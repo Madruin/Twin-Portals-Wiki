@@ -16,10 +16,6 @@ An arcane laboratory deep beneath Zentil Keep containing over a hundred phylacte
 **First appearance:** Episode S02E23
 **Total appearances:** 1 episodes
 
-## Description
-
-An arcane laboratory deep beneath Zentil Keep containing over a hundred phylacteries on shelves and walls, plus four on altar pedestals powering a ritual site. Overseen by Friar Truck. Contains books of blood magic and occult materials. The altar provides magical shielding to Truck.
-
 ## Notable Events
 
 

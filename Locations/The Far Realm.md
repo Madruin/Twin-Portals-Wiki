@@ -17,10 +17,6 @@ The primordial chaos outside the multiverse, beyond the Wall. Where the Breathle
 **First appearance:** Episode S02E11
 **Total appearances:** 2 episodes
 
-## Description
-
-The primordial chaos outside the multiverse, beyond the Wall. Where the Breathless Elder's corpse floats. Souls have nowhere to go when beings die here. Home to massive unknowable entities.
-
 ## Notable Events
 
 

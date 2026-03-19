@@ -16,10 +16,6 @@ City where Dagult Neverember is from. His main seat of power.
 **First appearance:** Episode S01E01
 **Total appearances:** 10 episodes
 
-## Description
-
-City where Dagult Neverember is from. His main seat of power.
-
 ## Notable Events
 
 

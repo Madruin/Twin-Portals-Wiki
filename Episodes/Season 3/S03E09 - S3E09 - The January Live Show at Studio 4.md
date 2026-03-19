@@ -29,7 +29,7 @@ Air Date: 2026-01-16 | Duration: 01:29:23
 
 ## Summary
 
-This is a LIVE GAMEPLAY episode recorded at Studio 4 by the Depot in Duluth, continuing the new Icewind Dale campaign. The returning cast includes Beth Brophy as Parfornell (Kenku cleric), Bailey Fazio as Ederly Stonefeather (Owlin wizard), Scott Hebert now playing Rex (a human bard warlock interested in archaeology and theater), and Anders Holtstrom as Mormo. Matias serves as DM.
+This is a LIVE GAMEPLAY episode recorded at Studio 4 by the Depot in Duluth, continuing the new Icewind Dale campaign. The returning cast includes Beth Brophy as Parfornell (Kenku cleric), Bailey Fazio as Ederly Stonefeather (Owlin wizard), Scott Hebert as Mormo Ghost Whisper (human warlock interested in archaeology and theater), and Anders Holtstrom as Rex Scallion (human bard with stage fright). Matias serves as DM.
 
 The adventure picks up with the party in the Fey amphitheater valley, dealing with the aftermath of the tarrasque encounter from the previous live show. They discover the tarrasque has been a guardian creature with draconic runes carved into its scales forming a lullaby-like command spell. The party encounters a vine creature with three masks (happy, sad, and angry) that is attempting to control the tarrasque through dream-eating. They fight the masked vine creature on the tarrasque's back as it climbs a cliff face, using fire magic, bardic performances, and the draconic ritual to calm the tarrasque.
 

@@ -16,10 +16,6 @@ Jarlaxle's flagship, one of the three ships of the Sea Maiden's Fair. Features t
 **First appearance:** Episode S02E09
 **Total appearances:** 2 episodes
 
-## Description
-
-Jarlaxle's flagship, one of the three ships of the Sea Maiden's Fair. Features three decks and houses the submersible Scarlet Marpenoth beneath it.
-
 ## Notable Events
 
 

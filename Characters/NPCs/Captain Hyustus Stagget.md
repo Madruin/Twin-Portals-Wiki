@@ -16,7 +16,7 @@ tags:
 
 # Captain Hyustus Stagget
 
-Captain of the [[City Watch]] in the [[Docks Ward]] of [[Waterdeep]]. A dutiful, mustachioed officer who became a recurring ally of [[Silver Waves of Justice|SWOJ]] during Season 1, ultimately murdered by the [[Cassalanter Family  Cult Of Asmodeus|Cassalanter]] agent [[Willifort Crowell (Doppelganger)|Willifort Crowell]] for trying to protect the party from a corrupt trial.
+Captain of the [[City Watch]] in the [[Dock Ward]] of [[Waterdeep]]. A dutiful, mustachioed officer who became a recurring ally of [[Silver Waves of Justice|SWOJ]] during Season 1, ultimately murdered by the [[Cassalanter Family  Cult Of Asmodeus|Cassalanter]] agent [[Willifort Crowell (Doppelganger)|Willifort Crowell]] for trying to protect the party from a corrupt trial.
 
 **First appearance:** [[S01E02 - Episode Two|S01E02]]
 **Final appearance:** [[S01E15 - Episode Fifteen|S01E15]] (found dead; impersonated by doppelganger)
@@ -26,7 +26,7 @@ Captain of the [[City Watch]] in the [[Docks Ward]] of [[Waterdeep]]. A dutiful,
 
 ## Description
 
-Captain Hyustus Stagget was the City Watch captain in charge of the [[Docks Ward]]. He was a solemn, conscientious officer who took his duties seriously. In the transcript he is described stroking his mustache thoughtfully during conversations. He was a familiar face to [[Renaer Neverember]], who addressed him casually by first name, and he maintained professional relationships with figures across Waterdeep's institutions, including the magisters. He mentioned [[Ulkoria Stonemarrow]] as "an old friend" when advising the party to visit the [[North Ward]].
+Captain Hyustus Stagget was the City Watch captain in charge of the [[Dock Ward]]. He was a solemn, conscientious officer who took his duties seriously. In the transcript he is described stroking his mustache thoughtfully during conversations. He was a familiar face to [[Renaer Neverember]], who addressed him casually by first name, and he maintained professional relationships with figures across Waterdeep's institutions, including the magisters. He mentioned [[Ulkoria Stonemarrow]] as "an old friend" when advising the party to visit the [[North Ward]].
 
 ## Role in the Story
 

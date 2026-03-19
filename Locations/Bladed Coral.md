@@ -16,10 +16,6 @@ Dangerous coral reef surrounding Devil's Rock that can shred boats and swimmers.
 **First appearance:** Episode S02E10
 **Total appearances:** 1 episodes
 
-## Description
-
-Dangerous coral reef surrounding Devil's Rock that can shred boats and swimmers. SWOJ must navigate carefully through it to reach the island.
-
 ## Notable Events
 
 

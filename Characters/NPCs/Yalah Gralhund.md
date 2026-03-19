@@ -17,10 +17,6 @@ Noble of Gralhund Villa. Secretly sends a nimblewright away with the Stone of Ga
 **First appearance:** [[S01E13 - Episode Thirteen|S01E13]]
 **Total appearances:** 1 episode
 
-## Description
-
-Noble of Gralhund Villa. Secretly sends a nimblewright away with the Stone of Galore and a note/map pointing to the Gralhund Crypt in the City of the Dead. Working with the Cult of Asmodeus.
-
 ## Role in the Story
 
 - **S01E13:** City watch investigates the Gralhund Villa bloodbath while SWOJ is questioned

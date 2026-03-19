@@ -2,7 +2,7 @@
 title: "Devil's Rock"
 type: location
 subtype: "island"
-aliases: ["Devil's Rock", "Winged Rock", "Winged Isle", "Devil's' Rock"]
+aliases: ["Devil's Rock", "Winged Rock", "Winged Isle"]
 tags:
   - twin-portals
   - location

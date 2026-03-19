@@ -16,10 +16,6 @@ Sunken ship on the harbor floor. Cargo hold emptied, hull breached from outside.
 **First appearance:** Episode S01E06
 **Total appearances:** 1 episodes
 
-## Description
-
-Sunken ship on the harbor floor. Cargo hold emptied, hull breached from outside.
-
 ## Notable Events
 
 

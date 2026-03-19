@@ -17,10 +17,6 @@ A mysterious woman who looks exactly like Ylka, found performing a blood ritual 
 **First appearance:** [[S01E06 - Episode Six|S01E06]]
 **Total appearances:** 2 episodes
 
-## Description
-
-A mysterious woman who looks exactly like Ylka, found performing a blood ritual on the palm of the God Catcher. Fights the party and escapes by leaping off the hand.
-
 ## Role in the Story
 
 - **S01E06:** At the lighthouse, Grinda reveals Ylka apparently visited the previous night and borrowed the Apparatus of Kwalish -- but Ylka has no memory of this

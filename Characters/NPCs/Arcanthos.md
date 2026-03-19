@@ -19,7 +19,6 @@ An ancient red dragon dwelling beneath the Neverwinter chasm. The stepping stone
 
 ## Description
 
-An ancient red dragon dwelling beneath the Neverwinter chasm. The stepping stones across the river of fire are his shed scales. He is impressed by SWOJ's courage and gives them one of his teeth, which functions as a dagger capable of casting burning hands.
 
 An ancient red dragon trapped inside a bag of holding, held by Jarlaxle. SWOJ speaks to him through the bag. His presence in the bag dimension may be causing bags of holding to malfunction across the realms.
 

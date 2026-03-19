@@ -17,10 +17,6 @@ A Jolly Gents sentry stationed on the chain entrance to Zentil Keep. Talkative a
 **First appearance:** [[S02E22 - Episode Fifty Two LIVE (S02E22)|S02E22]]
 **Total appearances:** 1 episode
 
-## Description
-
-A Jolly Gents sentry stationed on the chain entrance to Zentil Keep. Talkative and somewhat gullible. Partnered with Long Mary on guard duty. Accepts SWOJ's cover story about being new recruits sent by Antediluvian Jake.
-
 ## Role in the Story
 
 - **S02E22:** Party lands on a chain and encounters sentries Rambling Bill and Long Mary

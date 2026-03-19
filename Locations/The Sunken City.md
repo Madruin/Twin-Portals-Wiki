@@ -16,10 +16,6 @@ An ancient buried city at the deepest level beneath Castle Nehri Tar, featuring 
 **First appearance:** Episode S02E28
 **Total appearances:** 2 episodes
 
-## Description
-
-An ancient buried city at the deepest level beneath Castle Nehri Tar, featuring cobblestone plazas, huge flanking statues, and ancient architecture. The site where Velia performs the dracolich creation ritual, draining Jack's soul into a phylactery.
-
 ## Notable Events
 
 

@@ -29,14 +29,14 @@ Air Date: 2021-07-22 | Duration: 02:05:58
 
 ## Summary
 
-SWOJ assembles the three pieces of the Stone of Golorr at Remalia Haventree's house, which transports them 500 years into Waterdeep's past (992 DR). In the ancient city they meet Rosetta Stonemeroe, a dwarven historian, and Zadio Neverember, a theater owner and ancestor of the Neverember line. Beneath Zadio's amphitheater they discover the original Vault of Dragons, encounter a young bronze dragon named Mellafarne fighting black puddings, and battle an aboleth that the Stone of Golorr had transformed into when submerged in water. They defeat the aboleth by drying it out using feather fall and druid craft wind, then awaken back at Remalia's house in the present day with the knowledge of the vault's location.
+SWOJ assembles the three pieces of the Stone of Golorr at Remalia Haventree's house, which transports them 500 years into Waterdeep's past (992 DR). In the ancient city they meet Rosetta Stonemarrow, a dwarven historian, and Zadio Neverember, a theater owner and ancestor of the Neverember line. Beneath Zadio's amphitheater they discover the original Vault of Dragons, encounter a young bronze dragon named Mellafarne fighting black puddings, and battle an aboleth that the Stone of Golorr had transformed into when submerged in water. They defeat the aboleth by drying it out using feather fall and druid craft wind, then awaken back at Remalia's house in the present day with the knowledge of the vault's location.
 
 ### Key Events
 
 - SWOJ assembles the three pieces of the Stone of Golorr at Remalia's house
 - The Stone ensorcels Remalia and her guards Bricks and Bracks
 - The Stone transports SWOJ's consciousness 500 years into the past to 992 DR Waterdeep
-- They meet Rosetta Stonemeroe, a dwarven historian, in ancient Waterdeep
+- They meet Rosetta Stonemarrow, a dwarven historian, in ancient Waterdeep
 - They meet Zadio Neverember, theater owner and ancestor of the Neverember line
 - They discover the Vault of Dragons beneath Zadio's amphitheater
 - They encounter Mellafarne, a young bronze dragon, fighting black puddings in the vault
@@ -63,7 +63,7 @@ SWOJ assembles the three pieces of the Stone of Golorr at Remalia Haventree's ho
 
 - [[Remalia Haventree's House]]
 - [[Ancient Waterdeep (992 D.R.)]]
-- [[Zadio City  Amphitheater]]
+- [[Zadio City Amphitheater]]
 - [[Vault Of Dragons (Ancient)]]
 - [[Melaerkin Dwarven Ruins]]
 

@@ -16,10 +16,6 @@ An island/location on the material plane southwest of Devil's Rock. The Concord 
 **First appearance:** Episode S02E09
 **Total appearances:** 1 episodes
 
-## Description
-
-An island/location on the material plane southwest of Devil's Rock. The Concord Jewel anchor point to Lantan is 50 feet underwater several miles northeast of the island. Haven't had much traffic due to pirates in the area.
-
 ## Notable Events
 
 

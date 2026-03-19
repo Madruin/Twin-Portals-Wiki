@@ -16,10 +16,6 @@ Noble estate. The location where the aging tiefling gave Blossom the devil ring.
 **First appearance:** Episode S01E08
 **Total appearances:** 5 episodes
 
-## Description
-
-Noble estate. The location where the aging tiefling gave Blossom the devil ring. Hosting a soiree in five days.
-
 ## Notable Events
 
 

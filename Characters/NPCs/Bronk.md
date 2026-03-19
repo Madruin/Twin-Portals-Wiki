@@ -17,10 +17,6 @@ A disillusioned white-masked cultist stationed at Castle Nehri Tar. He provides 
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-A disillusioned white-masked cultist stationed at Castle Nehri Tar. He provides SWOJ with critical intelligence about the cult's leadership, their dracolich creation rituals, and the Mask of Dragon Kind. He agrees to help SWOJ from the inside. Appears shaken but willing to take risks against Velia's operation.
-
 ## Role in the Story
 
 

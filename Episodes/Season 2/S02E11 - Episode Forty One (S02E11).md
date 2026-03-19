@@ -33,7 +33,7 @@ This live show episode begins in the Deep Dragon Temple where Antediluvian Jake 
 
 SWOJ climbs the cliff face of the Deep Dragon Temple, encountering a green mist that forces constitution saves. Lark fails his save and begins bleeding from his eyes and nose. At the top, they discover the bronze dragon Mellafarne lying asleep on a massive stone plateau, and the Jolly Gents -- led by Rowan Crooks -- engaged in battle with alien aberrant creatures pouring from twin portals. SWOJ joins the fight alongside the Jolly Gents, battling the whistler creatures.
 
-The party splits up to travel through the twin portals. One portal leads to Zellafar's empty dragon lair -- a memory of a place rather than the actual location. The other portal opens onto the Astral Sea, where SWOJ boards a magnificent ship crewed by animated musical instruments from the Dynamo of Possibility. The instrument ship sails toward the Wall -- the opalescent boundary of the entire multiverse -- and through it into the Far Realm beyond.
+The party splits up to travel through the twin portals. One portal leads to Zelifarn's empty dragon lair -- a memory of a place rather than the actual location. The other portal opens onto the Astral Sea, where SWOJ boards a magnificent ship crewed by animated musical instruments from the Dynamo of Possibility. The instrument ship sails toward the Wall -- the opalescent boundary of the entire multiverse -- and through it into the Far Realm beyond.
 
 Outside the Wall, SWOJ discovers the Breathless Elder: an impossibly massive dead viper fish creature with dragon spirits tethered to eggs growing on its back like barnacles. The party cuts the tethers, freeing the dragon spirits, while fighting off whistlers that guard the Elder. They enter the Elder's mouth and navigate its corpse-interior to find Shuni, a Manshoon clone who has been living inside the Breathless Elder for an unknown period. Shuni is surprisingly cooperative, explaining that the lure/gem on the Elder's angler-fish appendage is the power source controlling the dragon tethers.
 
@@ -47,7 +47,7 @@ SWOJ awakens as spectral beings -- ghostly souls hovering over their own corpses
 - SWOJ climbs the cliff face of the Deep Dragon Temple; Lark fails a constitution save against green mist
 - They discover Mellafarne the bronze dragon sleeping atop the plateau
 - SWOJ joins the Jolly Gents in fighting whistler creatures pouring from twin portals
-- The party travels through portals: first to Zellafar's empty lair, then to the Astral Sea
+- The party travels through portals: first to Zelifarn's empty lair, then to the Astral Sea
 - They board a ship crewed by animated instruments from the Dynamo of Possibility
 - The instrument ship sails through the Wall into the Far Realm
 - SWOJ discovers the Breathless Elder with dragon spirits tethered to eggs on its back

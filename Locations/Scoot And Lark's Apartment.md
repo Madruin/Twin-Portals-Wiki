@@ -16,10 +16,6 @@ Shared apartment in the Dock Ward where the party stays.
 **First appearance:** Episode S01E04
 **Total appearances:** 1 episodes
 
-## Description
-
-Shared apartment in the Dock Ward where the party stays.
-
 ## Notable Events
 
 

@@ -61,8 +61,8 @@ After the chaos subsided, the famous chronicler Volothamp "Volo" Geddarm descend
 - [[Yagra]] — Half-orc woman, business associate of Lark. Got into a bar fight with tattooed thugs at the Yawning Portal. Fights with her fists. Independent and capable fighter.
 - [[Volothamp Geddarm]] — Full name Volothamp Ignatius Geddarm. Famous chronicler, wizard, and celebrity in Waterdeep. Author of Volo's Guide to Monsters. Foppish, mustachioed, wears a fancy hat and scarf. Hired the party to find his missing friend Floon Blagmaar.
 - [[Floon Blagmaar]] — Volo's missing friend. Described as having 'more beauty than brains' with red hair. Full name spelled out as Blagmaar (B-L-A-G-M-A-A-R). Was kidnapped after leaving the Skewered Dragon.
-- [[Jalaster]] — Harper agent at the Skewered Dragon tavern in the Dock Ward. Provided information about Zhentarim activity on Candle Lane and mentioned Ramalia Haventree.
-- [[Remalia Haventree]] — Harper mentioned by Jelaster. Can sometimes be found at the Yawning Portal. Associated with the Haventree family estate.
+- [[Jalaster]] — Harper agent at the Skewered Dragon tavern in the Dock Ward. Provided information about Zhentarim activity on Candle Lane and mentioned Remallia Haventree.
+- [[Remallia Haventree]] — Harper mentioned by Jalaster. Can sometimes be found at the Yawning Portal. Associated with the Haventree family estate.
 - [[Dagult Neverember]] — Former Open Lord of Waterdeep, originally from Neverwinter. Had conservative spending policies and drove the city into the ground with disruptive tariffs. Deposed and replaced by Laeral Silverhand. Father of Renaer Neverember.
 - [[Laeral Silverhand]] — Current Open Lord of Waterdeep, very popular with the citizens. Replaced Dagult Neverember.
 - [[Mellinore]] — Runs House Phaulkonmere where Xaerine and Leah stayed. Xaerine had to leave after dangerous men came looking for her.

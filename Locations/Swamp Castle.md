@@ -16,10 +16,6 @@ A roadhouse in the Mere of Dead Men run by lizardfolk. SWOJ meets Semu here and 
 **First appearance:** Episode S02E27
 **Total appearances:** 1 episodes
 
-## Description
-
-A roadhouse in the Mere of Dead Men run by lizardfolk. SWOJ meets Semu here and learns about Castle Naerytar and the cult's activities. A waypoint for travelers brave enough to enter the swamp.
-
 ## Notable Events
 
 

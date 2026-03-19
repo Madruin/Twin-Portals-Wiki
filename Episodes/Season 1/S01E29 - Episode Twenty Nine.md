@@ -29,15 +29,15 @@ Air Date: 2021-11-28 | Duration: 02:18:30
 
 ## Summary
 
-The Season 1 finale opened in the crypt beneath the Cassalanter Villa, where SWOJ had just thwarted the Cassalanters' deal with Asmodeus. Xae's contract with the Lord of the Nine Hells fizzled out of existence, and the party secured the unconscious Victoro Cassalanter. Mr. E pocketed roughly 520 gold coins from the horde, Lark stripped Victoro of his Ring of Protection and Rod of Rulership and restrained him, while Xae comforted the Cassalanter children Terenzio and Elzerina. Ylka healed Victoro for interrogation, but before they could get far, Jarlaxle Baenre emerged from the bag of holding through connected twin portals with a contingent of Bregan D'aerthe drow. In exchange for the Mask of the Lords of Waterdeep, Jarlaxle revealed that the Necromancer likely obtained it through blackmail and offered the services of Zardos and his entourage for a future celebration.
+The Season 1 finale opened in the crypt beneath the Cassalanter Villa, where SWOJ had just thwarted the Cassalanters' deal with Asmodeus. Xae's contract with the Lord of the Nine Hells fizzled out of existence, and the party secured the unconscious Victoro Cassalanter. Mr. E pocketed roughly 520 gold coins from the horde, Lark stripped Victoro of his Ring of Protection and Rod of Rulership and restrained him, while Xae comforted the Cassalanter children Terenzio and Elzerina. Ylka healed Victoro for interrogation, but before they could get far, Jarlaxle Baenre emerged from the bag of holding through connected twin portals with a contingent of Bregan D'aerthe drow. In exchange for the Mask of the Lords of Waterdeep, Jarlaxle revealed that the Necromancer likely obtained it through blackmail and offered the services of Zardoz and his entourage for a future celebration.
 
-The city watch arrived with O'Corea Stonemarrow coordinating the cleanup. Scoot alerted the Harpers that Bricks and Bracks had been traitors working for the Cassalanters. Remalia Haventree was freed from house arrest and joined the effort alongside Lerian the unicorn. SWOJ then flew on dragons Zellophane and Aurinax to Castle Waterdeep, where they met the Masked Lords, turned over the recovered gold, and received a 50,000 gold finder's fee split five ways for 10,000 gold each. The Masked Lords revealed that Open Lord Laeral Silverhand had been missing since the spring equinox. Aurinax offered the Dragon Staff of Ahghairon to Mr. E, who became the city's unofficial dragon administrator, tasked with vetting dragons seeking entry past the dragon ward.
+The city watch arrived with Ulkoria Stonemarrow coordinating the cleanup. Scoot alerted the Harpers that Bricks and Bracks had been traitors working for the Cassalanters. Remalia Haventree was freed from house arrest and joined the effort alongside Lyrian the unicorn. SWOJ then flew on dragons Zelifarn and Aurinax to Castle Waterdeep, where they met the Masked Lords, turned over the recovered gold, and received a 50,000 gold finder's fee split five ways for 10,000 gold each. The Masked Lords revealed that Open Lord Laeral Silverhand had been missing since the spring equinox. Aurinax offered the Dragon Staff of Ahghairon to Mr. E, who became the city's unofficial dragon administrator, tasked with vetting dragons seeking entry past the dragon ward.
 
-An extended downtime montage followed as SWOJ settled into their new lives of celebrity. Trollskull Manor received major renovations including a dragon roost on the roof for Zellophane and visiting dragons, with Taga cooking dragon-sized meals. Xae built a nest for Zellophane and visited the Old Xoblob Shop to retrieve a locket containing a portrait of an old wizard matching the statues they had seen before. Scoot identified Victoro's items as a Ring of Protection and Rod of Rulership. Ylka composed an epic ballad of their adventures and spread exaggerated tales of SWOJ's exploits throughout the city. Lark reconnected with his parents at the Wavesilver household and trained in vigilantism with his mother Isvel, the Black Viper. Froon received a 1,000 gold investment for Froon's Brews in exchange for parking privileges. The Cassalanters were sentenced to life in prison after Ylka performed a legendary speech at their trial, with the children Terenzio and Elzerina placed under city protection.
+An extended downtime montage followed as SWOJ settled into their new lives of celebrity. Trollskull Manor received major renovations including a dragon roost on the roof for Zelifarn and visiting dragons, with Tagga cooking dragon-sized meals. Xae built a nest for Zelifarn and visited the Old Xoblob Shop to retrieve a locket containing a portrait of an old wizard matching the statues they had seen before. Scoot identified Victoro's items as a Ring of Protection and Rod of Rulership. Ylka composed an epic ballad of their adventures and spread exaggerated tales of SWOJ's exploits throughout the city. Lark reconnected with his parents at the Wavesilver household and trained in vigilantism with his mother Esvelle, the Black Viper. Froon received a 1,000 gold investment for Froon's Brews in exchange for parking privileges. The Cassalanters were sentenced to life in prison after Ylka performed a legendary speech at their trial, with the children Terenzio and Elzerina placed under city protection.
 
 Renaer Neverember departed for Neverwinter, fearing that the political fallout from the Cassalanter diamond business could lead to conflict between the two cities. SWOJ visited the God Catcher statue chamber and discovered the central statue bore the name Halaster Blackcloak, one of the founders of Waterdeep who delved beneath the city into Undermountain. Davil Starsong of the Doom Raiders requested 5,000 gold from SWOJ, explaining the Zhentarim's internal power struggle between his faction and the Necromancer's forces, and SWOJ invested in the alliance. Volo appeared seeking funds for his next book, "Volo's Book of Portals and Portents," but left with only the promise of Lark's stories from the Feywild.
 
-The episode culminated with a massive celebration in Trollskull Alley, featuring the Doom Raiders performing music, food carts from across Waterdeep, and a giant Xanathar pinata. On the summer solstice, a portal opened in the Short Rest's basement and Rowan Crooks arrived with the Jolly Gents, including Friar Truck and Little Joan. Rowan extracted a Gem of Seeing from Lark's temple, revealing it had been planted by the Necromancer to spy on SWOJ ever since Lark's resurrection. Rowan revealed the Necromancer's true identity as Manshoon, the founder of the Zhentarim, and declared they needed SWOJ's help to track him down. Lerian guided the Jolly Gents to Trollskull and confirmed a portal to the Feywild. Without hesitation, SWOJ stepped through the twin portals into the Feywild to begin their hunt for Manshoon.
+The episode culminated with a massive celebration in Trollskull Alley, featuring the Doom Raiders performing music, food carts from across Waterdeep, and a giant Xanathar pinata. On the summer solstice, a portal opened in the Short Rest's basement and Rowan Crooks arrived with the Jolly Gents, including Friar Truck and Little Joan. Rowan extracted a Gem of Seeing from Lark's temple, revealing it had been planted by the Necromancer to spy on SWOJ ever since Lark's resurrection. Rowan revealed the Necromancer's true identity as Manshoon, the founder of the Zhentarim, and declared they needed SWOJ's help to track him down. Lyrian guided the Jolly Gents to Trollskull and confirmed a portal to the Feywild. Without hesitation, SWOJ stepped through the twin portals into the Feywild to begin their hunt for Manshoon.
 
 ### Key Events
 
@@ -48,7 +48,7 @@ The episode culminated with a massive celebration in Trollskull Alley, featuring
 - Ylka heals Victoro for interrogation
 - Jarlaxle emerges from the bag of holding through twin portals with Bregan D'aerthe drow
 - SWOJ trades the Mask of the Lords to Jarlaxle for information about the Necromancer
-- City watch arrives with O'Corea Stonemarrow coordinating cleanup
+- City watch arrives with Ulkoria Stonemarrow coordinating cleanup
 - Scoot alerts the Harpers about Bricks and Bracks being traitors
 - Remalia Haventree freed from house arrest and coordinates Harper effort
 
@@ -65,7 +65,7 @@ The episode culminated with a massive celebration in Trollskull Alley, featuring
 - [[Amalia Cassalanter]] — Wife of Victoro, found holding her children in the crypt after the demonic ritual was interrupted. Sentenced to life in prison alongside her husband.
 - [[Terenzio Cassalanter]] — Son of Victoro and Amalia, one of the twin children whose souls were at stake in the Asmodeus contract. Placed under city protection after his parents' sentencing and began attending classes with the Irregulars.
 - [[Elzerina Cassalanter]] — Daughter of Victoro and Amalia, twin sister of Terenzio. Placed under city protection and befriended the Irregulars at Trollskull.
-- [[Jarlaxle Baenre]] — Leader of Bregan D'aerthe. Emerged from the bag of holding through connected twin portals with his drow soldiers. Traded information about the Necromancer for the Mask of the Lords and offered Zardos's entertainment troupe for SWOJ's celebration.
+- [[Jarlaxle Baenre]] — Leader of Bregan D'aerthe. Emerged from the bag of holding through connected twin portals with his drow soldiers. Traded information about the Necromancer for the Mask of the Lords and offered Zardoz's entertainment troupe for SWOJ's celebration.
 - [[Aurinax]] — Adult gold dragon who guarded the Vault of Dragons, disguised as a dwarf. Flew SWOJ to Castle Waterdeep. Offered the Dragon Staff of Ahghairon to Mr. E and helped vet incoming dragons. Stayed at Castle Waterdeep.
 - [[Ulkoria Stonemarrow]] — City watch officer who helped coordinate the cleanup at the Cassalanter Villa. Her district crew was trustworthy and she promised to sweep the city watch for Cassalanter agents.
 - [[Remalia Haventree]] — High elf Harper ally. Released from house arrest after the Cassalanter plot was exposed. Helped coordinate the Harper effort at the villa.
@@ -81,7 +81,7 @@ The episode culminated with a massive celebration in Trollskull Alley, featuring
 - [[Old Xoblob Shop]]
 - [[The God Catcher]]
 - [[Wavesilver Household]]
-- [[Frewn's  Brews]]
+- [[Frewn's Brews]]
 - [[Gralhund Villa]]
 - [[Hole In The Wall]]
 
@@ -527,7 +527,7 @@ The episode culminated with a massive celebration in Trollskull Alley, featuring
 **[22:28]** He says, can't fall.
 **[22:31]** Yeah.
 **[22:32]** He says, fairly well.
-**[22:34]** Goodbye, Zardos.
+**[22:34]** Goodbye, Zardoz.
 **[22:36]** I'll see you soon.
 **[22:38]** I scoop up the bag and kind of start feeling it.
 **[22:40]** I'm very curious how this thing works.

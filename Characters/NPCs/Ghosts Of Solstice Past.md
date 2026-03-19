@@ -17,10 +17,6 @@ Supernatural entities manifesting as snow dwarves during the Winter Solstice in 
 **First appearance:** [[S01E14 - Episode Fourteen|S01E14]]
 **Total appearances:** 1 episode
 
-## Description
-
-Supernatural entities manifesting as snow dwarves during the Winter Solstice in prehistoric Waterdeep. Deliver cryptic riddles and warnings about Krampus to the party.
-
 ## Role in the Story
 
 - **S01E14:** Scoot, Ylka, and Lark are transported to prehistoric Waterdeep during Winter Solstice

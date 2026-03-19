@@ -16,10 +16,6 @@ A magical trap in the chasm tunnels that emits an anti-magic field when triggere
 **First appearance:** Episode S02E16
 **Total appearances:** 1 episodes
 
-## Description
-
-A magical trap in the chasm tunnels that emits an anti-magic field when triggered. Destroys the Manshoon clone's magically-sustained body on contact.
-
 ## Notable Events
 
 

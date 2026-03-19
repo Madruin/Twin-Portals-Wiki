@@ -29,9 +29,9 @@ Air Date: 2023-12-31 | Duration: 01:49:30
 
 ## Summary
 
-SWOJ arrives at Manshoon's floating fortress in the Shadowfell, piloting a flying trash carpet toward Zentil Keep -- a ruined keep sitting atop a floating island held aloft by three soul obelisks connected by massive chains. The party lands on one of the chains and encounters two Jolly Gents sentries, Rambling Bill and Long Mary, who guard the entrance. Lark bluffs their way past using Antediluvian Jake's tablet and a cover story about being new recruits, and the party disguises themselves with Jolly Gents cloaks and bronze rings taken from the sentries.
+SWOJ arrives at Manshoon's floating fortress in the Shadowfell, piloting a flying trash carpet toward Zhentil Keep -- a ruined keep sitting atop a floating island held aloft by three soul obelisks connected by massive chains. The party lands on one of the chains and encounters two Jolly Gents sentries, Rambling Bill and Long Mary, who guard the entrance. Lark bluffs their way past using Antediluvian Jake's tablet and a cover story about being new recruits, and the party disguises themselves with Jolly Gents cloaks and bronze rings taken from the sentries.
 
-Inside the Bailey -- the main courtyard of Zentil Keep -- SWOJ mingles with dozens of assembled Jolly Gents and meets Anjane Flip-Flap, a whip-wielding lieutenant who provides intelligence about the keep's layout, including that Rowan Crooks' office is on the sixth floor. Anjane challenges Lark to a sparring match on the Bridge of Destiny, a staff-fighting platform. Lark wins the bout and earns Anjane's respect and trust. The party learns the general layout: armory with a red roof, trapped hallways on the fifth floor, and the vault/throne room on the sixth.
+Inside the Bailey -- the main courtyard of Zhentil Keep -- SWOJ mingles with dozens of assembled Jolly Gents and meets Anjane Flip-Flap, a whip-wielding lieutenant who provides intelligence about the keep's layout, including that Rowan Crooks' office is on the sixth floor. Anjane challenges Lark to a sparring match on the Bridge of Destiny, a staff-fighting platform. Lark wins the bout and earns Anjane's respect and trust. The party learns the general layout: armory with a red roof, trapped hallways on the fifth floor, and the vault/throne room on the sixth.
 
 SWOJ navigates through the fifth floor's trapped corridors filled with shadow threads -- magical tripwires that trigger alarms. Lark uses his rogue skills to disable or avoid the traps, finding boots of silence and a mithril Jolly Gents brooch along the way. On the sixth floor, they locate Crooks' office and discover Antediluvian Jake's phylactery -- a copper orb humming with trapped soul energy. They also find documents and notes about Crooks' operations.
 
@@ -39,7 +39,7 @@ Beyond the office, SWOJ discovers a vault and throne room guarded by a massive s
 
 ### Key Events
 
-- SWOJ arrives at Zentil Keep on a flying trash carpet, approaching through the Shadowfell
+- SWOJ arrives at Zhentil Keep on a flying trash carpet, approaching through the Shadowfell
 - Party lands on a chain and encounters sentries Rambling Bill and Long Mary
 - Lark bluffs past the sentries using Antediluvian Jake's tablet as a cover story
 - SWOJ disguises themselves with Jolly Gents cloaks and bronze rings
@@ -58,10 +58,10 @@ Beyond the office, SWOJ discovers a vault and throne room guarded by a massive s
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Rambling Bill]] — A Jolly Gents sentry stationed on the chain entrance to Zentil Keep. Talkative and somewhat gullible. Partnered with Long Mary on guard duty. Accepts SWOJ's cover story about being new recruits sent by Antediluvian Jake.
+- [[Rambling Bill]] — A Jolly Gents sentry stationed on the chain entrance to Zhentil Keep. Talkative and somewhat gullible. Partnered with Long Mary on guard duty. Accepts SWOJ's cover story about being new recruits sent by Antediluvian Jake.
 - [[Long Mary]] — A Jolly Gents sentry partnered with Rambling Bill on chain guard duty. More suspicious than Bill but ultimately lets SWOJ pass. Described as tall and stern.
-- [[Ann Jane Flip-Flap]] — A Jolly Gents lieutenant and whip fighter who provides SWOJ with intelligence about Zentil Keep's layout. Challenges Lark to a staff sparring match on the Bridge of Destiny and respects him after he wins. Knows that Crooks' office is on the sixth floor and warns about the shadow thread traps on the fifth floor.
-- [[Rowan Crooks]] — The Manshoon clone posing as the legendary Jolly Gents leader. Occupies the sixth floor office and throne room of Zentil Keep. SWOJ's primary antagonist who previously killed them and stole their gear.
+- [[Ann Jane Flip-Flap]] — A Jolly Gents lieutenant and whip fighter who provides SWOJ with intelligence about Zhentil Keep's layout. Challenges Lark to a staff sparring match on the Bridge of Destiny and respects him after he wins. Knows that Crooks' office is on the sixth floor and warns about the shadow thread traps on the fifth floor.
+- [[Rowan Crooks]] — The Manshoon clone posing as the legendary Jolly Gents leader. Occupies the sixth floor office and throne room of Zhentil Keep. SWOJ's primary antagonist who previously killed them and stole their gear.
 - [[Antediluvian Jake]] — A legendary Jolly Gents figure whose tablet SWOJ uses as a cover story. His phylactery (a copper orb) is found in Crooks' office on the sixth floor, suggesting he is trapped or controlled by Crooks.
 - [[Helena Van Der Graff]] — Mentioned as a contact or ally. Referred to by the nickname 'Dutchy'. Previously connected to SWOJ's mission.
 - [[Quick Quill Quincy]] — A Jolly Gents member mentioned during conversations in the Bailey. Known for record-keeping or clerical duties within the organization.

@@ -16,10 +16,6 @@ A forest near the Sword Mountains where mothweed grows. Home to the Circle of Du
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-A forest near the Sword Mountains where mothweed grows. Home to the Circle of Dusk druids. SWOJ will need to venture there for Taga's medicine.
-
 ## Notable Events
 
 

@@ -29,13 +29,13 @@ Air Date: 2022-09-25 | Duration: 01:58:03
 
 ## Summary
 
-SWOJ enters the spiral cavern beneath the Sword Mountains in search of the witch Arturia, Xae's sister, and the source of the memory-altering mist. Following their guide Farron, a drugged soldier, they descend into a dark cave system with jutting layers of basalt. Inside, the party discovers an elaborate underground lair with a talking riddle door (actually the transformed druid Ander), moth weed growing in patches, and a massive enchanted mirror that projects illusions and generates the mist plaguing the Cryptwood.
+SWOJ enters the spiral cavern beneath the Sword Mountains in search of the witch Arcturia, Xae's sister, and the source of the memory-altering mist. Following their guide Farron, a drugged soldier, they descend into a dark cave system with jutting layers of basalt. Inside, the party discovers an elaborate underground lair with a talking riddle door (actually the transformed druid Ander), moth weed growing in patches, and a massive enchanted mirror that projects illusions and generates the mist plaguing the Cryptwood.
 
-Deeper in the cavern, SWOJ encounters Arturia's experiments in transmutation magic: familiar faces twisted by shapeshifting spells. Scoot discovers his former shipmate Leah transformed into a six-eyed beast, and Zellopharn, the party's bronze dragon ally, is found in his human guise as Farron under Arturia's enchantment. Using moth weed as a counteragent, the party begins reversing the transformations -- Lark stuffs moth weed into the beast's mouth, revealing Leah beneath the monstrous form. Ylka smashes the enchanted mirror with her Song Sword, breaking the illusion magic and freeing both Leah and Zellopharn from Arturia's control.
+Deeper in the cavern, SWOJ encounters Arcturia's experiments in transmutation magic: familiar faces twisted by shapeshifting spells. Scoot discovers his former shipmate Leah transformed into a six-eyed beast, and Zelifarn, the party's bronze dragon ally, is found in his human guise as Farron under Arcturia's enchantment. Using moth weed as a counteragent, the party begins reversing the transformations -- Lark stuffs moth weed into the beast's mouth, revealing Leah beneath the monstrous form. Ylka smashes the enchanted mirror with her Song Sword, breaking the illusion magic and freeing both Leah and Zelifarn from Arcturia's control.
 
-As the mirror shatters, Arturia transforms into a swarm of butterflies and retreats into a mysterious crystalline vessel -- a Concord Jewel. Xae follows her sister inside, hearing Arturia's telepathic message: 'Follow me. Break the wall.' Arturia reveals she serves 'the master' -- Halaster, 'the most powerful wizard in the multiverse.' Scoot tackles Arturia but she dissolves into butterflies that stream into the crystal ship. Zellopharn, now an adult-sized dragon, carries the remaining party members to board the Concord Jewel as it lifts off. The crystal vessel rises through the cavern and winks out of existence, pulling SWOJ through time and space to an unknown destination.
+As the mirror shatters, Arcturia transforms into a swarm of butterflies and retreats into a mysterious crystalline vessel -- a Concord Jewel. Xae follows her sister inside, hearing Arcturia's telepathic message: 'Follow me. Break the wall.' Arcturia reveals she serves 'the master' -- Halaster, 'the most powerful wizard in the multiverse.' Scoot tackles Arcturia but she dissolves into butterflies that stream into the crystal ship. Zelifarn, now an adult-sized dragon, carries the remaining party members to board the Concord Jewel as it lifts off. The crystal vessel rises through the cavern and winks out of existence, pulling SWOJ through time and space to an unknown destination.
 
-This episode was performed as a live show, featuring the climactic confrontation with Arturia and the revelation of her connection to Halaster. The moth weed proves to be the key to breaking Arturia's transmutation magic, freeing the captives who were transformed into various creatures throughout the cavern system.
+This episode was performed as a live show, featuring the climactic confrontation with Arcturia and the revelation of her connection to Halaster. The moth weed proves to be the key to breaking Arcturia's transmutation magic, freeing the captives who were transformed into various creatures throughout the cavern system.
 
 ### Key Events
 
@@ -46,9 +46,9 @@ This episode was performed as a live show, featuring the climactic confrontation
 - Scoot encounters Leah transformed into a six-eyed beast
 - Lark stuffs moth weed into the beast's mouth, freeing Leah from her transformed state
 - Ylka smashes the enchanted mirror with her Song Sword, breaking all illusions
-- Zellopharn is freed from enchantment and transforms back into an adult-sized dragon
-- Arturia becomes a butterfly swarm and retreats into the Concord Jewel
-- Xae follows Arturia into the crystal and hears 'Follow me. Break the wall'
+- Zelifarn is freed from enchantment and transforms back into an adult-sized dragon
+- Arcturia becomes a butterfly swarm and retreats into the Concord Jewel
+- Xae follows Arcturia into the crystal and hears 'Follow me. Break the wall'
 
 ### Featured Characters
 
@@ -59,15 +59,15 @@ This episode was performed as a live show, featuring the climactic confrontation
 
 **NPCs:**
 - [[Arcturia]] — Xae's sister, a shape-changing witch responsible for the memory-altering mist in the Cryptwood. Uses transmutation magic to transform people and controls swarms of butterflies. Serves Halaster, 'the most powerful wizard in the multiverse.' Escapes aboard a Concord Jewel, a crystalline vessel.
-- [[Leah]] — Scoot's former shipmate and an elven woman. Was sent by the Emerald Enclave to help the Circle of Dusk druids near Amphale, where she was mentored by druid Shala. Transformed into a six-eyed beast by Arturia's magic; freed when Lark applies moth weed.
-- [[Zelifarn]] — SWOJ's bronze dragon ally. Found in human form as Farron under Arturia's enchantment. Freed when the mirror is smashed, immediately transforms back into an adult-sized dragon. Carries the party to board the Concord Jewel.
-- [[Farron]] — A drugged soldier and the sole survivor from the Circle of Dusk druid camp. Guides SWOJ to the spiral cavern. Also the human guise of Zellopharn under enchantment.
-- [[Shala]] — Lead druid of the Circle of Dusk. Mentored Leah and helped heal her injuries. Found transformed into a badger by Arturia's magic.
-- [[Ander]] — A Circle of Dusk druid who was transformed into a talking riddle door by Arturia's magic. Restored after the mirror is smashed.
+- [[Leah]] — Scoot's former shipmate and an elven woman. Was sent by the Emerald Enclave to help the Circle of Dusk druids near Amphail, where she was mentored by druid Shala. Transformed into a six-eyed beast by Arcturia's magic; freed when Lark applies moth weed.
+- [[Zelifarn]] — SWOJ's bronze dragon ally. Found in human form as Farron under Arcturia's enchantment. Freed when the mirror is smashed, immediately transforms back into an adult-sized dragon. Carries the party to board the Concord Jewel.
+- [[Farron]] — A drugged soldier and the sole survivor from the Circle of Dusk druid camp. Guides SWOJ to the spiral cavern. Also the human guise of Zelifarn under enchantment.
+- [[Shala]] — Lead druid of the Circle of Dusk. Mentored Leah and helped heal her injuries. Found transformed into a badger by Arcturia's magic.
+- [[Ander]] — A Circle of Dusk druid who was transformed into a talking riddle door by Arcturia's magic. Restored after the mirror is smashed.
 - [[Fela Lefaliir]] — Found alive but with scrambled memories deeper in the cavern, in areas SWOJ didn't fully explore.
 - [[Anya Ermbrusk]] — Found alive in the cavern with other captives. The Rite of the Stag Lass participant who wanted to renounce her family. A half-elf who knows Lark from old family reunions.
 - [[Halaster Blackcloak]] — Referenced by Arcturia as "the master" -- "the most powerful wizard in the multiverse." Arcturia says she will help the master remember. Previously referenced in earlier episodes.
-- [[Gundark Gundarkson]] — Mayor of Amphale. Grateful for SWOJ rescuing the missing people. Offers rewards from the town coffers.
+- [[Gundark Gundarkson]] — Mayor of Amphail. Grateful for SWOJ rescuing the missing people. Offers rewards from the town coffers.
 
 ### Locations
 
@@ -883,18 +883,18 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:20:40]** It looks like the mirror is made of that crystal in the same substance. And then any on the ground?
 **[01:20:46]** Plenty. Yeah. Like the loud crappings and bits. Plus the big thing floating behind
 **[01:20:50]** Victoria. Okay. I'm going to scoop one of the nearby crystals up in my hand and run to the mirror.
-**[01:20:58]** As I do that, I'm going to look at Arturia through the crystal. Okay. And Arturia looks like through
+**[01:20:58]** As I do that, I'm going to look at Arcturia through the crystal. Okay. And Arcturia looks like through
 **[01:21:04]** the crystal. Like normally she looks like a person with wings through the crystal. She looks like
 **[01:21:07]** a swarm of butterflies. Like not even like a person there. It's just kind of like writhing mass
 **[01:21:12]** of bugs. Okay. However, you do see that Zay, you see Zay, like not the panther Zay, but Zay,
-**[01:21:20]** laying on the ground next to Zellopharn, the bronze dragon friend of yours from Waterdeep,
+**[01:21:20]** laying on the ground next to Zelifarn, the bronze dragon friend of yours from Waterdeep,
 **[01:21:25]** kind of crumpled and looking somewhat stunned. Wait, hold on a second. So in my little,
-**[01:21:37]** so looking through the crystal. Yeah. I see. You see Arturia. Yep. A swarm of butterflies.
-**[01:21:43]** Always away. Zay and Zellopharn, kind of laying on the ground near each other. And the panther.
+**[01:21:37]** so looking through the crystal. Yeah. I see. You see Arcturia. Yep. A swarm of butterflies.
+**[01:21:43]** Always away. Zay and Zelifarn, kind of laying on the ground near each other. And the panther.
 **[01:21:49]** So the pan is the pan, like not looking through the crystal. I see the panther on the ground.
 **[01:21:54]** You peek around it and you see a panther in Fahrenheit on the ground. Okay. Oh, interesting.
-**[01:21:59]** Zellopharn nice. And then when I get up to the mirror and look in that, what do I see?
-**[01:22:03]** That's through the mirror. You see Zellopharn and Zay. Got it. Okay.
+**[01:21:59]** Zelifarn nice. And then when I get up to the mirror and look in that, what do I see?
+**[01:22:03]** That's through the mirror. You see Zelifarn and Zay. Got it. Okay.
 **[01:22:07]** And that's, that was 30 feet. That's my full action. Well, you could, you could take an action
 **[01:22:12]** to once you move 30 feet. Oh, in addition to looking through the crystal and all.
 **[01:22:16]** Yeah, looking as free. Yeah. I'm a good multi, I'm a great multi-tasker. Man.
@@ -963,17 +963,17 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:28:53]** 8 radiant damage. 8. Go sleep flames of searing pain. Wow. And she does a little shriek,
 **[01:29:03]** but kind of takes it and just grits her teeth. And she kind of dissipates into many, many,
 **[01:29:07]** many butterflies as this happens. But they seem like they're kind of like the beam of light is rolling
-**[01:29:12]** off their wings as they kind of mill around in the general shape of Arturia. Do you want to say
+**[01:29:12]** off their wings as they kind of mill around in the general shape of Arcturia. Do you want to say
 **[01:29:17]** anything to her or move? Uh, sister, why why are you fighting us? Say, pleads. What's our actual
 **[01:29:30]** quest about your siblings? I don't even remember about the teal. Let's ourselves save them or
 **[01:29:34]** save their souls. Not this one. I guess it doesn't matter. Yeah. I can't remember if it was the
 **[01:29:39]** finder. I'll take your back. I'll take your back. It was cast moonbeam on them. Winner, just find six more.
-**[01:29:47]** Yeah. It's good. You're doing all right. So, um, has that, Arturia had anything to do with me
+**[01:29:47]** Yeah. It's good. You're doing all right. So, um, has that, Arcturia had anything to do with me
 **[01:29:54]** since I ran right up to her face? No, she's been focused on Zay. Okay. Yeah. Um, yeah.
 **[01:30:01]** Yeah. I think we're done talking. What's the other big creature? It's this hulking 10-foot tall
 **[01:30:06]** gray monster with arms the same length as its body, standing next to the lark in the center of the
 **[01:30:10]** bowl. That seems awkward. Yeah, it's the one that was Leah. Yeah. Yeah. Okay. Well, I'm going to assume
-**[01:30:16]** Arturia is the source of all these problems. Mechanically speaking, I have not attacked or been
+**[01:30:16]** Arcturia is the source of all these problems. Mechanically speaking, I have not attacked or been
 **[01:30:21]** attacked so I'm going to rearrange. I was calm for a second, but now I'm angry that all this stuff
 **[01:30:26]** is happening. Yeah. So, I will do another rage and I think I was torn between just trying to
 **[01:30:34]** grapple her and, but I think I'm just going to smack the hell out of her for a little bit. So,
@@ -1030,7 +1030,7 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:35:52]** You take 13, slashing damage. Does this beast have a name or a title? Do we know anything about it?
 **[01:35:59]** We haven't installed that yet. We don't know that yet. Yeah.
 **[01:36:05]** In my notes, it's just beast right now. Yeah, it's turned. It's a side beast.
-**[01:36:08]** Arturia is talking to you, Zay again, but all you hear is. Okay, because I'm deafened. Yeah, it's the
+**[01:36:08]** Arcturia is talking to you, Zay again, but all you hear is. Okay, because I'm deafened. Yeah, it's the
 **[01:36:14]** peanuts adult filter. Yeah. Right. Right. And then she moves like out of the moon beam
 **[01:36:21]** and towards the doorway of this machine behind her, this crystal thing. Oh, okay.
 **[01:36:27]** Don't get an attack of opportunity, which you can't really see because you've been blinded. I can't,
@@ -1076,7 +1076,7 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:40:49]** All right. Well, scoot knows how important family is. And I don't really think our career should
 **[01:40:56]** leave until we have all this resolved. So, do you remember that night with the Xanathar? Did
 **[01:41:04]** you ever look up what a spear looks like? Yeah. Yeah. Yeah. So, scoot is going to rush to
-**[01:41:12]** Arturia. Drop a shoulder. Drop down the halfway and just try to wrap her up and drive her to
+**[01:41:12]** Arcturia. Drop a shoulder. Drop down the halfway and just try to wrap her up and drive her to
 **[01:41:19]** the ground. Just the right where she's standing. I just get her down onto the ground just so she
 **[01:41:25]** can't move. So, she at least has to try to get up. So, this would be like something like a strength
 **[01:41:28]** or a roll. I got a 24. She crit fails. So, right on the ground, what do you want to do? Restrain her?
@@ -1281,7 +1281,7 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:52:07]** say, say, like, what do you say to them?
 **[01:52:09]** You can hear them.
 **[01:52:12]** I want to know.
-**[01:52:13]** I ask Arturia, who's the master?
+**[01:52:13]** I ask Arcturia, who's the master?
 **[01:52:17]** She says, the most powerful wizard in the multiverse.
 **[01:52:21]** Halaster.
 **[01:52:26]** Halaster.
@@ -1360,8 +1360,8 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:54:24]** Leah's like, Leah's pauses,
 **[01:54:26]** and she's like,
 **[01:54:27]** has a sudden look of realization.
-**[01:54:28]** And Zellopharne does too.
-**[01:54:30]** And Zellopharne poof immediately pops back into a dragon
+**[01:54:28]** And Zelifarne does too.
+**[01:54:30]** And Zelifarne poof immediately pops back into a dragon
 **[01:54:33]** as like he looks around,
 **[01:54:35]** and Leah looks around.
 **[01:54:35]** They're like, oh my god.
@@ -1393,12 +1393,12 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:55:02]** Oh my god.
 **[01:55:03]** You guys, it's so good to see you.
 **[01:55:04]** There it is.
-**[01:55:05]** Zellopharne.
+**[01:55:05]** Zelifarne.
 **[01:55:07]** We going?
 **[01:55:08]** Yeah.
 **[01:55:09]** And you all, the 3v jump on
 **[01:55:10]** as Zell you're like 50 feet up, 60 feet up.
-**[01:55:13]** Zellopharne flies up.
+**[01:55:13]** Zelifarne flies up.
 **[01:55:14]** He's too big to get in.
 **[01:55:15]** But he kind of like parks next to it
 **[01:55:17]** and like hovers in the air.
@@ -1409,7 +1409,7 @@ This episode was performed as a live show, featuring the climactic confrontation
 **[01:55:26]** as you're all like floating into this ether
 **[01:55:27]** with all these butterflies around you.
 **[01:55:29]** And you see Zell and she seems peaceful.
-**[01:55:31]** Zellopharne shapeshifts back into a person again,
+**[01:55:31]** Zelifarne shapeshifts back into a person again,
 **[01:55:34]** into Farron and steps inside from the outside
 **[01:55:36]** as this thing rotates and rotates and rotates.
 **[01:55:38]** And eventually you get about 200, 300, 500, 600 feet

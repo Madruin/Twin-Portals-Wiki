@@ -19,7 +19,7 @@ The North Ward is the wealthy residential district of [[Waterdeep]] where [[Trol
 
 ## Description
 
-The North Ward sits between Del Zord Street and Ceradue Way in the upper reaches of Waterdeep. It is a respectable neighborhood of beautiful old mansions and well-kept streets, attracting a mix of nobles, prosperous merchants, and artisans. [[Trollskull Manor]], the converted tavern that [[Volo]] gives to SWOJ, sits in [[Trollskull Alley]] within the ward. The alley's businesses — including the various shops and vendors — are considered trustworthy by the local city watch. [[Captain Hyustus Stagget]] of the [[Docks Ward]] recommends SWOJ introduce themselves to [[Ulkoria Stonemarrow]] when they first head to the ward.
+The North Ward sits between Del Zord Street and Ceradue Way in the upper reaches of Waterdeep. It is a respectable neighborhood of beautiful old mansions and well-kept streets, attracting a mix of nobles, prosperous merchants, and artisans. [[Trollskull Manor]], the converted tavern that [[Volo]] gives to SWOJ, sits in [[Trollskull Alley]] within the ward. The alley's businesses — including the various shops and vendors — are considered trustworthy by the local city watch. [[Captain Hyustus Stagget]] of the [[Dock Ward]] recommends SWOJ introduce themselves to [[Ulkoria Stonemarrow]] when they first head to the ward.
 
 ## Notable Events
 

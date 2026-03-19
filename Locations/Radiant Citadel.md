@@ -16,10 +16,6 @@ A floating city in the Deep Ethereal Plane built around a colossal auroral diamo
 **First appearance:** Episode S02E08
 **Total appearances:** 9 episodes
 
-## Description
-
-A floating city in the Deep Ethereal Plane built around a colossal auroral diamond. An egalitarian society and hub for refugees, connected to the material plane via Concord Jewels. Features the Night Market, trade district, House of Convalescence, and the Preserve of the Ancestors.
-
 ## Notable Events
 
 

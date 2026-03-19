@@ -16,10 +16,6 @@ A music shop in Amphail run by Hanna. Sells instruments and offers repairs. Ylka
 **First appearance:** Episode S02E06
 **Total appearances:** 1 episodes
 
-## Description
-
-A music shop in Amphail run by Hanna. Sells instruments and offers repairs. Ylka gets her concertina repaired and buys an orca-shaped ocarina here.
-
 ## Notable Events
 
 

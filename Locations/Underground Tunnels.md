@@ -16,10 +16,6 @@ A network of tunnels beneath the pocket dimension containing baby beasts of Aero
 **First appearance:** Episode S02E04
 **Total appearances:** 1 episodes
 
-## Description
-
-A network of tunnels beneath the pocket dimension containing baby beasts of Aeroa and a sarcophagus room where the giant scarab Craw is found.
-
 ## Notable Events
 
 

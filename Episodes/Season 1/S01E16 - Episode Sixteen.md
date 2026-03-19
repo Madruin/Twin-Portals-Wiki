@@ -29,7 +29,7 @@ Air Date: 2020-02-18 | Duration: 02:41:37
 
 ## Summary
 
-SWOJ prepares to infiltrate the Xanathar's lair beneath Waterdeep to steal the Eye of the Stone of Golorr. Guest player John Brofie joins as Thaelin, a tiefling warlock and Squidly's brother who formerly worked for the Xanathar Guild. Xae awakens at Remallia Haventree's estate and is teleported to Trollskull Manor via a green portal from the crystal unicorn pendant, revealing the unicorn's name is Larian. The party gathers supplies -- Thaelin buys potions in Skullport, Xae visits the Emerald Enclave to learn Pass Without Trace, Ylka practices Find Familiar and summons a hawk, and Scoot receives a pistol from a carny agent of Fel'rekt Lafeen who asks them to find a missing white-haired elf named Nar'l Xibrindas in the lair.
+SWOJ prepares to infiltrate the Xanathar's lair beneath Waterdeep to steal the Eye of the Stone of Golorr. Guest player John Brofie joins as Thaelin, a tiefling warlock and Squidly's brother who formerly worked for the Xanathar Guild. Xae awakens at Remallia Haventree's estate and is teleported to Trollskull Manor via a green portal from the crystal unicorn pendant, revealing the unicorn's name is Lyrian. The party gathers supplies -- Thaelin buys potions in Skullport, Xae visits the Emerald Enclave to learn Pass Without Trace, Ylka practices Find Familiar and summons a hawk, and Scoot receives a pistol from a carny agent of Fel'rekt Lafeen who asks them to find a missing white-haired elf named Nar'l Xibrindas in the lair.
 
 Remallia Haventree leads them through the sewers to a hidden entrance into the Xanathar's lair. They descend a spiral staircase into the Hall of Eyes, evade beholder eye-stalk security cameras, and navigate secret passages known to Thaelin. They encounter Flutterfoot Zipswiggle, a gnome jester enslaved by the Xanathar, who gives them dust of disappearance. They pass through Thorvin Twinbeard's workshop where the dwarf engineer is building a crushing device for Skullport and asks them to send Nar'l his way. Using a secret rotating door passage, they bypass the audience chamber and reach the Xanathar's private sanctum containing the fish tank with Sylgar the goldfish.
 
@@ -37,7 +37,7 @@ Thaelin casts Suggestion on Ott Steeltoes, the dwarf fish keeper, compelling him
 
 ### Key Events
 
-- Xae awakens at Remallia Haventree's estate; the crystal unicorn reveals its name is Larian
+- Xae awakens at Remallia Haventree's estate; the crystal unicorn reveals its name is Lyrian
 - Crystal unicorn creates a green portal teleporting Xae to Trollskull Manor
 - Thaelin (guest PC, Squidly's brother) joins the party for the lair heist
 - The carny gives Scoot a pistol and asks SWOJ to find Nar'l Xibrindas in the lair
@@ -63,7 +63,7 @@ Thaelin casts Suggestion on Ott Steeltoes, the dwarf fish keeper, compelling him
 - [[Ott Steeltoes]] — Dwarf fish keeper tending to the Xanathar's prized goldfish Sylgar. Thaelin casts Suggestion on him, compelling him to retrieve the Eye of the Stone of Golorr from a locked chest in the sanctum.
 - [[Lyrian]] — The crystal unicorn spirit bound to Xae's pendant. Reveals its name to Xae. Creates a green portal that teleports Xae from Remallia's estate to Trollskull Manor.
 - [[Narl Xibrindas]] — White-haired elf (drow) lost in the Xanathar's lair. The carny asks SWOJ to find him. Thorvin also mentions him. A spy or double agent within the Xanathar Guild.
-- [[Fel'Rekt Lafeen]] — A carnival worker who gives Scoot a pistol and asks the party to look for Nar'l Xibrindas in the Xanathar's lair. Works for Fel'rekt Lafeen and Bregan D'aerthe.
+- [[Fel'Rekt Lafeen]] — Drow agent of [[Bregan D'Aerthe]], disguised as a carnival worker. Gives Scoot a pistol and asks the party to look for Nar'l Xibrindas in the Xanathar's lair.
 - [[Sally]] — A pigeon that Ylka communicates with via Speak with Animals. Has eagle bodyguards on the roof of Trollskull Manor.
 - [[The Xanathar]] — Beholder crime lord whose lair SWOJ infiltrates. Arrives in its private sanctum and fires a death ray at Thaelin (49 necrotic), then uses paralysis and fear rays on Ylka and Lark. Captures the remaining party members.
 - [[Sylgar]] — The Xanathar's beloved pet goldfish, kept in a tank in the private sanctum.

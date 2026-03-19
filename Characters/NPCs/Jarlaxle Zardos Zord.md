@@ -1,5 +1,5 @@
 ---
-title: "Jarlaxle  Zardos Zord"
+title: "Jarlaxle Zardos Zord"
 type: character
 subtype: npc
 status: unknown
@@ -10,7 +10,7 @@ tags:
   - npc
 ---
 
-# Jarlaxle  Zardos Zord
+# Jarlaxle Zardos Zord
 
 Leader of Bregan D'aerthe, a drow mercenary organization. Poses as the human sea captain Zardos Zord aboard the Eyecatcher. Reveals his true drow identity to SWOJ. Interested in establishing legitimate drow presence in Waterdeep and seeks the Stone of Golorr.
 

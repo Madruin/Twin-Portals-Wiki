@@ -16,10 +16,6 @@ Jarlaxle's one-of-a-kind submersible vessel. Used to covertly transport SWOJ fro
 **First appearance:** Episode S02E14
 **Total appearances:** 1 episodes
 
-## Description
-
-Jarlaxle's one-of-a-kind submersible vessel. Used to covertly transport SWOJ from the Eyecatcher to the northwestern shore of Neverwinter under cover of darkness.
-
 ## Notable Events
 
 

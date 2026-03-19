@@ -16,10 +16,6 @@ The vast cosmic sea beyond the material plane, accessed through the second twin 
 **First appearance:** Episode S02E11
 **Total appearances:** 1 episodes
 
-## Description
-
-The vast cosmic sea beyond the material plane, accessed through the second twin portal. SWOJ boards a ship crewed by animated instruments and sails toward the Wall.
-
 ## Notable Events
 
 

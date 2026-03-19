@@ -16,10 +16,6 @@ Massive internal chest cavity of the Beast of Erua. Contains a laboratory, works
 **First appearance:** Episode S02E03
 **Total appearances:** 1 episodes
 
-## Description
-
-Massive internal chest cavity of the Beast of Erua. Contains a laboratory, workshop, teleportation circle, mulch beds where podlings grow, and glowing pods with captured prisoners. Site of a major battle.
-
 ## Notable Events
 
 

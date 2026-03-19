@@ -16,10 +16,6 @@ An underground workshop staffed by ghost archivists including Grabmar of House T
 **First appearance:** Episode S02E23
 **Total appearances:** 1 episodes
 
-## Description
-
-An underground workshop staffed by ghost archivists including Grabmar of House Thistlewhip. Forced to produce propaganda materials for Rowan Crooks. Contains Crooks' original journal among its archives.
-
 ## Notable Events
 
 

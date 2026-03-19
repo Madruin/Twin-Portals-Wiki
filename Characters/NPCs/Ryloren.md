@@ -12,22 +12,18 @@ tags:
 
 # Ryloren
 
-An angel who trades rare artifacts from a cabinet in the Dark Market. His cabinet contains the Breath of the First Dawn in a clay jar, which Curio coveted. After learning of Curio's plot from Lark, Rylerin captures the mimic and rewards SWOJ with the spell jamming helm for their honesty. Says the Dark Market is a safe haven as long as you don't leave it. Warns about the dangers of the Shadowfell.
+An angel who trades rare artifacts from a cabinet in the Dark Market. His cabinet contains the Breath of the First Dawn in a clay jar, which Curio coveted. After learning of Curio's plot from Lark, Ryloren captures the mimic and rewards SWOJ with the spell jamming helm for their honesty. Says the Dark Market is a safe haven as long as you don't leave it. Warns about the dangers of the Shadowfell.
 
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
-
-## Description
-
-An angel who trades rare artifacts from a cabinet in the Dark Market. His cabinet contains the Breath of the First Dawn in a clay jar, which Curio coveted. After learning of Curio's plot from Lark, Rylerin captures the mimic and rewards SWOJ with the spell jamming helm for their honesty. Says the Dark Market is a safe haven as long as you don't leave it. Warns about the dangers of the Shadowfell.
 
 ## Role in the Story
 
 
 
 
-- **S02E21:** Rylerin rewards SWOJ with the spell jamming helm; reveals the jar contained the Breath of the First Dawn
-- **S02E21:** Meeting Curio (mimic merchant) who offers the spell jamming helm for stealing from Rylerin
+- **S02E21:** Ryloren rewards SWOJ with the spell jamming helm; reveals the jar contained the Breath of the First Dawn
+- **S02E21:** Meeting Curio (mimic merchant) who offers the spell jamming helm for stealing from Ryloren
 
 ## Episode Appearances
 

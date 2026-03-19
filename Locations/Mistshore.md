@@ -16,10 +16,6 @@ Coastal area of Waterdeep where Grinda Garloss lives in a lighthouse.
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-Coastal area of Waterdeep where Grinda Garloss lives in a lighthouse.
-
 ## Notable Events
 
 

@@ -18,10 +18,6 @@ Leader of the Hare Company, a plate-armored fighter and former Waterdeep soldier
 **Total appearances:** 1 episode
 **Faction affiliations:** [[Hare Company]]
 
-## Description
-
-Leader of the Hare Company, a plate-armored fighter and former Waterdeep soldier. Led his squad into banditry after deserting following the defeat at Red Larch. Convinced by SWOJ to return to military duty. Receives a WWSD bracelet from Lark.
-
 ## Role in the Story
 
 - **S02E06:** Ambushed by the Hare Company -- deserters led by Jonas with wizard Nina Blackthorn

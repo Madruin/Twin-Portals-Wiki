@@ -29,24 +29,24 @@ Air Date: 2022-10-25 | Duration: 01:59:56
 
 ## Summary
 
-SWOJ arrives at the Radiant Citadel, a floating city built around a colossal auroral diamond in the Deep Ethereal Plane. After traveling through darkness and past a churning maelstrom called the Keening Gloom, the Concord Jewel docks at the citadel. Ylka captures one of Arturia's pink butterflies before they scatter. A welcoming committee -- including the halfling scientist Saks Bandin and a telepathic helmet-wearing greeter -- receives them warmly, noting that SWOJ has returned a lost Concord Jewel that has been missing for generations. The citadel is revealed as a hub for refugees and travelers, connected to various locations on Toril via anchor points for each Concord Jewel.
+SWOJ arrives at the Radiant Citadel, a floating city built around a colossal auroral diamond in the Deep Ethereal Plane. After traveling through darkness and past a churning maelstrom called the Keening Gloom, the Concord Jewel docks at the citadel. Ylka captures one of Arcturia's pink butterflies before they scatter. A welcoming committee -- including the halfling scientist Sax Bandon and a telepathic helmet-wearing greeter -- receives them warmly, noting that SWOJ has returned a lost Concord Jewel that has been missing for generations. The citadel is revealed as a hub for refugees and travelers, connected to various locations on Toril via anchor points for each Concord Jewel.
 
 The party explores this remarkable egalitarian society where food is largely free, healing is amplified by the auroral diamond, and diverse cultures from across the multiverse coexist. They visit the Night Market, a bustling trade district with exotic foods and merchants. Key discoveries include Vincent Trench's private detective office (their neighbor from Trollskull Alley now operating here too), Benzo's Weapon Emporium (cobalt blacksmiths who identify Scoot's axe as star metal), and Sid Squid's Battle Prawns -- a cooking competition where SWOJ battles giant crawfish from a massive tank. Xae transforms into a reef shark to haul prawns, Scoot catches and tosses them, Ylka chops with her Song Sword, and Lark dices vegetables. The prawn escapes and attacks, requiring actual combat before the meal is cooked.
 
-Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks about Xae's siblings, and Trench promises to investigate over ten days. Zellopharn, drawn by a mysterious shadowy figure and a whistling sound, leads the party to the Preserve of the Ancestors inside the auroral diamond -- a Truman Show-like dome with sunlight, farms, and spectral wildlife. There they meet Trill, a sugar mill worker, and discover a rose quartz dragon incarnate -- a crystal creature formed from many ancestral dragon spirits. The incarnate begins communing telepathically with Zellopharn. The episode ends with a dramatic crash at Trill's sugar mill: a sinkhole opens, two tall grey-skinned alien creatures shimmer into existence whistling an eerie seven-note melody, and one of them inhales Trill's life force, killing him instantly.
+Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks about Xae's siblings, and Trench promises to investigate over ten days. Zelifarn, drawn by a mysterious shadowy figure and a whistling sound, leads the party to the Preserve of the Ancestors inside the auroral diamond -- a Truman Show-like dome with sunlight, farms, and spectral wildlife. There they meet Trill, a sugar mill worker, and discover a rose quartz dragon incarnate -- a crystal creature formed from many ancestral dragon spirits. The incarnate begins communing telepathically with Zelifarn. The episode ends with a dramatic crash at Trill's sugar mill: a sinkhole opens, two tall grey-skinned alien creatures shimmer into existence whistling an eerie seven-note melody, and one of them inhales Trill's life force, killing him instantly.
 
 ### Key Events
 
 - SWOJ arrives at the Radiant Citadel via the Concord Jewel through the Deep Ethereal
-- Ylka captures one of Arturia's pink butterflies before the swarm departs
-- Arturia's voice tells Xae 'I'm going to see our siblings. Remember, break the wall'
+- Ylka captures one of Arcturia's pink butterflies before the swarm departs
+- Arcturia's voice tells Xae 'I'm going to see our siblings. Remember, break the wall'
 - Welcoming committee reveals SWOJ has returned a lost Concord Jewel missing for generations
-- Saks Bandin explains the citadel is connected to Toril by Concord Jewels anchored to different locations
+- Sax Bandon explains the citadel is connected to Toril by Concord Jewels anchored to different locations
 - SWOJ acts as ambassadors for the Sword Coast, the first travelers from that region
 - Leah is sent back with moth weed and stays to coordinate refugee transport with the Circle of Dusk
-- Montage: SWOJ returns to Sword Mountains, rescues all captives, delivers moth weed to cure Taiga
-- All captives were elves or half-elves, hinting at Arturia's selection criteria
-- SWOJ attends the Rite of the Stag Lass in Amphale, collects quest rewards
+- Montage: SWOJ returns to Sword Mountains, rescues all captives, delivers moth weed to cure Tagga
+- All captives were elves or half-elves, hinting at Arcturia's selection criteria
+- SWOJ attends the Rite of the Stag Lass in Amphail, collects quest rewards
 
 ### Featured Characters
 
@@ -62,7 +62,7 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 - [[Trill]] — A farmer and sugar mill worker inside the Preserve of the Ancestors. Originally from Godsbreath, one of the founding cultures of the Radiant Citadel. Killed by one of the alien shadow creatures that appear at his mill. Known as 'Trill from the Mill.'
 - [[Leah]] — Scoot's former shipmate. Stays behind with the Circle of Dusk druids to help coordinate refugee transport to the Radiant Citadel and ensure the moth weed reaches those who need it.
 - [[Zelifarn]] — SWOJ's bronze dragon ally, in human form as Farron/Ferrin. Drawn by a mysterious shadowy figure and whistling sound towards the Preserve of the Ancestors. Communes telepathically with the rose quartz incarnate dragon, discovering possible family connections.
-- [[Rose Quartz Incarnate]] — A small dragon-shaped crystal creature the size of a dog, made of many pieces of rose quartz fitted together magically. An incarnate -- a form created when many ancestral spirits from a similar origin come together. Communes telepathically with Zellopharn about draconic lineage.
+- [[Rose Quartz Incarnate]] — A small dragon-shaped crystal creature the size of a dog, made of many pieces of rose quartz fitted together magically. An incarnate -- a form created when many ancestral spirits from a similar origin come together. Communes telepathically with Zelifarn about draconic lineage.
 - [[Tagga]] — Scoot's mother, suffering from a shape-changing spore illness. Cured by the moth weed that SWOJ delivers during the montage sequence.
 - [[Hanna]] — Runs the music shop associated with the Doom Network quest. Returns Ylka's concertina in perfect shape with all pegs restored.
 
@@ -85,11 +85,11 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 
 **[00:00]** previously on twin portals. Within the spiral cavern deep below the sword mountains,
 **[00:06]** the silver waves of justice face the experiments of the shape changing which of the woods,
-**[00:11]** Zay's sister, Arturia. On their way to the heart of the cavern,
+**[00:11]** Zay's sister, Arcturia. On their way to the heart of the cavern,
 **[00:16]** Swoge faced powerful transmutation magic and encountered some familiar faces.
 **[00:21]** Scoots former shipmate Leah and the most draconic member of Swoge, Zellophart.
 **[00:27]** Seeing their friends enchanted by the magical mist, Swoge smashed the mirror at the heart
-**[00:32]** breaking the spell and forcing Arturia to escape aboard a mysterious crystalline vessel.
+**[00:32]** breaking the spell and forcing Arcturia to escape aboard a mysterious crystalline vessel.
 **[00:38]** Climbing aboard their dragon ally, Swoge took flight and boarded the crystal-spire moments
 **[00:43]** before it winked out of existence, sending our heroes once again into the unknown.
 **[00:48]** Should we get a twid?
@@ -100,7 +100,7 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[01:36]** opening at the base of the spire and outside of it appears to be darkness but there's definitely a
 **[01:41]** glow coming from the spire. You're not sure where you are or what's going on. What are you all
 **[01:47]** doing as you float around gravity lists inside the space?
-**[01:50]** And Arturia is not here but the butterflies are.
+**[01:50]** And Arcturia is not here but the butterflies are.
 **[01:53]** A whole bunch of butterflies.
 **[01:56]** I had to be communicating with my sister. Is that still happening?
 **[02:01]** I think so. Telepathically. We can talk about it later if you want as far as what secrets you're
@@ -205,7 +205,7 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[06:13]** Either that or we're moving really fast around it.
 **[06:15]** I don't know what's going on.
 **[06:16]** He's like, do you guys know where we are?
-**[06:19]** At this point, say your connection with Arturia breaks.
+**[06:19]** At this point, say your connection with Arcturia breaks.
 **[06:22]** She's like, staunch responding to your thoughts.
 **[06:24]** I blink in eyes open wide.
 **[06:28]** I notice that Ilka is bebopping around the room
@@ -264,7 +264,7 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[08:26]** As it kind of like comes around a curve
 **[08:27]** and you start to see more of it.
 **[08:29]** And you hear Zay.
-**[08:31]** I guess you all hear the voice of Arturia
+**[08:31]** I guess you all hear the voice of Arcturia
 **[08:33]** on your head saying, that's my cue.
 **[08:35]** And all the butterflies start to swirl
 **[08:38]** and hush out the door into the ether beyond.
@@ -273,7 +273,7 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[08:48]** Remember, break the wall.
 **[08:50]** And the butterflies like pelt off towards the storm
 **[08:53]** and disappear into the darkness on the edge of your vision.
-**[08:56]** As I hear this from Arturia,
+**[08:56]** As I hear this from Arcturia,
 **[08:59]** I reach my grabby little hands out
 **[09:01]** and I snatch one of the butterflies.
 **[09:03]** I stuff it in my bag.
@@ -700,10 +700,10 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[23:04]** How was that with the Langees?
 **[23:07]** Yes, the Philanges for different types of people that arrive.
 **[23:11]** And they, the one wearing the helmet kind of points
-**[23:14]** at Zellopharn and says like you're different, aren't you?
-**[23:19]** And Zellopharn kind of looks awkwardly around
+**[23:14]** at Zelifarn and says like you're different, aren't you?
+**[23:19]** And Zelifarn kind of looks awkwardly around
 **[23:23]** and it's like no, what do you mean?
-**[23:26]** What form is Zellopharn in?
+**[23:26]** What form is Zelifarn in?
 **[23:27]** Human.
 **[23:28]** And they're like you are not like these other travelers.
 **[23:31]** He's a member of Sworge.
@@ -722,7 +722,7 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[23:48]** Interesting, interesting.
 **[23:50]** Leah at this point steps forward and is like yeah, yeah, he's a dragon
 **[23:52]** but don't worry, he's a good one.
-**[23:54]** And Zellopharn's like, oh, okay.
+**[23:54]** And Zelifarn's like, oh, okay.
 **[23:55]** Yeah, yeah.
 **[23:57]** And Leah's like, listen, you said this is a place for refugees.
 **[24:02]** Would you take refugees from a war near Water
@@ -1030,9 +1030,9 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[35:45]** Yeah, it's good smash.
 **[35:47]** So yeah.
 **[35:47]** Yep.
-**[35:48]** You all hear a whistling sound coming from Zellopharn.
+**[35:48]** You all hear a whistling sound coming from Zelifarn.
 **[35:50]** That's just kind of sounds like this.
-**[35:51]** It goes like, I look at Zellopharn.
+**[35:51]** It goes like, I look at Zelifarn.
 **[35:58]** I look at Ferrin.
 **[36:00]** What's he doing?
 **[36:02]** He seems kind of spaced out like I was saying.
@@ -1042,13 +1042,13 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[36:10]** 13.
 **[36:11]** 13.
 **[36:13]** You catch a brief glimpse of a, looks like a tall,
-**[36:18]** shadowy, humanoid shape, like kind of framing Zellopharn.
+**[36:18]** shadowy, humanoid shape, like kind of framing Zelifarn.
 **[36:22]** And like when you blink, it's gone.
 **[36:24]** And he's not whistling.
 **[36:25]** You just heard this whistling sound briefly.
 **[36:27]** As this shadowy shape kind of like takes a step away and vanishes.
-**[36:30]** I just saw shadowy shape by Zellopharn.
-**[36:33]** I step over to Zellopharn and like snap my fingers in front of his eyes.
+**[36:30]** I just saw shadowy shape by Zelifarn.
+**[36:33]** I step over to Zelifarn and like snap my fingers in front of his eyes.
 **[36:36]** And you were going to focus and looks at you and he's like,
 **[36:38]** what, what happened?
 **[36:39]** What?
@@ -1121,12 +1121,12 @@ Vincent Trench offers information in exchange for crab cakes and gold. SWOJ asks
 **[38:47]** I do have Taiga.
 **[38:48]** I do feel like we need to resolve those things.
 **[38:50]** Or at least I think Scoot would feel better about doing that.
-**[38:53]** And then, Zellopharn, we bring him with us
+**[38:53]** And then, Zelifarn, we bring him with us
 **[38:57]** or we leave him here to potentially walk into scary shadow dude.
 **[39:01]** I want him to come with us.
 **[39:03]** Okay.
 **[39:03]** He's part of Swoech.
-**[39:05]** Zellopharn, how do you feel about coming back
+**[39:05]** Zelifarn, how do you feel about coming back
 **[39:08]** to the sword mountains and not going to see your potential family member?
 **[39:12]** Well, I guess I kind of want to do both.
 **[39:14]** So it's just a question of urgency.

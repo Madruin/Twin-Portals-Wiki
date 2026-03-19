@@ -29,7 +29,7 @@ Air Date: 2024-12-30 | Duration: 01:37:50
 
 ## Summary
 
-SWOJ begins in the Preserve of the Ancestors where they have just freed Zellopharn, an ancient bronze dragon who had been imprisoned. Zellopharn shares critical intelligence: the two-headed dracolich has claimed the Dawn Incarnate crystals, the speakers and Sholeh are being held at the top of the Citadel near the soul pylon, and the concord jewels have been deactivated so that no civilization can send reinforcements. The party decides to escape through the storm sewers beneath the Citadel rather than risk flying.
+SWOJ begins in the Preserve of the Ancestors where they have just freed Zelifarn, an ancient bronze dragon who had been imprisoned. Zelifarn shares critical intelligence: the two-headed dracolich has claimed the Dawn Incarnate crystals, the speakers and Sholeh are being held at the top of the Citadel near the soul pylon, and the concord jewels have been deactivated so that no civilization can send reinforcements. The party decides to escape through the storm sewers beneath the Citadel rather than risk flying.
 
 In the sewers, SWOJ encounters and battles a giant crawfish nicknamed 'Old Salty' -- a creature from Sid's Squids restaurant that had been flushed and grew enormous. After defeating it, they discover a cistern full of refugees and resistance fighters hiding from Manshoon's forces. The refugees share information about the clavager pedestal and the state of the Citadel above. A friendly water elemental offers to carry the party upward through the sewer system to reach the top of the Citadel.
 
@@ -39,7 +39,7 @@ Xae summons a water elemental to wash away the remaining guards, then activates 
 
 ### Key Events
 
-- Zellopharn shares intelligence about the dracolich, imprisoned speakers, and deactivated concord jewels
+- Zelifarn shares intelligence about the dracolich, imprisoned speakers, and deactivated concord jewels
 - SWOJ escapes the Preserve of the Ancestors through the storm sewers
 - Party battles and defeats Old Salty, a giant crawfish in the sewers
 - Discovery of refugee resistance fighters hiding in the sewer cisterns

@@ -19,7 +19,6 @@ Lark's father. Cold, disappointed, and disapproving. House Wavesilver is in fina
 
 ## Description
 
-Lark's father. Cold, disappointed, and disapproving. House Wavesilver is in financial trouble with the shipping business 'almost completely underwater.' Charges Lark 500% interest per tenday.
 
 A member of the Wavesilver family (Lark's relative), waiting at Trollskull Manor with a candle burned low.
 

@@ -17,10 +17,6 @@ A vast, treacherous swamp south of Neverwinter along the Sword Coast. SWOJ's des
 **First appearance:** Episode S02E26
 **Total appearances:** 3 episodes
 
-## Description
-
-A vast, treacherous swamp south of Neverwinter along the Sword Coast. SWOJ's destination where Cult of the Dragon activity has been reported. Known for its dangerous inhabitants.
-
 ## Notable Events
 
 

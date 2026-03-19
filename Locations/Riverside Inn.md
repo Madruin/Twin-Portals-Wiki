@@ -16,10 +16,6 @@ A practical establishment offered to SWOJ as an alternative to the Shard of Moon
 **First appearance:** Episode S02E20
 **Total appearances:** 1 episodes
 
-## Description
-
-A practical establishment offered to SWOJ as an alternative to the Shard of Moonlight. The party declined this option.
-
 ## Notable Events
 
 

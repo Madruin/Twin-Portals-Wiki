@@ -16,10 +16,6 @@ The defensive wall surrounding the chasm district in Neverwinter. SWOJ travels h
 **First appearance:** Episode S02E17
 **Total appearances:** 1 episodes
 
-## Description
-
-The defensive wall surrounding the chasm district in Neverwinter. SWOJ travels here to confront the enormous kaiju creature emerging from the chasm. The site where Lark persuades the kaiju to stop.
-
 ## Notable Events
 
 

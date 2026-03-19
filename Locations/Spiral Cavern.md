@@ -16,10 +16,6 @@ A deep underground cave system beneath the Sword Mountains. Contains Arcturia's 
 **First appearance:** Episode S02E07
 **Total appearances:** 5 episodes
 
-## Description
-
-A deep underground cave system beneath the Sword Mountains. Contains Arcturia's lair with transmutation experiments, an enchanted mirror, moth weed gardens, and the Concord Jewel vessel. Formed from jutting layers of basalt.
-
 ## Notable Events
 
 

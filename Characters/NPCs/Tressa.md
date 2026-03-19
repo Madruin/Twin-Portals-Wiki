@@ -17,10 +17,6 @@ A guard captain in Neverember's forces. Escorts SWOJ during their arrest and int
 **First appearance:** Episode 
 **Total appearances:** 0 episodes
 
-## Description
-
-A guard captain in Neverember's forces. Escorts SWOJ during their arrest and interrogation.
-
 ## Role in the Story
 
 

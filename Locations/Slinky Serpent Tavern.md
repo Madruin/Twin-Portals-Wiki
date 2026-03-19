@@ -16,10 +16,6 @@ A tavern located southeast of the House of a Thousand Faces in Neverwinter. Wher
 **First appearance:** Episode S02E15
 **Total appearances:** 1 episodes
 
-## Description
-
-A tavern located southeast of the House of a Thousand Faces in Neverwinter. Where Fumblewick the gnome city guard can be found. SWOJ's next destination for gathering intelligence about the chasm.
-
 ## Notable Events
 
 

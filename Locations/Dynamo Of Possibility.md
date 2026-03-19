@@ -17,10 +17,6 @@ A silver orb that serves as the Great Beast's power source. Contains a spherical
 **First appearance:** Episode S02E04
 **Total appearances:** 1 episodes
 
-## Description
-
-A silver orb that serves as the Great Beast's power source. Contains a spherical pocket dimension with a miniature world inside, including a city, forest, underground tunnels, and a central tower. Malfunctions with green lightning and eventually collapses after the Body Taker is defeated.
-
 ## Notable Events
 
 

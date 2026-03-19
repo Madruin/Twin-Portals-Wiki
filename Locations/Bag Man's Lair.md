@@ -16,10 +16,6 @@ The Bag Man's home in the first bag of holding ever created. Contains his ledger
 **First appearance:** Episode S02E13
 **Total appearances:** 1 episodes
 
-## Description
-
-The Bag Man's home in the first bag of holding ever created. Contains his ledgers tracking all bags of holding, including a section on twin portal bags. SWOJ finds directions to Jarlaxle's bag here.
-
 ## Notable Events
 
 

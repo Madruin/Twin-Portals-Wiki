@@ -29,11 +29,11 @@ Air Date: 2022-06-15 | Duration: 02:09:08
 
 ## Summary
 
-SWOJ continues their mission inside the belly of the Great Beast of Aeroa in the Shadowfell, hunting the wizard Manchun, one of thirteen clones. After climbing the spiral staircase to the skull chamber, they discover the Dynamo of Possibility -- a malfunctioning silver orb that acts as the beast's power source. Green lightning erupts from the Dynamo, absorbing the ghosts of Thail and Teriador the Rose Knight. The party is pulled inside the Dynamo, finding themselves in a spherical pocket dimension containing a miniature world with a city, forest, underground tunnels, and a tower.
+SWOJ continues their mission inside the belly of the Great Beast of Erua in the Shadowfell, hunting the wizard Manshoon, one of thirteen clones. After climbing the spiral staircase to the skull chamber, they discover the Dynamo of Possibility -- a malfunctioning silver orb that acts as the beast's power source. Green lightning erupts from the Dynamo, absorbing the ghosts of Thail and Teriador the Rose Knight. The party is pulled inside the Dynamo, finding themselves in a spherical pocket dimension containing a miniature world with a city, forest, underground tunnels, and a tower.
 
-Inside the Dynamo, SWOJ meets Fetch, a nine-year-old boy who is actually a fragment of Manchun's soul -- the part that holds his innocence and childhood memories. Fetch explains that the Body Taker, another aspect of Manchun who controls plant-based podlings, has been hunting him. The party also encounters animated musical instruments -- a grand piano, a tuba, and an ensemble of smaller instruments -- that ally with them against the Body Taker. Xae wild shapes into various forms including a velociraptor, while Ylka uses Vicious Mockery to exploit the Body Taker's sensitivity, particularly his hatred of Rowan Crooks.
+Inside the Dynamo, SWOJ meets Fetch, a nine-year-old boy who is actually a fragment of Manshoon's soul -- the part that holds his innocence and childhood memories. Fetch explains that the Body Taker, another aspect of Manshoon who controls plant-based podlings, has been hunting him. The party also encounters animated musical instruments -- a grand piano, a tuba, and an ensemble of smaller instruments -- that ally with them against the Body Taker. Xae wild shapes into various forms including a velociraptor, while Ylka uses Vicious Mockery to exploit the Body Taker's sensitivity, particularly his hatred of Rowan Crooks.
 
-The party navigates through the pocket dimension's underground tunnels, discovering baby beasts of Aeroa and the giant scarab Craw entombed in a sarcophagus. They ride Craw and his companion Gaw up the tower to confront the Body Taker in a climactic battle atop the vine-covered structure. Scoot's fire-enchanted axe proves devastating against the plant-based Manchun, while Xae's velociraptor form delivers the killing blow, sending the Body Taker plummeting from the tower. Gaw perishes in the battle, and Xae is pulled off the tower into the water below.
+The party navigates through the pocket dimension's underground tunnels, discovering baby beasts of Erua and the giant scarab Craw entombed in a sarcophagus. They ride Craw and his companion Gaw up the tower to confront the Body Taker in a climactic battle atop the vine-covered structure. Scoot's fire-enchanted axe proves devastating against the plant-based Manshoon, while Xae's velociraptor form delivers the killing blow, sending the Body Taker plummeting from the tower. Gaw perishes in the battle, and Xae is pulled off the tower into the water below.
 
 After defeating the Body Taker, Fetch reveals he can transport everyone out of the collapsing Dynamo, but needs to absorb a soul to gain enough power. He merges with the soul of Teriador the Rose Knight, creating a combined entity. As the pocket dimension collapses around them, Fetch warps reality and transports SWOJ back to the skull of the Great Beast with the now-inert Dynamo of Possibility before them, vine-covered and silent. Ylka manages to bring Thail's soul crystal through the transition as well.
 
@@ -42,10 +42,10 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 - SWOJ discovers the Dynamo of Possibility malfunctioning inside the Great Beast's skull
 - Green lightning from the Dynamo absorbs the ghosts of Thail and Teriador the Rose Knight
 - The party is pulled inside the Dynamo into a spherical pocket dimension
-- SWOJ meets Fetch, a nine-year-old fragment of Manchun's soul representing his innocence
-- Fetch warns them about the Body Taker, a plant-based Manchun clone hunting him
+- SWOJ meets Fetch, a nine-year-old fragment of Manshoon's soul representing his innocence
+- Fetch warns them about the Body Taker, a plant-based Manshoon clone hunting him
 - Animated musical instruments (piano, tuba, ensemble) join SWOJ as allies
-- The party navigates underground tunnels, finding baby beasts of Aeroa
+- The party navigates underground tunnels, finding baby beasts of Erua
 - They discover the giant scarab Craw entombed in a sarcophagus and free him
 - SWOJ rides Craw and Gaw up the tower to confront the Body Taker
 - Climactic battle atop the vine-covered tower against the Body Taker
@@ -58,9 +58,9 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Fetch]] — A nine-year-old boy who is a fragment of Manchun's soul, representing his innocence and childhood. Has a crescent moon glow on his heart. Merges with Teriador's soul to gain enough power to transport SWOJ out of the collapsing Dynamo. Previously worked for the wizard Rantantar.
-- [[The Body Taker]] — A clone of Manchun made of dense, stringy plant material. Controls vine tentacles and plant-based podlings. More emotionally sensitive than other Manchun clones, particularly enraged by mentions of Rowan Crooks. Defeated atop the tower inside the Dynamo of Possibility.
-- [[Rowan Crooks]] — Leader of the Jolly Gents adventuring party. Mentioned frequently during the battle as Ylka uses songs about his defeats of Manchun for Vicious Mockery. Not physically present in this episode.
+- [[Fetch]] — A nine-year-old boy who is a fragment of Manshoon's soul, representing his innocence and childhood. Has a crescent moon glow on his heart. Merges with Teriador's soul to gain enough power to transport SWOJ out of the collapsing Dynamo. Previously worked for the wizard Rantantar.
+- [[The Body Taker]] — A clone of Manshoon made of dense, stringy plant material. Controls vine tentacles and plant-based podlings. More emotionally sensitive than other Manshoon clones, particularly enraged by mentions of Rowan Crooks. Defeated atop the tower inside the Dynamo of Possibility.
+- [[Rowan Crooks]] — Leader of the Jolly Gents adventuring party. Mentioned frequently during the battle as Ylka uses songs about his defeats of Manshoon for Vicious Mockery. Not physically present in this episode.
 - [[The Hunter]] — A mysterious shadowy archer figure encountered earlier inside the Dynamo. Referenced as a threat within the pocket dimension.
 - [[Thail]] — A ghost whose soul is absorbed by green lightning from the Dynamo. His soul is preserved in a crystal that Ylka carries through the transition back to the Great Beast's skull.
 - [[Teriador|Teriador the Rose Knight]] — A ghost knight whose soul is absorbed by the Dynamo's green lightning. His rose-colored soul orb remains atop the tower and is ultimately merged with Fetch, giving the boy enough power to escape the Dynamo.
@@ -87,7 +87,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[00:33]** and castles and everything are, they're in the shadow fell,
 **[00:36]** which is this negative plane of kind of dark energy
 **[00:41]** and murky mystery.
-**[00:44]** They're hunting this nefarious wizard named Manchun
+**[00:44]** They're hunting this nefarious wizard named Manshoon
 **[00:48]** or one of his clones.
 **[00:49]** They know that this wizard was defeated at one point
 **[00:51]** by this rogish person named Rowan Crooks in his band
@@ -797,9 +797,9 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[24:37]** That's the big guy up in the tower.
 **[24:40]** Yeah.
 **[24:41]** He's in charge.
-**[24:42]** Manchune.
+**[24:42]** Manshoone.
 **[24:43]** I just get glimpses.
-**[24:44]** Do you work for Manchune?
+**[24:44]** Do you work for Manshoone?
 **[24:45]** He's called the body taker.
 **[24:46]** The body taker.
 **[24:47]** The body taker.
@@ -911,7 +911,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[28:32]** He was a real jerk.
 **[28:33]** But I learned a lot of magic from him anyway.
 **[28:35]** A long time ago.
-**[28:36]** Was his name Manchun?
+**[28:36]** Was his name Manshoon?
 **[28:37]** No, his name was Rantantar.
 **[28:39]** Rantantar.
 **[28:40]** Yeah.
@@ -2094,7 +2094,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:21:20]** Pod, not the person. I know what I mean gross. Yeah, it tastes woody. It wasn't gross at all. Okay.
 **[01:21:27]** I just like, you got to try it. I get it. What? No, I probably got some splattered my mouth when I act through
 **[01:21:34]** so this old news to me. As you're talking, you hear a from somewhere nearby.
-**[01:21:40]** Like a kitty. Is that Aeroa? No, you're not. Oh, yeah. Is Aeroa with us? Yeah, Aeroa was like tromping
+**[01:21:40]** Like a kitty. Is that Erua? No, you're not. Oh, yeah. Is Erua with us? Yeah, Erua was like tromping
 **[01:21:46]** out of the water, but this is like around the corner of the tower. I see. Yeah, I'll go over there
 **[01:21:52]** one of those rocks. Is it the door is biased or the door is right by you? Yeah, it's this big stone door.
 **[01:21:56]** Okay. But you go around scoot. You see. Yeah, I go when I peek around. There's a small,
@@ -2173,22 +2173,22 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:28:49]** to have long for the world as it gets pulled away. Oh no. And like that just could be the answer to
 **[01:28:53]** everything. How is that happening? Magic. And you you you hear this voice in your heads as you go
 **[01:29:02]** saying like yes, soon we will be as one. My soul will be complete. And it's like villainous like
-**[01:29:08]** monologuing is happening. Like it's very overwrought. And it's like I will be Manchun, the immortal,
-**[01:29:14]** Manchun, the unstoppable. Yeah, I got no time for that. So I'm turning back towards the orchestra
+**[01:29:08]** monologuing is happening. Like it's very overwrought. And it's like I will be Manshoon, the immortal,
+**[01:29:14]** Manshoon, the unstoppable. Yeah, I got no time for that. So I'm turning back towards the orchestra
 **[01:29:19]** and queuing them with my concertinist is some we're not going to take this and trying to drown out
 **[01:29:26]** that grandstanding monologue. Okay. And it does a pretty good job. I mean it's a soft voice in your
 **[01:29:32]** heads. So as you flip over the top and ahead of you on the top of the tower what you see is is
 **[01:29:40]** two bright rose-colored orbs like on the far side of the tower. And then between you and the orbs
 **[01:29:47]** a robed figure with kind of vines trailing from the hands of the robe and the feet of the robe
-**[01:29:53]** with its back to you. So how do you react to this? Manchun! Are you the Manchun clone that cloned me?
+**[01:29:53]** with its back to you. So how do you react to this? Manshoon! Are you the Manshoon clone that cloned me?
 **[01:30:04]** It turns towards you and says I would never do such a thing to such an imperfect, pointless
-**[01:30:11]** person such as you. Yeah, it was a different Manchun clone. I could say he put a he put like a
+**[01:30:11]** person such as you. Yeah, it was a different Manshoon clone. I could say he put a he put like a
 **[01:30:17]** spy thing in my head and we totally found it. If you had done if you had cloned me we would have
-**[01:30:21]** never found it because you were a way better clone than that other Manchun clone. It says give me the
+**[01:30:21]** never found it because you were a way better clone than that other Manshoon clone. It says give me the
 **[01:30:26]** child. Never. What? Give me a fetch. Come here fetch and fetch says no, not in your wildest dreams.
-**[01:30:34]** I'm free now. Yeah Manchun. Manchun is facing us? He turns. Yeah and in his face is hooded. You don't
+**[01:30:34]** I'm free now. Yeah Manshoon. Manshoon is facing us? He turns. Yeah and in his face is hooded. You don't
 **[01:30:43]** see his face as he speaks. It's like a this weird telepathic speech to it kind of echoes in your
-**[01:30:49]** heads. What do you do? Hey Manchun remember the time that Rowan Crooks defeated you?
+**[01:30:49]** heads. What do you do? Hey Manshoon remember the time that Rowan Crooks defeated you?
 **[01:30:56]** And at that the the hood whips back and and kind of from like the the base of this hooded figure
 **[01:31:02]** all of these vines start whipping forward and lift the body into the air until like as the
 **[01:31:08]** rope strips away you can see it's this this humanoid person with with like vines coming out of his
@@ -2332,8 +2332,8 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:39:25]** to my Rowan Crook's dagger.
 **[01:39:27]** Okay.
 **[01:39:27]** You want to tell her about a little dinky?
-**[01:39:29]** A little dinky is a thing that I actually, I got in the tower of Manchun,
-**[01:39:35]** one of the clones of Manchun, which is it's a small rod that I hold
+**[01:39:29]** A little dinky is a thing that I actually, I got in the tower of Manshoon,
+**[01:39:35]** one of the clones of Manshoon, which is it's a small rod that I hold
 **[01:39:39]** that can extend up to 50 feet when I say,
 **[01:39:42]** here comes little dinky.
 **[01:39:44]** And so, yeah, I have, that's the, that's the, yeah.
@@ -2526,7 +2526,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:45:16]** Are you guys fine?
 **[01:45:18]** I have one more attack.
 **[01:45:19]** Yes.
-**[01:45:20]** I guess I run up to Manchun and at least try to become a distraction.
+**[01:45:20]** I guess I run up to Manshoon and at least try to become a distraction.
 **[01:45:24]** Chopping at the person who's like, I'm on the other side.
 **[01:45:26]** Wait a minute, there's two orbs right next to him.
 **[01:45:28]** Still, right?
@@ -2534,7 +2534,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:45:31]** sort of like coalescing lights.
 **[01:45:33]** They have Morphus blobby lights.
 **[01:45:37]** All I know is attack, attack the big bad one.
-**[01:45:39]** So I'm going to run up to Manchun.
+**[01:45:39]** So I'm going to run up to Manshoon.
 **[01:45:41]** Roll it.
 **[01:45:42]** Yeah, you've been good to me.
 **[01:45:44]** Die, please be good.
@@ -2542,7 +2542,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:45:50]** So that means I get to reroll.
 **[01:45:53]** And it paid off for 25.
 **[01:45:55]** Yeah, definitely hits.
-**[01:45:55]** Okay, and I'm going to try to make Manchun uncomfortable with,
+**[01:45:55]** Okay, and I'm going to try to make Manshoon uncomfortable with,
 **[01:45:59]** oh, that's, that's low.
 **[01:46:01]** Six and seven fire damage.
 **[01:46:04]** Let me total.
@@ -2557,7 +2557,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:46:19]** nodding, and so I'm like,
 **[01:46:20]** so you take a big swing right at the base of the vines
 **[01:46:22]** that are supporting him,
-**[01:46:22]** and this Manchun like,
+**[01:46:22]** and this Manshoon like,
 **[01:46:25]** plummits down to the ground.
 **[01:46:26]** Yeah, I never remember you
 **[01:46:27]** and kind of holds himself back up again.
@@ -2572,16 +2572,16 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:46:46]** Six and one fail.
 **[01:46:50]** Oh, no.
 **[01:46:52]** Why don't we always die during the live shows?
-**[01:46:57]** The beast of Aeroa is furious that
+**[01:46:57]** The beast of Erua is furious that
 **[01:47:02]** that's just got torched.
 **[01:47:04]** And so he's going to charge ahead right next to Scoot as well
-**[01:47:06]** and just try to spear the Manchun on his horn.
+**[01:47:06]** and just try to spear the Manshoon on his horn.
 **[01:47:09]** His one horn.
 **[01:47:11]** And like a rhinoceros.
 **[01:47:14]** And he hits with a 25.
 **[01:47:18]** Dealing, 12 damage.
 **[01:47:22]** Yeah, he kind of skewers this,
-**[01:47:23]** this plant Manchun,
+**[01:47:23]** this plant Manshoon,
 **[01:47:26]** tearing into him.
 **[01:47:26]** The guy seems to be made of plant as well,
 **[01:47:28]** kind of like the podlings,
@@ -2629,15 +2629,15 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:48:41]** Ilka.
 **[01:48:42]** Sweet.
 **[01:48:44]** So I'm with fetch.
-**[01:48:47]** I'm going to vicious mockery all over Manchun.
+**[01:48:47]** I'm going to vicious mockery all over Manshoon.
 **[01:48:51]** And for that, I remember that he did not care for the mention of Rowan Crooks.
 **[01:48:56]** So I'm going to definitely play my favorite Rowan Crooks ballad.
 **[01:48:59]** And you've got a bunch.
 **[01:49:00]** Yeah.
 **[01:49:01]** And I'm going to get the orchestra back in me up.
 **[01:49:04]** Oh, sweet.
-**[01:49:05]** Do you have one about how Rowan Crooks defeated Manchun at the time?
-**[01:49:07]** Yes, that time that they kicked the pants off of Manchun.
+**[01:49:05]** Do you have one about how Rowan Crooks defeated Manshoon at the time?
+**[01:49:07]** Yes, that time that they kicked the pants off of Manshoon.
 **[01:49:11]** And he cried a lot.
 **[01:49:12]** And he crawled up in the little ball in the corner.
 **[01:49:15]** Is that a wisdom save?
@@ -2653,7 +2653,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:49:40]** Yeah, he's writhing and raging and yelling blasphemies and curses at you, telepathically.
 **[01:49:45]** As he's like, he's starting to lose his cool clearly.
 **[01:49:49]** Nothing he had much of one to begin with.
-**[01:49:51]** This Manchun, unlike Nancy, seems to be much more just kind of like
+**[01:49:51]** This Manshoon, unlike Nancy, seems to be much more just kind of like
 **[01:49:56]** affected by everything around him, much more sensitive.
 **[01:49:58]** So, yeah, that totally does it.
 **[01:50:01]** He's just so pissed at you.
@@ -2692,7 +2692,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:51:08]** Yes.
 **[01:51:08]** Yeah, so the rabbits helped you in a sense, spiritually, at least.
 **[01:51:13]** Takes us back to the bats.
-**[01:51:15]** So, Manchun is going to start whipping with his vine tentacles again.
+**[01:51:15]** So, Manshoon is going to start whipping with his vine tentacles again.
 **[01:51:20]** Two at Ilka.
 **[01:51:22]** And one at fetch to try to pull him closer again.
 **[01:51:26]** So, the two on Ilka have disadvantage.
@@ -2810,7 +2810,7 @@ After defeating the Body Taker, Fetch reveals he can transport everyone out of t
 **[01:54:38]** So the velociraptor gets two attacks,
 **[01:54:41]** although it feels a little overkill now.
 **[01:54:43]** No, no, no.
-**[01:54:44]** And then it heads towards Manchun
+**[01:54:44]** And then it heads towards Manshoon
 **[01:54:48]** with both a claw and a bite attack.
 **[01:54:51]** Okay.
 **[01:54:52]** So starting with the bite,

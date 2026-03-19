@@ -33,9 +33,9 @@ SWOJ continues their meeting with Jarlaxle aboard the Eyecatcher. Jarlaxle offer
 
 At the Yawning Portal, SWOJ encounters Davil Starsong of the Zhentarim's Doom Raiders faction. Bonnie telepathically reads Davil's mind and confirms he is searching for the Stone of Golorr. Three Strings the bard performs. SWOJ returns to Trollskull Alley for the grand opening of The Short Rest tavern, which draws a large crowd including neighbors, allies, and even Zardos/Jarlaxle with Fel'rekt in attendance.
 
-During the opening party, a catastrophic fireball explosion rocks Trollskull Alley. Ten or more people are killed, including Voniel the halfling. Taga is badly injured. A dead gnome is found in the alley center with a dagger, sewage-stained boots, and a Neverember-branded pouch containing five gemstones. An eyewitness (Phyllis the flower shop owner) reports seeing a dark figure take something from the gnome's body and flee south. Davil Starsong flees when a griffin cavalry rider appears.
+During the opening party, a catastrophic fireball explosion rocks Trollskull Alley. Ten or more people are killed, including [[Vaniel]] the halfling. Taga is badly injured. A dead gnome is found in the alley center with a dagger, sewage-stained boots, and a Neverember-branded pouch containing five gemstones. An eyewitness (Phyllis the flower shop owner) reports seeing a dark figure take something from the gnome's body and flee south. Davil Starsong flees when a griffin cavalry rider appears.
 
-Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barrel near Vincent Trench's office. A noble witness reports seeing a 'puppet without strings' (nimble wright) on the rooftop of the flower shop hurling something into the crowd. SWOJ investigates the rooftops and finds a ruby eye from the nimble wright. Magistrate Alcoria Stonemarrow investigates the crime scene. Fel'rekt expresses guilt about failing to protect SWOJ. Vincent Trench confirms the necklace is the murder weapon. The episode ends with SWOJ planning to visit Renaer Neverember for more information about the dead gnome.
+Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barrel near Vincent Trench's office. A noble witness reports seeing a 'puppet without strings' (nimble wright) on the rooftop of the flower shop hurling something into the crowd. SWOJ investigates the rooftops and finds a ruby eye from the nimble wright. Magistrate Ulkoria Stonemarrow investigates the crime scene. Fel'rekt expresses guilt about failing to protect SWOJ. Vincent Trench confirms the necklace is the murder weapon. The episode ends with SWOJ planning to visit Renaer Neverember for more information about the dead gnome.
 
 ### Key Events
 
@@ -46,7 +46,7 @@ Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barr
 - SWOJ meets Davil Starsong of the Zhentarim Doom Raiders at the Yawning Portal
 - Bonnie telepathically reads Davil's mind - he's searching for the Stone of Golorr
 - Grand opening of The Short Rest tavern in Trollskull Alley
-- Fireball explosion devastates Trollskull Alley - 10+ killed including Voniel
+- Fireball explosion devastates Trollskull Alley - 10+ killed including [[Vaniel]]
 - Dead gnome (later identified as [[Dalekar|Dalcar]]) found with Neverember pouch and gemstones
 - Dark figure in black leather takes something from the gnome's body and flees south
 
@@ -58,7 +58,7 @@ Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barr
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Jarlaxle  Zardos Zord]] — Leader of Bregan D'aerthe. Offers SWOJ a counter-deal for the Stone of Golorr. Explains the Xanathar Guild threat and Nihiloor's role. Attends the Short Rest opening party but flees after the fireball explosion.
+- [[Jarlaxle Zardos Zord]] — Leader of Bregan D'aerthe. Offers SWOJ a counter-deal for the Stone of Golorr. Explains the Xanathar Guild threat and Nihiloor's role. Attends the Short Rest opening party but flees after the fireball explosion.
 - [[Fel'Rekt Lafeen]] — Drow agent of Bregan D'aerthe. Attends the Short Rest opening. Feels deeply guilty after the fireball explosion, believing he failed in his duty to protect SWOJ. Stays behind to help clean up and guard the tavern.
 - [[Nihiloor]] — Mind flayer working for the Xanathar Guild. Responsible for creating intellect devourers. Mentioned by Jarlaxle as a key threat.
 - [[Davil Starsong]] — Zhentarim agent and member of the Doom Raiders faction. Encounters SWOJ at the Yawning Portal. Bonnie reads his mind and determines he is searching for the Stone of Golorr. Flees the Short Rest opening when a griffin cavalry rider appears overhead.

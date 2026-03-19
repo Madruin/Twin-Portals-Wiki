@@ -16,10 +16,6 @@ A beach of powdery white sand on Devil's Rock that conceals dozens of buried ske
 **First appearance:** Episode S02E10
 **Total appearances:** 1 episodes
 
-## Description
-
-A beach of powdery white sand on Devil's Rock that conceals dozens of buried skeletons. The undead burst from the sand when living creatures walk across.
-
 ## Notable Events
 
 

@@ -16,10 +16,6 @@ An ancient ruined castle at the center of the Mere of Dead Men, now occupied by 
 **First appearance:** Episode S02E27
 **Total appearances:** 1 episodes
 
-## Description
-
-An ancient ruined castle at the center of the Mere of Dead Men, now occupied by the Cult of the Dragon. Features a collapsed wizard tower with a broken observatory telescope, outer walls approximately 40 feet tall, a rectangular layout about 100 feet around, a main gate, and massive excavation pits in the bailey. The cult is digging for underground ruins and relics of Myrkul.
-
 ## Notable Events
 
 

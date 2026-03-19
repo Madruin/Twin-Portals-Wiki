@@ -16,10 +16,6 @@ Overgrown magical laboratory space inside the Beast of Erua's ribcage. Contains 
 **First appearance:** Episode S02E03
 **Total appearances:** 1 episodes
 
-## Description
-
-Overgrown magical laboratory space inside the Beast of Erua's ribcage. Contains chemical concoctions, journals, logbooks, and a stone teleportation circle with ruins. Trashed by Lark after the battle.
-
 ## Notable Events
 
 
