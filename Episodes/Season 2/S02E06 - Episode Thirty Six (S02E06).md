@@ -69,6 +69,7 @@ At the Staghorn Flagon (Stag and Flag) tavern, they meet Gundarkson, the bartend
 - [[Juan]] — Half-elf fiddler and Hanna's husband. Went missing when the mysterious mists rolled into Amphail about a tenday ago. Was going to play with a local band for the festival.
 - [[Gundark Gundarkson]] — Bartender and working mayor of Amphail who runs the Staghorn Flagon (Stag and Flag). Provides information about Anya Irmbrusk's disappearance and the mysterious mists from the Cryptwood. Was affected by the mists himself, blacking out behind the bar and waking outside with an axe.
 - [[Craw]] — Giant scarab beetle companion. Travels with SWOJ north along the Long Road. Has difficulty navigating the dense Kryptwood. Sent back to Amphail when the party heads toward the Sword Mountains.
+- [[Nuria]] — Member of the Circle of Dusk druids. One of several druids (along with Shala, Ander, and Lea) who have gone missing from the glade, progressively losing memories with each mist.
 
 ### Locations
 

@@ -29,7 +29,7 @@ Air Date: 2019-06-01 | Duration: 02:21:53
 
 ## Summary
 
-SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry is revealed to be an intellect devourer inhabiting a dead body. They receive visits from Ulkoria Stonemarrow of the Watchful Order (who wards their door and registers Xae and Ylka as magic users), the hostile neighbor Emmek Frewn (who tries to buy the manor), and Fel'rekt Lafeen of the Bregan D'aerthe (who reveals intelligence about doppelgangers, devil worship among nobles, and the Wavesilver crest connection). Scoot's mother Taga agrees to help run the tavern. The orphans Squidly, Nat, and Jenks are hired as the Trollskull Alley Irregulars. Leah, Scoot's former crewmate from the Sea Plum and Emerald Enclave contact, brings a quest: scarecrows are attacking Stout Fellow Farm in Undercliff. SWOJ travels south, meets Mary Stout Fellow and Blossom Zuber, camps at the farm, and fights three scarecrows at night using bioluminescent moss as bait.
+SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry is revealed to be an intellect devourer inhabiting a dead body. They receive visits from Ulkoria Stonemarrow of the Watchful Order (who wards their door and registers Xae and Ylka as magic users), the hostile neighbor Emmek Frewn (who tries to buy the manor), and Fel'rekt Lafeen of the [[Bregan D'Aerthe]] (who reveals intelligence about doppelgangers, devil worship among nobles, and the Wavesilver crest connection). Scoot's mother Taga agrees to help run the tavern. The orphans Squidly, Nat, and Jenks are hired as the Trollskull Alley Irregulars. Leah, Scoot's former crewmate from the Sea Plum and [[Emerald Enclave]] contact, brings a quest: scarecrows are attacking Stout Fellow Farm in Undercliff. SWOJ travels south, meets Mary Stout Fellow and Blossom Zuber, camps at the farm, and fights three scarecrows at night using bioluminescent moss as bait.
 
 ### Key Events
 
@@ -37,10 +37,10 @@ SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry
 - Ulkoria Stonemarrow wards Trollskull Manor and registers Xae and Ylka as magic users
 - Emmek Frewn tries to buy Trollskull Manor for 150gp and is refused
 - Taga (Scoot's mom) agrees to help run the tavern
-- Trollskull Alley Irregulars (orphans) hired for 10gp per tenday
-- Fel'rekt Lafeen reveals Bregan D'aerthe intelligence about doppelgangers and devil worship among nobles
+- [[Trollskull Alley Irregulars]] (orphans) hired for 10gp per tenday
+- Fel'rekt Lafeen reveals [[Bregan D'Aerthe]] intelligence about doppelgangers and devil worship among nobles
 - Yagra revealed as the sender of the 'Y' note
-- Leah brings Emerald Enclave quest: scarecrows attacking Stout Fellow Farm
+- Leah brings [[Emerald Enclave]] quest: scarecrows attacking Stout Fellow Farm
 - SWOJ travels to Undercliff and meets Mary Stout Fellow and Blossom Zuber
 - Blossom Zuber's son Dasher is missing
 
@@ -62,6 +62,8 @@ SWOJ returns to Trollskull Manor after the Zuber ride confrontation, where Terry
 - [[Yagra]] — Mentioned as the person who sent the 'Y' note to SWOJ. Connected to Bregan D'aerthe.
 - [[Leah]] — Half-elf, Scoot's former crewmate and first mate of the Sea Plum. Now an Emerald Enclave contact. Brings the scarecrow quest from Stout Fellow Farm. Offers to ward Trollskull against vermin and set up a pigeon rookery.
 - [[Sally]] — A pigeon from the Sea Plum, now roosting on the roof of Trollskull Manor. Ylka speaks to her via Speak with Animals.
+- [[Broxley Fairkettle]] — Representative of the Fellowship of Innkeepers. One of roughly ten guild representatives who visit Trollskull Manor to discuss tavern licensing requirements.
+- [[Justin Rask]] — Representative of the Guild of Butchers. A tall, scarred, dead-eyed humanoid who visits Trollskull Manor for tavern licensing. Shares a first name with Lark's player.
 
 ### Locations
 

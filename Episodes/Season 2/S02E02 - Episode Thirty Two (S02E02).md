@@ -29,7 +29,7 @@ Air Date: 2022-03-27 | Duration: 02:30:33
 
 ## Summary
 
-SWOJ continued through the Brighanox tunnels deep underground in the borderlands between the Feywild and the Shadowfell. The Brighanox elders, including one named Rackjack, taught the party about wish stones -- crystallized unfulfilled wishes that the creatures collected and preserved. The ghost of Thail demonstrated his ability to possess living bodies by entering Lark. Through Thail, SWOJ learned that his brother Squidly's wish stone had been stolen by the Strigoi, who embedded wish stones into the scales of the Beast of Erua to fuel its movement. The Brighanox dug a tunnel to the Shadowfell border for the party.
+SWOJ continued through the Brighanox tunnels deep underground in the borderlands between the Feywild and the Shadowfell. The Brighanox elders, including one named Rackjack, taught the party about wish stones -- crystallized unfulfilled wishes that the creatures collected and preserved. The ghost of Thail demonstrated his ability to possess living bodies by entering Lark. Through Thail, SWOJ learned that his brother Squidly's wish stone had been stolen by the [[Strigoi]], who embedded wish stones into the scales of the Beast of Erua to fuel its movement. The Brighanox dug a tunnel to the Shadowfell border for the party.
 
 Emerging into the Shadowfell's windswept darkness and black fog, the group encountered three Shadar-kai -- shadow elves named Blish, Mari, and Idae -- who served the Raven Mother. The Shadar-kai warned the party about the Beast of Erua, explained that the Rose Knight's mausoleum sat atop the creature's back, and ominously cautioned them to 'beware the bag man.' They pointed SWOJ toward the Shadow version of The Way Inn for shelter.
 

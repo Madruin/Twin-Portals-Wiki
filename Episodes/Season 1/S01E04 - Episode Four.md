@@ -29,11 +29,11 @@ Air Date: 2019-02-18 | Duration: 01:55:33
 
 ## Summary
 
-The party wakes up in Scoot and Lark's apartment after a shared dream sequence from the previous episode. Scoot's mother Taga arrives with a pie, and the group receives a letter from House Cassalanter demanding repayment of a loan to Lark's family, House Wavesilver, at 500% interest on a 10 gold piece loan. The party heads to the Yawning Portal tavern, where they discover they are banned for 20 days following the events of the previous episode. Volo (Volothamp Geddarm) meets them there and, as payment for rescuing Floon and Renaer, gives them the deed to Trollskull Manor, a rundown estate in the North Ward.
+The party wakes up in Scoot and Lark's apartment after a shared dream sequence from the previous episode. Scoot's mother Taga arrives with a pie, and the group receives a letter from [[Cassalanter Family  Cult Of Asmodeus|House Cassalanter]] demanding repayment of a loan to Lark's family, House Wavesilver, at 500% interest on a 10 gold piece loan. The party heads to the Yawning Portal tavern, where they discover they are banned for 20 days following the events of the previous episode. Volo (Volothamp Geddarm) meets them there and, as payment for rescuing Floon and Renaer, gives them the deed to Trollskull Manor, a rundown estate in the North Ward.
 
 The party decides to name themselves the Silver Waves of Justice (SWOJ), combining elements of their members' backgrounds. They encounter Mara, a reporter for the Waterdeep Wazoo newspaper, who is interested in their heroics. The group then takes a Zuber ride with their regular driver Terry to investigate the Spouting Fish tavern, where people have been going missing. They meet Eunissa (the tavern owner) and learn that her husband Harold and others have vanished.
 
-Investigating the sewers beneath the Spouting Fish, the party discovers Xanathar Guild symbols on the walls and fights three grell -- floating brain-like creatures with paralyzing tentacles. During the battle, the mysterious Black Viper (a masked vigilante woman) appears to assist them. They rescue approximately fifteen missing people, including Harold, who gives the party his Playwright's Dagger in gratitude. The Black Viper leaves Ylka a black onyx gemstone rose before disappearing into the night. The episode ends with the party returning the rescued captives to safety.
+Investigating the sewers beneath the Spouting Fish, the party discovers [[Xanathar Guild]] symbols on the walls and fights three grell -- floating brain-like creatures with paralyzing tentacles. During the battle, the mysterious Black Viper (a masked vigilante woman) appears to assist them. They rescue approximately fifteen missing people, including Harold, who gives the party his Playwright's Dagger in gratitude. The Black Viper leaves Ylka a black onyx gemstone rose before disappearing into the night. The episode ends with the party returning the rescued captives to safety.
 
 ### Key Events
 
@@ -45,7 +45,7 @@ Investigating the sewers beneath the Spouting Fish, the party discovers Xanathar
 - Party names themselves Silver Waves of Justice (SWOJ)
 - Meet Mara, reporter for [[Waterdeep Wazoo]] newspaper
 - Investigate the Spouting Fish tavern where people have gone missing
-- Discover Xanathar Guild symbols in the sewers beneath the tavern
+- Discover [[Xanathar Guild]] symbols in the sewers beneath the tavern
 - Fight three grell in the sewers with assistance from the Black Viper
 
 ### Featured Characters

@@ -62,6 +62,9 @@ SWOJ levels up to 3 (Scoot gets dolphin totem, Ylka joins College of War, Lark b
 - [[Dalekar]] — A gnome spy following Renaer Neverember, seeking the Stone of Golorr for Dagult Neverember (Renaer's father, former Open Lord of Waterdeep).
 - [[Dagult Neverember]] — Renaer's father and former Open Lord of Waterdeep. Mentioned as having a hoard of gold and employing the spy Dalakhar to find the Stone of Golorr.
 - [[Hammond Kraddoc]] — Representative of the Vintners', Distillers', and Brewers' Guild. Involved in tavern licensing.
+- [[Dasher Zuber]] — Blossom Zuber's missing son, now a wererat living with the Shard Shunners inside the God Catcher. Chose to become a wererat to join his "real family." Pays SWOJ 100gp and writes a farewell letter to his mother.
+- [[Kittle]] — Wererat member of the Shard Shunners gang. Present in the God Catcher cavern with Vaniel, Vixby, and Dasher Zuber.
+- [[Vixby]] — Wererat member of the Shard Shunners gang. Present in the God Catcher cavern with Vaniel, Kittle, and Dasher Zuber.
 
 ### Locations
 

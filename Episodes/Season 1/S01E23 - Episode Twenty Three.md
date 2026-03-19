@@ -37,7 +37,7 @@ They free Zylka and fight animated armor constructs. Zylka reveals there are exp
 
 In the Necromancer's private study, they find a vault containing a ledger with bookmarked names: Mirt, Coralus Thann, Tharduke Starbuckler, Jelen Irmbrusk, and Grim Wavesilver (Lark's father). They also find the [[Mask of the Cultivator]], which transforms Lark when he puts it on, giving him silver-tipped hair.
 
-A confrontation with the Necromancer follows. He reveals that Ylka is a clone of Zylka, created by her grandfather Mordecai to protect her soul. He also tells them the Cassalanters have the third Eye of the Stone of Golorr. He sends them away. They find Urstul Floxxin and discover Squiddly is with him. After intimidation and persuasion, Squiddly rejoins SWOJ and reveals he pickpocketed the second Eye of the [[The Stone of Golorr|Stone of Golorr]] from Urstul. The Necromancer secretly implanted a [[Gem of Seeing]] in Lark's temple during the clone spell resurrection. They escape as the Kolat Towers explode behind them.
+A confrontation with the Necromancer follows. He reveals that Ylka is a clone of Zylka, created by her grandfather Mordecai to protect her soul. He also tells them the [[Cassalanter Family  Cult Of Asmodeus|Cassalanters]] have the third Eye of the Stone of Golorr. He sends them away. They find Urstul Floxxin and discover Squiddly is with him. After intimidation and persuasion, Squiddly rejoins SWOJ and reveals he pickpocketed the second Eye of the [[The Stone of Golorr|Stone of Golorr]] from Urstul. The Necromancer secretly implanted a [[Gem of Seeing]] in Lark's temple during the clone spell resurrection. They escape as the Kolat Towers explode behind them.
 
 ### Key Events
 
@@ -49,7 +49,7 @@ A confrontation with the Necromancer follows. He reveals that Ylka is a clone of
 - Major revelation: Zylka (original Ylka) found shackled in construct workshop, forced to work on Nim the golem
 - SWOJ frees Zylka and fights animated armor constructs
 - Zylka reveals explosives in the adjoining tower
-- Contact Remalia Haventree via sending stone for backup
+- Contact [[Harpers|Remalia Haventree]] via sending stone for backup
 - Ylka uses disguise ring to impersonate the Necromancer, tricks shield wizard into leaving
 
 ### Featured Characters

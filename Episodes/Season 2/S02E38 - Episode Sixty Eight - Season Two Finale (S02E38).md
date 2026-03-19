@@ -35,7 +35,7 @@ Upon arriving at Trollskull Manor, SWOJ is reunited with beloved NPCs: Lif the g
 
 The party spends a day revisiting Waterdeep: visiting Frewn's tavern (their competition across the street, now thriving with their startup investment), checking on Vincent Trench's detective office (locked and abandoned), getting unbanned from the Yawning Portal where Xae hears a mysterious voice from Undermountain saying 'come home,' and Ylka performs with [[Three Strings]] to a packed crowd. Terry the awakened horse arrives — now armored with daggers and glowing yellow eyes — and races them across rooftops to their meeting with the Masked Lords.
 
-At the palace, SWOJ performs a musical recap of Season 2 for the assembled leadership: the Masked Lords, Renaer Neverember, Jarlaxle (as himself), Ramalia Haventree of the Harpers, and representatives from the Sword Coast Alliance including Baldur's Gate. They are presented with a Letters of Charter officially recognizing the Guild of the Silver Waves of Justice, granting them recruitment rights, petitioning privileges, safe passage, limited judicial immunity, and franchising rights across the Sword Coast Alliance. Terry is invited as the first official guild member.
+At the palace, SWOJ performs a musical recap of Season 2 for the assembled leadership: the Masked Lords, Renaer Neverember, Jarlaxle (as himself), Ramalia Haventree of the [[Harpers]], and representatives from the Sword Coast Alliance including Baldur's Gate. They are presented with a Letters of Charter officially recognizing the [[Silver Waves Of Justice|Guild of the Silver Waves of Justice]], granting them recruitment rights, petitioning privileges, safe passage, limited judicial immunity, and franchising rights across the Sword Coast Alliance. Terry is invited as the first official guild member.
 
 The finale concludes with a massive celebration at Trollskull Manor on God's Night during the festival of Marpenoth. Attendees include Antediluvian Jake Morrison, Ann Jane Flip-Flap, Pinker from the Flute and Blackmore, Sid Squid, Zardoz Zord, Volo, the Doom Raiders, and Ramalia. On the rooftop at dawn, beside a fire lit by Aurinax's breath, each party member burns a meaningful item: Scoot burns Rowan Crooks trading cards, Lark burns his Jolly Gents outfit, and Xae throws in a Feywild mushroom, while Ylka plays her grandfather Mordecai's music. Antediluvian Jake and Angie perform Mordecai Gralhund's soul-binding ritual, binding their souls to objects to end their undead state. Each PC reflects on their future: Scoot wants to stay grounded at Trollskull and learn Tagga's shadow skills; Ylka plans to investigate the Gralhund family demons and her grandfather's legacy; Xae intends to seek her siblings in Undermountain (having heard 'one sibling freed, five more and nine years remain' in a dream); and Lark wants to continue adventuring and recruiting for the guild. The episode ends with twin portals appearing on the rooftop — a green one releasing an aboleth tendril, and a rose-gold one through which Laeral Silverhand arrives riding the unicorn Lyrian, road-worn and armed, as the multiverse awaits.
 
@@ -49,7 +49,7 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 - The teleportation circle in Trollskull's basement has been completed by Ulkoria Stonemarrow, connecting to the Shard of the Moon
 - Tagga's children Bennet and Janks are now teenagers — a Griffin Rider recruit and wizard student respectively
 - Simon (Scoot's father) returns after years lost at sea, tells of being helped by Zhentarim-affiliated pirates and witnessing a divine tidal wave near Luskan
-- The Doom Raiders have filled the Zhentarim power vacuum in Waterdeep after Manshoon's defeat
+- The [[Doom Raiders]] have filled the [[Zhentarim]] power vacuum in Waterdeep after Manshoon's defeat
 - SWOJ visits Frewn's thriving tavern, finds Vincent Trench's office locked and abandoned
 
 ### Featured Characters
@@ -72,6 +72,7 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 - [[Terry]] — An awakened horse ally of SWOJ, now upgraded with daggers, armor, a SWOJ hawberk, and faintly glowing yellow eyes. Can throw daggers from his hooves. Arrives dramatically with a lightning bolt, leaps across rooftops to transport the party to the Masked Lords. Invited as the first official member of the SWOJ guild.
 - [[Three Strings]] — Resident bard at the Yawning Portal. Plays one of Ylka's tunes to the packed crowd, who all sing along. When Ylka joins in, Three Strings jumps up on the table with her for a celebratory duet.
 - [[Zardoz Zord]] — Attends the God's Night celebration at Trollskull Manor, helping run the bar alongside old friends and allies.
+- [[Volo]] — Famous author who attends the God's Night celebration at Trollskull Manor, telling tall tales and competing with Lark in a friendly rivalry.
 
 ### Locations
 

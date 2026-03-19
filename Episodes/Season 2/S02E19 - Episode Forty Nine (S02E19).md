@@ -29,7 +29,7 @@ Air Date: 2023-09-28 | Duration: 02:01:33
 
 ## Summary
 
-SWOJ emerges from Castle Never with the Crown of Never and their captive, the Zhentarim assassin Urstul Floxxin. After receiving healing from halfling clerics brought by Renaer Neverember, they interrogate Floxxin, who reveals that Manshoon (the masked figure known as 'Nancy') sent him to retrieve the crown. Floxxin discloses that Manshoon operates from Amphail and commands an army including Zhentarim, barbarians, peritons, and dragon cultists mustered inside the Spiral Cavern beneath the mountain.
+SWOJ emerges from Castle Never with the Crown of Never and their captive, the [[Zhentarim]] assassin Urstul Floxxin. After receiving healing from halfling clerics brought by Renaer Neverember, they interrogate Floxxin, who reveals that Manshoon (the masked figure known as 'Nancy') sent him to retrieve the crown. Floxxin discloses that Manshoon operates from Amphail and commands an army including Zhentarim, barbarians, peritons, and dragon cultists mustered inside the Spiral Cavern beneath the mountain.
 
 Mr. E arrives dramatically with Mellafarne the bronze dragon and a flight of four other dragons -- Jack (silver), Jill (white), Chip, and Dale -- representing the Way of the Balanced Scales. A war council convenes with Dagult Neverember, Renaer Neverember, Zardoz Zord, and Remalia Haventree to discuss the growing threats facing Neverwinter: barbarian armies massing near Luskan, the Zhentarim forces in Amphail, and the Cult of the Dragon. Mellafarne explains that she can seal the chasm threatening Neverwinter using the Crown of Never combined with crystals from the Amphail cavern, and she needs SWOJ to retrieve those crystals.
 
@@ -47,7 +47,7 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 - Mellafarne explains she needs the [[Crown of Neverwinter|Crown of Never]] plus crystals from Amphail to seal the chasm
 - SWOJ flies to Amphail on dragonback
 - Meeting with Circle of Dusk druids Leah and Shala who provide intel on the Spiral Cavern
-- SWOJ disguises as Zhentarim and infiltrates the Spiral Cavern during a staged distraction
+- SWOJ disguises as [[Zhentarim]] and infiltrates the Spiral Cavern during a staged distraction
 - Party witnesses the massive military staging operation inside the cavern
 
 ### Featured Characters
@@ -69,6 +69,9 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 - [[Zardoz Zord]] — An ally who participates in the war council at Neverwinter, helping plan strategy against the multiple threats facing the city.
 - [[Remalia Haventree]] — An ally who participates in the war council at Neverwinter, helping plan strategy against the threats facing the city.
 - [[Craw]] — Giant scarab beetle companion. Reappears near Amphail as a mount for Leah and Shala of the Circle of Dusk. Crashes through brush to reunite with Scoot in a joyful reunion.
+- [[Ancient Black Dragon (Elf Form)]] — An ancient black dragon allied with Manshoon who can shapeshift into a proud, haughty elf. Seen conferring with the Manshoon clone at the crystal overlook. Transforms and uses acid breath to burn through the Spiral Cavern ceiling.
+- [[Gorp]] — A friendly Zhentarim guard stationed inside the Spiral Cavern. Easily deceived by SWOJ's cover story about carrying replacement weapons. Enjoys patchouli.
+- [[Manshoon (Nancy Clone)]] — A clone of Manshoon operating from Amphail. Seen conferring with the ancient black dragon in elf form at the crystal overlook inside the Spiral Cavern. Plans to consolidate forces and open a hole at the top of the mountain.
 
 ### Locations
 

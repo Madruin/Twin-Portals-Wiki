@@ -29,9 +29,9 @@ Air Date: 2019-09-26 | Duration: 02:22:41
 
 ## Summary
 
-SWOJ continues their meeting with Jarlaxle aboard the Eyecatcher. Jarlaxle offers a counter-deal regarding the Stone of Golorr, explaining that Nihiloor the mind flayer works for the Xanathar Guild and was responsible for creating intellect devourers. Terry desperately eats an alley cat's brain. Janks suggests Hrabbaz, the Gralhund bodyguard known for hurting children, as a potential body for Terry.
+SWOJ continues their meeting with Jarlaxle aboard the Eyecatcher. Jarlaxle offers a counter-deal regarding the Stone of Golorr, explaining that Nihiloor the mind flayer works for the [[Xanathar Guild]] and was responsible for creating intellect devourers. Terry desperately eats an alley cat's brain. Janks suggests Hrabbaz, the Gralhund bodyguard known for hurting children, as a potential body for Terry.
 
-At the Yawning Portal, SWOJ encounters Davil Starsong of the Zhentarim's Doom Raiders faction. Bonnie telepathically reads Davil's mind and confirms he is searching for the Stone of Golorr. Three Strings the bard performs. SWOJ returns to Trollskull Alley for the grand opening of The Short Rest tavern, which draws a large crowd including neighbors, allies, and even Zardos/Jarlaxle with Fel'rekt in attendance.
+At the Yawning Portal, SWOJ encounters Davil Starsong of the [[Zhentarim]]'s [[Doom Raiders]] faction. Bonnie telepathically reads Davil's mind and confirms he is searching for the Stone of Golorr. Three Strings the bard performs. SWOJ returns to Trollskull Alley for the grand opening of The Short Rest tavern, which draws a large crowd including neighbors, allies, and even Zardos/Jarlaxle with Fel'rekt in attendance.
 
 During the opening party, a catastrophic fireball explosion rocks Trollskull Alley. Ten or more people are killed, including [[Vaniel]] the halfling. Taga is badly injured. A dead gnome is found in the alley center with a dagger, sewage-stained boots, and a Neverember-branded pouch containing five gemstones. An eyewitness (Phyllis the flower shop owner) reports seeing a dark figure take something from the gnome's body and flee south. Davil Starsong flees when a griffin cavalry rider appears.
 
@@ -69,6 +69,7 @@ Janks finds a [[Necklace of Fireballs]] (with two remaining beads) dropped in a 
 - [[Jenks]] — Orphan street kid and member of the Trollskull Alley Irregulars. Suggests Hrabbaz as a body candidate for Terry. Finds the Necklace of Fireballs in a barrel after the explosion and gives it to SWOJ.
 - [[Hrabbaz]] — Half-orc bodyguard employed by the Gralhund family. Known for being violent and cruel, especially toward children. Janks suggests him as a potential body for Terry.
 - [[Vaniel]] — Halfling patron of the [[Hole In The Wall]] tavern. Attends the Short Rest grand opening and is killed in the fireball explosion on [[Trollskull Alley]].
+- [[Sergeant Crowley]] — City Watch sergeant who assists Ulkoria Stonemarrow in investigating the fireball explosion. Coordinates guards at the crime scene while Ulkoria handles the arcane analysis.
 
 ### Locations
 

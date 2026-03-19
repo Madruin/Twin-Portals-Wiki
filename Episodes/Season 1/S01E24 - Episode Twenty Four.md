@@ -31,7 +31,7 @@ Air Date: 2021-06-25 | Duration: 02:54:28
 
 The episode opens with SWOJ leveling up to 5th level. Scoot gains extra attack and +10 feet movement speed (now 40 ft). Xae gains conjure animals and dispel magic. Lark gains uncanny dodge and his hair is now silver-tipped from the Mask of the Cultivator. Ylka learns Leomund's Tiny Hut (which she calls 'Yurtle's Tiny Shell').
 
-At the Short Rest, reporters including [[Mara|Mara Melora]] arrive to ask about the Kolat Towers explosion. Zardoz Zord visits and shoots an imp disguised as a crow with his pistol, revealing the Cassalanters use imp spies. He tells SWOJ that the Cassalanters have the third Eye of the Stone of Golorr and suggests infiltrating Cassalanter Villa during a daytime feast called Founder's Day.
+At the Short Rest, reporters including [[Mara|Mara Melora]] arrive to ask about the Kolat Towers explosion. Zardoz Zord visits and shoots an imp disguised as a crow with his pistol, revealing the Cassalanters use imp spies. He tells SWOJ that the [[Cassalanter Family  Cult Of Asmodeus|Cassalanters]] have the third Eye of the Stone of Golorr and suggests infiltrating Cassalanter Villa during a daytime feast called Founder's Day.
 
 The party heads to Cassalanter Villa. Xae wild shapes into a golden retriever and befriends a guard named Phelerek. The Cassalanter children, Elzerina and Terenzio, let the party into the mansion to play 'ghosts' (a hide and seek variant). While playing with the children, the party splits up to search the villa.
 
@@ -80,6 +80,7 @@ In a desperate escape, Ylka grabs the marble (the third Eye), Scoot administers 
 - [[Amalia Cassalanter]] — Lady Cassalanter, a powerful spellcaster. Returns home and confronts SWOJ in the underground shrine. Casts charm person (charming Scoot), hastes herself, and launches a devastating fireball (10d6 damage) that knocks Lark and Xae unconscious.
 - [[Victoro Cassalanter]] — Lord Cassalanter, mentioned but not present. His locked office contains loan documents and the Asmodeus cloven hoof icon. A large portrait of him and Amalia hangs in the library.
 - [[Pog Waggletop]] — Mentioned in passing, context unclear.
+- [[Nana]] — Older tiefling nanny to the Cassalanter children. Scolds Elzerina and Terenzio for playing instead of studying. Nearly exposes SWOJ's infiltration but is fooled by Ylka's Minor Illusion.
 
 ### Locations
 

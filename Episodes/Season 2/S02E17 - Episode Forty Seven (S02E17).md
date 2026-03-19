@@ -33,14 +33,14 @@ SWOJ is arrested by Lord Dagult Neverember's guards at the subterranean lake. La
 
 The chasm erupts catastrophically, unleashing chaos across Neverwinter as demons and magical creatures pour into the streets. Neverember releases SWOJ, returns their gear, and tasks them with helping defend the city. The party fights chokers and a Hezrou-like frog demon in the streets, rescuing a trapped family in the process. Ylka creates shelter with Tiny Hut and heals the group with Aura of Vitality.
 
-SWOJ encounters members of Bregan D'aerthe -- Teriador and Fel'Rekt -- who are already fighting the invading creatures on Jarlaxle's orders. The party pushes toward the chasm district wall, where they witness an enormous magical kaiju creature rampaging through the area. In a dramatic moment, Lark persuades the kaiju to stop attacking with a natural 20 persuasion roll. Shaleheart the bulette arrives and helps destroy shadows that were attacking Neverember. Ylka sings Song of Rest, soothing the kaiju with a performance roll of 22, and the city calms temporarily as the immediate crisis subsides.
+SWOJ encounters members of [[Bregan D'Aerthe]] -- Teriador and Fel'Rekt -- who are already fighting the invading creatures on Jarlaxle's orders. The party pushes toward the chasm district wall, where they witness an enormous magical kaiju creature rampaging through the area. In a dramatic moment, Lark persuades the kaiju to stop attacking with a natural 20 persuasion roll. Shaleheart the bulette arrives and helps destroy shadows that were attacking Neverember. Ylka sings Song of Rest, soothing the kaiju with a performance roll of 22, and the city calms temporarily as the immediate crisis subsides.
 
 ### Key Events
 
 - SWOJ is arrested by Neverember's guards at the subterranean lake
 - Lark hides the obsidian tablet (sleight of hand 19/20); Ylka hides the stone of galore
 - Party is teleported to the Hall of Justice for Zone of Truth interrogation
-- SWOJ is cleared of murder charges and explains the Jolly Gents/Manshoon connection
+- SWOJ is cleared of murder charges and explains the [[Jolly Gents]]/Manshoon connection
 - Lark investigates Jake's obsidian tablet -- finds information about the chasm's planar instability and intersecting planes
 - The chasm erupts catastrophically, releasing demons and magical creatures into Neverwinter
 - Neverember releases SWOJ, returns their gear, and tasks them with defending the city

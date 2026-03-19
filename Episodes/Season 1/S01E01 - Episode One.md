@@ -31,22 +31,22 @@ Air Date: 2018-12-29 | Duration: 02:09:08
 
 The adventure began on the 21st of Marpenoth in the city of Waterdeep, the City of Splendors, where an uptick in gang violence had been plaguing the Dock Ward and Trade Ward. The four adventurers -- Scoot Sparkles, Malark "Lark" Wavesilver, Ylka Gralhund, and Xaerine Rumblestride -- gathered at the Yawning Portal tavern in the Castle Ward. Scoot and Lark were childhood friends and roommates living at the Splintered Stair in the Dock Ward. Ylka was a recently resurrected human bard performing at the tavern with her concertina, and Xaerine was a lightfoot halfling druid who had arrived in Waterdeep through a mysterious portal into the City of the Dead with no memory of her past. Lark had rescued Xaerine from dangerous men at House Phaulkonmere, and she now needed a new place to stay.
 
-A bar fight erupted when a tattooed human man and four thugs attacked Yagra, a half-orc business associate of Lark's. The party intervened, with Scoot wielding his greataxe and Ylka casting vicious mockery. The barkeep Durnan leapt over the counter with a greatsword to help restore order. Before the fight could fully resolve, a dray pulled up outside and seven agents in black leather armor poured out, launching a crossbow ambush against the tattooed thugs in what appeared to be an inter-gang attack. The party helped defend the tavern alongside Durnan, who proved to be a fearsome fighter. Xaerine used druidcraft to mimic a llama's cry to spook the attackers' horses, while the tattooed leader drank a potion and escaped down the Yawning Portal well into Undermountain.
+A bar fight erupted when a tattooed human man and four thugs attacked Yagra, a half-orc business associate of Lark's. The party intervened, with Scoot wielding his greataxe and Ylka casting vicious mockery. The barkeep Durnan leapt over the counter with a greatsword to help restore order. Before the fight could fully resolve, a dray pulled up outside and seven [[Zhentarim]] agents in black leather armor poured out, launching a crossbow ambush against the tattooed thugs in what appeared to be an inter-gang attack between the Zhentarim and the [[Xanathar Guild]]. The party helped defend the tavern alongside Durnan, who proved to be a fearsome fighter. Xaerine used druidcraft to mimic a llama's cry to spook the attackers' horses, while the tattooed leader drank a potion and escaped down the Yawning Portal well into Undermountain.
 
-After the chaos subsided, the famous chronicler Volothamp "Volo" Geddarm descended from the upper level and hired the party to find his missing friend, Floon Blagmaar, a handsome man with red hair who had been kidnapped two nights prior. Volo provided gold for their services. The party traveled to the Dock Ward, visiting the Skewered Dragon tavern where Floon was last seen. There, Lark met Jelaster, an agent of the Harpers, who mentioned Ramalia Haventree and directed them to Candle Lane where the Zhentarim had been seen operating. The party made their way down the dark alley to a warehouse marked with the Zhentarim symbol -- a winged snake. Inside, they found three fresh corpses in black leather armor, heard footsteps retreating deeper within, and prepared to investigate further.
+After the chaos subsided, the famous chronicler Volothamp "Volo" Geddarm descended from the upper level and hired the party to find his missing friend, Floon Blagmaar, a handsome man with red hair who had been kidnapped two nights prior. Volo provided gold for their services. The party traveled to the Dock Ward, visiting the Skewered Dragon tavern where Floon was last seen. There, Lark met Jelaster, an agent of the [[Harpers]], who mentioned Ramalia Haventree and directed them to Candle Lane where the [[Zhentarim]] had been seen operating. The party made their way down the dark alley to a warehouse marked with the Zhentarim symbol -- a winged snake. Inside, they found three fresh corpses in black leather armor, heard footsteps retreating deeper within, and prepared to investigate further.
 
 ### Key Events
 
 - Character introductions at the Yawning Portal: Scoot (half-orc barbarian sailor), Lark (human rogue noble), Ylka (resurrected human bard), Xaerine (amnesiac halfling druid)
 - Xaerine needs a new place to stay after fleeing House Phaulkonmere; Lark arranges for her to move into the Splintered Stair
 - Bar fight erupts between Yagra and five tattooed thugs at the Yawning Portal
-- Zhentarim agents launch a drive-by crossbow attack on the tattooed thugs at the Yawning Portal
+- [[Zhentarim]] agents launch a drive-by crossbow attack on the tattooed thugs at the Yawning Portal
 - Durnan fights alongside the party to defend the tavern, killing multiple attackers
 - Tattooed leader drinks a potion and escapes down the Yawning Portal well into Undermountain
 - Xaerine uses druidcraft to mimic a llama cry to spook the attackers' horses
 - Volothamp Geddarm hires the party to find his missing friend Floon Blagmaar
 - Party travels to the Dock Ward and visits the Skewered Dragon tavern
-- Lark meets Jelaster the Harper, who directs them to Candle Lane
+- Lark meets Jelaster the [[Harpers|Harper]], who directs them to Candle Lane
 
 ### Featured Characters
 
