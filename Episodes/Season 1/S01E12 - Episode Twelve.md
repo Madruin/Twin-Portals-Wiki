@@ -29,13 +29,13 @@ Air Date: 2019-10-20 | Duration: 02:19:32
 
 ## Summary
 
-SWOJ picks up directly after the fireball investigation at Trollskull Alley. Sally the pigeon is found alive but badly burned; Pog Waggletop recovers her. The party heads north to find Renaer Neverember, who meets them on the street. Renaer identifies the dead gnome as [[Dalekar|Dalcar]], a spy hired by his father Dagult Neverember to keep tabs on him. [[Dalekar|Dalcar]] had been asking around about SWOJ and may have been bringing the Stone of Golorr toward the Short Rest.
+SWOJ picks up directly after the fireball investigation at Trollskull Alley. Sally the pigeon is found alive but badly burned; Pog Waggletop recovers her. The party heads north to find Renaer Neverember, who meets them on the street. Renaer identifies the dead gnome as [[Dalekar|Dalcar]], a spy hired by his father Dagult Neverember to keep tabs on him. [[Dalekar|Dalcar]] had been asking around about SWOJ and may have been bringing the [[The Stone of Golorr|Stone of Golorr]] toward the Short Rest.
 
 Janks contacts Lark via sending stone to report that Zardos has returned to the Short Rest with associates. Back at the tavern, Jarlaxle/Zardos introduces a drow rogue named Mr. E (played by guest player Robert Lee), a 'home wrecker' (burglar) who can help SWOJ infiltrate the Gralhund Villa. The Trollskull Alley Irregulars report that they followed the burned Zhentarim agent south and saw him meet up with Hrabbaz, who took him into the Gralhund Villa through the back door. Squidly was wounded by Hrabbaz.
 
 SWOJ breaks into the Gralhund Villa through the servants' entrance with Mr. E's lockpicking skills. They find dead servants in the pantry, discover a pitched battle between Gralhund guards and Zhentarim agents, and fight through the great hall (killing two Zhentarim thugs). In Lord Orond Gralhund's study, Ylka finds a falcon and a threatening letter from 'V' (Victoro Cassalanter) about Zilka's capture. Upstairs, a full battle rages between Zhentarim and Gralhund guards. SWOJ fights the Zhentarim, with Lark going unconscious from a critical hit.
 
-The burned Zhentarim leader is cornered and, after being charmed by Ylka, reveals that the Zhentarim stole the Stone of Golorr from a gnome (Dalcar) who had taken it from the Xanathar Guild. He confirms that Yala Gralhund double-crossed the Zhentarim and now has the stone. A teleportation circle is found carved into the floor of the guest room. Mr. E steals a silver key from Yala's neck and escapes with a locked book from the Gralhund library, fleeing through a window as the city watch arrives. The book was guarded by an imp. Scoot battles Hrabbaz while Ylka confronts her estranged family member Yala. Yala recognizes Ylka and accuses her of being a traitor. The episode ends with the city watch flooding the villa.
+The burned Zhentarim leader is cornered and, after being charmed by Ylka, reveals that the Zhentarim stole the [[The Stone of Golorr|Stone of Golorr]] from a gnome (Dalcar) who had taken it from the Xanathar Guild. He confirms that Yala Gralhund double-crossed the Zhentarim and now has the stone. A teleportation circle is found carved into the floor of the guest room. Mr. E steals a silver key from Yala's neck and escapes with a locked book from the Gralhund library, fleeing through a window as the city watch arrives. The book was guarded by an imp. Scoot battles Hrabbaz while Ylka confronts her estranged family member Yala. Yala recognizes Ylka and accuses her of being a traitor. The episode ends with the city watch flooding the villa.
 
 ### Key Events
 
@@ -48,6 +48,7 @@ The burned Zhentarim leader is cornered and, after being charmed by Ylka, reveal
 - Dead servants found in the pantry - the Zhentarim have been murdering Gralhund staff
 - Nine Gralhund servants rescued and sent to the Short Rest
 - SWOJ fights and kills two Zhentarim thugs in the great hall
+- Ylka draws the [[Song Sword]] in combat; the [[Necklace of Fireballs]] investigation leads SWOJ to the Gralhund Villa
 - Ylka finds a threatening letter from Victoro Cassalanter ('V') confirming Zilka was a Gralhund agent
 
 ### Featured Characters

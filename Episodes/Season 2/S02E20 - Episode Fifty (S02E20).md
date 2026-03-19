@@ -42,12 +42,13 @@ SWOJ descends the star staircase into the Raven Queen shrine, finding crow tapes
 - SWOJ returns to Neverwinter with the Amphail crystals
 - Mellafarne reveals she found a green portal stone (Jolly Gents) at the underground lake
 - Final war council reviews threats: Waterdeep (dragons), Luskan (barbarians), Amphail (army), Cult of the Dragon
-- Dagult and Renaer agree to share the Crown of Never for the chasm-sealing ritual
+- Dagult and Renaer agree to share the [[Crown of Neverwinter|Crown of Never]] for the chasm-sealing ritual
 - The chasm-sealing ritual succeeds -- Neverwinter is saved
 - Renaer offers SWOJ a choice: Riverside Inn or Shard of Moonlight (floating wizard tower)
 - SWOJ chooses the Shard of Moonlight as their new base
 - Ylka discovers the star staircase descending to a Raven Queen shrine beneath the tower
 - Lark reads Antediluvian Jake's tablet: Jolly Gents killed by Manshoon, souls harvested by Rowan Crooks, secret base is Zhentil Keep in the Shadowfell
+- Ylka laments the loss of the [[Song Sword]], taken when SWOJ was killed by Rowan Crooks
 - Shopping at the Mages Guild: scrolls of daylight, protection potions, sunblade
 
 ### Featured Characters

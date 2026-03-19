@@ -41,17 +41,17 @@ Ylka explores the library upstairs, finding a beauty-and-the-beast-style room wi
 
 The party descends to the cellar, where it is unnaturally cold. They find a vault door with three iron locks (Lark picks all three) protected by a cold damage blast trap (30 cold damage to Lark). The vault is empty. Through a secret door in the wine cellar (found by Scoot's nat 20 perception), they descend further and find a lower vault with silver bars. Scoot steals five bars into his bag of holding.
 
-Descending a spiral staircase, they discover the Cassalanters' secret: an underground shrine to Asmodeus. There are bloody cells, a long hallway leading to a balcony overlooking a church-like altar with pews, a red carpet, wrought iron candles, a 10-foot diameter bowl of fire, and a 30-foot statue of a horned figure (Asmodeus). The third Eye of the Stone of Golorr sits as a marble on a pedestal in the center of the fire bowl. Three bearded devils in crimson robes guard the shrine.
+Descending a spiral staircase, they discover the Cassalanters' secret: an underground shrine to Asmodeus. There are bloody cells, a long hallway leading to a balcony overlooking a church-like altar with pews, a red carpet, wrought iron candles, a 10-foot diameter bowl of fire, and a 30-foot statue of a horned figure (Asmodeus). The third Eye of the [[The Stone of Golorr|Stone of Golorr]] sits as a marble on a pedestal in the center of the fire bowl. Three bearded devils in crimson robes guard the shrine.
 
 SWOJ fights the three bearded devils in a pitched battle. The devils have resistance to their weapons, glaive attacks with infernal fire effects, and beard tentacles that inflict poison (preventing healing). Xae uses conjure animals (bats) as a distraction, moonbeam, and dispel magic to purge the poison. Ylka casts shatter twice and provides bardic inspiration. Lark delivers the killing blows with sneak attacks. Scoot rages and tanks with his new extra attack.
 
-After the fight, they struggle to retrieve the marble from the fire bowl. Ylka throws a dagger (knocks it off the pedestal but not out of the bowl), Lark tries billiard shots with Little Dinky, and finally Ylka shatters the bowl itself. Amalia Cassalanter arrives, casts a charm spell (charming Scoot), and then launches a devastating fireball (10d6 fire damage, 29 damage) that knocks Lark and Xae unconscious.
+After the fight, they struggle to retrieve the marble from the fire bowl. Ylka throws a dagger (knocks it off the pedestal but not out of the bowl), Lark tries billiard shots with [[Little Dinky]], and finally Ylka shatters the bowl itself. Amalia Cassalanter arrives, casts a charm spell (charming Scoot), and then launches a devastating fireball (10d6 fire damage, 29 damage) that knocks Lark and Xae unconscious.
 
 In a desperate escape, Ylka grabs the marble (the third Eye), Scoot administers health potions, and the party flees through a natural cave passage that leads to an underground river. They wash out through a cave mouth near the mud flats on Waterdeep's west coast. They contact Terry via the sending stone. The episode ends with SWOJ battered but in possession of all three Eyes of the Stone of Golorr.
 
 ### Key Events
 
-- SWOJ levels up to 5: Scoot (extra attack, +10ft speed), Xae (conjure animals, dispel magic), Lark (uncanny dodge, silver-tipped hair), Ylka (Leomund's Tiny Hut / 'Yurtle's Tiny Shell')
+- SWOJ levels up to 5: Scoot (extra attack, +10ft speed), Xae (conjure animals, dispel magic), Lark (uncanny dodge, silver-tipped hair from [[Mask of the Cultivator]]), Ylka (Leomund's Tiny Hut / 'Yurtle's Tiny Shell')
 - Reporters arrive at the Short Rest asking about the Kolat Towers explosion
 - Zardoz Zord visits and shoots an imp spy disguised as a crow, revealing Cassalanter surveillance
 - Zardoz reveals the Cassalanters have the third Eye and suggests infiltrating during Founder's Day feast

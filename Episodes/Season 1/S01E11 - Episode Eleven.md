@@ -35,11 +35,11 @@ At the Yawning Portal, SWOJ encounters Davil Starsong of the Zhentarim's Doom Ra
 
 During the opening party, a catastrophic fireball explosion rocks Trollskull Alley. Ten or more people are killed, including [[Vaniel]] the halfling. Taga is badly injured. A dead gnome is found in the alley center with a dagger, sewage-stained boots, and a Neverember-branded pouch containing five gemstones. An eyewitness (Phyllis the flower shop owner) reports seeing a dark figure take something from the gnome's body and flee south. Davil Starsong flees when a griffin cavalry rider appears.
 
-Janks finds a Necklace of Fireballs (with two remaining beads) dropped in a barrel near Vincent Trench's office. A noble witness reports seeing a 'puppet without strings' (nimble wright) on the rooftop of the flower shop hurling something into the crowd. SWOJ investigates the rooftops and finds a ruby eye from the nimble wright. Magistrate Ulkoria Stonemarrow investigates the crime scene. Fel'rekt expresses guilt about failing to protect SWOJ. Vincent Trench confirms the necklace is the murder weapon. The episode ends with SWOJ planning to visit Renaer Neverember for more information about the dead gnome.
+Janks finds a [[Necklace of Fireballs]] (with two remaining beads) dropped in a barrel near Vincent Trench's office. A noble witness reports seeing a 'puppet without strings' (nimble wright) on the rooftop of the flower shop hurling something into the crowd. SWOJ investigates the rooftops and finds a ruby eye from the nimble wright. Magistrate Ulkoria Stonemarrow investigates the crime scene. Fel'rekt expresses guilt about failing to protect SWOJ. Vincent Trench confirms the necklace is the murder weapon. The episode ends with SWOJ planning to visit Renaer Neverember for more information about the dead gnome.
 
 ### Key Events
 
-- Jarlaxle offers SWOJ a counter-deal for the Stone of Golorr
+- Jarlaxle offers SWOJ a counter-deal for the [[The Stone of Golorr|Stone of Golorr]]
 - Nihiloor the mind flayer identified as creator of intellect devourers for the Xanathar Guild
 - Terry eats an alley cat's brain out of desperation
 - Janks suggests Hrabbaz (Gralhund bodyguard) as a body for Terry

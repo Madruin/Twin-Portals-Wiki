@@ -43,7 +43,7 @@ They arrive inside one of the Kolat Towers, encountering Urstul Floxxin and his 
 - Recap establishes the three components needed for resurrection: soul, diamond, and remains/ashes
 - Party reunites with Tagga, Lif, and Terry at the Short Rest
 - Scoot dives to visit Zelifarn the bronze dragon in the Docksward harbor
-- Neverember ledger discovered in Zelifarn's hoard
+- [[Neverember Ledger]] discovered in Zelifarn's hoard
 - Remalia Haventree (Harper agent) meets them at the dock with intel: Zentarim have the second Eye, Kolat Towers are the Zentarim base
 - Remalia provides a sending stone to SWOJ
 - Party visits Renaer Neverember who gives them the diamond for resurrection

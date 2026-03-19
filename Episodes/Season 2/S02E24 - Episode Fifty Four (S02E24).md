@@ -42,13 +42,14 @@ Crooks manages to retrieve the Hungering Shard by casting hold person on Scoot, 
 - SWOJ explores Friar Truck's lab and discovers clone tanks with Rowan Crooks clones
 - Scoot destroys clone tanks using Friar Truck's mace
 - Truck's notes reveal he was the mastermind behind the real Crooks' downfall and Manshoon replacement
-- Party learns of the Hungering Shard's connection to Manshoon's soul stones
+- Party learns of the [[Hungering Shard]]'s connection to Manshoon's soul stones
 - Discovery of Crooks' plan: use shard at Radiant Citadel to break Kelemvor's Wall of the Faithless
 - Phylacteries stored in portable hole; party returns to surface
 - Rowan Crooks addresses assembled Jolly Gents about his Wall of the Faithless plan
 - SWOJ confronts Crooks publicly; approximately 20-30 Jolly Gents side with SWOJ
 - Civil war erupts among the Jolly Gents
-- Lark jams Little Dinky into the soul engine, destabilizing the island
+- Ylka parries Crooks' sunblade with the recovered [[Song Sword]]
+- Lark jams [[Little Dinky]] into the soul engine, destabilizing the island
 
 ### Featured Characters
 

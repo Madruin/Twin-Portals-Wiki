@@ -38,7 +38,7 @@ The chase leads to Willaford Crowell, the Cassalanter family's majordomo, who re
 ### Key Events
 
 - City watch investigates the Gralhund Villa bloodbath while SWOJ is questioned
-- Yalah Gralhund secretly dispatches a nimblewright with the Stone of Galore and a map note
+- Yalah Gralhund secretly dispatches a nimblewright with the [[The Stone of Golorr|Stone of Galore]] and a map note
 - Gazers chase the nimblewright through Trollskull Alley; Terry arrives with the SWOJ-mobile
 - The note reveals a map of the City of the Dead pointing to the Gralhund Crypt
 - SWOJ travels to the City of the Dead during the Feast of the Moon festival

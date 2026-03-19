@@ -69,6 +69,8 @@ The episode establishes multiple quest threads: rescuing Fela, finding mothweed 
 - [[Nat]] — A teenager now, having grown up during the three-year gap. Helps manage the Short Rest tavern.
 - [[Jenks]] — A teenager now, having grown up during the three-year gap. Helps manage the Short Rest tavern alongside Nat.
 - [[Skeemo]] — Operative who runs the [[Doom Network Headquarters|Doom Network]] for the [[Doom Raiders]]. Assigns SWOJ the mission to find [[Anya Irmbrusk]] (the Staglass) in [[Amphail]].
+- [[Craw]] — Giant scarab beetle companion. Arrives in Waterdeep separately due to time displacement, appearing older after serving as a pack animal at the Short Rest. Joyfully reunites with Scoot.
+- [[Mr. Ziyagi]] — Mr. E's sensei, mentioned as the reason Mr. E left Waterdeep during the three-year gap. Mr. E traveled to find Ziyagi, possibly to a place called "Serbia."
 
 ### Locations
 

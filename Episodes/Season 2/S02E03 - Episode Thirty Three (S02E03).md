@@ -65,6 +65,7 @@ After the battle, Xae discovered that the rings -- four matching sky-blue and on
 - [[Radecere]] — Rock gnome inventor rescued from a pod. Revealed his stolen invention, the Dynamo of Possibility, was being used to animate the Beast of Erua and create podlings. Panicked about its misuse.
 - [[Rowan Crooks]] — Leader of the Jolly Gents. Antediluvian Jake attempted to contact him via incantation, believing they were close to finding Manshoon.
 - [[Thail]] — Ghost of a tiefling. Cast fireball from his wish stone crystal during the ribcage battle. Scouted the staircase leading up through the beast's trachea at episode's end.
+- [[Craw]] — Giant scarab beetle mount. Ridden atop the Beast of Erua to the Rose Knight's fortress. Malark stays behind with Craw and Gaw while others explore.
 
 ### Locations
 

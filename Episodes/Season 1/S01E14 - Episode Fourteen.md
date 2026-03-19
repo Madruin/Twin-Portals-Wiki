@@ -37,13 +37,13 @@ The party battles Von Gruber and his Pain Deer (gingerbread reindeer constructs)
 
 ### Key Events
 
-- Stone of Galore activates in the jail cell during the night
+- [[The Stone of Golorr|Stone of Galore]] activates in the jail cell during the night
 - Each PC receives a personal vision: Lark sees his mother and a secret passage; Ylka sees her death and resurrection in the crypt
 - Scoot, Ylka, and Lark are transported to prehistoric Waterdeep during Winter Solstice
 - Xae remains asleep clutching the crystal unicorn throughout the episode
 - Party meets Gorge Bailey Brew whose daughter Zuzu is missing
 - Ghosts of Solstice Past (snow dwarves) deliver riddles and warn of Krampus
-- SWOJ fights Krampus in the snowy woods
+- Ylka fights Krampus with the [[Song Sword]], which plays a frantic rendition of "Carol of the Bells"
 - Party reaches Zaka's Tome Tower, finds Bailey Brew family under Hans Von Gruber's spell
 - Battle with vampire wizard Von Gruber and his Pain Deer constructs
 - Von Gruber defeated through kindness using the Fleece of Navi-dad
@@ -63,6 +63,7 @@ The party battles Von Gruber and his Pain Deer (gingerbread reindeer constructs)
 - [[Grandfather Niklas]] — Mentioned in connection with the Solstice holiday traditions and toy delivery.
 - [[Ghosts Of Solstice Past]] — Supernatural entities manifesting as snow dwarves during the Winter Solstice in prehistoric Waterdeep. Deliver cryptic riddles and warnings about Krampus to the party.
 - [[Xae (Prehistoric)]] — Witnessed in a vision during the time-travel sequence, pulling a tentacle beast from the river and crushing it into what becomes the Stone of Galore. Reveals Xae's ancient origin and connection to the Stone.
+- [[Krampus]] — A monstrous creature encountered in the snowy woods during the Winter Solstice. Fights SWOJ, then reappears at Zaka's Tomey Tower where it summons gingerbread pain deer and battles alongside Hans Von Gruber.
 
 ### Locations
 

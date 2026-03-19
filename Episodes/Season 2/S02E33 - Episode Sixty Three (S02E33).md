@@ -44,7 +44,7 @@ The dracolich emerges from the top of the citadel and enters the Preserve of Anc
 - SWOJ travels through the deep ethereal toward the Radiant Citadel aboard the Concord Jewel
 - Scoot is un-polymorphed from brontosaurus form; empty soul stone crates are dumped overboard
 - Fioleth salvages the Clockwork Kraken claw arm and jerry-rigs it onto the Ethereal Galleon
-- Interrogation of the cultist pilot reveals the invasion was two weeks ago, conduits knocked out defenses, agents were pre-planted
+- Interrogation of the cultist pilot reveals the invasion was two weeks ago, [[Soul Conduit Pylons]] knocked out defenses, agents were pre-planted
 - Concord Jewel is set to return automatically so the Neverwinter army can use it
 - Radiant Citadel comes into view -- auroral diamond glows dark red, two green conduit pylons visible, dracolich circles the city
 - SWOJ transfers to the Ethereal Galleon and approaches the city at reduced speed with damaged masts

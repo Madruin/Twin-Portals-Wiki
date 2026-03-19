@@ -29,13 +29,13 @@ Air Date: 2021-08-24 | Duration: 02:54:45
 
 ## Summary
 
-SWOJ wakes at Remalia's house and breaks the Stone of Golorr's ensorcellement on Remalia, Bricks, and Bracks by hitting them. Mr. E returns with a Book of Shadows, revealing his sensei Mr. Ziyagi has died. Terry the telepathic horse arrives with pass without trace ability. The party infiltrates the Zadio City Music Hall (the present-day theater above the vault) disguised as ushers, getting past actress Westra Multimer. They break through the sealed floor to the trap door, descend into the vault, navigate past an enchanted tapestry and black oozes, and meet Aurinax -- an adult gold dragon disguised as a dwarf -- who guards the dragon horde. Mr. E trades a 'dragon piss' elixir for a ruby from Aurinax. Renaer Neverember arrives with a ledger proving the Cassalanters' embezzlement, and Aurinax agrees to release the gold. As they load gold into a bag of holding, the Xanathar attacks with bugbears. A massive battle ensues in the theater with Aurinax breathing fire on the Xanathar, Remalia casting wall of force and fireballs, and Manshoon's simulacrum appearing with Zhentarim lieutenants including Mookie Plush. SWOJ and allies kill the Xanathar through combined attacks, with Ylka's thrown dagger delivering the final blow.
+SWOJ wakes at Remalia's house and breaks the Stone of Golorr's ensorcellement on Remalia, Bricks, and Bracks by hitting them. Mr. E returns with a Book of Shadows, revealing his sensei Mr. Ziyagi has died. Terry the telepathic horse arrives with pass without trace ability. The party infiltrates the Zadio City Music Hall (the present-day theater above the vault) disguised as ushers, getting past actress Westra Multimer. They break through the sealed floor to the trap door, descend into the vault, navigate past an enchanted tapestry and black oozes, and meet Aurinax -- an adult gold dragon disguised as a dwarf -- who guards the dragon horde. Mr. E trades a 'dragon piss' elixir for a ruby from Aurinax. Renaer Neverember arrives with a [[Neverember Ledger|ledger]] proving the Cassalanters' embezzlement, and Aurinax agrees to release the gold. As they load gold into a [[Bag of Holding]], the Xanathar attacks with bugbears. A massive battle ensues in the theater with Aurinax breathing fire on the Xanathar, Remalia casting wall of force and fireballs, and Manshoon's simulacrum appearing with Zhentarim lieutenants including Mookie Plush. SWOJ and allies kill the Xanathar through combined attacks, with Ylka's thrown dagger delivering the final blow.
 
 ### Key Events
 
-- SWOJ wakes at Remalia's house after the Stone of Golorr vision
+- SWOJ wakes at Remalia's house after the [[The Stone of Golorr|Stone of Golorr]] vision
 - They break the ensorcellement on Remalia, Bricks, and Bracks by hitting them
-- Mr. E returns with a Book of Shadows; his sensei Mr. Ziyagi has died
+- Mr. E returns with a [[Book of Shadows]]; his sensei Mr. Ziyagi has died
 - Terry the telepathic horse arrives with pass without trace
 - SWOJ infiltrates the Zadio City Music Hall disguised as ushers
 - They get past actress Westra Multimer in the theater
@@ -64,6 +64,7 @@ SWOJ wakes at Remalia's house and breaks the Stone of Golorr's ensorcellement on
 - [[Manshoon]] — Zhentarim leader (or his simulacrum). Appears on the theater balcony during the battle with Zhentarim lieutenants. Casts Bigby's Hand against Scoot. Retreats after Remalia's fireball blasts the balcony.
 - [[Mookie Plush]] — Zhentarim lieutenant. Appears on the theater balcony with Manshoon during the battle, armed with a crossbow.
 - [[Beaker]] — Raven from [[Sally]]'s bird network. Crashes through a window during the theater battle to reinforce Xae's conjured birds in attacking the chandelier rope.
+- [[Mr. Ziyagi]] — Mr. E's sensei. Mr. E reveals that Ziyagi went missing and was found dead. Mr. E asks SWOJ for help finding Ziyagi's killer, offering his services in return.
 
 ### Locations
 

@@ -66,6 +66,7 @@ After the battle, real staff members emerged from the cellar, led by Fritz, who 
 - [[Thail]] — Ghost of a tiefling, brother of Squidly. Possessed Lark's body. Found Squidly's wish stone on the Beast of Erua and entered it to say goodbye to his brother.
 - [[Squidly]] — Thail's brother, also known as Nat'n Jenkson. His unfulfilled wish ('I wish my brother came home') was crystallized as a glowing red wish stone embedded in the Beast of Erua. Seen through the stone at the Trollskull tavern with regulars, hatching a scheme.
 - [[Green Imsa]] — NPC from The Way Inn who was replicated as a podling in the Shadow Way Inn. The real Green Imsa was found deceased in a pod inside the Beast of Erua.
+- [[Craw]] — One of two giant scarab beetles (alongside [[Gaw]]) entrusted to SWOJ by Fritz at the Shadow Way Inn. Fitted with a two-person saddle and ridden toward the Beast of Erua.
 
 ### Locations
 

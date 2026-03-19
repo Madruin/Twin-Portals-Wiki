@@ -29,7 +29,7 @@ Air Date: 2019-06-29 | Duration: 02:21:11
 
 ## Summary
 
-SWOJ levels up to 3 (Scoot gets dolphin totem, Ylka joins College of War, Lark becomes Swashbuckler). Mary Stout Fellow pays 180gp for three scarecrows and gives the enchanted Sickle of Storms. Blossom Zuber confesses she used a ring with a three-pointed symbol (matching the God Catcher) given by an aging tiefling with thin-rimmed glasses at Cassalanter Villa to summon the scarecrows. Back in Waterdeep, they visit the Hole in the Wall (halfling tavern at the base of the God Catcher), meet neighbors Fala Lefaliir and Vincent Trench, host the Sea Plum crew, and receive Renaer Neverember's 1000gp renovation loan. Renaer mentions his father Dagult Neverember's spy Dalakhar seeking the Stone of Golorr. They explore sewers behind Trollskull, following rat tracks to a underwater passage leading to the God Catcher cavern and the Apparatus of Kwalish. Inside the God Catcher, they discover a hidden chamber with statues (one bearing Zay's face) and meet Dasher Zuber, now a wererat living with the Shard Shunners gang. Dasher reveals Emmek Frewn hired the Shard Shunners to infest Trollskull Manor. They negotiate a truce, receive 100gp and Dasher's farewell letter to his mother. They return the Apparatus to Grinda, who shares lore about aboleth including one named Golorr. They deliver Dasher's letter to Blossom and receive the Gravity Goblet prototype and a Cassalanter party invitation.
+SWOJ levels up to 3 (Scoot gets dolphin totem, Ylka joins College of War, Lark becomes Swashbuckler). Mary Stout Fellow pays 180gp for three scarecrows and gives the enchanted Sickle of Storms. Blossom Zuber confesses she used a ring with a three-pointed symbol (matching the God Catcher) given by an aging tiefling with thin-rimmed glasses at Cassalanter Villa to summon the scarecrows. Back in Waterdeep, they visit the Hole in the Wall (halfling tavern at the base of the God Catcher), meet neighbors Fala Lefaliir and Vincent Trench, host the Sea Plum crew, and receive Renaer Neverember's 1000gp renovation loan. Renaer mentions his father Dagult Neverember's spy Dalakhar seeking the Stone of Golorr. They explore sewers behind Trollskull, following rat tracks to a underwater passage leading to the God Catcher cavern and the Apparatus of Kwalish. Inside the God Catcher, they discover a hidden chamber with statues (one bearing Zay's face) and meet Dasher Zuber, now a wererat living with the Shard Shunners gang. Dasher reveals Emmek Frewn hired the Shard Shunners to infest Trollskull Manor. They negotiate a truce, receive 100gp and Dasher's farewell letter to his mother. They return the [[Apparatus of Kwalish]] to Grinda, who shares lore about aboleth including one named Golorr. They deliver Dasher's letter to Blossom and receive the [[Gravity Goblet]] prototype and a Cassalanter party invitation.
 
 ### Key Events
 
@@ -39,9 +39,9 @@ SWOJ levels up to 3 (Scoot gets dolphin totem, Ylka joins College of War, Lark b
 - SWOJ visits Hole in the Wall halfling tavern at the God Catcher's base
 - Meet Trollskull Alley neighbors: Fala Lefaliir (herbalist) and Vincent Trench (PI)
 - Sea Plum crew arrives at Trollskull including Pog Waggletop and Simon (Scoot's dad)
-- Renaer Neverember offers 1000gp renovation loan, mentions Stone of Golorr and spy Dalakhar
+- Renaer Neverember offers 1000gp renovation loan, mentions [[The Stone of Golorr]] and spy Dalakhar
 - SWOJ explores sewers behind Trollskull, follows rat tracks to underwater passage to God Catcher
-- Scoot discovers the Apparatus of Kwalish still in God Catcher cavern
+- Scoot discovers the [[Apparatus of Kwalish]] still in God Catcher cavern
 - Find hidden chamber with mysterious statues, one bearing Zay's face
 
 ### Featured Characters

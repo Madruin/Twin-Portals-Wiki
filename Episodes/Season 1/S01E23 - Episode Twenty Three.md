@@ -35,9 +35,9 @@ Returning through the portal to the Kolat Towers, they find the magical shield i
 
 They free Zylka and fight animated armor constructs. Zylka reveals there are explosives in the adjoining tower. They contact Remalia via the sending stone for backup. Ylka uses the Necromancer's disguise ring to impersonate him and tricks the shield wizard into leaving. They then cast Shatter to destroy the shield rune.
 
-In the Necromancer's private study, they find a vault containing a ledger with bookmarked names: Mirt, Coralus Thann, Tharduke Starbuckler, Jelen Irmbrusk, and Grim Wavesilver (Lark's father). They also find the Mask of the Cultivator, which transforms Lark when he puts it on, giving him silver-tipped hair.
+In the Necromancer's private study, they find a vault containing a ledger with bookmarked names: Mirt, Coralus Thann, Tharduke Starbuckler, Jelen Irmbrusk, and Grim Wavesilver (Lark's father). They also find the [[Mask of the Cultivator]], which transforms Lark when he puts it on, giving him silver-tipped hair.
 
-A confrontation with the Necromancer follows. He reveals that Ylka is a clone of Zylka, created by her grandfather Mordecai to protect her soul. He also tells them the Cassalanters have the third Eye of the Stone of Golorr. He sends them away. They find Urstul Floxxin and discover Squiddly is with him. After intimidation and persuasion, Squiddly rejoins SWOJ and reveals he pickpocketed the second Eye from Urstul. They escape as the Kolat Towers explode behind them.
+A confrontation with the Necromancer follows. He reveals that Ylka is a clone of Zylka, created by her grandfather Mordecai to protect her soul. He also tells them the Cassalanters have the third Eye of the Stone of Golorr. He sends them away. They find Urstul Floxxin and discover Squiddly is with him. After intimidation and persuasion, Squiddly rejoins SWOJ and reveals he pickpocketed the second Eye of the [[The Stone of Golorr|Stone of Golorr]] from Urstul. The Necromancer secretly implanted a [[Gem of Seeing]] in Lark's temple during the clone spell resurrection. They escape as the Kolat Towers explode behind them.
 
 ### Key Events
 

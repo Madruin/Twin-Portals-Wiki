@@ -43,7 +43,7 @@ Investigating the sewers beneath the Spouting Fish, the party discovers Xanathar
 - Party visits Yawning Portal, discovers they are banned for 20 days
 - Volo gives the party the deed to Trollskull Manor as payment for rescuing Floon and Renaer
 - Party names themselves Silver Waves of Justice (SWOJ)
-- Meet Mara, reporter for Waterdeep Wazoo newspaper
+- Meet Mara, reporter for [[Waterdeep Wazoo]] newspaper
 - Investigate the Spouting Fish tavern where people have gone missing
 - Discover Xanathar Guild symbols in the sewers beneath the tavern
 - Fight three grell in the sewers with assistance from the Black Viper
@@ -63,7 +63,7 @@ Investigating the sewers beneath the Spouting Fish, the party discovers Xanathar
 - [[Mara]] — Reporter for the Waterdeep Wazoo newspaper, interested in the party's exploits.
 - [[Terry]] — Zuber (carriage taxi) driver, becomes a recurring character for the party's transportation.
 - [[Eunissa]] — Tavern owner of the Spouting Fish. Her husband Harold has gone missing along with other patrons.
-- [[Harold]] — Eunissa's husband and a former actor. Rescued from the sewers by the party. Gives them the Playwright's Dagger in gratitude.
+- [[Harold]] — Eunissa's husband and a former actor. Rescued from the sewers by the party. Gives them the [[Playwright's Dagger]] in gratitude.
 - [[The Black Viper]] — A masked vigilante woman who appears to help the party fight the grell in the sewers. Leaves a black onyx gemstone rose for Ylka.
 - [[City Watch Of Waterdeep|City Watch]] officer — Unnamed City Watch officer at the Yawning Portal who enforces the party's 20-day ban.
 

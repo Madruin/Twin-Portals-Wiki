@@ -42,7 +42,7 @@ The party departs Neverwinter heading south along the High Road toward the Mere 
 - The Raven Queen takes Lark away for a private audience
 - SWOJ exits the Shadowfell through the Shard of Night portal to Neverwinter
 - Party meets Renaer Neverember at the Hall of Justice
-- Soul Stone containing Rowan Crooks is left with Renaer for safekeeping
+- Soul Stone containing Rowan Crooks and the [[Hungering Shard]] are left with Renaer for safekeeping
 - Renaer provides dragon-hunting gear: net of binding, mirage marbles, dragon fang arrows, dragon hide cloaks
 - SWOJ departs south along the High Road toward the Mere of Dead Men
 - Bulette encounter on the road -- land sharks attack from underground

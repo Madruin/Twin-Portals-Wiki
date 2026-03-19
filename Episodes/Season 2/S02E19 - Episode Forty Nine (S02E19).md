@@ -44,7 +44,7 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 - Urstul Floxxin reveals Manshoon operates from Amphail and commands the Spiral Cavern forces
 - Mr. E arrives with Mellafarne and a flight of dragons (Jack, Jill, Chip, Dale)
 - War council convenes with Dagult, Renaer, Zardoz Zord, and Remalia Haventree
-- Mellafarne explains she needs the Crown of Never plus crystals from Amphail to seal the chasm
+- Mellafarne explains she needs the [[Crown of Neverwinter|Crown of Never]] plus crystals from Amphail to seal the chasm
 - SWOJ flies to Amphail on dragonback
 - Meeting with Circle of Dusk druids Leah and Shala who provide intel on the Spiral Cavern
 - SWOJ disguises as Zhentarim and infiltrates the Spiral Cavern during a staged distraction
@@ -68,6 +68,7 @@ The party successfully harvests crystals from the cavern outcroppings, using Ylk
 - [[Dale]] — A dragon from the Way of the Balanced Scales flight used as a diversion during the Amphail infiltration. Captured alongside Chip by barbarians and periton riders near the Spiral Cavern entrance.
 - [[Zardoz Zord]] — An ally who participates in the war council at Neverwinter, helping plan strategy against the multiple threats facing the city.
 - [[Remalia Haventree]] — An ally who participates in the war council at Neverwinter, helping plan strategy against the threats facing the city.
+- [[Craw]] — Giant scarab beetle companion. Reappears near Amphail as a mount for Leah and Shala of the Circle of Dusk. Crashes through brush to reunite with Scoot in a joyful reunion.
 
 ### Locations
 

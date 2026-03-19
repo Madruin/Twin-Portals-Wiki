@@ -39,7 +39,7 @@ The party enters the target bag and finds a platform above a pool of acid, conne
 
 ### Key Events
 
-- SWOJ tumbles into a bag of holding after escaping the museum of the multiverse, finding four objects: dolphin boomerang, trading cards, marimba, and kippered herring sandwich
+- SWOJ tumbles into a [[Bag of Holding]] after escaping the museum of the multiverse, finding four objects: dolphin boomerang, trading cards, marimba, and kippered herring sandwich
 - Teriador is in rough shape in his new drow body, barely conscious with two soul fragments
 - SWOJ encounters glowing eyes watching them -- an unknown entity that disappears
 - The party fails to open the cinched rope exit through strength and dispel magic

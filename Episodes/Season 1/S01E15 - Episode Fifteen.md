@@ -38,7 +38,8 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 ### Key Events
 
 - Xae remains asleep clutching crystal unicorn; Captain Staggit's warning about the corrupt magistrate
-- Lark picks the jail cell lock using Ylka's concertina repair kit screwdrivers
+- Lark picks the jail cell lock using Ylka's concertina repair kit screwdrivers; Ylka hides the [[Song Sword]] under her cloak
+- Thaelin keeps his [[Boots of Striding and Springing]] during capture as an attuned item
 - Party explores prison basement, finds evidence storage
 - Two dead city watchmen discovered bludgeoned to death in the basement
 - False 'Houston Staggit' reveals himself as Willaford Crowell/doppelganger
@@ -57,7 +58,7 @@ The unmasked doppelganger bolts for a window but is grabbed by a grell (tentacle
 **NPCs:**
 - [[Captain Hyustus Stagget]] — The real captain of the Docks Ward city watch. Warned SWOJ about the corrupt magistrate. Found dead (bludgeoned) in the prison basement. The doppelganger Willaford Crowell had been impersonating him.
 - [[Willifort Crowell]] — Cassalanter majordomo revealed to be a doppelganger. Impersonates Captain Staggit in the prison. Exposed during the trial when he cannot read the Gralhund note. Tries to flee through a window, caught by a grell and Scoot. Restrained with manacles and taken into custody.
-- [[Laeral Silverhand]] — Open Lord of Waterdeep. Replaces the corrupt magistrate to preside over SWOJ's trial. Daughter of the goddess Mystra. Demonstrates immense telekinetic power by crushing a grell. Frees SWOJ, takes custody of the Stone of Galore, and commissions them as her personal agents to infiltrate the Xanathar's Lair. Provides extensive intelligence on the Xanathar Guild.
+- [[Laeral Silverhand]] — Open Lord of Waterdeep. Replaces the corrupt magistrate to preside over SWOJ's trial. Daughter of the goddess Mystra. Demonstrates immense telekinetic power by crushing a grell. Frees SWOJ, takes custody of the [[The Stone of Golorr|Stone of Galore]], and commissions them as her personal agents to infiltrate the Xanathar's Lair. Provides extensive intelligence on the Xanathar Guild.
 - [[Zardoz Zord]] — Ally who testifies in SWOJ's defense at the trial. Secretly slips Ylka a tiny pistol during his testimony. Guards the door to protect Tagga and other witnesses during the courtroom chaos.
 - [[Bartolo]] — City watch guard who reads the formal charges against SWOJ at the trial.
 - [[Tagga]] — Scoot's mother. Testifies as a character witness at the trial. Evacuated to safety during the courtroom chaos.

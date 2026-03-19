@@ -39,7 +39,7 @@ After defeating their shadow selves, the Raven Queen herself appears, acknowledg
 
 ### Key Events
 
-- SWOJ defeats Rowan Crooks atop Zhentil Keep and traps him in the Soul Stone
+- SWOJ defeats Rowan Crooks atop Zhentil Keep and traps him in the Soul Stone; the [[Hungering Shard]] is secured
 - Crooks' phylactery is destroyed, causing Zhentil Keep to begin collapsing
 - The party enters a dream sequence orchestrated by the Raven Queen
 - Dream scenario: relaxing and fishing on the Sea Plum

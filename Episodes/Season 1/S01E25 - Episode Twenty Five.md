@@ -33,7 +33,7 @@ SWOJ assembles the three pieces of the Stone of Golorr at Remalia Haventree's ho
 
 ### Key Events
 
-- SWOJ assembles the three pieces of the Stone of Golorr at Remalia's house
+- SWOJ assembles the three pieces of the [[The Stone of Golorr|Stone of Golorr]] at Remalia's house
 - The Stone ensorcels Remalia and her guards Bricks and Bracks
 - The Stone transports SWOJ's consciousness 500 years into the past to 992 DR Waterdeep
 - They meet Rosetta Stonemarrow, a dwarven historian, in ancient Waterdeep

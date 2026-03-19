@@ -66,11 +66,12 @@ The finale concludes with a massive celebration at Trollskull Manor on God's Nig
 - [[Tagga]] — Scoot's mother, waiting at Trollskull Manor. Has secret shadow skills/history she hints at. Organized the homecoming party. Her children Bennet and Janks are now teenagers. Winks when asked about the Zhentarim, suggesting she knows more than she lets on. Simon (Scoot's father) recently returned home.
 - [[Simon]] — Scoot's father, a sailor who was shipwrecked years ago and went on an odyssey around the ocean west of the Sword Coast. Was helped home by Zhentarim-affiliated pirates ('people sailing without official charters'). Witnessed a massive divine tidal wave near Luskan that suddenly dissipated.
 - [[Grim Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting at Trollskull Manor with a candle burned low.
-- [[Aspell Wavesilver]] — A member of the Wavesilver family (Lark's relative), waiting alongside Grim at Trollskull Manor.
+- [[Aswel Wavesilver]] — A member of the Wavesilver family (Lark's mother), waiting alongside Grim at Trollskull Manor.
 - [[Mara]] — Pops out from behind the bar at Trollskull Manor when SWOJ returns.
 - [[Squidly]] — An ally who traveled with SWOJ. Moves into a room at Trollskull Manor and delivers the Masked Lords' letter to the party.
 - [[Terry]] — An awakened horse ally of SWOJ, now upgraded with daggers, armor, a SWOJ hawberk, and faintly glowing yellow eyes. Can throw daggers from his hooves. Arrives dramatically with a lightning bolt, leaps across rooftops to transport the party to the Masked Lords. Invited as the first official member of the SWOJ guild.
 - [[Three Strings]] — Resident bard at the Yawning Portal. Plays one of Ylka's tunes to the packed crowd, who all sing along. When Ylka joins in, Three Strings jumps up on the table with her for a celebratory duet.
+- [[Zardoz Zord]] — Attends the God's Night celebration at Trollskull Manor, helping run the bar alongside old friends and allies.
 
 ### Locations
 

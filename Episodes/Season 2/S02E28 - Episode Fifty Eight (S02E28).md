@@ -43,10 +43,10 @@ SWOJ steals the black dragon mask and dumps the dragon tea through the dragon mo
 - Scoot hurls cultists into the otyugh pit during the chaos
 - Party descends through the 'quiet hole' using feather fall, bypassing the main shaft
 - They meet Bronk, a disillusioned white-masked cultist who provides intel on Velia Shadowmantle and the dracolich rituals
-- Bronk reveals the cult keeps a Mask of Dragon Kind in the underground fortress
+- Bronk reveals the cult keeps a [[Mask of Dragon Kind]] in the underground fortress
 - SWOJ navigates past a mud pond with mud mummies; Ylka contracts mud rot
 - Xae scouts the dragon keep in bat form but triggers a sonic screech trap and acid mist
-- Lark and Scoot discover the dragon hoard, dragon tea cauldron, and the Mask of Dragon Kind
+- Lark and Scoot discover the dragon hoard, dragon tea cauldron, and the [[Mask of Dragon Kind]]
 - SWOJ steals the black dragon mask and dumps dragon tea on cultists through the spouts
 - Party encounters Jill (Iglemar), a white dragon held in a trance by the cult
 

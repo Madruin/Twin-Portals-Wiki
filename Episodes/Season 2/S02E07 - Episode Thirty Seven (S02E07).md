@@ -45,7 +45,7 @@ This episode was performed as a live show, featuring the climactic confrontation
 - Party finds the enchanted mirror at the heart of the cavern, source of the mist
 - Scoot encounters Leah transformed into a six-eyed beast
 - Lark stuffs moth weed into the beast's mouth, freeing Leah from her transformed state
-- Ylka smashes the enchanted mirror with her Song Sword, breaking all illusions
+- Ylka smashes the enchanted mirror with the [[Song Sword]], breaking all illusions
 - Zelifarn is freed from enchantment and transforms back into an adult-sized dragon
 - Arcturia becomes a butterfly swarm and retreats into the Concord Jewel
 - Xae follows Arcturia into the crystal and hears 'Follow me. Break the wall'

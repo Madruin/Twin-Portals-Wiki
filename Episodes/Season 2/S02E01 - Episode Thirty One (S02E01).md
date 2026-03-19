@@ -44,6 +44,7 @@ The party ate the magical mushroom, which granted them a blessed effect, and cha
 - SWOJ arrives at The Way Inn on the Feywild-Shadowfell border
 - They meet Volo, Radecere, Ly Angestunne, Tyjit Skesh, and bartender Dorvina
 - Ylka performs music at the inn for room and board
+- Ylka draws the [[Song Sword]] with a dramatic musical flourish as SWOJ enters confrontation
 - An earth-shaking roar from the Shadowfell direction aligns with the compass
 - They learn about the Beast of Erua and the Rose Knight (Teriador) who slew it
 - The party eats the magic mushroom (blessed effect) and charges into the Shadowfell

@@ -43,8 +43,8 @@ The party ascends to the palm of the God Catcher's outstretched hand, where they
 - Pigeon message arrives from Pog Wageltop about the Sea Plum sinking in Deepwater Harbor
 - Party travels to Sea Maiden's Faire and meets Pog and Zardos Zord
 - Zardos gives them a handkerchief to deliver to [[Grinda Garloth]] at [[Mistshore]]
-- At the lighthouse, Grinda reveals Ylka apparently visited the previous night and borrowed the Apparatus of Kwalish -- but Ylka has no memory of this
-- Party uses the Apparatus of Kwalish to explore Deepwater Harbor underwater
+- At the lighthouse, Grinda reveals Ylka apparently visited the previous night and borrowed the [[Apparatus of Kwalish]] -- but Ylka has no memory of this
+- Party uses the [[Apparatus of Kwalish]] to explore Deepwater Harbor underwater
 - Encounter a great white shark in the harbor
 - Meet Zelifarn, a bronze dragon guardian of the harbor
 - Explore the Sea Plum wreck: cargo hold emptied, hull breached from outside

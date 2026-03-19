@@ -41,7 +41,7 @@ As Xae lifts the crown, the ghost of Lady Lissandra Never rises from the skeleto
 
 ### Key Events
 
-- Lord Dagult Neverember hires SWOJ to retrieve the Crown of Neverwinter from Castle Never for 5,000 gold each plus property
+- Lord Dagult Neverember hires SWOJ to retrieve the [[Crown of Neverwinter]] from Castle Never for 5,000 gold each plus property
 - Neverember warns that the Masks mercenary force is pulling out of the city and may attempt to claim it
 - Renaer Neverember contacts SWOJ via whisper magic, also wanting the crown; provides historical context about Lord Halueth Never and Lissandra Never as the original founders
 - Guard captain Tresa escorts SWOJ to Castle Never; a halfling carpenter gives them a tour of the lower levels

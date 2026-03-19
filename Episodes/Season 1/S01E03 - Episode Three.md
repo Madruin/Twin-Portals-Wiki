@@ -46,7 +46,7 @@ Following the unicorn talisman's pull, the party discovered Blue Alley, a legend
 - Party meets Zardos Zord, ringmaster of the Sea Maiden's Fair
 - Party hides from a patrol of bugbears and kenku killing zombie citizens
 - Party rows out to Zardos's ships; finds fake workers, broken automaton Nim, and unicorn figurehead
-- Zardos gives the party a bag of holding
+- Zardos gives the party a [[Bag of Holding]]
 
 ### Featured Characters
 
@@ -56,7 +56,7 @@ Following the unicorn talisman's pull, the party discovered Blue Alley, a legend
 - [[Xaerine Rumblestride]]
 
 **NPCs:**
-- [[Zardoz Zord]] — Ringmaster of the Sea Maiden's Fair. Wears red and yellow satin knickers, a harness with knives and vials, and a hat with a huge red plume. Recognized the party as not belonging in the psychic version of Waterdeep. Gave them a bag of holding.
+- [[Zardoz Zord]] — Ringmaster of the Sea Maiden's Fair. Wears red and yellow satin knickers, a harness with knives and vials, and a hat with a huge red plume. Recognized the party as not belonging in the psychic version of Waterdeep. Gave them a [[Bag of Holding]].
 - [[Nim]] — Wooden automaton/construct found on Zardos Zord's ship. About halfling-sized. Broken and faded, non-functional.
 - [[Nihiloor]] — Creature with purple skin, tentacles, and a black robe. First appeared in the sewers torturing Floon (referenced from between episodes). In Blue Alley, disguised itself as Durnan with purple tendrils emerging from mutton chops. Cast spells including putting Xaerine to sleep.
 - [[Floon Blagmaar]] — Found at the Splintered Stair at the end of the episode, holding Scoot. Rescued from the sewers between episodes 2 and 3.
